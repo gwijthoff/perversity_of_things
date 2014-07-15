@@ -1,8 +1,8 @@
 ---
 title: A Treatise on Wireless Telegraphy
 author: |
-    *The Electrical Experimenter*, vol. 1 no. 1-2
-date: May-June 1913
+    *The Electrical Experimenter*, vol. 1 no. 1 \- 2
+date: May \- June 1913
 ---
 
 # Part One
@@ -172,19 +172,18 @@ Let us quote the law, as far as the amateur is concerned, before going any furth
 
 Let us explain in plain English just what this means:  As you notice from the first paragraph, the part which we underlined, it is pointed out to you that the law does not concern you unless you send messages from one state into another.  You therefore do not require a license as long as your messages do not reach over the border of your state and if you do not interfere with a station's business (in your state) which receives messages from another state.  Of course, you want to know how you can tell what your transmitting range is.  We will explain.
 
-It has been proved by experience with spark coils, that in almost all cases a one-inch spark cannot possible reach over eight miles.  From this information the following table has resulted:
-                 
---------------   --------------------    ---------
-1/4-in. coil     Maximum trans. dist.    2 Miles.         
-1/2-in. coil     Maximum trans. dist.    4 Miles.
-1-in. coil       Maximum trans. dist.    8 Miles.
-1 1/2-in. coil   Maximum trans. dist.    12 Miles.
-2-in. coil       Maximum trans. dist.    16 Miles.
-3-in. coil       Maximum trans. dist.    24 Miles.
-4-in. coil       Maximum trans. dist.    32 Miles
---------------   --------------------    ---------
-      
-:  Transmitting Distances of Spark Coils.
+It has been proved by experience with spark coils, that in almost all cases a one-inch spark cannot possible reach over eight miles.  From this information the following table has resulted.
+
+```                 
+ Spark coil size      Maximum trans. dist.
+----------------      ----------------------
+        1/4 inch      2 Miles         
+          1/2 in      4 Miles
+            1 in      12 Miles
+            2 in      16 Miles
+            3 in      24 Miles
+            4 in      32 Miles
+```
 
 Suppose you live in the city of Columbus, Ohio.  The nearest state line is Kentucky, about 86 miles in a direct line from Columbus.  If you do not wish to be licensed you can use any spark coil up to 10-inch spark, or a 1/2 K.W. close core transformer.
 

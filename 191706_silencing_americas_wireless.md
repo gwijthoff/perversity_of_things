@@ -21,7 +21,7 @@ The italics are ours.  Particularly the one word MAY.  In the same paragraph the
 \fbox{
   \parbox[c]{7cm}{
 
-## EXECUTIVE ORDER
+**EXECUTIVE ORDER**
 
 \vspace{3mm}
 

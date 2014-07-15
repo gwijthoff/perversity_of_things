@@ -59,7 +59,7 @@ The author will be glad to answer any questions concerning the Radioson, and he 
 
 [^15]:  Gernsback's "radioson" was apparently an improvement on Canadian researcher Reginald Fessenden's bare-point electrolytic detector, the benefit being that the necessary acid solution was protected and sealed in.  "Another form of electrolytic detector which will stand considerable rough usage is that known as the Sealed-Point Electrolytic Detector. The commercial form of this instrument, as here illustrated, is known as the Radioson. The operation is the same as in the bare-point electrolytic type of detector and a battery of two dry cells is used with it, together with a pair of high resistance telephone receivers and having the battery potential preferably regulated by means of a high resistance potentiometer. The advantage of this type of electrolytic detector is that the acid is sealed in, consequently does not spill or evaporate."  H.  Winfield  Secor, ["Radio Detector Development,"](http://earlyradiohistory.us/1917de.htm) *The Electrical Experimenter,* January 1917, p. 652.
 
-    ![Radioson vs. Fessenden's original](images/radioson_vs_fessenden.png)
+    ![Radioson vs. Fessenden's original](images/radioson_vs_fessenden.png) <!-- no figure -->
 
 [^2]:  A possible defense of G's first ever article published on an electrolytic interrupter?  Is this simply a retread/update of his initial design?
 
@@ -79,4 +79,4 @@ The author will be glad to answer any questions concerning the Radioson, and he 
 
 [^7]:  Not only did the physicist and inventor Édouard Branly (1844 – 1940) discover the effect of heat on a coherer (later known as a detector), he was the first to describe and publish on the potential of the effect of electrical oscillations on metal filings.  In the words of Lee De Forest:  "The form and nature of the ordinary filings-tube coherer, as applied to-day in wireless telegraphy, is fairly familiar.  Branley [sic] discovered, in 1891, that the effect of electrical oscillations upon a body of metal fillings was to produce a marked increase in the conductivity of the mass, a conductivity which persisted until the particles were broken apart again by mechanical jar.  Although Varley, Hughes, Onesti and others had previously noted this phenomenon, none of these investigators had fully appreciated the causes involved, or given to the world of science the benefit of their researches in thorough published reports."  Lee De Forest, "Electrolytic Receivers: Wireless Telegraphy," *Telephony* vol. 8 no. 5 (November 1904), p. 424.
 
-    !["Branly coherer" by Edouard Branly - Retrieved 6 February 2010 from Archie Frederick Collins 1905 Wireless Telegraphy: It's History, Theory, and Practice, McGraw Publishing Co., New York, p. 146, fig. 133](branley_coherer.png)
+    ![Branly coherer, from Archie Frederick Collins *Wireless Telegraphy*](images/branly_coherer.png) <!-- no figure -->
