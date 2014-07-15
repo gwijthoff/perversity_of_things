@@ -18,5 +18,5 @@ do
   # extension="${f##*.}"
   filename="${f%.*}"
   echo "Converting $f to $filename.pdf"
-  `pandoc -s -S $f -t pdf -o $filename.pdf`
+  `pandoc -s -S --latex-engine=xelatex $f -o pdf_drafts/$filename.pdf`
 done
