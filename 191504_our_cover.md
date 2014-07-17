@@ -19,6 +19,6 @@ In the left foreground we see a curious wheeless railroad.  The cars float actua
 
 In the left foreground also we see an immense 1,000-foot *"optophor"* tower.  This tower shoots a dazzling colored light shaft of some ten million candle-power straight into the sky.  Such "optophor" towers are stationed exactly 50 miles apart along the coasts, and every tower has a different colored light shaft.  This light beam can be seen some 500 miles out at sea and by its light, transatlantic aerial as well as aquatic craft, can steer with unfailing accuracy towards their point of destination.
 
-[^1]:  This was the first full-color cover on a Gernsback magazine.  A black and white version of this illustration was on the cover of the May 1913 issue of *Electrical Experimenter,* with a similar explanation.
+[^1]:  This was the first full-color cover on a Gernsback magazine.  A black and white version of this illustration was on the cover of the May 1913 issue of *Electrical Experimenter,* with a similar explanation, which was the very first issue of EE.
 
 [^2]:  Gernsback: "In 1912 patent No. 1,020,942 was issued to [Emile] Bachelet on such a suspended train system."
