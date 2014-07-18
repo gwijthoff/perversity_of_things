@@ -3,11 +3,13 @@ title: A Treatise on Wireless Telegraphy
 author: |
     *The Electrical Experimenter*, vol. 1 no. 1 \- 2
 date: May \- June 1913
+bibliography: _scientifiction.bib
+csl: /Users/grantwythoff/TeX/_chicago-fullnote.csl
 ---
 
-# Part One
+# Part One[^ee]
 
-**O**N December 13, 1912, the new wireless law went into effect.[^1]  The average wireless "fiend," who has not followed the topic from the start will be interested in the following facts:
+**O**N December 13, 1912, the new wireless law went into effect.  The average wireless "fiend," who has not followed the topic from the start will be interested in the following facts:
 
 The very first talk about Wireless Legislation in the country started in 1908.  The writer in his Editorial in the November, 1908 issue of *Modern Electrics* pointed out that a wireless law was sure to be passed in a very short while.  In order to guard against unfair legislation as far as the wireless amateur was concerned the writer, in January, 1909, organized the "Wireless Association of America."  This was done to bring all wireless amateurs together and to protest against unfair laws.  Previous to this time there was no wireless club or association in the country.  In January, 1913, there were over 230 clubs in existence, all of which owe their origin to the "Wireless Association of America."
 
@@ -90,11 +92,11 @@ A wireless telegram, no matter if it is in Chinese or English, "comes in" in dot
 
 *Remember that there are over two thousand high powered wireless stations in this country alone, each being able to transmit messages of over a thousand miles distance!*
 
-There are almost at any minute, during night and day, messages in the air, no matter where you are,--sending YOU messages, only waiting to be picked up by you.  It is truly wonderful; it is the cheapest as well as the most elevating diversion known to modern man, the most inspiring example of the triumph of mind over matter.
+There are almost at any minute, during night and day, messages in the air, no matter where you are,---sending YOU messages, only waiting to be picked up by you.  It is truly wonderful; it is the cheapest as well as the most elevating diversion known to modern man, the most inspiring example of the triumph of mind over matter.
 
 "How about the Wireless Law?", you want to know next.
 
-The law does not apply for stations used for *receiving* only.  *There is no law which forbids you to receive all the messages you wish.*  You can receive as many and as long as you please,---Uncle Sam doesn't mind.  But you MUST preserve the secrecy of the message.  You must not make use of any information you receive by wireless, if this information is of such a nature that makes it private property.  Your own conscience will tell you which message to keep secret and which one you can make use of.[^2]  Here is the text of the Law:
+The law does not apply for stations used for *receiving* only.  *There is no law which forbids you to receive all the messages you wish.*  You can receive as many and as long as you please,---Uncle Sam doesn't mind.  But you MUST preserve the secrecy of the message.  You must not make use of any information you receive by wireless, if this information is of such a nature that makes it private property.  Your own conscience will tell you which message to keep secret and which one you can make use of.[^pvt]  Here is the text of the Law:
 
 ## Secrecy of Messages.
 
@@ -239,7 +241,7 @@ For sets using nothing higher than a 2 1/2-inch spark coil an ordinary double po
 
 ## Sending a Message.
 
-In order to send messages it goes without saying that you must know how to "tap the key."  The easiest way to learn and the cheapest way at the same time, is to get a buzzer set as explained under "Reception of Messages."  With this set, which represents a first class learner's outfit, you can send yoruself dots and dashes to your heart's content until your wrist has limbered up sufficiently to do rapid sending.[^6]  After a few weeks' practice it will be as easy to send a telegraphic message as to write on a typewriter.
+In order to send messages it goes without saying that you must know how to "tap the key."  The easiest way to learn and the cheapest way at the same time, is to get a buzzer set as explained under "Reception of Messages."  With this set, which represents a first class learner's outfit, you can send yoruself dots and dashes to your heart's content until your wrist has limbered up sufficiently to do rapid sending.  After a few weeks' practice it will be as easy to send a telegraphic message as to write on a typewriter. [^fst]
 
 If your friend has a wireless and starts learning the code with you, it becomes very simple for both of you to soon become proficient in the art.  Each will send to the other, the Morse or Continental alphabet, which is sent back and forth till the right speed is obtained.  After this certain words are exchanged between the stations; later on short sentences are sent and so forth, till it becomes possible to converse freely by wireless.
 
@@ -249,9 +251,15 @@ The next important adjustment is in the helix (or oscillation transformer if thi
 
 We believe that we have made everything as plain as possible and that by reading this treatise the elementary points of "Wireless" must become plain to even the layman.  If, however, you desire additional information, we will be only too glad to answer your questions promptly and explicitly.  Now it's up to you to get busy and "start something"!!
 
-[^1]:  Published in the first issue of *Electrical Experimenter.*  Any stuff on what this new magazine would be?  Issue includes many Gernsback articles, including "Building Large Spark Coils" and "Wrinkles---Receipts---Formulas---Hints," which included a section on "How to Metallize and Electroplate Insects, Flowers, Small Household Goods, Etc.":  "A nice Rose bud, an uncommon Insect, the first shoes of baby, and hundreds of other things can be conserved indefinitely by Metallizing them.  The methods given below, enables any one to do this work very skillfully at a very small outlay."
+[^ee]:  This two-part article began its run in the very first issue of *Electrical Experimenter,* Gernsback's new venture after the sale of *Modern Electrics* to Orland Ridenour.  *Modern Electrics* was combined with another publication to become *Modern Electrics and Mechanics* for two years, before merging with *Popular Science Monthly* in April 1915, a magazine that still runs today.  *Electrical Experimenter* incorporated more photographs, broadened the scope of its appeal to readers, and expanded its experimentation with short stories, even including a story contest among its readers.  "The first prize of $5 went to Thomas W. Benson for a piece about how to set up a range of electrical equipment to play a trick on his sister's boyfriend."  @ashley_time_2000, p. 94.  That story was "Mysterious Night" in the June 1914 issue.
 
-[^2]:  See stuff from the Cypherpunk's manifesto (in Cryptoanarchy collection) on how we define and protect secrecy if we can't censor anything?  How does "secrecy" exist among a community?  Conversations on how to maintain secrecy among a community or a new form of code also emerged during the 1990s with the Internet.
+    The new publication included monthly sections like "Among the Amateurs," which reported on the activities of amateur wireless organizaitons, a "How-To-Make-It Department," a "Question Box," and a "Patent Advice" column, which printed answers to readers' calls for input on their patent application drafts, for "a nominal charge of $1.00."
+    
+    This month's inaugural "Wrinkles---Receipts---Formulas---Hints" section included a primer on "How to Metallize and Electroplate Insects, Flowers, Small Household Goods, Etc.":  "A nice Rose bud, an uncommon Insect, the first shoes of baby, and hundreds of other things can be conserved indefinitely by Metallizing them.  The methods given below, enables any one to do this work very skillfully at a very small outlay."
+
+[^pvt]:  Similar conversations emerged among early Internet communities around privacy and its maintenance.  Eric Hughes, for instance, in his 1993 "A Cypherpunk's Manifesto," writes that "Privacy is not secrecy.  A private matter is something one doesn't want the whole world to know, but a secret matter is something one doesn't want anybody to know.  Privacy is the power to selectively reveal oneself to the world."  The problem is how online communities should go about protecting privacy without restricting free speech, especially with how easily messages are copied and shared on the Internet.
+
+    > If two parties have some sort of dealings, then each has a memory of the interaction.  Each party can speak about its own memory of the encounter.  How could anyone prevent this?  One could pass laws against it, but the freedom of speech, even more than privacy, is fundamental to an open society.  We seek not to restrict any speech t all.  If many parties speak together in the same forum, each can sepak to all the others and aggregate together knowledge about individuals and other parties.  The power of electronic communications has enabled such group speech, and it will not go away merely because we might want it to. (@ludlow_cypherpunks_2001)
 
 [^3]:  There's gotta be stuff on geology and rare earth minerals and media here.  Jussi Parikka's new work.  "Intellectual heritage of selenium" in my previous article.
 
@@ -259,4 +267,4 @@ We believe that we have made everything as plain as possible and that by reading
 
 [^5]:  Gernsback: "Wireless Telegraph or Telephone sending stations included."
 
-[^6]:  Something on the sender's identifiable "fist" here.
+[^fst]:  The cadence or rhythm characteristic of an individual telegraph operator's sending touch was known as their "fist." Individual operators were identifiable by their fist, which would become useful during wartime to track messages and their points of origin.  The later term "ham radio" is a derivation, referring to the awkward keystrokes of ham-fisted amateurs.  @kahn_codebreakers:_1996, p. 270.  Friendships and even romantic relationships were also maintained via characteristic touches and abbreviations ("Hw r u ts mng?"). See "Friends They Never Met," *The New York Times,* November 30, 1890. For more on telegraph-mediated love stories of the late nineteenth century, see @goble_beautiful_2010.  One romance novel, *Wired Love"* (1880) by Ella Cheever Thayer, reads: "Nattie's breath came fast, and her hand trembled so she could not hold the scissors. With a crash they dropped on the table, making one loud, long dash." Mark Goble writes, "'One loud, long dash' would translate literally, in Morse, as 'AAAAAAA.' Her body speaks in code even when excited past the point of language" (56).
