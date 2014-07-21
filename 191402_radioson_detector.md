@@ -4,7 +4,7 @@ author: |
     *The Electrical Experimenter*, vol. 1 no. 10
 date: February 1914
 bibliography: _scientifiction.bib
-csl: /Users/grantwythoff/TeX/_chicago-fullnote.csl
+csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
 ![The Radioson Detector as advertised in the November 1914 issue of *Popular Electricity and Modern Mechanics*](images/radioson_ad.png)

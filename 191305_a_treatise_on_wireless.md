@@ -4,7 +4,7 @@ author: |
     *The Electrical Experimenter*, vol. 1 no. 1 \- 2
 date: May \- June 1913
 bibliography: _scientifiction.bib
-csl: /Users/grantwythoff/TeX/_chicago-fullnote.csl
+csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
 # Part One
