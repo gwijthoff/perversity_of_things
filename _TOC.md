@@ -9,6 +9,8 @@ The subject index can give a little one-sentence or phrase blurb on each article
 Tinkering
 ===========
 
+- A New Interrupter . . . . . . . . . . . . . . . 
+> *What happens if we boil mercury?*
 - The Born and the Mechanical Inventor . . . . . . 
 > *What constitutes an "invention"?*
 - The Radioson Detector . . . . . . . . . . . . . 
@@ -40,3 +42,13 @@ Selected Fiction
 
 - *Ralph 124C 41+: A Romance of the Year 2660*
 - 
+
+Media / Mediation
+==================
+
+- The Aerophone Number
+
+Broadcast Regulation
+=====================
+
+- The Wireless Joker
