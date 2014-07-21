@@ -3,6 +3,8 @@ title: A New Interrupter
 author: |
     *Scientific American*
 date: July 29, 1905
+bibliography: _scientifiction.bib
+csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
 Experimenting with different magnetic and electric interrupters, the idea occurred to me that it might be possible to construct an interrupter whose chief functions would be based upon the expansion and contraction of mercury, when heated, by passing a current through it.[^1]
