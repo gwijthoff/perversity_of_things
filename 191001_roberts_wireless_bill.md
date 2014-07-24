@@ -7,13 +7,13 @@ date: January 1910
 
 The long threatened wireless bill has made its appearance at last.
 
-The resolution, as introduced by Representative Roberts of Massachusetts, is reprinted in detail on the following page and should be carefully read by every one who has wireless progress at heart.[^3]  Personally, the Editor believes that there is no need of a wireless telegraph board.
+The resolution, as introduced by Representative Roberts of Massachusetts, is reprinted in detail on the following page and should be carefully read by every one who has wireless progress at heart.[^rep]  Personally, the Editor believes that there is no need of a wireless telegraph board.
 
 It is of no practical value whatsoever, un-American, and will keep down the progress of a young and useful art, which in time may develop into an as yet undreamed-of asset of the nations' power.
 
-Wireless telegraphy and telephony, in a country of such vast distances as America is a very valuable means for cheap transmission of intelligence, and it is the duty of the Government to encourage it, and not to pass a resolution to throttle it like England and Germany have done, in which two countries the art is almost unknown.[^1]
+Wireless telegraphy and telephony, in a country of such vast distances as America is a very valuable means for cheap transmission of intelligence, and it is the duty of the Government to encourage it, and not to pass a resolution to throttle it like England and Germany have done, in which two countries the art is almost unknown.
 
-It would be deplorable indeed to see Representative Roberts' resolution passed.  The farmer, who three years hence will be in a position to own his wireless telephone to call up his next neighbor fifty miles distant from him, will much rather install his private wireless 'phone, rather than be forced to subscribe to an exorbitant rent of an instrument owned and controlled by the United Wireless Company or some other wireless trust, to which trusts such a resolution would give full swing to extort high rates.[^2]
+It would be deplorable indeed to see Representative Roberts' resolution passed.  The farmer, who three years hence will be in a position to own his wireless telephone to call up his next neighbor fifty miles distant from him, will much rather install his private wireless 'phone, rather than be forced to subscribe to an exorbitant rent of an instrument owned and controlled by the United Wireless Company or some other wireless trust, to which trusts such a resolution would give full swing to extort high rates.[^pol]
 
 At first sight Representative Roberts' resolution appears very tame and gentle, but men acquainted with modern methods at Washington know full well what the "recommendations (!) to Congress" mean, with the big wireless interests dictating the "recommendations."
 
@@ -49,7 +49,7 @@ Mr. Roberts' resolution authorizes the appointment of a board of seven members, 
 
 The duties of the board, according to the resolution, shall be "to prepare a comprehensive system of regulations to govern the operation of all wireless plants afload and ashore which come under the cognizance of the United States, with due regard alike for Government and commercial interests."
 
-It is provided that within 30 days of the organization of the board it shall submit its report and recommendations to Congress.  To defray the expenses of the board $2,000 is appropriated.
+It is provided that within 30 days of the organization of the board it shall submit its report and recommendations to Congress.  To defray the expenses of the board $2,000 is appropriated.[^nxt]
 
 * * * * * * * * 
 
@@ -59,10 +59,8 @@ The Wireless Association of America was founded solely to advance wireless.  IT 
 
 ![](images/waoa.png)
 
-[^3]: Congressman Ernest W. Roberts of Massachusetts's 7th District introduced House Joint Resolution 95.  Though Roberts's proposals did not go far, aspects of this Resolution were incorporated into the Radio Act of 1910 and 1912.
+[^rep]: Congressman Ernest W. Roberts of Massachusetts's 7th District introduced House Joint Resolution 95.  Though Roberts's proposals did not go far, aspects of this Resolution were incorporated into the Radio Acts of 1910 and 1912.
 
-[^1]: "Wireless telephony" here refers to the transmission of audio without wires, rather than the morse code signaling that had already been achieved.  At this time, a point-to-point model of communication was envisioned for the wireless telephone, a medium Gernsback tried to popularize under the name "aereophony" but took hold as "radio."
+[^pol]: Jonathan Sterne writes on the postwar politics of rural access to a different medium---broadcast television---which encountered significant difficulties in particular geographic locations.  "Once potential audience members saw an existing system and its limits, they demanded access on the principle that television was a kind of infrastrucutre, like roads or utilities.  Issues of access and entitlement to television thus grew in importance precisely at the areas where profitability was most limited." (47)  Gernsback's emphatic declaration of wireless as a "utility" is thus an accurate depiction of how Americans would later identify themselves within a national network of communications relays.  @sterne_television_2003
 
-[^2]: Jonathan Sterne writes on the postwar politics of rural access to television broadcasts, which encountered significant difficulties in particular geographic locations.  "Once potential audience members saw an existing system and its limits, they demanded access on the principle that television was a kind of infrastrucutre, like roads or utilities.  Issues of access and entitlement to television thus grew in importance precisely at the areas where profitability was most limited." (47)  Gernsback's emphatic declaration of wireless as a "utility" is thus an accurate depiction of how American citizens would later identify themselves within a national network of communications relays.  "Television Under Construction: American Television and the Problem of Distribution, 1926-1962" in *Television: Critical Concepts in Media and Cultural Studies,* vol. 1, ed. Toby Miller (New York and London: Routledge, 2003).
-
-<!-- footnote info from next month's editorial, which details the strong response to this plea.  Also, the Burke Wireless Bill, published in the April issue, is fully supported by G. -->
+[^nxt]:  The following month's editorial contains a roundup of the overwhelmingly positive responses Gernsback received, including "9,000 protest letters from experimenters and amateurs all over the United States," and sympathetic editorials published in *New York Evening World, New York American, New York Sun, Boston Transcript, New York Independent,* and *New York World,* who adds that "wireless communication itself is the invention of an amateur."  By the April issue, which marked the third year of *Modern Electrics'* run and a readership of 30,000, Gernsback was able to endorse a new proposal for wireless registration, the Burke Bill.  "Representative [James F.] Burke's bill does not impose any license fees for operating a station, as the Roberts bill.  It simply calls for registration of stations by the Secretary of Commerce---a law which when passed will certainly be just and fair to all.  It will also do away with the "Wireless Tramp," and mischief maker, who should be banished from the map with all possible speed."  The entire text of the bill was published on the next page.
