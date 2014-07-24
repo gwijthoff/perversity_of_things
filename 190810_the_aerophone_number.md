@@ -7,7 +7,7 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-![](me_cover_aerophone.jpg)
+![](images/me_cover_aerophone.jpg)
 
 It affords the Editor great pleasure to present to his readers herewith the first "Aerophone" number.
 
