@@ -5,7 +5,7 @@ author: |
 date: February 1909
 ---
 
-At last wireless telegraphy ha had its real christening.  For the first time in history, due directly to wireless telegraphy a terrible disaster was averted and close to 500 huan beings are now alive instead of resting on the bottom of the ocean, like so many others, before the days of wireless.
+At last wireless telegraphy has had its real christening.  For the first time in history, due directly to wireless telegraphy a terrible disaster was averted and close to 500 huan beings are now alive instead of resting on the bottom of the ocean, like so many others, before the days of wireless.
 
 Only a few weeks ago there were many people who doubted the practicability and usefulness of wireless.  In fact the public at large rather had an idea that wireless was a scientific toy, and on a ship nothing but a diversion for passengers, who had too much money to spend by sending telegrams, "which never arrived at their destination, anyway."
 
@@ -14,6 +14,8 @@ All this has been changed in less than a week.  Wireless has at last become publ
 Accidents such as the one just witnessed when the steamer Florida collided with the ill-fated Republic will soon become a thing of the past, thanks to wireless.  Already the U. S. Government has taken steps to make wireless compulsory on ocean ships and other Governments will undoubtedly follow soon, as the tremendous importance of the subject has at last been realized.
 
 However, when talking of the Republic, let us not forget its gallant wireless operator, John Robinson Binns, the now famous "C. Q. D." man.  It was due chiefly to his efforts that the passengers of the Republic were saved so promptly without the loss of a single life.  He has set an unforgetable [sic] example to all wireless ship operators and has shown us what the duties of the operator are when his ship is singing.  His story will be found elsewhere.
+
+![](images/not_a_pipe_me191005.png)
 
 * * * * * * * * * * * 
 
