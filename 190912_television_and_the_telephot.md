@@ -41,7 +41,111 @@ Another great trouble with the selenium cell is that it works sluggishly, that i
 
 The writer does not wish to throw cold water on selenium and selenium cells, as it is quite possible that the latter may be improved to such an extent as to do entirely away with the shortcomings mentioned above, although the greatest difficulty, the one that each cell requires at least one wire, is and will be the far greatest stumbling block.
 
-[…]
+Many different systems have been proposed in the past to solve the problem by means of selenium cells and although the list is quite long only a few will be mentioned in this article, as all systems are more or less on the same lines.
+
+========
+
+![](images/tv_tele_2.png)
+![](images/tv_tele_3.png)
+![](images/tv_tele_4.png)
+![](images/tv_tele_5.png)
+
+A. Knothe proposes to solve the prob­ lem  as  follows:    C  (Fig.  1), represents a camera into which the lines coming from the batteries enter. The space be­ tween each pair of wires is bridged by a selenium cell S. If now light enters the camera it falls on S (and all the other cells), and closes the current which oper­
+ates the spark coils J.  This furnishes a
+discharge as a single ray in the X-Ray pipe H at the receiving station E. This single ray is thrown as a single point on the fluorescent  screen F.
+It is understood  that  several  hundred cells, spark  coils  and  parabolic  mirrors K  are  necessary  to  transmit  a  picture. The X-Ray tube would  therefore neces­ sarily be of  monstrous dimensions.   All the wires,  1, 2, 3, 4, up to several hun­ dred, must of  course, be well insulated, so that no sparking occurs between them. All  these  requirements  make  the	r­ rangemen t  almost  impossible and  quite
+impracticable.
+The latest "Telephot" has been de­ signed by fr. Ruhmer, the well-lrnown Berlin expert. Last June fr. Ruhn:er demonstrated a working model, which although i t did not transmit pictures, served well to demonstrate the useful­ ness of the selenium cell for certain pur­ poses.
+Fig. 2 shows the model  clearly.   The
+principle  is as  follows:
+The transmitter has 25 squares, each containing a selenium cell.   If any one
+oi the 25 cells is exposed to light, it op­ erates a sensitive relay, which sends an alternating current of a certain frequency over the line.
+At  the  receiving  end  one  resonating
+relay is stationed for each selenium ceU at the sending station. The impulse sent from the selenium cell therefore operates only that relay having the right fre­ quency.
+Each relay operates an incandescent lamp which is placed in the same square at the receiver as the selenium cell at the transmitter.
+If several cells are exposed to light at the transmitter, several alternating cur­ rents, but all of different frequencies are sent over the  line. These currents do not mix, but operate only the relays for which they are intended.
+These in turn operate the  lamps  in tJ,e various squares, assigned to them.
+Mr. Ruhmer has perfected the seleni­ um cell a good deal, and as his model worked very rapidly, it will be seen that the sluggishness of the cells has been overcome to a certain  extent.
+Simple geometric figures were trans­ mitted quite successfully as can be seen in the photograph, where 9  squares  at the transmitter were lighted  and  the same amount, in the same position were reproduced at the receiver. This is quite remarkable if it is remembered that only 011e wire is used between transmitter and receiver.
+Mr. Ruhmer intends to build a trans­ mitter containing 10,()(X) cells, to repro­ duce pictures at  the  Brussels  interna­ tional exposition  in  1910.  The cost will be over one and a quarter  million  dol­ lars  and  the  writer  is  of  the  opinion that it is almost impossible  to  operate such a model on account of the 10,()(X) different frequencies necessary to ac­ complish  the result.
+A simpler way could be brought about by the idea proposed by the writer some eight  years  ago.
+Fig. 3 represents the well-known elec­ trical harmonica, which for the sake of those not knowing the instrument, is de­ scribed herewith :
+A musical steel harp H is fastened to a permanent  magnet  NS.  If any  one of the steel harp-prongs is touched it will swing back and forward, at the same time sending an induced current through the windings of the electromagnet E. If we  connect   a  similar   instrument   H
+
+µioug the line I, and ground  LL' to H' 1t is evident that if we touch any of the steel prongs of one of the instruments
+the  same  steel  prong  on  the  other  will
+be made to swing. If we have 12 prongs on each instrument and we touch prongs
+:No. 1, 6, 9, 12 of H', all at the same mo­ ment, prongs No. 1, 6, 9, 12 of H will be made to sound at the same time too, and so on.
+Suppose we build such a harmonica having, say, 500 prongs P, Fig. 4, each responding readily at an e>.'.i:remely light touch.
+Exactly over each of the 500 prongs we place a minute electromagnet E, 500 in all (only 6 shown in illustration ), so when one of the small electromagnets is actioned by means of a weak alternating current flowing through same it will cause the prong underneath it to swing as long as current flows through the elec­ tromagnet.
+
+
+
+
+
+
+
+
+
+
+Fig. 3.
+:Now each of the small electromagnets is connected to a selenium cell of which 500 are placed in a plane.
+It will be easily seen that if one or more of the selenium cells are acted up­ on by light, one or more of the small electromagnets is acted upon AND AS A PROPORTIONATE AMOUNT OF CURRE:NT IN PROPORTION TO THE  INTENSITY  OF  LIGHT  at  the
+selenium cell flows through the small electromagnet, or electromagnets, it will cause the prong or prongs to vibrate IN THE  SAME  PROPORTION   OF  IN­
+TE:NSITY as the light falling on the se­ lenium cell.
+Thus  if  cell No. 1 is lighted  with  10
+P., assume that the small electromag­ net connected to it causes its prong to swing through the distance of one milli­ meter. Then if cell No. 50 is only light­ ed with the intensity of 1 C. P., prong No. 50 will of course only swing 1-10 millimeter and so on.  Thus each prong
+
+will  be  caused  to swing  in  exactly  the
+·same proportion  as the amount  of  light f alling upon the selenium cell, to which it belongs.
+As each  prong  swings it sends a cur­ rent over the line L' L".   Tf now	o.  1 and Xo. 6 of  the electromagnets are en­ ergised through  the  selenium cells both cause  their  prongs  to  swing  and  send impulses OYer the line.	At  the  recei\•­ ing station G, prongs 1 ann 6 must swing I THE   SA:\IE   PROPORTIO ATE
+..q
+energies and  the screen  is lighted  with
+100 energies and so on.
+Thus it will  be  <;een  that if  we  have enough  selenium  cells  at  H and  enough l ight  relays  at G any  picture  in  motion will  be  transmitted  correctly  and  repro­ duced in its true phases on  the screen  S. It is only  a matter  of  building  the ap­ paratus  and  instrument:5  with  sufficient
+precision.
+The light-relay used  in some of the writer's experiments is described here­ with :
+.\ light-relay is an instrument \\:hich
+
+
+
+
+
+
+-Ft?- 2 -
+
+
+
+
+
+Fig. 5.
+INTEXSITY as the prongs at the sender H, consequently electromagnets E'l and E'6 are energised (the prong acting as a telephone diaphragm, the electromagnets having for core a permanent magnet). E'l and E'6 now operate the light relays LRl and LR6.
+Now, then, if the selenium cell con­ nected to El is lighted with, say, 10 C.P., a proportionate amount of energy--<:all it 10 energies-are  received  at  LRI. The light relay therefore passes 10 en­ ergies of the small tungsten lamp TL through its opening, and 10 energies are projected on the screen S. If the cell connected to E6 receives the light of 100
+C. P. it is e,·ident that LR6 receiYes 100
+has the purpose to utilize''cry weak elec­ tric  impulses  to throw  a beam  of  light n a screen, which in intensity is propor­ tionate to the strength of the electric im­ pulses. In other words, if  the impulses are strong, a large amount of light is caused to fall on the screen ; if the im­ pulses are weak, a small amount of light falls on  the screen, and  so on.
+Fig. .5 shows the instrument in the perspectfre. Between the poles oi  a strong electromagnet XS. two e>.'.tremely
+fine metal wires A and A'. are stretched. The wires mav be stretched more or less by the regulati ng   crews o and o'
+The two poles N and S, are each pro­ vided with a hole 0 and 0', through which light rays arc sent in the direction p, p'.   On  the two wires, .\ and A', a
+\'ery light piece of aluminum foil B is at­ tached in such a way that no light can pass from 0 to 01 normally.
+If, however, a weak current passes from a to al. the aluminum foil is de­ viated in the direction f or fl, as the case may be. In order to obtain ,·ery exact motions of the foil the  thin  wires  are best replaced by fine metal bands 0.01 millimeters thick, 0.25 millimeters wide and about 6 centimeters long. The re­ sistance of each band is about 7.5 ohms.
+..\s far as the writer knows  his plan so far is the only feasible one which can
+In the present article the writer will endea,·or  to  describe  sonie  points abou t alternating current  which  may be of  use to wireless experimenters.
+The source of supply generally is from a commercial 110 vt. 60-120 cvcle circuit. but this is not available bv·ev­ erv one, and as the .\. C. transformer has so many good points to commend it for use i n wireless tele\raphy, a method will be described for obtaining
+C. from a motor or dynamo wound for D. C.   :\fany experimenters own a
+fair  sized  D.  C.  dynamo,  say  14 to  2
+H. P. which may be used to good ad­ vantage to supply .\. C. vhen arranged as below.
+It is adv isable that the machi ne be wound for a Yoltage of anywhere from  80 to 220 ''olts.   If not giving a
+D. C. voltag-e within the abO\·e limits.. it  should  he  rewound.	To  obtain  a single phase :\. C. from a two-pole or bipola r  field  D. C.  machi ne.  connect two bras« slip ri ngs, R. and R2 to two directly  opposite  points  on  the  com­ mutator. as shown  in  Fig.  l. where  B and B2 are the D. C. brushes  bearing on  the commutator, and b  and  b2 arc the :\. C. brushes bearing- on the two slip rings. which  can be mounted  and wi red as c:hown in Fig. 2.	The  fibre
+drum carr}ing- the two rings is clamp­ ed onto the end of the armature shaft, by means of the set screw shown. A hole is drilled through  the  centre  of the shaft to bring the two wires out to the slip rings. The wires are brought down through the fibre washer through two small holes in the side of the shaf t in to the large  centre  hole.
+The connections for a machine  hav­ ing four field poles and a drum wound armature are given in Fig. 3. By con­ necting  another set of slip rings to the points marked x, and x2 in Fig.  1, two phase .\. C. can be taken from the ma­ chine.		If three	slip rings  connected at  points	120°    apart	on   the   com­ mutator  are  utilized,  it  is  possible  to obtain a three phase A. C.   Supposing, now,	that	the	machine	has	been fixed	up  to  supply  :\. C.  The  fre­ quency of any pole machine will be. cy­
+cles  per  second  = R.P.M.  X  Yz No.
+field poles. For a bi-polar machine, running-  at.   ay. 3.600 R.P.:'.\I.. or  60
+R. P. second. the frequency will equal 60 X 1 = 60 cycles per second. or 120
+alterna tion.;;.
+The machine mav be driYcn bv its pulley from an engine or water-w.heel, in which case 85 per cent. of the D. C. power rating- will be ava ilable in ..\. C.,
+
+
+========
 
 [^1]: This article contains the first mention of television in the Gernsback magazines, a favorite topic of his writers over the next few decades.  Surveying the latest technical approaches to transmitting images across a distance, Gernsback introduces a system by Berlin-based technologist Ernst Ruhmer, one which bears more of a technical resemblance to today's liquid crystal displays (LCDs) than the electromechanical Nipkow disk scanners common at the time.  In the photograph, Ruhmer displays a crude prototype with a 5x5 pixel cross transmitted from one display to another.  Ruhmer's system used light-sensitive selenium cells arranged in a mosaic, transmitting differences in light intensity through variable current strengths. **For more on Ruhmer, see the Archie Collins 1905 book Wireless Telegraphy, with a section on Ruhmer's ["photo-electric telephone"](http://books.google.com/books?id=RR4PAAAAYAAJ&pg=PA288#v=onepage&q&f=false)
 
