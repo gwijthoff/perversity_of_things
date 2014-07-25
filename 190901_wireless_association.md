@@ -60,4 +60,4 @@ Its diameter is 3/4 inch.  This is a trifle larger than usual, the purpose being
 
 […]
 
-[^qke]:  The 7.1 magnitude Messina earthquake struck Messina, Sicily on December 28, 1908.  Along with a resulting tsunami, about 123,000 lives were lost.
+[^qke]:  The 7.1 magnitude Messina earthquake struck Messina, Sicily on December 28, 1908.  Along with a resulting tsunami, about 123,000 lives were lost.  Three years later, escaping from Earthquake Island using a spark gap wireless set formed the central struggle of Victor Appleton's (nom de plume of Howard Roger Garis) *Tom Swift and His Wireless Message* (Grosset & Dunlap, 1911).
