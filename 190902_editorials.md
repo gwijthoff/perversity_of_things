@@ -11,17 +11,15 @@ Only a few weeks ago there were many people who doubted the practicability and u
 
 All this has been changed in less than a week.  Wireless has at last become public property, a position which it was denied for years.  It has stood the fire test and has emerged from it gloriously.
 
-Accidents such as the one just witnessed when the steamer Florida collided with the ill-fated Republic will soon become a thing of the past, thanks to wireless.  Already the U. S. Government has taken steps to make wireless compulsory on ocean ships and other Governments will undoubtedly follow soon, as the tremendous importance of the subject has at last been realized.
+Accidents such as the one just witnessed when the steamer Florida collided with the ill-fated Republic will soon become a thing of the past, thanks to wireless.  Already the U. S. Government has taken steps to make wireless compulsory on ocean ships and other Governments will undoubtedly follow soon, as the tremendous importance of the subject has at last been realized.[^rms]
 
 However, when talking of the Republic, let us not forget its gallant wireless operator, John Robinson Binns, the now famous "C. Q. D." man.  It was due chiefly to his efforts that the passengers of the Republic were saved so promptly without the loss of a single life.  He has set an unforgetable [sic] example to all wireless ship operators and has shown us what the duties of the operator are when his ship is singing.  His story will be found elsewhere.
-
-![](images/not_a_pipe_me191005.png)
 
 * * * * * * * * * * * 
 
 The announcement of the Wireless Association of America in the January number has brought such an avalanche of mail that it is impossible at this date of writing to do the entire correspondence justice.  Members and prospective members will please have patience, all letters will be answered as fast as it is possible to write them.  Apologies are also due new members who ordered the association button after January 15.  As stated in the January issue only 1,000 buttons were ordered; this entire amount has been mailed about the 15th, and the second thousand could only be sent out by January 26th.  The delay in shipping was unavoidable, as the great demand has not been anticipated, and the editor trusts that the new members will understand the situation now.
 
-the editor is truly amazed at the tremendous interest shown in the association, and as up to this writing over 3,200 members have applied, it is safe to say that the Wireless Association of America is the largest official wireless association in the world.
+The editor is truly amazed at the tremendous interest shown in the association, and as up to this writing over 3,200 members have applied, it is safe to say that the Wireless Association of America is the largest official wireless association in the world.
 
 A membership application card has been issued which will be sent free of charge to any prospective member.
 
@@ -35,9 +33,11 @@ The Editor, in behalf of the Wireless Association of America, wishes to thank al
 
 * * * * * * * * * * * 
 
+![](images/not_a_pipe_me191005.png)
+
 # Tuned Wireless Telegraphy
 
-At the recent exhibition of the Physical Society in London, the Marconi Wireless Telegraph Company showed a multiple tuner for tuning a wireless telegraph receiver o as to render it immune to interference from other stations.  It can also be used for measuring the lengths of the transmitted and received waves and for estimating the distance of a known station.  The instrument has been designed so as to stand several climates and comparatively rough usage, and is suitable for all wave lengths from 300 ft. to 8,000 ft.  Its general principle is shown in illustration where A represents the aerial, E the earth, R the receiver or detector.
+At the recent exhibition of the Physical Society in London, the Marconi Wireless Telegraph Company showed a multiple tuner for tuning a wireless telegraph receiver so as to render it immune to interference from other stations.  It can also be used for measuring the lengths of the transmitted and received waves and for estimating the distance of a known station.  The instrument has been designed so as to stand several climates and comparatively rough usage, and is suitable for all wave lengths from 300 ft. to 8,000 ft.  Its general principle is shown in illustration where A represents the aerial, E the earth, R the receiver or detector.[^tnr]
 
 […]
 
@@ -47,7 +47,7 @@ At the recent exhibition of the Physical Society in London, the Marconi Wireless
 
 # Wireless on Mars
 
-## By Our Martian Correspondent[^1]
+## By Our Martian Correspondent[^fps]
 
 Mr. Spif Marseroni, the great national wireless scientist, has scored another great triumph.  As will be recalled, Martians have been for a long time in the habit of receiving and sending telephone messages, no matter if they were walking in the street or gliding in an aeroplane.  In fact, this system is now so popular that the "Interplanetarian Remembering Co." has found no trouble whatsoever in getting over 60 million subscribers to their new system.  The system is simple enough.
 
@@ -73,4 +73,8 @@ Of course the sending operator must be careful so as not to "mix" things, as in 
 
 However, by using tuning separators this defect has been entirely overcome now.
 
-[^1]: Written by the alter ego "Fips," in "The Wireless Screech" section.
+[^rms]:  The RMS Republic was a luxury steamship that collided with the SS Florida on January 23, 1909.  The ship was equipped with a Marconi-designed wireless set, and became the first ever to send a "CQD" distress signal, effectively saving all 1200 passengers aboard.  @_official_1909.  The operator of the wireless aboard the Republic was Jack Binns, who became a hero among the amateurs, and was later hired as a correspondent for the *New York Tribune,* reporting on the activities of local tinkerers.  For more on Jack Binns and the collision, visit <http://www.jackbinns.org/the_republic-florida_collision>.
+
+[^tnr]:  Tuning wireless sets so that they didn't transmit and receive on one wavelength only was still a great challenge at this point.
+
+[^fps]:  Included as part of the regular "Wireless Screech" humor section, and written under the pseudonym Mohammed Ullyses Fips, which Gernsback used for all of his tongue-in-cheek columns throughout the years.
