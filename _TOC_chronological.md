@@ -19,6 +19,8 @@ title: Chronological Contents
 - Wireless Association of America | January 1909
     - law: WAOA founded
 - Wireless on Mars (with all editorials) | February 1909
+    - difficulties of tuning
+    - Hugo's humor
 - Signaling to Mars | May 1909
 - Television and the Telephot | December 1909
 - [The Roberts Wireless Bill] | January 1910
