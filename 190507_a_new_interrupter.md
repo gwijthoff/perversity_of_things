@@ -5,7 +5,7 @@ author: |
 date: July 29, 1905
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
-***
+...
 
 **DRAFT:** *Please do not share without permission of the author. Typeset versions in [pdf](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/190507_a_new_interrupter.pdf?raw=true) | [doc](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/190507_a_new_interrupter.docx)*
 
