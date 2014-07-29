@@ -7,6 +7,10 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
+**DRAFT:** *Please do not share without permission of the author. Typeset versions in [pdf](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/190805_the_dynamophone.pdf?raw=true) | [doc](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/190805_the_dynamophone.docx) | [web](https://github.com/gwijthoff/perversity_of_things/blob/master/190805_the_dynamophone.md)*
+
+* * * * * * * * * * * 
+
 While conducting some experiments in wireless telephony I made the discovery of quite an interesting combination which, to my knowledge of the art, has not been tried up to this date.
 
 To produce mechanical effects directly, man is obliged to exert his muscular forces, by bringing his muscles in contact with the object to be moved, or through an indirect way, namely, by interposing a tool between the muscle and the object.[^hum]  This tool might be a lever or it might be a telegraph key, which latter, if desired, will move or disturb the far-off object through another medium, electricity.
