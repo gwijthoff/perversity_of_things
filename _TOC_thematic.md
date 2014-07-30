@@ -17,33 +17,33 @@ title: Thematic Contents
 <a name="tinkering"></a>Tinkering
 ==================================
 
-- A New Interrupter . . . . . . . . . . . . . . . 
+- A New Interrupter
 
 > *What happens if we boil mercury?*
 
-- The Dynamophone . . . . . . . . . . . . . . . .
+- The Dynamophone
 
 > *How to start your motor with a radio!*
 
-- The Born and the Mechanical Inventor . . . . . . 
+- The Born and the Mechanical Inventor
 
 > *What constitutes an "invention"?*
 
-- The Radioson Detector . . . . . . . . . . . . . 
+- The Radioson Detector
 
 > *Talk to your friends with nothing more than a vile of acid!*
 
 <a name="sf"></a>Scientifiction
 ================================
 
-- Signaling to Mars . . . . . . . . . . . . . . . 
+- Signaling to Mars
 
 > *What would it take to receive a wireless message from Mars?*
 
 Scientifiction
 ===============
 
-- Our Cover . . . . . . . . . . . . . . . . . . 
+- Our Cover
 
 > *What will the wirelessly connected cityscape of 2013 look like?*
 
@@ -55,14 +55,14 @@ Scientifiction
 <a name="media"></a>Media History
 ==================================
 
-- The Aerophone Number . . . . . . . . . . . . . 
+- The Aerophone Number
 
 > *What do we say when we wirelessly telephone someone?*
 
 <a name="wireless"></a>Wireless
 --------------------------------
 
-- A Treatise on Wireless . . . . . . . . . . . . . . 
+- A Treatise on Wireless
 
 > *How can I get started in wireless?*
 

@@ -62,6 +62,7 @@ title: Chronological Contents
 - The Radioson Detector | February 1914
     - electrolytic / bare-point detector
     - FESSENDEN
+    - De Forest's theft, spade detector
 - Sayville | August 1915
 - Warfare of the Future: The Radium Destroyer | November 1915
 - Phoney Patent Offizz: Bookworm’s Nurse | November 1915
