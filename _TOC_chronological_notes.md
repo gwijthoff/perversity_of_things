@@ -18,6 +18,7 @@ title: Chronological Contents
     - how does a wireless conversation work?
 - Wireless Association of America | January 1909
     - law: WAOA founded
+    - Tom Swift and fiction outside of Hugo magazines
 - Wireless on Mars (with all editorials) | February 1909
     - difficulties of tuning
     - Hugo's humor
@@ -59,7 +60,8 @@ title: Chronological Contents
     - oscillation transformer or Helix
 - Our Cover | May 1913
 - The Radioson Detector | February 1914
-    - 
+    - electrolytic / bare-point detector
+    - FESSENDEN
 - Sayville | August 1915
 - Warfare of the Future: The Radium Destroyer | November 1915
 - Phoney Patent Offizz: Bookworm’s Nurse | November 1915

@@ -56,8 +56,40 @@ This button is made of bronze, triple silver-plated.  The flashes from the wirel
 
 On account of the heavy plating it will last for years and is guaranteed not to wear "brassy."
 
-Its diameter is 3/4 inch.  This is a trifle larger than usual, the purpose being to show the button off so that it
+Its diameter is 3/4 inch.  This is a trifle larger than usual, the purpose being to show the button off so that it can be readily seen from a distance. The reason is obvious. Suppose you are a wireless experimenter and you live in a fairly large town. If you see a stranger with the Association button, you, of course, would not be backward talking to the wearer and in this manner become acquainted with those having a common object in mind, which is the successful development of "wireless."
 
-[…]
+The Association furthermore wishes to be of assistance to experimenters and inventors of wireless appliances and apparatus, if the owners are not capable to market or work out their inventions. Such information and advice will be given free.
 
-[^qke]:  The 7.1 magnitude Messina earthquake struck Messina, Sicily on December 28, 1908.  Along with a resulting tsunami, about 123,000 lives were lost.  Three years later, escaping from Earthquake Island using a spark gap wireless set formed the central struggle of Victor Appleton's (nom de plume of Howard Roger Garis) *Tom Swift and His Wireless Message* (Grosset & Dunlap, 1911).
+Somebody suggested that Wireless Clubs should be formed in various towns, and while this idea is of course feasible in the larger towns, it is fallacious in smaller towns where at best only two or three wireless experimenters can be found.
+
+Most experimenters would rather spend their money in maintaining and enlarging their wireless stations, instead of contributing fees to maintain clubs or meeting rooms, etc., etc.
+
+The Board of Directors of this Association earnestly request every wireless experimenter and owner of a station to apply for membership in the Association by submitting his name, address, location, instruments used, etc., etc., to the business manager.  There is no charge or fee whatever connected with this.
+
+Each member will be recorded and all members will be classified by town and State.
+
+After February 1st, 1909, members are at liberty to inquire from the Association if other wireless experimenters within their locality have registered. Such information will be furnished free if stamped return envelope is forwarded with inquiry.
+
+To organize the Association as quickly as possible it is necessary that prospective members make their application at once, and without delay.
+
+If you are eligible fill out application sheet and state particulars as follows: Full name; town; state; age; system and apparatus used; full description of aerial.
+
+In order to facilitate quick classification, please be brief and keep application sheet separate from your letter.
+
+[^qke]:  The 7.1 magnitude Messina earthquake struck Sicily on December 28, 1908, triggering a resulting tsunami and taking about 123,000 lives.  Three years later, escaping from Earthquake Island using a spark gap wireless set formed the central struggle of Victor Appleton's (nom de plume of Howard Roger Garis) *Tom Swift and His Wireless Message:*
+
+    > "But I think I can summon help."
+    
+    > "How?" dmanded Mr. Hosbrook.  "Have you managed to discover some cable line running past the island, and have you tapped it?"
+    
+    > "Not exactly," was Tom's calm answer, "but I have succeeded, with the help of Mr. Damon and Mr. Fenwick, in building an apparatus that will send out wireless messages!
+    
+    > "Wireless messages!" gasped the millionaire.  Are you sure?
+    
+    > "Wireless messages!" exclaimed Mr. Jenks.
+    
+    > "I'll give---" he paused, clasped his hands on his belt, and turned away.
+    
+    > "Oh, Tom!" cried Mrs. Nestor, and she went up to the lad, threw her arms about his neck, and hissed him; whereat Tom blushed.
+    
+    @appleton_tom_1911, p. 168.
