@@ -6,6 +6,10 @@ author: |
 date: August 1916
 ---
 
+**DRAFT:** *Please do not share without permission of the author. Typeset versions in  [web](http://gernsback.wythoff.net/191608_the_perversity_of_things.html) \| [pdf](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/191608_the_perversity_of_things.pdf?raw=true) \| [doc](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/191608_the_perversity_of_things.docx)*
+
+* * * * * * * * 
+
 **T**HIS is by no means a new subject.  Much has been said and written about the recalcitrant behavior of things in general toward us humans.  Much remains to be said and written.  Very much remains to be explained.
 
 Of all individuals, the experimenter, perhaps, suffers most under the tyranny of the inanimate things and it happens not infrequently that he succumbs to their wiles and to their devilish snares.

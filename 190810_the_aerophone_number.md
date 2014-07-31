@@ -8,6 +8,10 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
+**DRAFT:** *Please do not share without permission of the author. Typeset versions in  [web](http://gernsback.wythoff.net/190810_the_aerophone_number.html) \| [pdf](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/190810_the_aerophone_number.pdf?raw=true) \| [doc](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/190810_the_aerophone_number.docx)*
+
+* * * * * * * * 
+
 ![](/images/me_cover_aerophone.jpg)
 
 It affords the Editor great pleasure to present to his readers herewith the first "Aerophone" number.

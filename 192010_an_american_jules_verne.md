@@ -6,6 +6,10 @@ author: |
 date: October 1920
 ---
 
+**DRAFT:** *Please do not share without permission of the author. Typeset versions in  [web](http://gernsback.wythoff.net/192010_an_american_jules_verne.html) \| [pdf](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/192010_an_american_jules_verne.pdf?raw=true) \| [doc](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/192010_an_american_jules_verne.docx)*
+
+* * * * * * * * 
+
 **A**LTHO not generally known, there lived some forty years ago a personage known to thousands of readers by the *nom de plume* of "Noname."  These were the days of the nickel novels when the Nick Carter series, Jesse James stories and Old King Brady were the talk of the day.  For a nickel you bought a complete 32-page novel on closely printed pages in small type.  These novels were always hair-rasers in more than one respect, and many of them have gone down as classics.
 
 Lu Senarens, known to tens of thousands as "Noname," was perhaps the most prolific of these writers, and one of the most prophetic.  Not only did he turn out a host of these wonderful stories, but he wrote over one thousand of them, each one containing from 35,000 to 50,000 words.  Each of these stories were compete and had no continuations.  The hero of most of the stories was Frank Reade, Jr., "the boy inventor," who supposedly invented all the many marvelous scientific wonders of that day.

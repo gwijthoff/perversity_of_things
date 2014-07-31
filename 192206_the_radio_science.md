@@ -6,6 +6,10 @@ author: |
 date: June 1922
 ---
 
+**DRAFT:** *Please do not share without permission of the author. Typeset versions in  [web](http://gernsback.wythoff.net/192206_the_radio_science.html) \| [pdf](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/192206_the_radio_science.pdf?raw=true) \| [doc](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/192206_the_radio_science.docx)*
+
+* * * * * * * * 
+
 **T**HE youngest of all our sciences---the science of radio---now less than thirty years old, has perhaps made greater strides than any other branch of physics in the history of the world.  When we consider that less than thirty years ago, the word wireless had not been invented, and if we look closely about us today, and see what great changes have been wrought by the young giant, we are struck with wonderment and awe, but when we contemplate the wonders of the new art, we as a rule pay little attention to the whole.
 
 Most people, particularly in these days of radio broadcast, are wont to think that when the word radio is mentioned, it means nothing but a concert or a speech broadcasted by radio telephony, or perhaps a message flung into space by radio telegraphy.  To the scientist, however, these two branches of radio are today the least important.  It is true that new achievements are being evolved every day in radio telegraphy and radio telephony, but the fundamentals of these two branches remain roughly the same.  The waves which our broadcasting stations are sending out today are not much different from those of Marconi's early days, with the exception that Marconi used the so-called damped or interrupted waves, whereas we now use the undamped, or continuous waves.  The broadcast feature is only a stunt or variation of something that has been known for over a decade.  We could have had broadcast entertainments ten years ago, but no one had thought of doing it.

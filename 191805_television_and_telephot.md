@@ -8,6 +8,10 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote.csl
 ---
 
+**DRAFT:** *Please do not share without permission of the author. Typeset versions in  [web](http://gernsback.wythoff.net/191805_television_and_telephot.html) \| [pdf](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/191805_television_and_telephot.pdf?raw=true) \| [doc](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/191805_television_and_telephot.docx)*
+
+* * * * * * * * 
+
 ![](/images/ee_cover_telephot.jpg)
 
 Part 1

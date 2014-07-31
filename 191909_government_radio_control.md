@@ -6,6 +6,10 @@ author: |
 date: September 1919
 ---
 
+**DRAFT:** *Please do not share without permission of the author. Typeset versions in  [web](http://gernsback.wythoff.net/191909_opera_by_wireless.html) \| [pdf](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/191909_opera_by_wireless.pdf?raw=true) \| [doc](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/191909_opera_by_wireless.docx)*
+
+* * * * * * * * 
+
 **O**N July 24th Secretary of the Navy Daniels addressed a remarkable letter to the peaker of House of Representatives, which is reprinted in full on another page.
 
 We had thought that Government radio control was at a rest for a while when certain radio bills defeated last year. It seems however to be a pastime in Washington to sponsor Government Control radio every month or so, at least so it looks to us. The writer has pointed out in his previous articles that the Radio Act of 1912 has been found ample for all requirements, be they Government, commercial or amateur Daniels speaks in his letter of *"assigning certain belts wave lengths for the exclusive use of these services."* He immediately corrects himself by saying that *"as a of fact such allotment of wave length is coming about thru International Agreement."*

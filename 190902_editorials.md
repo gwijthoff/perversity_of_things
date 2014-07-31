@@ -6,6 +6,10 @@ author: |
 date: February 1909
 ---
 
+**DRAFT:** *Please do not share without permission of the author. Typeset versions in  [web](http://gernsback.wythoff.net/190902_editorials.html) \|  [pdf](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/190902_editorials.pdf?raw=true) \| [doc](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/190902_editorials.docx)*
+
+* * * * * * * 
+
 At last wireless telegraphy has had its real christening.  For the first time in history, due directly to wireless telegraphy a terrible disaster was averted and close to 500 huan beings are now alive instead of resting on the bottom of the ocean, like so many others, before the days of wireless.
 
 Only a few weeks ago there were many people who doubted the practicability and usefulness of wireless.  In fact the public at large rather had an idea that wireless was a scientific toy, and on a ship nothing but a diversion for passengers, who had too much money to spend by sending telegrams, "which never arrived at their destination, anyway."

@@ -6,6 +6,10 @@ author: |
 date: April 1926
 ---
 
+**DRAFT:** *Please do not share without permission of the author. Typeset versions in  [web](http://gernsback.wythoff.net/192604_a_new_sort_of_magazine.html) \| [pdf](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/192604_a_new_sort_of_magazine.pdf?raw=true) \| [doc](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/192604_a_new_sort_of_magazine.docx)*
+
+* * * * * * * * 
+
 **A**NOTHER fiction magazine!
 
 At first thought it does seem impossible that there could be room for another fiction magazine int his country.  The reader may well wonder, "Aren't there enough already, with the several hundreds now being published?"  True.  But this is not "another fiction magazine," AMAZING STORIES is a *new* kind of fiction magazine!  It is entirely new---entirely different---something that has never been done before in this country.  Therefore, AMAZING STORIES deserves your attention and interest.

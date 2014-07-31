@@ -8,6 +8,10 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
+**DRAFT:** *Please do not share without permission of the author. Typeset versions in  [web](http://gernsback.wythoff.net/190901_wireless_association.html) \| [pdf](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/190901_wireless_association.pdf?raw=true) \| [doc](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/190901_wireless_association.docx)*
+
+* * * * * * * * 
+
 It affords the Editor genuine pleasure to offer to the thousands of wireless enthusiasts an appropriate New Year's present in form of the Wireless Association of America.  Every reader perusing the announcement of the association, found elsewhere in this issue, will agree that such an organization has been needed for a long time.
 
 Wireless Telegraphy may now be said to have left the experimental stage.  It has become an everyday necessity, and already rivals the wire and cable telegraph.  Between sea and land wireless is of the utmost importance and to-day forms as necessary an adjunct to every up-to-date vessel, as its coal and lifeboats.

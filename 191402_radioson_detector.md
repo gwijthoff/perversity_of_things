@@ -8,7 +8,7 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-**DRAFT:** *Please do not share without permission of the author. Latest typeset versions in [pdf](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/191402_radioson_detector.pdf?raw=true) | [doc](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/191402_radioson_detector.docx) | [web](https://github.com/gwijthoff/perversity_of_things/blob/master/191402_radioson_detector.md)*
+**DRAFT:** *Please do not share without permission of the author. Typeset versions in  [web](http://gernsback.wythoff.net/191402_radioson_detector.html) \| [pdf](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/191402_radioson_detector.pdf?raw=true) \| [doc](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/191402_radioson_detector.docx)*
 
 * * * * * * * * * * * 
 

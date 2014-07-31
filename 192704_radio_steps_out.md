@@ -6,6 +6,10 @@ author: |
 date: April 1927
 ---
 
+**DRAFT:** *Please do not share without permission of the author. Typeset versions in  [web](http://gernsback.wythoff.net/192704_radio_steps_out.html) \| [pdf](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/192704_radio_steps_out.pdf?raw=true) \| [doc](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/192704_radio_steps_out.docx)*
+
+* * * * * * * * 
+
 > *. . . Wherein the Editor points out that broadcasting is only one little exemplification of the applications of Radio---recalls a few promising ideas of the pre-vacuum-tube era---and the revolutionary introduction of the three-element audion---a few of the wonders which this infinitely-delicate apparatus has brought about within a few years---what wonders of the near future are to be accomplished by an application of the radio experiments of today---when Radio hits its real stride . . .*
 
 **T**HERE was a day, many years ago, when radio was not "radio" at all, but merely "wireless."  The art at that time was merely one of communication; that is, the transmission of intelligence by signals from one point to another without intervening wires.  So things stood, more or less, until the advent of the vacuum tube, after which soon followed the first really successful wireless telephone, which today we term the "radiophone," as applied to broadcasting.

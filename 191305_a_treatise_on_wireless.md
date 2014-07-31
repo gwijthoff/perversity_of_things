@@ -8,6 +8,10 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
+**DRAFT:** *Please do not share without permission of the author. Typeset versions in  [web](http://gernsback.wythoff.net/191305_our_cover.html) \| [pdf](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/191305_our_cover.pdf?raw=true) \| [doc](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/191305_our_cover.docx)*
+
+* * * * * * * * 
+
 # Part One
 
 **O**N December 13, 1912, the new wireless law went into effect.[^ee]  The average wireless "fiend," who has not followed the topic from the start will be interested in the following facts:

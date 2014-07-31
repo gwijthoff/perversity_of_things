@@ -6,6 +6,10 @@ author: |
 date: September 1927
 ---
 
+**DRAFT:** *Please do not share without permission of the author. Typeset versions in  [web](http://gernsback.wythoff.net/192709_electric_duel.html) \| [pdf](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/192709_electric_duel.pdf?raw=true) \| [doc](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/192709_electric_duel.docx)*
+
+* * * * * * * * 
+
 ![Two duelists are provided with a hood or skull cap, analogous to the connection used in the electric chair.  These caps are connected by a wire to a high potential electric line.  The same line is grounded.  With long poles they attempt to push each other off an insulated platform.  Whoever touches the ground will be killed.](/images/electric_duel.png)
 
 **A** NEWS item from Milan, Italy, reports the strangest duel, probably, that ever was fought between two men.  It was supposed to be a contest to the death---the first electric duel in history.  The story has it that two young Italians employed in one of Milan's great industrial electric works, became enamored of the Superintendent's daughter and fought many fistic battles over the titian haired, comely young woman, reported to be one of the belles of Milan.  she could not make up her mind whether she would be the future Mrs. Alessandro Fabiano or Mrs. Benedetto Luigi.

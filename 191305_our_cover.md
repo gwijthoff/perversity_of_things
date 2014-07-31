@@ -6,6 +6,10 @@ author: |
 date: May 1913
 ---
 
+**DRAFT:** *Please do not share without permission of the author. Typeset versions in  [web](http://gernsback.wythoff.net/191305_a_treatise_on_wireless.html) \| [pdf](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/191305_a_treatise_on_wireless.pdf?raw=true) \| [doc](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/191305_a_treatise_on_wireless.docx)*
+
+* * * * * * * * 
+
 ![](/images/ee_191504_cover.jpg)
 
 The idea of our cover was conceived by the writer with the intention of inspiring the electrical experimenter at large.[^col]  There is nothing fantastic about this cover, nothing impossible.  It will all be very real in a comparatively short time.  It is up to our experimenters to make it an accomplished fact.

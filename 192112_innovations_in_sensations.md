@@ -6,6 +6,10 @@ author: |
 date: December 1921
 ---
 
+**DRAFT:** *Please do not share without permission of the author. Typeset versions in  [web](http://gernsback.wythoff.net/192112_innovations_in_sensations.html) \| [pdf](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/192112_innovations_in_sensations.pdf?raw=true) \| [doc](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/192112_innovations_in_sensations.docx)*
+
+* * * * * * * * 
+
 **C**IVILIZATION, as we well know, brings with it a host of novel diseases as well as pleasures. The craving for pleasurable sensations, as the human race advances, becomes more and more pronounced, for reasons only imperfectly understood today. Among mammals and insects rhythmical sensations such as those due to music are not at developed, or very little. Music, altho heard perfectly by a horse or a dog, leaves but little impression upon them, altho certain notes will make a dog howl. Rhythmical music, however, will leave him unresponsive whereas it will stir the human deeply. Dancing, another rhythmical expression is unknown among animals, man being apparently the only living being who can practice and enjoy it. Rhythmical sensations are enjoyed by all mankind; even the lowest aborigine has his tom-tom music and his sacred dance—--crude to our understanding---but well developed nevertheless.
 
 Music, as we understand the term, is of but recent origin. The ancient Egyptians, the Hebrews, the Greeks, had their so-called chants, but they were simple and uncom-plicated. Tho rhythmical dancing was well developed among the Greeks; it was accomplished without the use of real music. Rhythmical beating of drums, or blowing of short horns formed the sole accompaniment as a rule. 

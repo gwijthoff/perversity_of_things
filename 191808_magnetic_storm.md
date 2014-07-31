@@ -6,6 +6,10 @@ author: |
 date: August 1918
 ---
 
+**DRAFT:** *Please do not share without permission of the author. Typeset versions in  [web](http://gernsback.wythoff.net/191808_magnetic_storm.html) \| [pdf](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/191808_magnetic_storm.pdf?raw=true) \| [doc](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/191808_magnetic_storm.docx)*
+
+* * * * * * * * 
+
 ![From a reprint of "The Magnetic Storm" in the July 1926 issue of *Amazing Stories.*](/images/magnetic_storm.jpg)
 
 **"W**HY" Sparks had stopped reading the New York Evening World: He contemplated his old meerschaum pipe meditatively while "with his long and lanky in- dex finger, stained by many acids, he carefully rubbed a long, thin and quivering noae. This was always a sign of deep, concentrated thought of the nose's owner. It also, as a rule, in- duced the birth of a great idea.

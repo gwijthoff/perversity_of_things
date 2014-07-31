@@ -6,6 +6,10 @@ author: |
 date: August 1915
 ---
 
+**DRAFT:** *Please do not share without permission of the author. Typeset versions in  [web](http://gernsback.wythoff.net/191508_sayville.html) \| [pdf](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/191508_sayville.pdf?raw=true) \| [doc](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/191508_sayville.docx)*
+
+* * * * * * * * 
+
 **S**AYVILLE and Tuckerton are at present the only links connecting the American Continent directly with the German Empire.  Both stations can now receive and transmit wireless messages to and from Germany, without any relaying means, at any given hour of the day.[^1]
 
 First Tuckerton and now Sayville have been taken over by our watchful Government with the evident intention of preventing the two stations from committing an unneutral act, in conformity with international law practice.[^2]

@@ -6,6 +6,10 @@ author: |
 date: November 1926
 ---
 
+**DRAFT:** *Please do not share without permission of the author. Typeset versions in  [web](http://gernsback.wythoff.net/192611_the_pianorad.html) \| [pdf](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/192611_the_pianorad.pdf?raw=true) \| [doc](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/192611_the_pianorad.docx)*
+
+* * * * * * * * 
+
 **T**HIS year marks the second centenary of the creation of the piano.  There has been no radical development in the piano since except the advent of the player piano or mechanical piano.
 
 The Pianorad, which is played  very much like the piano, by means of a similar keyboard, is a new invention.  In this new musical instrument, the principles of the piano as well as the principles of radio are for the first time combined in a single musical instrument.
