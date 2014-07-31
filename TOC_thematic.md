@@ -9,13 +9,19 @@ layout: default
 Thematic Contents
 ==================
 
-- [Selected Fiction](#fiction)
-- [Broadcast Regulation](#regulation)
-- [Scientifiction](#sf)
-- [Tinkering & Technology](#tinkering)
-- [Media History](#media)
-    - [Television](#television)
-    - [Wireless](#wireless)
+[Selected Fiction](#fiction)
+
+[Broadcast Regulation](#regulation)
+
+[Scientifiction](#sf)
+
+[Tinkering & Technology](#tinkering)
+
+[Media History](#media)
+    
+|     [Television](#television)
+
+|     [Wireless](#wireless)
 
 <a name="fiction"></a>Selected Fiction
 ---------------------------------------
