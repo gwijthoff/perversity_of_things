@@ -4,5 +4,5 @@ permalink: none
 url: gernsback.wythoff.net
 defaults:
   -
-    scope:
-      type: "post"
+    values:
+      layout: "default"
