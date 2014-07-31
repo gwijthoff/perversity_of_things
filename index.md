@@ -6,4 +6,4 @@ layout: default
 
 Testing the layout.
 
-- [Chronological Table of Contents](http://gernsback.wythoff.net/_TOC_web.html)
+- [Chronological Table of Contents](http://gernsback.wythoff.net/TOC_web.html)
