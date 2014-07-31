@@ -2,3 +2,7 @@ markdown: kramdown
 pygments: true
 permalink: none
 url: gernsback.wythoff.net
+defaults:
+  -
+    scope:
+      type: "post"
