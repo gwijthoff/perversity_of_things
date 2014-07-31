@@ -2,7 +2,7 @@
 layout: post
 title: A New Interrupter
 author: |
-    *Scientific American*
+    <i>Scientific American</i>
 date: July 29, 1905
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
