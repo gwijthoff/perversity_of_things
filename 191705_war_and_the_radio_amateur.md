@@ -6,6 +6,10 @@ author: |
 date: May 1917
 ---
 
+**DRAFT:** *Please do not share without permission of the author. Typeset versions in  [web](http://gernsback.wythoff.net/191705_war_and_the_radio_amateur.html) \| [pdf](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/191705_war_and_the_radio_amateur.pdf?raw=true) \| [doc](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/191705_war_and_the_radio_amateur.docx)*
+
+* * * * * * * * 
+
 **T**HE Radio Act of 1912, under section 2 states:
 
 *Every such license shall provide that the President of the United States in time of war on public peril may cause the closing of any station for radio communication and the removal therefrom of all radio apparatus, or may authorize the use or control of any such station or apparatus by any department of the Government, upon just compensation to the owner.*

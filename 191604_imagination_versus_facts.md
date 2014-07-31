@@ -6,6 +6,10 @@ author: |
 date: April 1916
 ---
 
+**DRAFT:** *Please do not share without permission of the author. Typeset versions in  [web](http://gernsback.wythoff.net/191604_imagination_versus_facts.html) \| [pdf](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/191604_imagination_versus_facts.pdf?raw=true) \| [doc](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/191604_imagination_versus_facts.docx)*
+
+* * * * * * * * 
+
 **W**E are asked not infrequently why *The Electrical Experimenter* lends so much space to the exploitation of the future, or in other words, why we make so much of things which as yet exist but in the imagination.
 
 We admit that such is the case and furthermore we believe that more matter of this kind is printed in our pages than in any other kindred publication.  The reason should be obvious.  The electrical art and its allied branches are but a comparatively new and unexploited science.  An immense number of discoveries and inventions remain to be made, each succeeding day broadening our vision and showing how little we really do know as yet.  Every new discovery immediately leads to hundreds of other inventions and each one of them opens up new fields.  There seems to be no end or let up; indeed, there cannot be such an end in a world where everything is infinite.  We will never reach a period where everything will be known, where nothing is left to be discovered, nothing further to be invented!  Progress in science is as infinite as time, it is inconceivable how either would stop.

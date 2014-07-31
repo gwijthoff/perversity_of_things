@@ -6,6 +6,10 @@ author: |
 date: February 1920
 ---
 
+**DRAFT:** *Please do not share without permission of the author. Typeset versions in  [web](http://gernsback.wythoff.net/192002_interplanetarian_wireless.html) \| [pdf](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/192002_interplanetarian_wireless.pdf?raw=true) \| [doc](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/192002_interplanetarian_wireless.docx)*
+
+* * * * * * * * 
+
 **O**NCE again interplanetarian radio has come to the foreground. For the past few weeks the press has been full with all sorts of talk about radio from Mars and radio from Venus. Even the poor old moon has not escaped.
 
 Signor Marconi recently announced from London:

@@ -8,7 +8,7 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-**DRAFT:** *Please do not share without permission of the author. Typeset versions in [pdf](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/192210_human_progress.pdf?raw=true) | [doc](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/192210_human_progress.docx) | [web](https://github.com/gwijthoff/perversity_of_things/blob/master/192210_human_progress.md)*
+**DRAFT:** *Please do not share without permission of the author. Typeset versions in  [web](http://gernsback.wythoff.net/192210_human_progress.html) \| [pdf](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/192210_human_progress.pdf?raw=true) \| [doc](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/192210_human_progress.docx)*
 
 * * * * * * * * * * * 
 

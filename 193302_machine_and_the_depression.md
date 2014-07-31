@@ -6,6 +6,10 @@ author: |
 date: February 1933
 ---
 
+**DRAFT:** *Please do not share without permission of the author. Typeset versions in  [web](http://gernsback.wythoff.net/193302_machine_and_the_depression.html) \| [pdf](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/193302_machine_and_the_depression.pdf?raw=true) \| [doc](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/193302_machine_and_the_depression.docx)*
+
+* * * * * * * * 
+
 FOR the first time in the history of the world, it has been certified by official, charitable and other organizations, through their investigations, millions of people find themselves actually starving in the midst of plenty.[^1]  A recent German book---*"Amerika---Untergang am Ueberflus,"* (America---Perishing Amid Plenty) by A. E. Johann, is highly illuminating on this particular point.
 
 Many well-informed people immediately jump to the conclusion that it is the machine, pure and simple, which causes the depression by producing too much of everything; which in turn debases the prices, consequently reducing profits and earnings, and throwing many people out of employment.

@@ -6,6 +6,10 @@ author: |
 date: December 1921
 ---
 
+**DRAFT:** *Please do not share without permission of the author. Typeset versions in  [web](http://gernsback.wythoff.net/192112_learn_while_you_sleep.html) \| [pdf](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/192112_learn_while_you_sleep.pdf?raw=true) \| [doc](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/192112_learn_while_you_sleep.docx)*
+
+* * * * * * * * 
+
 ![](/images/si_191212_cover.jpg)
 
 **T**HE normal human life covers a period of some seventy years. During this time, the average adult sleeps eight hours a day, or roughly speaking, one-third of the time. But, the individual when he reaches seventy years of age may be said to have lived only about forty-ﬁve years. The other twenty-ﬁve years have been taken up in sleep.

@@ -6,6 +6,10 @@ author: |
 date: October 1926
 ---
 
+**DRAFT:** *Please do not share without permission of the author. Typeset versions in  [web](http://gernsback.wythoff.net/192610_imagination_and_reality.html) \| [pdf](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/192610_imagination_and_reality.pdf?raw=true) \| [doc](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/192610_imagination_and_reality.docx)*
+
+* * * * * * * * 
+
 **W**HEN reading one of our scientifiction stories in which the author gives free reign to his imagination, providing he is a good story teller, we not infrequently find ourselves deeply thrilled.  The reason is that our imagination is fired to the *n*th degree, and we thus obtain a real satisfaction from the time spent in reading the story, improbable as it often appears at first.  I should like to point out here how important this class of literature is to progress and to the race in general.
 
 The human mind is a tremendously complex machine, which often works in a very strange manner.  A man sets out to invent a certain house appliance, and while engaged in his experimental work, gets a certain stimulus that takes him in an entirely different direction, so that the first thought of the house appliance may end in the invention of a factory labor-saving device, or perhaps something even more important.

@@ -8,7 +8,7 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-**DRAFT:** *Please do not share without permission of the author. Typeset versions in [pdf](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/190805_the_dynamophone.pdf?raw=true) | [doc](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/190805_the_dynamophone.docx) | [web](https://github.com/gwijthoff/perversity_of_things/blob/master/190805_the_dynamophone.md)*
+**DRAFT:** *Please do not share without permission of the author. Typeset versions in  [web](http://gernsback.wythoff.net/190805_the_dynamophone.html) \| [pdf](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/190805_the_dynamophone.pdf?raw=true) \| [doc](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/190805_the_dynamophone.docx)*
 
 * * * * * * * * * * * 
 

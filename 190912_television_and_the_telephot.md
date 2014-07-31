@@ -6,6 +6,10 @@ author: |
 date: December 1909
 ---
 
+**DRAFT:** *Please do not share without permission of the author. Typeset versions in  [web](http://gernsback.wythoff.net/190912_television_and_the_telephot.html) \| [pdf](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/190912_television_and_the_telephot.pdf?raw=true) \| [doc](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/190912_television_and_the_telephot.docx)*
+
+* * * * * * * * 
+
 ![](/images/television_telephot1.png)
 
 Every now and then we see newspaper reports that Mr. So and So has discovered the real secret of television, only to be told again a few weeks afterwards that it has not been realized after all.[^1]

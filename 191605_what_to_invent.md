@@ -6,6 +6,10 @@ author: |
 date: May 1916
 ---
 
+**DRAFT:** *Please do not share without permission of the author. Typeset versions in  [web](http://gernsback.wythoff.net/191605_what_to_invent.html) \| [pdf](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/191605_what_to_invent.pdf?raw=true) \| [doc](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/191605_what_to_invent.docx)*
+
+* * * * * * * * 
+
 ![Advertisement for Chandlee & Chandlee](/images/what_to_invent.png)
 
 **O**F late, we are receiving a great many inquiries from experimenters, would-be inventors, inventors, as well as others, asking us to publish a "list" of useful electrical devices which as yet require to be invented.[^1]  Most of our correspondents state that they are of an inventive turn of mind and quite a few admit very frankly that in the past they have lost a good deal of money and time in trying to develop ideas which afterwards turned out to be of no earthy practical use.  By boiling down the various inquiries, this is what our correspondents desire:  "What electrical inventions are urgently required at present, and which ones are the most desirable from a financial viewpoint?"

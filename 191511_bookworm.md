@@ -6,6 +6,10 @@ author: |
 date: November 1915
 ---
 
+**DRAFT:** *Please do not share without permission of the author. Typeset versions in  [web](http://gernsback.wythoff.net/191511_bookworm.html) \| [pdf](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/191511_bookworm.pdf?raw=true) \| [doc](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/191511_bookworm.docx)*
+
+* * * * * * * * 
+
 ![](/images/bookworm.png)
 
 ## No. Umsteen hundred and forty 'leven

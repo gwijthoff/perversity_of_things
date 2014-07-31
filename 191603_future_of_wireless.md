@@ -6,6 +6,10 @@ author: |
 date: March 1916
 ---
 
+**DRAFT:** *Please do not share without permission of the author. Typeset versions in  [web](http://gernsback.wythoff.net/191603_future_of_wireless.html) \| [pdf](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/191603_future_of_wireless.pdf?raw=true) \| [doc](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/191603_future_of_wireless.docx)*
+
+* * * * * * * * 
+
 AT the present state of the art, Wireless can be sub-divided into three classes:
 
 1st. Wireless Telegraphy or Radiotelegraphy. 

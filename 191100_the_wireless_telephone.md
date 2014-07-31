@@ -6,6 +6,10 @@ author: |
 date: 1911
 ---
 
+**DRAFT:** *Please do not share without permission of the author. Typeset versions in  [web](http://gernsback.wythoff.net/191100_the_wireless_telephone.html) \| [pdf](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/191100_the_wireless_telephone.pdf?raw=true) \| [doc](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/191100_the_wireless_telephone.docx)*
+
+* * * * * * * * 
+
 # Preface
 
 The present little volume is intended for the experimenter doing research work in wireless telephony and the student who wishes to keep abreast with the youngest branch of the new wireless art.
