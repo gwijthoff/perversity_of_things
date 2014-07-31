@@ -17,7 +17,7 @@ Thematic Contents
 - [Broadcast Regulation](#regulation)
 - [Selected Fiction](#fiction)
 
-<a name-"tinkering"></a>Tinkering
+<a name="tinkering"></a>Tinkering
 ----------------------------------
 
 - A New Interrupter
@@ -36,7 +36,7 @@ Thematic Contents
 
 > *Talk to your friends with nothing more than a vile of acid!*
 
-<a name-"sf"></a>Scientifiction
+<a name="sf"></a>Scientifiction
 --------------------------------
 
 - Signaling to Mars
@@ -50,27 +50,27 @@ Scientifiction
 
 > *What will the wirelessly connected cityscape of 2013 look like?*
 
-<a name-"fiction"></a>Selected Fiction
+<a name="fiction"></a>Selected Fiction
 ---------------------------------------
 
 - *Ralph 124C 41+: A Romance of the Year 2660*
 
-<a name-"media"></a>Media History
+<a name="media"></a>Media History
 ----------------------------------
 
 - The Aerophone Number
 
 > *What do we say when we wirelessly telephone someone?*
 
-### <a name-"wireless"></a>Wireless
+### <a name="wireless"></a>Wireless
 
 - A Treatise on Wireless
 
 > *How can I get started in wireless?*
 
-### <a name-"television"></a>Television
+### <a name="television"></a>Television
 
-<a name-"regulation"></a>Broadcast Regulation
+<a name="regulation"></a>Broadcast Regulation
 ----------------------------------------------
 
 - The Wireless Joker
