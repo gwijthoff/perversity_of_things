@@ -9,3 +9,4 @@ This is the development site for an upcoming critical edition of writings by Hug
 Please do not share any portions of this work in progress without permission of the editor.
 
 - [Chronological Table of Contents](http://gernsback.wythoff.net/TOC_web.html)
+- [Thematic Table of Contents](http://gernsback.wythoff.net/TOC_thematic.html)
