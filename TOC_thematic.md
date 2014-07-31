@@ -19,9 +19,9 @@ Thematic Contents
 
 [Media History](#media)
     
-|     [Television](#television)
+> [Television](#television)
 
-|     [Wireless](#wireless)
+> [Wireless](#wireless)
 
 <a name="fiction"></a>Selected Fiction
 ---------------------------------------
