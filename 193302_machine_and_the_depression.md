@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The Machine and the Depression
 author: |
     *Technocracy Review*, vol. 1 no. 1

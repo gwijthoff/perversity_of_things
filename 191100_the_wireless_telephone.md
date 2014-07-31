@@ -1,4 +1,5 @@
 ---
+layout: post
 title: from *The Wireless Telephone*
 author: |
     A Treatise on the Low Power Wireless Telephone, Describing all the Present Systems and Inventions of the New Art.  Written for the Student and Experimenter and those engaged in Research Work on Wireless Telephony.
@@ -29,17 +30,17 @@ Wireless telephony by electromagnetic induction is not a new invention.  It has 
 
 One of the best and simplest devices which may be used to transmit speech over small distances up to 50 feet (through stone or wood walls) can be made as follows:
 
-![](images/wireless_telephone1.png)
+![](/images/wireless_telephone1.png)
 
 ## How to Make a Simple Wireless Telephone
 
 One the wall or on a large table tack 6 or 12 nails in form of a circle of 5 feet diameter, fig. 16.
 
-![](images/wireless_telephone2.png)
+![](/images/wireless_telephone2.png)
 
 Around the nails wind 80 turns of No. 28 B. & S. wire, enameled wire preferable. Bring out two leads as shown. When completed, wind tape around the coil so the turns will not unwind.  Two layers of tape are advisable as the finished coil will be somewhat stiffer then.
 
-![](images/wireless_telephone3.png)
+![](/images/wireless_telephone3.png)
 
 This coil  is the secondary.
 
@@ -77,13 +78,13 @@ Like the induction telephone, the closed circuit systems are of litte value, the
 
 To telephone up to a distance of 500 yards, the two plates must be 25 yards apart from each other, for shorter or greater distances, the plates must be separated proportionately to above figures.
 
-![](images/wireless_telephone4.png)
+![](/images/wireless_telephone4.png)
 
 M is the microphone, B the battery.
 
 The receiver is shown in fig. 20.  T is a telephone receiver of 50 or 75 Ohms.  The lower the resistance the better the results.  Two copper plates are provided again, of the same size as those of the sender and spaced the same distance apart as those of the sending station.
 
-![](images/wireless_telephone5.png)
+![](/images/wireless_telephone5.png)
 
 It is very important that the two plates of the sender face the two plates of the receiving end, else no results will be had.
 
@@ -93,7 +94,7 @@ This system may be used successfully to telephone between two houses and will gi
 
 The author, in 1903, was able to telephone over a distance of 3 miles by using the arrangement as shown in figs. 21 and 22.
 
-![](images/wireless_telephone6.png)
+![](/images/wireless_telephone6.png)
 
 Two plates, fig. 21, 3 feet square, one of copper and the other of zinc, were sunk in the ground in such a manner that C was buried 15 feet deep Z only 3 feet below the surface.  Microphone M and battery B were provided as shown.  At the receiving side, two similar plates of similar size C1 and Z1, were sunk in the same fashion, the only difference being that the plate at the right was buried 15 feet, while that at the left only 3 feet below the surface.
 
@@ -103,7 +104,7 @@ The perpendicular distance of C and Z was 300 yards, that of Z1 and C1 the same.
 
 The wires, W and W1, leading to C and C1 were carefully insulated and around all plates a saturated solution of chloride of zinc was poured.  This had a double effect.  Firstly, it set up an electromotive force between all the plates, and, secondly, chloride of zinc being very hygroscopic, it kept the earth moist and conductive around the plates.
 
-![](images/wireless_telephone7.png)
+![](/images/wireless_telephone7.png)
 
 The system proved very successful and was in use for over 8 months.
 
@@ -115,13 +116,13 @@ This invention relates to means and apparatus for the transmission of speech and
 
 In carrying out this invention the inventors provide the transmitting apparatus with two or more earth connections, through which are conducted a combination of high-potential discharges and low tension currents whose circuit or circuits are completed through numerous lines of current-flow which traverse the earth.  The transmitted impulses enter the earth by one of the same earth connections and after traversing the same return to complete the other.  This receiving apparatus (hereinafter described) is also provided with two or more earth connections which are adapted to cut the said lines of current-flow (in the neighborhood of the distant receiver) at points of different potential, causing some of the transmitted energy to pass through them and to actuate the receiver.
 
-![](images/wireless_telephone8.png)
+![](/images/wireless_telephone8.png)
 
-![](images/wireless_telephone9.png)
+![](/images/wireless_telephone9.png)
 
-![](images/wireless_telephone10.png)
+![](/images/wireless_telephone10.png)
 
-![](images/wireless_telephone11.png)
+![](/images/wireless_telephone11.png)
 
 Fig. 22a shows one form of transmitter.  Fig 22b shows a modified form thereof, and Figs. 22c and 22d are respectively different forms of receiving apparatus adapted for use with the transmitter.
 

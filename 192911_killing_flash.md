@@ -1,11 +1,12 @@
 ---
+layout: post
 title: The Killing Flash
 author: |
     *Science Wonder Stories*, vol. 1 no. 6
 date: November 1929
 ---
 
-![I cut him short with: “Take that, you monster!”---and, jumping back, I press the switch. There is a blinding flash.](images/killing_flash.png)
+![I cut him short with: “Take that, you monster!”---and, jumping back, I press the switch. There is a blinding flash.](/images/killing_flash.png)
 
 March 1.
 ESTERDAY Lindenfeld signed his own doom,  although  he  did  not  suspect  it.

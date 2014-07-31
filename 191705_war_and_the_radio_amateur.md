@@ -1,4 +1,5 @@
 ---
+layout: post
 title: War and the Radio Amateur
 author: |
     *Electrical Experimenter* vol. 5 no. 1

@@ -1,4 +1,5 @@
---- 
+---
+layout: post
 title: Interplanetarian Wireless
 author: | 
     *Radio Amateur News*, vol. 1 no. 8

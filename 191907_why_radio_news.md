@@ -1,4 +1,5 @@
---- 
+---
+layout: post
 title: Why "Radio Amateur News" is Here
 author: | 
     *Radio Amateur News*, vol. 1 no. 1

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: New Radio "Things" Wanted
 author: |
     *Radio News*, vol. 8 no. 11

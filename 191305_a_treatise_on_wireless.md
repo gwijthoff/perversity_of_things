@@ -1,4 +1,5 @@
 ---
+layout: post
 title: A Treatise on Wireless Telegraphy
 author: |
     *The Electrical Experimenter*, vol. 1 no. 1 \- 2
@@ -126,7 +127,7 @@ If you are entirely surrounded by high mountains or steel buildings, you natural
 
 This seems to be the greatest stumbling block for most beginners.  Again let us make a comparison.  Take two pianos and place them in the same room.  Or two violins will do as well.  Tune two strings, one on each instrument, so both will give exactly the same note.  Pick one of the strings in order to sound it, and the other "tuned" string, although 10 feet away will sound in unison, although you did not touch it.  *Both are now in tune.*  Both give out the same (sound) wave length.  No mystery here.  The secret lies in the fact that both strings ARE OF THE SAME LENGTH, and have the same tension, roughly speaking.  Make one string longer than the other and both are "out of tune."
 
-![A Good Aerial.](images/a_good_aerial.png)
+![A Good Aerial.](/images/a_good_aerial.png)
 
 The same in wireless.  Nearly all commercial stations operate on a wave length of from 300 to 600 meters.  (A meter measures 39.37 inches.)  Now in order that you can hear such a station, you must be able to tune up to 600 meters; roughly speaking your aerial should be 600 meters long electrically.  That, however, would be a pretty expensive and cumbersome aerial.  Besides it isn't required.  We simply wind, roughly speaking, 600 meters of wire on a coil or drum and our aerial can now be quite small, within certain limits of course, and we can for this reason "catch" the station having a 600 meter wave length, providing our other instruments are sensitive enough.  Thus, for instance, it will be seen that the E. I. Co. No. 8486 tuning coil, as well as their No. 12002 loose coupler have sufficient wave length capacity to catch 700 meter waves.  As they are both provided with adjusting sliders, more or less wire can be put into the circuit and therefore both these instruments can be used to catch wave lengths from 100 up to 700 meters, but not over this amount.[^sli]
 
@@ -146,7 +147,7 @@ We presume you have a complete receiving set.  You proceed thus:
 
 First, you must know if your detector is adjusted to its best sensitiveness.  If no message comes in you don't know if your detector is in its best receptive condition.  For this reason, the up-to-date wireless man uses the "Buzzer test."  Aside from giving imitation wireless buzzes, the buzzer may be used *to practice telegraphy.*  It consists of three things:  1st--Any buzzers, such as the E. I. Co. No. 954, or better No. 965 or No. 950: 2nd---E. I. Co. No. 1118 key; 3rd---A dry cell.  Connections MUST be made as shown.  Now every time you press the key you will get a perfect imitation of a wireless signal and it becomes child's play to adjust the detector to its greatest efficiency.  The buzzer test can of course be used with ANY detector.  It saves lots of time and bother and is quite necessary.  Sometimes a detector may have a "dead spot" and you will be "listening in" for hours, without being able to catch as much as one dot.  The buzzer test makes such an occurrence impossible."
 
-![Only One Wire Goes to Detector](images/to_detector.png)
+![Only One Wire Goes to Detector](/images/to_detector.png)
 
 In order that the buzzer itself is not heard directly, it is usually wrapped in absorbant cotton or wadding which muffles its sound effectively, or it may also be placed in another room.
 
@@ -231,7 +232,7 @@ In the tuned outfits, we have in addition to the above enumerated apparatus:  5t
 
 The helix as well as the oscillations transformer, are, to the sending outfit, what the tuner and the loose copuler respectively, are to the receiving outfit.[^cdr]  The helix or the oscillation transformer is the tuning coil pure and simple for the transmitting station.  Like the tuning coil the helix and the oscillation transformer have sliders or else clips by means of which more or less wire convolutions can be put in the circuit of the aerial.  Therefore more or less wire, and consequently more or less wave length is added to your aerial.  Again there is not much of a mystery here.  Anyone understands it.  (See E. I. Co. Wireless Course Lesson No. 14.)
 
-![](images/to_instrument.png)
+![](/images/to_instrument.png)
 
 In the larger sets where the battery power is insufficient as well as un-economical we have two methods open to fill the gap.  One is the Gernsback electrolytic interrupter working on 110 volts Direct or Alternating current, which supplies the spark coil (transformer coil) with the power;[^plg] the other method requires the use of a CLOSED core transformer operating without any kind of interrupter direct from the alternating current supply.  This kind of transformer, however, does not work on the direct current, not even in connection with the electrolytic interrupter.  The choice, for this reason lies entirely with you.
 
@@ -289,7 +290,7 @@ We believe that we have made everything as plain as possible and that by reading
 
 [^cpl]:  A loose coupler could stand in place of a tuning coil?  "In order to obtain maximum sharpness of tuning loose coupling between oscillating and receiving circuits is of utmost importance.  Hitherto it has been the prevailing custom to merely separate the two coils, a method which of course, is very crude.  With powerful and slightly damped received impulses, this separation is frequently required to be so large as to be impractical.  [… The loose coupler] permits of a coupling which is theoretically infinitely loose---something not accomplished by great separation nor by merely turning the axes of two coils at right angles to one another.  The inner spherical coil, showin in the illustration, is made up of several layers of wire on a spherical ebonite drum, wound in a peculiar fashion to bring each wire to the surface equally.  This inner coil can instantly be removed and replaced by another, having a different inductance value.  On account of the design of this coil the air gap between the fixed inner and the rotating outer coil is very small.  The outer coil can be changed in any position and may be used either as primary or secondary of the oscillation transformer, as desired."  Anon., "Modern Wireless Instruments, *Modern Electrics*, January 1909.
 
-    ![](images/loose_coupler.png) <!-- no figure -->
+    ![](/images/loose_coupler.png) <!-- no figure -->
 
 [^eph]:  Gernsback: "Wireless Telegraph or Telephone sending stations included."
 

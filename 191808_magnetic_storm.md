@@ -1,11 +1,12 @@
 ---
+layout: post
 title: The Magnetic Storm
 author: |
     *Electrical Experimenter*, vol. 6 no. 4
 date: August 1918
 ---
 
-![From a reprint of "The Magnetic Storm" in the July 1926 issue of *Amazing Stories.*](images/magnetic_storm.jpg)
+![From a reprint of "The Magnetic Storm" in the July 1926 issue of *Amazing Stories.*](/images/magnetic_storm.jpg)
 
 **"W**HY" Sparks had stopped reading the New York Evening World: He contemplated his old meerschaum pipe meditatively while "with his long and lanky in- dex finger, stained by many acids, he carefully rubbed a long, thin and quivering noae. This was always a sign of deep, concentrated thought of the nose's owner. It also, as a rule, in- duced the birth of a great idea.
 
@@ -193,7 +194,7 @@ He ran to the wagon which carried the mobile radio field apparatus and peremptor
 
 As he sent out the call mechanically, he wondered vaguely what the matter could be with the govern- ment, because it did not even supply a modern, up- to-date Laschfunkenstrecke — quenched spark gap— i for field use. Things must be pretty bad when the government must economize even a few beggarly pounds of brass, so necessary for a noiseless spark gap.
 
-![Advertisement for International Correspondence Schools](images/you_get_the_job.jpg)
+![Advertisement for International Correspondence Schools](/images/you_get_the_job.jpg)
 
 But he could not give that matter further atten- tion for he had thrown the aerial switch from "sending" to "receiving."
 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: A New Interrupter
 author: |
     *Scientific American*
@@ -17,7 +18,7 @@ After many fruitless experiments I succeeded in making such an interrupter, and 
 
 A barometric glass tube of about 15 centimeters length, with a central opening of 3 millimeters, is heated in an oxy-hydrogen flame and drawn into the shape, as shown in the accompanying drawing.  This is by no means easy, as the tube, C, which represents the main part of the interrupter, must be so attenuated as to leave a capillary bore within, its minute diameter not surpassing 1/8 of a millimeter.
 
-![](images/interrupter.png)
+![](/images/interrupter.png)
 
 Heat the middle part of the tube over the flame by constantly rolling the ends between three fingers of each hand, till it is red hot and soft.  Take the tube quickly out of the flame, and draw it straight out, till it is thin enough; then bend it into the right shape, and let it cool slowly.  Of course, these manipulations have to be done quickly, because the glass will not remain soft very long in the open air, and it is nearly impossible to draw the capillary tube when the flame touches it.  The tube has to be filled then with chemically-pure mercury, which is easily done by placing the end of the open column, A, in a receptacle containing the quicksilver.  By drawing the air out of B, the mercury will quickly mount in A, then pass through C, and rise up in B.[^2]  It is well to only half fill both columns.  The apparatus will generally work satisfactorily, when the whole arrangement can be placed in any desired position without the mercury flowing out of it.  This is a sign that the capillary tube, C, is sufficiently attenuated.
 

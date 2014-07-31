@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Radio Broadcasting
 author: |
     *Science and Invention,* vol. 9 no. 12

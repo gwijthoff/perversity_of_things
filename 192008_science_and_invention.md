@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Science and Invention
 author: |
     *Science and Invention* vol. 8 no. 4

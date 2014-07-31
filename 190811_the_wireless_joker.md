@@ -1,4 +1,5 @@
 ---
+layout: post
 title: \[The Wireless Joker\]
 author: |
     *Modern Electrics*, vol. 1 no. 8

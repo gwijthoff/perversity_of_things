@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Imagination and Reality
 author: |
     *Amazing Stories* vol. 1 no. 7

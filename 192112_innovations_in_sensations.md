@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Innovations in Sensations
 author: |
     *Science and Invention,* vol. 9 no. 8
@@ -21,4 +22,4 @@ This leaves us with the last of our senses---taste. Can we transpose music into 
 
 [^1]:  Gernsback is referring to an article in this issue on "A New Color-Music Instrument" designed by William Maulsby Thomas in Los Angeles.  "The unison color-music instrument marks a great advance in all respects in the translation of music into colors.  Its predecessor, the color organ, a ponderous, costly mechanism, is insignificant by comparison, with regard to the results obtained.  The color organ projects upon a screen colors of the visual scale, corresponding to notes of the musical scale as they are sounded upon the keyboard manipulated by an executant.  Its capacity is limited to the production in sequence of colors without form.  The new instrument is compact and comparatively inexpensive---so compact that it can be enclosed in a portable case.  By adjusting relations between sound vibrations and light vibrations translations are made automatically, not only of music but of all kinds of sounds.  An interesting feature of the unison color-music instrument is that it gives each note of the musical scale a distinctive geometric figure and definite color, so that when an orchestral performance is translated and projected upon a screen the several geometric figures assemble themselves into a sequence of symmetrical multicolored forms, of great variety and beauty."
 
-    ![](images/color-music.png)  <!-- no figure -->
+    ![](/images/color-music.png)  <!-- no figure -->

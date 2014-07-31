@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Sayville
 author: |
     *The Electrical Experimenter*, vol. 3 no. 4

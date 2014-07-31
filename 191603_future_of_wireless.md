@@ -1,4 +1,5 @@
---- 
+---
+layout: post
 title: The Future of Wireless 
 author: | 
     *The Electrical Experimenter*, vol. 3 no. 11 

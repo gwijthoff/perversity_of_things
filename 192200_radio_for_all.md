@@ -1,11 +1,12 @@
 ---
+layout: post
 title: from *Radio For All*
 author: |
     Philadelphia (J.B Lippincott Company)
 date: 1922
 ---
 
-!["It is a mistake to think that radio is only good for the distribution of intelligence. As the illustration shows, the great uses of radio have not been touched upon as yet."](images/radio_for_all.jpg)
+!["It is a mistake to think that radio is only good for the distribution of intelligence. As the illustration shows, the great uses of radio have not been touched upon as yet."](/images/radio_for_all.jpg)
 
 # The Future of Radio
 
@@ -55,7 +56,7 @@ To go still a step further, the author in a recent article in Science & Inventio
 
 At the Polo Grounds of New York, let us say, we have a radio transmitting station in a box-like affair of about three or four times the size of a movie camera. We have a box with a lens in front, the back of the camera being composed of a great number of photo-el ectric cells. These cells have the property of passing more or less electric current, depending upon how much light falls upon the cell. A strong light will pass much current through a cell, while a weak light will pass little current. By means of these cells, we influence a modulator vacuum tube connected to the radio transmitter. This modulator sends out radio waves into space. If a strong light falls upon the electric cell, No. 1, we send out a radio wave of a certain intensity at a certain wave length, let us say 500^ meters. At the receiving end, this wave is received and is passed through the regulation radio outfit and thence through a condenser, vacuum tube and audio-frequency transformer. This audio-frequency transformer operates a small magnet which in turn influences a pivoted diaphragm. This diaphragm has mounted upon it a strip mirror about y^- inch long and 1/16-inch wide. Normal and at rest, a light ray from a common source, let us say an electric lamp, directs a single beam of light upon the diaphragm in such a manner that the light ray just misses the mirror. The least vibration of the diaphragm, however, will intercept the light ray and will reflect it upon a ground glass plate. It is evident that the more the diaphragm vibrates, the more the light ray will vibrate back and forward upon the ground glass screen.
 
-![](images/radio_for_all2.jpg)
+![](/images/radio_for_all2.jpg)
 
 If we now imagine at the sending end several hundred of the photo-electric cells and at the receiving end a like number of vibrating mirrors, we can readily see how a picture sent out from the sender can be recomposed and reconstructed at the receiver. It must be understood that our photo-electric cell sends out its own wave-length. Thus, as mentioned before, photo-electric cell No. 1 sends out a wave length of 500y 2 meters. Photo-electric cell No. 2 will send out a wave of 500>4 meters and so on. All these waves are sent out from the same aerial, and all the incoming waves are caught upon the same aerial, each wave operating its own electro-magnet and consequently the light beam. We can now see from this how our future audience will be able to witness a baseball game five hundred or five thousand miles distant, as if it were witnessing the game itself. It is, of course, understood that this transmission takes place instantaneously, so we will be enabled in the future to view distant games or other important events at the time they are taking place. This differs from the movies where we are not able to view the events at the time they take place, but always at a later date. In the future there will be the possibility of our seeing the President of the United States make an important speech, and we will be enabled to not only hear every word he utters, but see him in person as well.
 
@@ -67,4 +68,4 @@ For to believe that there is intelligence only on this earth is grotesque and fo
 
 At the time this volume is written, radio is just about twenty-five years old. If we have accomplished such wonders in a quarter of a century, who dares say what will be accomplished in twenty-five or fifty years more. Our wildest and most impossible prophesies will seem feeble. When we, therefore, say that one of the coming things is transporting solids through space, that is, sending a carload of coal from Pittsburgh to Paris within a few minutes, all by radio, and all by the invisible self-same waves, we will probably be laughed at by our experts. The thing, however, is perfectly feasible today, as we shoot solid particles through glass walls every time an X-ray picture is taken. X-rays are composed of solid particles which are just as solid as bricks or lumps of coal. When, therefore, we are asked what the future of radio is, we may say in one word, ANYTHING ! There seems to be nothing impossible that radio cannot accomplish in the future!
 
-![The power plant at the radio broadcasting station WJZ, Newark, N. J. We see here five special vacuum tubes, each generating about 50 Watts power. This gives a total power of 250 Watts, or Kilowatt. On top of the case we see the oscillation transformer which has the function of adjusting the wave length at which the broadcasting is accomplished, in this case 360 meters. The waves emitted by this station have been heard several thousand miles away.](images/radio_for_all3.jpg)
+![The power plant at the radio broadcasting station WJZ, Newark, N. J. We see here five special vacuum tubes, each generating about 50 Watts power. This gives a total power of 250 Watts, or Kilowatt. On top of the case we see the oscillation transformer which has the function of adjusting the wave length at which the broadcasting is accomplished, in this case 360 meters. The waves emitted by this station have been heard several thousand miles away.](/images/radio_for_all3.jpg)

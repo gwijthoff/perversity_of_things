@@ -1,4 +1,5 @@
 ---
+layout: post
 title: \[The Aerophone Number\]
 author: |
     *Modern Electrics*, vol. 1 no. 7
@@ -7,7 +8,7 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-![](images/me_cover_aerophone.jpg)
+![](/images/me_cover_aerophone.jpg)
 
 It affords the Editor great pleasure to present to his readers herewith the first "Aerophone" number.
 
@@ -35,7 +36,7 @@ MODERN ELECTRICS claiming several records, with this issue adds a new one to its
 
 * * * * * * * * * * * 
 
-![](images/electrical_baths.png)
+![](/images/electrical_baths.png)
 
 The accompanying illustration is not a gigantic sending helix to be used in wireless telegraphy, but it actually keeps a good many people from dying annually.  At first thought this statement sounds somewhat doubtful, but it is nevertheless the truth.
 
@@ -57,14 +58,14 @@ These high tension currents have also proved of high value in the treatment of n
 
 * * * * * * * * * * * 
 
-![Ever since this magazine was started, subscribers have been clamoring for an article on Tesla coil experiments.](images/tesla_coil1.png)
+![Ever since this magazine was started, subscribers have been clamoring for an article on Tesla coil experiments.](/images/tesla_coil1.png)
 
-![](images/tesla_coil2.png)
+![](/images/tesla_coil2.png)
 
-![](images/tesla_coil3.png)
+![](/images/tesla_coil3.png)
 
-![](images/tesla_coil4.png)
+![](/images/tesla_coil4.png)
 
-![](images/tesla_coil5.png)
+![](/images/tesla_coil5.png)
 
 [^pho]:  The medium that Gernsback attempts to name here is best understood as an early conceptualization of radio.  While the voice had been transmitted wirelessly as early as 1900, most notably by the Canadian Reginald Fessenden using an electrolytic detector (see "The Radioson Detector" for more), a reliable means for accurately sending sound, voice, and music signals was still a ways off.  Because the broadcast model of radio we are familiar with today had yet to be imagined, most projections of wireless voice transmission involved a point-to-point model resembling a telephone conversation.  "Aerophone" never took off as a name, and terms like "wireless telephone" and "radiophone" were gradually simplified to "wireless."  While the term "radio" replaced all of these by the 1920s, today there is a resurgence in the use of "wireless" thanks to new applications of the technology in cellular systems like GSM and CDMA, WiFi, near field communication, and Bluetooth.  The medium of broadcast radio came to be synonymous with the physical transmission electromagnetic signals through the space, even though that very same process provides the operative principle behind a range of technologies.  See Gernsback's "Radio Steps Out" on this idea.

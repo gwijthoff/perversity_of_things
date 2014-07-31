@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Radio Steps Out
 author: |
     *Radio News*, vol. 8 no. 10

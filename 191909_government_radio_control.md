@@ -1,4 +1,5 @@
---- 
+---
+layout: post
 title: Government Radio Control---Once More
 author: | 
     *Radio Amateur News*, vol. 1 no. 3

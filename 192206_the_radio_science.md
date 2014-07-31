@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The Radio Science
 author: |
     *Science and Invention* vol. 10 no. 2

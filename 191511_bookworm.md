@@ -1,11 +1,12 @@
---- 
+---
+layout: post
 title: Phoney Patent Offizz:\ Bookworm’s Nurse
 author: | 
     *The Electrical Experimenter*, vol. 3 no. 7
 date: November 1915
 ---
 
-![](images/bookworm.png)
+![](/images/bookworm.png)
 
 ## No. Umsteen hundred and forty 'leven
 

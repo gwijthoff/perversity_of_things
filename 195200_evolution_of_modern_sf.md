@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The Evolution of Modern Science Fiction
 date: 1952
 ---

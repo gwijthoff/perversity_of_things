@@ -1,4 +1,5 @@
 ---
+layout: post
 title: A New Sort of Magazine
 author: |
     *Amazing Stories* vol. 1 no. 1

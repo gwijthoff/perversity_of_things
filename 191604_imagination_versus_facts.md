@@ -1,4 +1,5 @@
---- 
+---
+layout: post
 title: Imagination Versus Facts
 author: | 
     *The Electrical Experimenter*, vol. 3 no. 12

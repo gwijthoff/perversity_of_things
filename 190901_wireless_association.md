@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Wireless Association of America
 author: |
     *Modern Electrics*, vol. 1 no. 10

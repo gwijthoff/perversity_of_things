@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Silencing America's Wireless
 author: |
     *The Electrical Experimenter*, vol. 5 no. 2

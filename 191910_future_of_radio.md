@@ -1,4 +1,5 @@
---- 
+---
+layout: post
 title: The Future of Radio
 author: | 
     *Radio Amateur News*, vol. 1 no. 4

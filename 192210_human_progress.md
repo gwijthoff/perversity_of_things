@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Human Progress
 author: |
     *Science and Invention*, vol. 10 no. 6

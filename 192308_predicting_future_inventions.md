@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Predicting Future Inventions
 author: |
     *Science and Invention*, vol. 11 no. 4
@@ -15,7 +16,7 @@ The art of inventing is to produce something that has not existed or has not bee
 
 There are a certain class of people, and we hear continually from them, who condemn the policy of this magazine because we exploit the future.  These good people never realize that there can be no progress without prediction.  It is impossible to have in mind an invention without planning it beforehand, and no matter how fantastic and impossible the device may appear, there is no telling when it will attain reality in the future.  To illustrate: in the August, 1918 issue of the ELECTRICAL EXPERIMENTER, the writer ran a story entitled: "The Magnetic Storm."  This was during the war and was a purely fantastic idea: the suggestion was made to stop the war by burning out all electrical instruments throughout Germany.  The idea was to have a tremendously large Tesla coil along the border, which would send a current into all electrical circuits through Germany, burning out armatures, automobile wiring, electric installations of airplanes, telegraph and telephone apparatus, etc.  While theoretically possible, the idea was very fantastic.  Cable dispatches during the middle part of June of the present year brought the news from Germany that the very thing had actually been accomplished by the powerful Nauen radio station.  A number of automobiles were stopped at a distance by the energy sent out from this station.[^1]
 
-![This editorial appears in the "Scientifiction Number" of *Science and Invention,* which placed six short stories amid the normal technical features, departments, and letters to the editor.  The issue served as a blueprint for the launch of *Amazing Stories* in 1926.](images/scientifiction_number.jpg)
+![This editorial appears in the "Scientifiction Number" of *Science and Invention,* which placed six short stories amid the normal technical features, departments, and letters to the editor.  The issue served as a blueprint for the launch of *Amazing Stories* in 1926.](/images/scientifiction_number.jpg)
 
 Then again in this magazine we have for the last ten years exploited television, the faculty of seeing at a distance.  We have shown all sorts of television schemes, all of which seemed to belong to the distant future.  We have on file a great many letters from critics denouncing us for printing such "foolishness," as they call it, because they said it would ever be impossible to invent a machine, by which a man could see at a distance.  During the latter part of June, Mr. Jenkins of Washington, publicly demonstrated before Army and Navy officials a machine, whereby it is possible not only to see at a distance but to project a film on a screen in New York and broadcast it all over the country by radio the same as voice and music is broadcast by radio now.
 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Signaling to Mars
 author: |
     *Modern Electrics*, vol. 2 no. 2
@@ -35,7 +36,7 @@ What effect the 70,000 K. W. will have on the weather or climate after they have
 
 Considering the technical side of the project, it is of course feasible.  If the necessary amount of power was to be had to-day, there would be no difficulty to try it next summer; as this is not the case, we must be patient and wait; the writer, however, hopes to see the day when the experiment will be tried.
 
-![Fig. 1](images/signaling_mars1.png)
+![Fig. 1](/images/signaling_mars1.png)
 
 Referring to the technical side, it will be necessary, of course, to tune all the sending apparatus to exacctly the same wave length, which, naturally---on account of the great distance to be overcome---should be as long as possible.  The frequency of the oscillations should be practically the same for all stations.  The result of this arrangement would be that the effect would be practically the same as if one tremendously large station of 70,000 K. W. capacity was sending.
 
@@ -43,7 +44,7 @@ Just as we may blow two or a dozen whistles of the same pitch at the same time, 
 
 There is only one more point to consider.
 
-![Fig. 2](images/signaling_mars2.png)
+![Fig. 2](/images/signaling_mars2.png)
 
 It has been demonstrated time and again that the action of the sun's rays greatly interfere with wireless telegraphy.  In fact, it is possible to send twice as far over water during the night than during the day.  This may be better understood by quoting Mr. Marconi's views: 
 
@@ -61,7 +62,7 @@ When A is sending the waves are shot out *parallel* with the sun's rays and *car
 
 That this explanation is not a mere theory is best proved by the fact that a point D and C will communicate with each other best during sunrise and sunset, the signals received being the strongest.  The electric waves during these two periods *travel parallel with the sun's rays, following the line of least resistance.*
 
-![Fig. 3](images/signaling_mars3.png)
+![Fig. 3](/images/signaling_mars3.png)
 
 During the day (Fig. 2), let A again represent the American, E the English coast station.  Now it will be easily understood why messages can be sent almost twice as far during the night as during the day.  In this instance the electric waves must *cut directly through the vast field of light,* and are being "held down" to a certain degree by the pressure of the light.
 

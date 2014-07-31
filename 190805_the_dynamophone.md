@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The Dynamophone
 author: |
     *Modern Electrics*, vol. 1 no. 2
@@ -23,7 +24,7 @@ My arrangement, as described below, to transmit or start power, etc., simply by 
 
 No new apparatus being needed in my arrangement, any amateur can easily perform the experiment.
 
-![](images/dynamophone.png)
+![](/images/dynamophone.png)
 
 Referring to plan, M represents the common transmitter as used on most telephones.  R is a fairly sensitive pony relay of seventy-five ohms.  C is a condenser to absorb excessive sparking; I, induction coil; S, oscillator balls.
 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Fiction Versus Facts
 author: |
     *Amazing Stories*, vol. 1 no. 4
