@@ -9,13 +9,13 @@ layout: default
 Thematic Contents
 ==================
 
-- [Scientifiction](#sf)
-- [Tinkering & Technology](#tinkering)
-- [Media History](#media)
-    - [Television](#television)
-    - [Wireless](#wireless)
-- [Broadcast Regulation](#regulation)
-- [Selected Fiction](#fiction)
+[Scientifiction](#sf)
+[Tinkering & Technology](#tinkering)
+[Media History](#media)
+    [Television](#television)
+    [Wireless](#wireless)
+[Broadcast Regulation](#regulation)
+[Selected Fiction](#fiction)
 
 <a name="tinkering"></a>Tinkering
 ----------------------------------
@@ -42,9 +42,6 @@ Thematic Contents
 - Signaling to Mars
 
 > *What would it take to receive a wireless message from Mars?*
-
-Scientifiction
----------------
 
 - Our Cover
 
