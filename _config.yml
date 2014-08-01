@@ -10,8 +10,8 @@ scholar:
   sort_by: none
   order: ascending
 
-  source: ./
-  bibliography: _scientifiction.bib
+  source: /
+  bibliography: scientifiction.bib
   bibliography_template: "{{reference}}"
 
   replace_strings: true
