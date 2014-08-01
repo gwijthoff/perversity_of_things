@@ -4,6 +4,8 @@ title: \[The Wireless Joker\]
 author: |
     *Modern Electrics*, vol. 1 no. 8
 date: November 1908
+bibliography: _scientifiction.bib
+csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
 **DRAFT:** *Please do not share without permission of the author. Typeset versions in  [web](http://gernsback.wythoff.net/190811_the_wireless_joker.html) \| [pdf](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/190811_the_wireless_joker.pdf?raw=true) \| [doc](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/190811_the_wireless_joker.docx)*

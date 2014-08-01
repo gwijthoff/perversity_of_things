@@ -4,6 +4,8 @@ title: What to Invent
 author: | 
     *The Electrical Experimenter*, vol. 4 no. 1
 date: May 1916
+bibliography: _scientifiction.bib
+csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
 **DRAFT:** *Please do not share without permission of the author. Typeset versions in  [web](http://gernsback.wythoff.net/191605_what_to_invent.html) \| [pdf](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/191605_what_to_invent.pdf?raw=true) \| [doc](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/191605_what_to_invent.docx)*

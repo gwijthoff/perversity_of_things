@@ -4,6 +4,8 @@ title: Imagination Versus Facts
 author: | 
     *The Electrical Experimenter*, vol. 3 no. 12
 date: April 1916
+bibliography: _scientifiction.bib
+csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
 **DRAFT:** *Please do not share without permission of the author. Typeset versions in  [web](http://gernsback.wythoff.net/191604_imagination_versus_facts.html) \| [pdf](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/191604_imagination_versus_facts.pdf?raw=true) \| [doc](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/191604_imagination_versus_facts.docx)*

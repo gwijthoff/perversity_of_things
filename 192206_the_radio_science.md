@@ -4,6 +4,8 @@ title: The Radio Science
 author: |
     *Science and Invention* vol. 10 no. 2
 date: June 1922
+bibliography: _scientifiction.bib
+csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
 **DRAFT:** *Please do not share without permission of the author. Typeset versions in  [web](http://gernsback.wythoff.net/192206_the_radio_science.html) \| [pdf](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/192206_the_radio_science.pdf?raw=true) \| [doc](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/192206_the_radio_science.docx)*

@@ -4,6 +4,8 @@ title: Government Radio Control---Once More
 author: | 
     *Radio Amateur News*, vol. 1 no. 3
 date: September 1919
+bibliography: _scientifiction.bib
+csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
 **DRAFT:** *Please do not share without permission of the author. Typeset versions in  [web](http://gernsback.wythoff.net/191909_opera_by_wireless.html) \| [pdf](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/191909_opera_by_wireless.pdf?raw=true) \| [doc](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/191909_opera_by_wireless.docx)*

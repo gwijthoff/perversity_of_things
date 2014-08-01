@@ -4,6 +4,8 @@ title: Silencing America's Wireless
 author: |
     *The Electrical Experimenter*, vol. 5 no. 2
 date: June 1917
+bibliography: _scientifiction.bib
+csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
 **DRAFT:** *Please do not share without permission of the author. Typeset versions in  [web](http://gernsback.wythoff.net/191706_silencing_americas_wireless.html) \| [pdf](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/191706_silencing_americas_wireless.pdf?raw=true) \| [doc](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/191706_silencing_americas_wireless.docx)*

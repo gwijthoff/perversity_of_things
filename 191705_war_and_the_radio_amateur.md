@@ -4,6 +4,8 @@ title: War and the Radio Amateur
 author: |
     *Electrical Experimenter* vol. 5 no. 1
 date: May 1917
+bibliography: _scientifiction.bib
+csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
 **DRAFT:** *Please do not share without permission of the author. Typeset versions in  [web](http://gernsback.wythoff.net/191705_war_and_the_radio_amateur.html) \| [pdf](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/191705_war_and_the_radio_amateur.pdf?raw=true) \| [doc](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/191705_war_and_the_radio_amateur.docx)*

@@ -4,6 +4,8 @@ title: The Electric Duel
 author: |
     *Amazing Stories*, vol. 2 no. 6
 date: September 1927
+bibliography: _scientifiction.bib
+csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
 **DRAFT:** *Please do not share without permission of the author. Typeset versions in  [web](http://gernsback.wythoff.net/192709_electric_duel.html) \| [pdf](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/192709_electric_duel.pdf?raw=true) \| [doc](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/192709_electric_duel.docx)*

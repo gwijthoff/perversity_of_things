@@ -4,6 +4,8 @@ title: Interplanetarian Wireless
 author: | 
     *Radio Amateur News*, vol. 1 no. 8
 date: February 1920
+bibliography: _scientifiction.bib
+csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
 **DRAFT:** *Please do not share without permission of the author. Typeset versions in  [web](http://gernsback.wythoff.net/192002_interplanetarian_wireless.html) \| [pdf](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/192002_interplanetarian_wireless.pdf?raw=true) \| [doc](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/192002_interplanetarian_wireless.docx)*

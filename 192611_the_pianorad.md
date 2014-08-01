@@ -4,6 +4,8 @@ title: The "Pianorad"
 author: |
     *Radio News*, vol. 8 no. 5
 date: November 1926
+bibliography: _scientifiction.bib
+csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
 **DRAFT:** *Please do not share without permission of the author. Typeset versions in  [web](http://gernsback.wythoff.net/192611_the_pianorad.html) \| [pdf](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/192611_the_pianorad.pdf?raw=true) \| [doc](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/192611_the_pianorad.docx)*

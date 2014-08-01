@@ -4,6 +4,8 @@ title: The Machine and the Depression
 author: |
     *Technocracy Review*, vol. 1 no. 1
 date: February 1933
+bibliography: _scientifiction.bib
+csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
 **DRAFT:** *Please do not share without permission of the author. Typeset versions in  [web](http://gernsback.wythoff.net/193302_machine_and_the_depression.html) \| [pdf](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/193302_machine_and_the_depression.pdf?raw=true) \| [doc](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/193302_machine_and_the_depression.docx)*

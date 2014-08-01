@@ -4,6 +4,8 @@ title: Hearing Through Your Teeth
 author: | 
     *The Electrical Experimenter*, vol. 3 no. 9 
 date: January 1916
+bibliography: _scientifiction.bib
+csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
 **DRAFT:** *Please do not share without permission of the author. Typeset versions in  [web](http://gernsback.wythoff.net/191601_hearing_through_teeth.html) \| [pdf](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/191601_hearing_through_teeth.pdf?raw=true) \| [doc](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/191601_hearing_through_teeth.docx)*

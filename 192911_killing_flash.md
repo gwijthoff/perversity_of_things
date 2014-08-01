@@ -4,6 +4,8 @@ title: The Killing Flash
 author: |
     *Science Wonder Stories*, vol. 1 no. 6
 date: November 1929
+bibliography: _scientifiction.bib
+csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
 **DRAFT:** *Please do not share without permission of the author. Typeset versions in  [web](http://gernsback.wythoff.net/192911_killing_flash.html) \| [pdf](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/192911_killing_flash.pdf?raw=true) \| [doc](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/192911_killing_flash.docx)*
