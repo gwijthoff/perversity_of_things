@@ -3,3 +3,4 @@ pygments: true
 permalink: none
 url: gernsback.wythoff.net
 noindex: true
+include: ['.htaccess']
