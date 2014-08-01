@@ -2,3 +2,23 @@ markdown: kramdown
 pygments: true
 permalink: none
 url: gernsback.wythoff.net
+gems: ['jekyll/scholar']
+scholar:
+  style: apa
+  locale: en
+
+  sort_by: none
+  order: ascending
+
+  source: ./
+  bibliography: _scientifiction.bib
+  bibliography_template: "{{reference}}"
+
+  replace_strings: true
+  join_strings:    true
+
+  details_dir:    bibliography
+  details_layout: bibtex.html
+  details_link:   Details
+
+  query: "@*"
