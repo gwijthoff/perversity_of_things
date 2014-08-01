@@ -6,6 +6,8 @@ title: Chronological Contents
     - interrupters
     - electrolytic solution
 - The Dynamophone | May 1908
+    - coherer first mention, and detector broadly
+    - Branly
     - human motor
     - telimco
 - [The Aerophone Number] | October 1908
@@ -54,7 +56,7 @@ title: Chronological Contents
 - Wireless and the Amateur: A Retrospect | February 1913
 - A Treatise on Wireless Telegraphy | May 1913
     - media materialism
-    - detector:  "crystal" difficulty of obtaining minerals, media materialism
+    - "crystal" detector, difficulty of obtaining minerals, media materialism
     - tuning coil v. loose coupler (spark coil?)  a.k.a. syntonizer? see ME 190901, p. 358
     - variable condenser (Leyden jars)
     - oscillation transformer or Helix
@@ -63,6 +65,7 @@ title: Chronological Contents
     - electrolytic / bare-point detector
     - FESSENDEN
     - De Forest's theft, spade detector
+    - first Audion mention?
 - Sayville | August 1915
 - Warfare of the Future: The Radium Destroyer | November 1915
 - Phoney Patent Offizz: Bookworm’s Nurse | November 1915
