@@ -10,7 +10,7 @@ date: December 1909
 
 * * * * * * * * 
 
-![](/images/television_telephot1.png)
+![](images/television_telephot1.png)
 
 Every now and then we see newspaper reports that Mr. So and So has discovered the real secret of television, only to be told again a few weeks afterwards that it has not been realized after all.[^1]
 
@@ -50,10 +50,10 @@ Many different systems have been proposed in the past to solve the problem by me
 
 ========
 
-![](/images/tv_tele_2.png)
-![](/images/tv_tele_3.png)
-![](/images/tv_tele_4.png)
-![](/images/tv_tele_5.png)
+![](images/tv_tele_2.png)
+![](images/tv_tele_3.png)
+![](images/tv_tele_4.png)
+![](images/tv_tele_5.png)
 
 A. Knothe proposes to solve the prob­ lem  as  follows:    C  (Fig.  1), represents a camera into which the lines coming from the batteries enter. The space be­ tween each pair of wires is bridged by a selenium cell S. If now light enters the camera it falls on S (and all the other cells), and closes the current which oper­
 ates the spark coils J.  This furnishes a

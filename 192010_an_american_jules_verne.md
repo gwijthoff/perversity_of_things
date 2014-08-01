@@ -16,9 +16,9 @@ Lu Senarens, known to tens of thousands as "Noname," was perhaps the most prolif
 
 Naturally, these were the days before the trolley car, the telephone, the submarine, the aeroplane, and many another modern invention.  Mr. Senarens, a true genius, the same as Jules Verne, had one of the most fertile imaginations.  He was not a technically-trained man nor even an engineer.  His scientific knowledge was obtained solely from reading books and other scientific publications.  His inventions were of course nothing but pure fiction and existed only on paper.
 
-![](/images/senarens1.png)
+![](images/senarens1.png)
 
-![](/images/senarens2.png)
+![](images/senarens2.png)
 
 Lu Senarens "invented" some of the most astonishing submarines, airships, war machines and other world beaters, but the strangest part about it is that in those days no one believed that either the submarine or the aeroplane would ever be actually invented.  As a matter of fact, they were considered as physically impossible, not only by Senarens himself, but by leading scientists who lived in the early 70's and 80's.  It is not generally known that Senarens corresponded regularly with Jules Verne, who encouraged the American writer and read his stories as well.
 

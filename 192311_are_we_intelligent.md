@@ -68,7 +68,7 @@ In some quarters, it is thought that this is a sign of retrogression of the race
 
 [^1]:  Depicted on the cover of this issue of *Science and Invention* is Gernsback's osophone, a device for conveying audio through bone conduction.  Gernsback was awarded a patent for the device's "sound vibrations transmitted directly to the osseous tissue of the body" the same year (US 1,521,187).  Google Glass, the optical head-mounted display released in 2013, uses this same bone conduction technology for audio.  Considering Gernsback's comparison of ant swarms to the possibility of the direct transmission of information via "thought waves," it seems that he has some sort of extra-sensory perception model of communication in mind here.
 
-    ![](/images/osophone.png) <!-- no figure -->
+    ![](images/osophone.png) <!-- no figure -->
     
 [^2]:  Jussi Parikka, writes on the long tradition of insects serving as metaphorical models for "modes of aesthetic, political, economic, and technological thought."  *Insect Media: An Archaeology of Animals and Technology* (University of Minnesota Press, 2010), xiii.  For more on how metaphors influence the design and reception of new media, see Georg Tholen, "Media Metaphorology: Irritations in the Epistemic Field of Media Studies," *South Atlantic Quarterly.* Summer 2002 101(3): 659-672
 

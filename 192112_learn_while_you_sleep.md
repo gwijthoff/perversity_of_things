@@ -10,7 +10,7 @@ date: December 1921
 
 * * * * * * * * 
 
-![](/images/si_191212_cover.jpg)
+![](images/si_191212_cover.jpg)
 
 **T**HE normal human life covers a period of some seventy years. During this time, the average adult sleeps eight hours a day, or roughly speaking, one-third of the time. But, the individual when he reaches seventy years of age may be said to have lived only about forty-ﬁve years. The other twenty-ﬁve years have been taken up in sleep.
 
@@ -26,7 +26,7 @@ You might think that, when closing your eyes during the night, light would not a
 
 Why do we not then awaken in the morning when the sun light falls into the room? Very simply because we have grown accustomed by many years of experience to this daily procedure. so it no longer disturbs us. It is the accustomed thing, that fails to disturb the subconscious self, but the unusual affects it strongly.
 
-![](/images/learn_while_you_sleep.png)
+![](images/learn_while_you_sleep.png)
 
 The writer found it necessary to digress from the real purpose of this article, simply to show how the human body acts under various stimuli.
 
