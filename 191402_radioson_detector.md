@@ -30,7 +30,7 @@ Fig. 1, greatly exaggerated, shows the elements of the ordinary bare-point "Elec
 
 ![Fig. 1](images/radioson2.png)
 
-It is, therefore, not surprising that the Radioson Detector is so marvelously sensitive.[^45]
+It is, therefore, not surprising that the Radioson Detector is so marvelously sensitive.[^exp]
 
 The writer has found, and his opinion has been shared by several Radio experts, that the Radioson to-day is unquestionably the most sensitive detector, even far surpassing the Audion, which heretofore was considered the most sensitive detector manufactured.[^5]  It is a matter of record that by connecting a double-pole, double-throw switch on one side of the Radioson and connecting on the other side of the switch to an Audion, it will be found that the Radioson is far more sensitive than the Audion.  In some cases signals that can not be heard at all with the Audion come in fairly loud with the Radioson.
 
