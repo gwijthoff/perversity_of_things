@@ -4,7 +4,7 @@ title: The Evolution of Modern Science Fiction
 date: 1952
 ---
 
-**DRAFT:** *Please do not share without permission of the author. Typeset versions in  [web](http://gernsback.wythoff.net/195200_evolution_of_modern_sf.html) \\| [pdf](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/195200_evolution_of_modern_sf.docx) [doc](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/195200_evolution_of_modern_sf.docx)*
+**DRAFT:** *Please do not share without permission of the author. Typeset versions in  [web](http://gernsback.wythoff.net/195200_evolution_of_modern_sf.html) \| [pdf](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/195200_evolution_of_modern_sf.docx) \| [doc](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/195200_evolution_of_modern_sf.docx)*
 
 * * * * * * * * 
 
@@ -41,7 +41,7 @@ The First three volumes, dated from April, 1908 to March, 1911, contained no fic
 - Hugo Gernsback \| Ralph 124C 41+ \| Modern Electrics \| 4 \| 1 \| Apr-1911
 - Hugo Gernsback \| Ralph 124C 41+ \| Modern Electrics \| 4 \| 2 \| May-1911
 - Hugo Gernsback \| Ralph 124C 41+ \| Modern Electrics \| 4 \| 3 \| Jun-1911
-- - Hugo Gernsback \| Ralph 124C 41+ \| Modern Electrics \| 4 \| 4 \| Jul-1911
+- Hugo Gernsback \| Ralph 124C 41+ \| Modern Electrics \| 4 \| 4 \| Jul-1911
 - Hugo Gernsback \| Ralph 124C 41+ \| Modern Electrics \| 4 \| 5 \| Aug-1911
 - Hugo Gernsback \| Ralph 124C 41+ \| Modern Electrics \| 4 \| 6 \| Sep-1911
 - Hugo Gernsback \| Ralph 124C 41+ \| Modern Electrics \| 4 \| 7 \| Oct-1911

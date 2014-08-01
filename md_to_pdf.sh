@@ -17,10 +17,6 @@ for f in $FILES
 do
   # extension="${f##*.}"
   filename="${f%.*}"
-  echo "Generating website"
-  jekyll build
-  echo "Converting $f to #filename.docx"
-  `pandoc -s -S --latex-engine=xelatex --filter pandoc-citeproc $f -o typeset_drafts/$filename.docx`
   echo "Converting $f to $filename.pdf"
   `pandoc -s -S --latex-engine=xelatex --filter pandoc-citeproc $f -o typeset_drafts/$filename.pdf`
 done
