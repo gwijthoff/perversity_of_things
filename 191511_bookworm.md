@@ -10,7 +10,7 @@ date: November 1915
 
 * * * * * * * * 
 
-![](/images/bookworm.png)
+![](images/bookworm.png)
 
 ## No. Umsteen hundred and forty 'leven
 
