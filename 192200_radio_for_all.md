@@ -4,6 +4,8 @@ title: from *Radio For All*
 author: |
     Philadelphia (J.B Lippincott Company)
 date: 1922
+bibliography: _scientifiction.bib
+csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
 **DRAFT:** *Please do not share without permission of the author. Typeset versions in  [web](http://gernsback.wythoff.net/192200_radio_for_all.html) \| [pdf](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/192200_radio_for_all.pdf?raw=true) \| [doc](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/192200_radio_for_all.docx)*

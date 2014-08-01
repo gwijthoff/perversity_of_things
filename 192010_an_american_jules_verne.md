@@ -4,6 +4,8 @@ title: An American Jules Verne
 author: |
     *Science and Invention* vol. 8 no. 6
 date: October 1920
+bibliography: _scientifiction.bib
+csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
 **DRAFT:** *Please do not share without permission of the author. Typeset versions in  [web](http://gernsback.wythoff.net/192010_an_american_jules_verne.html) \| [pdf](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/192010_an_american_jules_verne.pdf?raw=true) \| [doc](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/192010_an_american_jules_verne.docx)*

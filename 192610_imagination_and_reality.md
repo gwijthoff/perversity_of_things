@@ -4,6 +4,8 @@ title: Imagination and Reality
 author: |
     *Amazing Stories* vol. 1 no. 7
 date: October 1926
+bibliography: _scientifiction.bib
+csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
 **DRAFT:** *Please do not share without permission of the author. Typeset versions in  [web](http://gernsback.wythoff.net/192610_imagination_and_reality.html) \| [pdf](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/192610_imagination_and_reality.pdf?raw=true) \| [doc](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/192610_imagination_and_reality.docx)*

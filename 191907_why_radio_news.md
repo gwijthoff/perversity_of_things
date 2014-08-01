@@ -4,6 +4,8 @@ title: Why "Radio Amateur News" is Here
 author: | 
     *Radio Amateur News*, vol. 1 no. 1
 date: July 1919
+bibliography: _scientifiction.bib
+csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
 **DRAFT:** *Please do not share without permission of the author. Typeset versions in  [web](http://gernsback.wythoff.net/191907_why_radio_news.html) \| [pdf](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/191907_why_radio_news.pdf?raw=true) \| [doc](https://github.com/gwijthoff/perversity_of_things/blob/master/typeset_drafts/191907_why_radio_news.docx)*
