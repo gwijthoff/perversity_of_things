@@ -66,6 +66,8 @@ title: Chronological Contents
     - FESSENDEN
     - De Forest's theft, spade detector
     - first Audion mention?
+    - salesmanship
+    - collaboration, hardware versioning
 - Sayville | August 1915
 - Warfare of the Future: The Radium Destroyer | November 1915
 - Phoney Patent Offizz: Bookworm’s Nurse | November 1915
