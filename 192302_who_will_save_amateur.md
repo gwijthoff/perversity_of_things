@@ -178,7 +178,25 @@ The Radio Amateur
 
 **THIRD PRIZE**
 
+The radio amateur's trouble to-day is that he does not advertise himself in the right way.  A few so-called amateurs or "hams" congest the ether by sending more or less meaningless messages, using a kilowatt of power, to a brother "ham" around the corner.  The radio public which is trying to listen in on a radio program or musical concert, is of course drowned out and the blame is laid on the shoulders of the amateur, thereby giving the whole body of amateurs over the entire country a black eye, for the misdeed perpetrated by a few "hams" who don't know the meaning of tuning, 200 meters, and broadwave.  There is no reason why this condition should exist.  The well meaning, hard working amateur should take it upon himself to remonstrate with the owner of such a station or exterminate him, thereby doing away with the nuisance that is menacing their very existence.
 
+This done, the amateur should try to organize the surrounding amateurs, and form a club, having operating rules and regulations.  They should, where possible, hold concerts, showing and informing the people of the community or town just what they are doing for the betterment of radio conditions.  They should when possible try to influence the amateurs in the neighboring community or town to organize, and thereby perpetuate the once respected order of amateurs.
+
+This organization of amateurs should publish a daily bulletin, consisting of:  the weather reports, boxing, baseball and football results, and many other topics of interest that are broadcast.  Be of service to those of your community and they will begin to appreciate the amateur.  The contents of this bulletin would of course depend largely upon the people of the different communities.  This bulletin could be fastened upon a small, neat sign board, placed in front of the house of each amateur, where the neighbors in passing could read it.  It would cost next to nothing and would bring in large returns.  Not money perhaps, but reinstatement of the amateur in the esteem of the general public, which is a thing to be desired at present.  If thought necessary ,the amateur could devise some means of defraying the expense of this bulletin, by popular subscription for instance.  The people of the community would be glad to aid in defraying the expenses for the service and pleasure rendered.  There should be no trouble encountered in this.
+
+Again, the club could issue a weekly or monthly bulletin, costing only a few cents, informing the public, as to the aims and achievements of the amateur in the art of radio.  In this they should lay much stress upon the many advancements and inventions brought about by the amateur experimenter.
+
+It would be well also if the clubs would have it known that they would be pleased to have visitors.  Also that the radio enthusiast who can tune in a radio concert, but who knows nothing much about the theory and science of radio, may be present at the discussions brought up at the club if he is in earnest and wishes to learn.  If he shows interest and intelligence, receive him into your club.
+
+In every club or community there is a person or amateur who is well versed in the theory and rudiments of radio.  Let this one act as instructor.  The more one knows about the operation of a set, the less likely it is that he will create a disturbance that shall threaten the extermination of the amateur.  Do not be afraid to correct mistakes and to offer suggestions to another amateur, just because he happens to be your senior.  I do not care how old an amateur is; if he is a real "bug," he won't resent being shown his mistakes, even by one many years his junior.
+
+By now the amateur should recognize his danger and try to organize and cooperate with others in order that he may avoid bringing down upon himself the wrath of the radio public.  It will never do to have them turn against us, for they outnumber us and practically control our future, and our very existence.  They are in the majority, and they will hardly tolerate anything which they think will deprive them of their amusement and pleasure.  We had better squelch these "brass-pounders" who create such a disturbance, and who cause the ire of the pleasure seekers to be directed against us, or the "Ancient Order of Amateurs" is likely to be presented with some such motto as: "Say it with flowers," or "Peace be with you forever more," meaning that we will pass out of existence.
+
+To my mind the remedy lies with the amateurs themselves and it is only through them that the existing conditions can be bettered.
+
+I hope that the above mentioned suggestions will aid in pacifying the misunderstanding at present between we amateurs and the pleasure seeking public.
+
+So fellows, let's band together and fight for our rights as one.
 
 [^inv]: See citation from Hintz on difficulty of developing professional organizations for inventors.
 
