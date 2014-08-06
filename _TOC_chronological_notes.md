@@ -81,6 +81,7 @@ title: Chronological Contents
 - Silencing America’s Wireless | June 1917
 - Television and the Telephot | May 1918
 - The Magnetic Storm | August 1918
+- Amateur Radio Restored | June 1919
 - Why Radio Amateur News is Here | July 1919
 - Government Radio Control—Once More | September 1919
 - Grand Opera by Wireless | September 1919
