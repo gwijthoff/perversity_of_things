@@ -3,7 +3,7 @@ layout: post
 title: Edison and Radio
 author: |
  *Radio News*, vol. 8 no. 6
-date: December, 1926
+date: December 1926
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
