@@ -105,14 +105,14 @@ P., assume that the small electromag­ net connected to it causes its prong to s
 
 will  be  caused  to swing  in  exactly  the
 ·same proportion  as the amount  of  light f alling upon the selenium cell, to which it belongs.
-As each  prong  swings it sends a cur­ rent over the line L' L".   Tf now	o.  1 and Xo. 6 of  the electromagnets are en­ ergised through  the  selenium cells both cause  their  prongs  to  swing  and  send impulses OYer the line.	At  the  recei\•­ ing station G, prongs 1 ann 6 must swing I THE   SA:\IE   PROPORTIO ATE
+As each  prong  swings it sends a cur­ rent over the line L' L".   Tf now	o.  1 and Xo. 6 of  the electromagnets are en­ ergised through  the  selenium cells both cause  their  prongs  to  swing  and  send impulses OYer the line.	At  the  receiving station G, prongs 1 ann 6 must swing I THE   SA IE   PROPORTIO ATE
 ..q
 energies and  the screen  is lighted  with
 100 energies and so on.
 Thus it will  be  <;een  that if  we  have enough  selenium  cells  at  H and  enough l ight  relays  at G any  picture  in  motion will  be  transmitted  correctly  and  repro­ duced in its true phases on  the screen  S. It is only  a matter  of  building  the ap­ paratus  and  instrument:5  with  sufficient
 precision.
 The light-relay used  in some of the writer's experiments is described here­ with :
-.\ light-relay is an instrument \\:hich
+. light-relay is an instrument which
 
 
 
@@ -132,24 +132,24 @@ C. P. it is e,·ident that LR6 receiYes 100
 has the purpose to utilize''cry weak elec­ tric  impulses  to throw  a beam  of  light n a screen, which in intensity is propor­ tionate to the strength of the electric im­ pulses. In other words, if  the impulses are strong, a large amount of light is caused to fall on the screen ; if the im­ pulses are weak, a small amount of light falls on  the screen, and  so on.
 Fig. .5 shows the instrument in the perspectfre. Between the poles oi  a strong electromagnet XS. two e>.'.tremely
 fine metal wires A and A'. are stretched. The wires mav be stretched more or less by the regulati ng   crews o and o'
-The two poles N and S, are each pro­ vided with a hole 0 and 0', through which light rays arc sent in the direction p, p'.   On  the two wires, .\ and A', a
-\'ery light piece of aluminum foil B is at­ tached in such a way that no light can pass from 0 to 01 normally.
+The two poles N and S, are each pro­ vided with a hole 0 and 0', through which light rays arc sent in the direction p, p'.   On  the two wires, . and A', a
+'ery light piece of aluminum foil B is at­ tached in such a way that no light can pass from 0 to 01 normally.
 If, however, a weak current passes from a to al. the aluminum foil is de­ viated in the direction f or fl, as the case may be. In order to obtain ,·ery exact motions of the foil the  thin  wires  are best replaced by fine metal bands 0.01 millimeters thick, 0.25 millimeters wide and about 6 centimeters long. The re­ sistance of each band is about 7.5 ohms.
-..\s far as the writer knows  his plan so far is the only feasible one which can
+..s far as the writer knows  his plan so far is the only feasible one which can
 In the present article the writer will endea,·or  to  describe  sonie  points abou t alternating current  which  may be of  use to wireless experimenters.
-The source of supply generally is from a commercial 110 vt. 60-120 cvcle circuit. but this is not available bv·ev­ erv one, and as the .\. C. transformer has so many good points to commend it for use i n wireless tele\raphy, a method will be described for obtaining
-C. from a motor or dynamo wound for D. C.   :\fany experimenters own a
+The source of supply generally is from a commercial 110 vt. 60-120 cvcle circuit. but this is not available bv·ev­ erv one, and as the .. C. transformer has so many good points to commend it for use i n wireless telegraphy, a method will be described for obtaining
+C. from a motor or dynamo wound for D. C.   :fany experimenters own a
 fair  sized  D.  C.  dynamo,  say  14 to  2
-H. P. which may be used to good ad­ vantage to supply .\. C. vhen arranged as below.
+H. P. which may be used to good ad­ vantage to supply .. C. vhen arranged as below.
 It is adv isable that the machi ne be wound for a Yoltage of anywhere from  80 to 220 ''olts.   If not giving a
-D. C. voltag-e within the abO\·e limits.. it  should  he  rewound.	To  obtain  a single phase :\. C. from a two-pole or bipola r  field  D. C.  machi ne.  connect two bras« slip ri ngs, R. and R2 to two directly  opposite  points  on  the  com­ mutator. as shown  in  Fig.  l. where  B and B2 are the D. C. brushes  bearing on  the commutator, and b  and  b2 arc the :\. C. brushes bearing- on the two slip rings. which  can be mounted  and wi red as c:hown in Fig. 2.	The  fibre
+D. C. voltag-e within the abO·e limits.. it  should  he  rewound.	To  obtain  a single phase :. C. from a two-pole or bipola r  field  D. C.  machi ne.  connect two bras« slip ri ngs, R. and R2 to two directly  opposite  points  on  the  com­ mutator. as shown  in  Fig.  l. where  B and B2 are the D. C. brushes  bearing on  the commutator, and b  and  b2 arc the :. C. brushes bearing- on the two slip rings. which  can be mounted  and wi red as c:hown in Fig. 2.	The  fibre
 drum carr}ing- the two rings is clamp­ ed onto the end of the armature shaft, by means of the set screw shown. A hole is drilled through  the  centre  of the shaft to bring the two wires out to the slip rings. The wires are brought down through the fibre washer through two small holes in the side of the shaf t in to the large  centre  hole.
-The connections for a machine  hav­ ing four field poles and a drum wound armature are given in Fig. 3. By con­ necting  another set of slip rings to the points marked x, and x2 in Fig.  1, two phase .\. C. can be taken from the ma­ chine.		If three	slip rings  connected at  points	120°    apart	on   the   com­ mutator  are  utilized,  it  is  possible  to obtain a three phase A. C.   Supposing, now,	that	the	machine	has	been fixed	up  to  supply  :\. C.  The  fre­ quency of any pole machine will be. cy­
+The connections for a machine  hav­ ing four field poles and a drum wound armature are given in Fig. 3. By con­ necting  another set of slip rings to the points marked x, and x2 in Fig.  1, two phase .. C. can be taken from the ma­ chine.		If three	slip rings  connected at  points	120°    apart	on   the   com­ mutator  are  utilized,  it  is  possible  to obtain a three phase A. C.   Supposing, now,	that	the	machine	has	been fixed	up  to  supply  :. C.  The  fre­ quency of any pole machine will be. cy­
 cles  per  second  = R.P.M.  X  Yz No.
-field poles. For a bi-polar machine, running-  at.   ay. 3.600 R.P.:'.\I.. or  60
+field poles. For a bi-polar machine, running-  at.   ay. 3.600 R.P.:'.I.. or  60
 R. P. second. the frequency will equal 60 X 1 = 60 cycles per second. or 120
 alterna tion.;;.
-The machine mav be driYcn bv its pulley from an engine or water-w.heel, in which case 85 per cent. of the D. C. power rating- will be ava ilable in ..\. C.,
+The machine mav be driYcn bv its pulley from an engine or water-w.heel, in which case 85 per cent. of the D. C. power rating- will be ava ilable in ... C.,
 
 
 ========

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: |
-    Results of the $500.00 Prize Contest:
+    Results of the \$500.00 Prize Contest:
     Who Will Save the Radio Amateur?
 author: |
     *Radio News*, vol. 4 no. 8
@@ -14,7 +14,7 @@ csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 
 * * * * * * * * * * * 
 
-**I**N our October issue we published a special $500.00 prize contest, entitled: "Who Will Save the Radio Amateur?"  This was in connection with Mr. Armstrong Perry's article, "Is The Radio Amateur Doomed?"[^arm]
+**I**N our October issue we published a special \\$500.00 prize contest, entitled: "Who Will Save the Radio Amateur?"  This was in connection with Mr. Armstrong Perry's article, "Is The Radio Amateur Doomed?"[^arm]
 
 All thinking men, and most intelligent amateurs themselves had long come to the conclusion, ever since the broadcasting popularity started, that the radio amateur was indeed doomed.  By "doomed" is meant not that the radiophone popularity was to wipe out the amateur, but, rather, that IT WAS THE AMATEUR WHO DOOMED HIMSELF, and who put himself out of business.  The reason is so simple and so obvious that it is difficult to understand why the rank and file of the amateurs have not seen it for themselves long ago.
 
@@ -40,13 +40,13 @@ PRIZE WINNERS
 
 \vspace{3mm}
 
-- First Prize ($200.00)---Mr. L. W. Gundy (1 BZL), P. O. Box 67, Phillips, Me.
-- Second Prize ($100.00)---Mr. Jesse Marsten, 909 Beck St., N. Y. C.
-- Third Prize ($75.00)---Mr. Hugh Wingett, 1205 Stainback Ave., Nashville, Tenn.
-- Fourth Prize ($50.00)---Mr. E. T. Jones, 3997 Dumaine St., New Orleans, La.
-- Fifth Prize ($25.00)---Mr. L. VanSlyck, 123 Hibbard St., Ironwood, Mich
-- Sixth Prize ($25.00)---Mr. Stem Anderson, 3257 Q St., Lincoln, Neb.
-- Seventh Prize ($25.00)---Mr. Frank H. Fanning, 301 Holt St., Ashland, Ky.
+- First Prize (\$200.00)---Mr. L. W. Gundy (1 BZL), P. O. Box 67, Phillips, Me.
+- Second Prize (\$100.00)---Mr. Jesse Marsten, 909 Beck St., N. Y. C.
+- Third Prize (\$75.00)---Mr. Hugh Wingett, 1205 Stainback Ave., Nashville, Tenn.
+- Fourth Prize (\$50.00)---Mr. E. T. Jones, 3997 Dumaine St., New Orleans, La.
+- Fifth Prize (\$25.00)---Mr. L. VanSlyck, 123 Hibbard St., Ironwood, Mich
+- Sixth Prize (\$25.00)---Mr. Stem Anderson, 3257 Q St., Lincoln, Neb.
+- Seventh Prize (\$25.00)---Mr. Frank H. Fanning, 301 Holt St., Ashland, Ky.
 
 \vspace{3mm}
 
@@ -72,7 +72,7 @@ If the great and wonderful art of Radio means nothing more to the radio amateur 
 
 We thought that there must be somewhere, somehow, some way to put the radio amateur on the map so that when the name "radio amateur" was mentioned anywhere, in a crowd, or to any layman, there would be instant attention---not a questioning raise of the shoulders, as is the case now.  This brings us to our Contest:
 
-As we had foreseen, and as we mentioned in our columns of the October issue, the two articles, "IS THE RADIO AMATEUR DOOMED?" and "WHO WILL SAVE THE RADIO AMATEUR?" brought a number of letters from the narrow-minded and misguided amateurs, who, in their simplicity, thought that we were "knocking" the game, and trying to put the radio amateur out of business.  We were assailed from all sides, with many "brick-bats," and even the mouthpiece of the American Radio Relay League, who certainly should know better, said things about this contest that not even a third-rate, slandering, country newspaper would stoop to utter.  That, however was expected.  We were even questioned about the $500.00 Prize Contest, and it was darkly hinted that we were chasing the dollar in making this offer, but just how we were to do this was not mentioned.  We offered the $500.00 in prizes in good faith, and are paying out these same $500.00 today in the same good faith, cheerfully, because we know that we have accomplished something that will help to make radio amateurism in this country a real force.
+As we had foreseen, and as we mentioned in our columns of the October issue, the two articles, "IS THE RADIO AMATEUR DOOMED?" and "WHO WILL SAVE THE RADIO AMATEUR?" brought a number of letters from the narrow-minded and misguided amateurs, who, in their simplicity, thought that we were "knocking" the game, and trying to put the radio amateur out of business.  We were assailed from all sides, with many "brick-bats," and even the mouthpiece of the American Radio Relay League, who certainly should know better, said things about this contest that not even a third-rate, slandering, country newspaper would stoop to utter.  That, however was expected.  We were even questioned about the \$500.00 Prize Contest, and it was darkly hinted that we were chasing the dollar in making this offer, but just how we were to do this was not mentioned.  We offered the \$500.00 in prizes in good faith, and are paying out these same \$500.00 today in the same good faith, cheerfully, because we know that we have accomplished something that will help to make radio amateurism in this country a real force.
 
 The contest, from every point of view, with one exception, was the biggest we ever staged.  Over 5,000 replies were received from amateurs all over the world, and we received many wonderful and inspiring letters.  A thing that pleased us particularly was that letters from the best amateurs in this country were in the majority, and many hundreds were received from members of the American Radio Relay League, the Radio League of America, and all of the prominent radio clubs in the country.  The one fly in the ointment was that nearly one half of the contributors did not take the time to read the conditions, and indeed did not get the spirit of the Contest.  On page 795 of our October issue, in the gist of the entire contest, in these words:  *"What we wish, therefore, fellow amateurs, is a manuscript of not more than 1,000 words, setting forth your idea s to the best plan to put the radio amateurs on solid footing, where they can perform the greatest good for the community, and for the radio art."*  That was our message.  Nearly one half of those who answered, evidently did not take the trouble to read this, or, if they did, they thought the contest referred to something else.  The fact remains that 50 per cent of the contributors tried to save the amateur by trying to devise new legislation, to protect him!  What these contributors did not see at all was that _*no force in the whole world can save the amateur except the amateur himself._*  Most of these correspondents had an idea that the amateur was doomed on account of the interference which he is making.  Nothing can be more erroneous.  We never had such an idea in mind, and nowhere did we print a single line about such a thing, or even suggest it.  
 
@@ -111,7 +111,7 @@ Let's own up we all like to listen in once in a while.  What is to be the amateu
 \fbox{
   \parbox[c]{7cm}{
   
-WHEN we announced our $500.00 Prize Contest, we maintained that the radio amateur was doomed unless he did something to become a power in the community instead of being a question mark.  We said that the amateur activities at the present time gained the community nothing.  We offered $500.00 in prizes to have the amateurs evolve plans to make a force in the community.
+WHEN we announced our \$500.00 Prize Contest, we maintained that the radio amateur was doomed unless he did something to become a power in the community instead of being a question mark.  We said that the amateur activities at the present time gained the community nothing.  We offered \$500.00 in prizes to have the amateurs evolve plans to make a force in the community.
 
 \vspace{3mm}
 
@@ -135,7 +135,7 @@ But we want to transmit.  When the new White Radio Bill becomes law let's retran
 
 Let us prepare ourselves fro the new era.  Let us ban, as quickly as possible, by example and advice, the spark transmitter.  Let's push C.W.  It's the thing we need.  We will experiment with directional transmission and hence avoid interference.  Above all we need a wave meter, using it to keep strictly within our wave bands.  When we have opportunity for self-policing let us do it efficiently.  We should make our relay and DX work of greater value.  Let's make the subject matter of the message as important as distance itself.  It seems that we may add greatly to the radio art by doing research work.
 
-Another field for service is the realm of the boy.  Radio keeps boys at hom instead of in mischief-making gangs.  It stills a thirst for scientific knowledge and hence stimulates manhood.  A few dollars in radio supplies coupled with a friendly interest wil save many a lad from going wrong.  Boys often lack cash.  Let's teach them the possibilities of materials at hand---cardboard tubes,---brass screws, a spool of magnet wire.  The writer used, one winter, a regenerative set made of ice cream containers, brass screws for switch points, ink bottle stoppers for knobs.  The set cost without battery $14.80 and it covers a range of about 500-800 miles.  As I have been writing, a lad has just brought in for my inspection some tubes made of sheathing paper and shellac.  But let us teach painstaking care, efficient layout and mechanical thoroughness even with humble materials.  We can teach code classes, we can broadcast interesting materials as code practise.  We can show that a single amplifying tube can outrange the average spark coil.
+Another field for service is the realm of the boy.  Radio keeps boys at hom instead of in mischief-making gangs.  It stills a thirst for scientific knowledge and hence stimulates manhood.  A few dollars in radio supplies coupled with a friendly interest wil save many a lad from going wrong.  Boys often lack cash.  Let's teach them the possibilities of materials at hand---cardboard tubes,---brass screws, a spool of magnet wire.  The writer used, one winter, a regenerative set made of ice cream containers, brass screws for switch points, ink bottle stoppers for knobs.  The set cost without battery \$14.80 and it covers a range of about 500-800 miles.  As I have been writing, a lad has just brought in for my inspection some tubes made of sheathing paper and shellac.  But let us teach painstaking care, efficient layout and mechanical thoroughness even with humble materials.  We can teach code classes, we can broadcast interesting materials as code practise.  We can show that a single amplifying tube can outrange the average spark coil.
 
 If we amateurs will lead the boys of our communities we will make ourselves indispensable and contribute to community and national welfare.
 
