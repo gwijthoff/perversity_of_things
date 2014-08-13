@@ -51,6 +51,7 @@ title: Chronological Contents
 - [The Alexander Wireless Bill] + April mention? | February 1912
     - later amended as Radio Act of 1912. First mention here?
     - Hugo's recommendations here incorporated into final Radio Act, February issue, paragraph 15, 2nd part of treatise
+    - cite Hagen on Radio Act?
     - points out shortcomings in April issue, p. 24
 - Ralph, part 12 | March 1912
 - Wireless and the Amateur: A Retrospect | February 1913
