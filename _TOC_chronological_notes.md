@@ -55,6 +55,7 @@ title: Chronological Contents
     - points out shortcomings in April issue, p. 24
 - Ralph, part 12 | March 1912
 - Wireless and the Amateur: A Retrospect | February 1913
+    - last included Modern Electrics article
 - A Treatise on Wireless Telegraphy | May 1913
     - media materialism
     - "crystal" detector, difficulty of obtaining minerals, media materialism
