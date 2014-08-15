@@ -40,6 +40,7 @@ title: Chronological Contents
 - Ralph 124C 41+, part 1 | April 1911
 - Ralph, part 2 | May 1911
 - Ralph, part 3 | June 1911
+    - hypnobioscope
 - Ralph, part 4 | July 1911
 - Ralph, part 5 | August 1911
 - Ralph, part 6 | September 1911
