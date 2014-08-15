@@ -12,7 +12,7 @@ csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 
 * * * * * * * * 
 
-*Extravagant Fiction Today . . . . . . . . Cold Fact Tomorrow
+*Extravagant Fiction Today . . . . . . . . Cold Fact Tomorrow*
 
 **A** NUMBER  of letters have reached  the Editor's desk recently from enthusiastic readers who find fault with the name of the publication, namely, AMAZING STORIES.
 
