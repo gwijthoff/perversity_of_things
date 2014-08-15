@@ -12,6 +12,36 @@ csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 
 * * * * * * * * 
 
+# The Purpose of Technocracy Review
+
+**I**N presenting this, the first issue of TECHNOCRACY REVIEW, for your consideration, a few words as to the purpose and the aspirations of this magazine are in order.
+
+Since Technocracy has taken the country by storm, so many opinions and so many ideas on the subject have sprung up, that it was felt that an unbiased national organ, to disseminate the viewpoints of all factions on this intensely important movement should be presented in an authoritative publication.
+
+Let me say right at the start, that TECHNOCRACY REVIEW voices no opinion of its own.  It is a forum not only for the extreme conservatives, but also for the extreme revolutionists on this highly debatable subject.
+
+TECHNOCRACY REVIEW feels that the subject is so new and so highly controversial that it must leave a decision to the reader himself as to which party or parties are right.  Only by presenting both sides of the question or, for that matter, all sides can we hope to make this world a better place to live in.
+
+It is too soon to tell whether Technocracy will show us the way out of our present-day troubles and whether the movement will survive indefinitely.  Personally, we believe that the subject is an important one---perhaps the most important one of the present day---and for that reason, it should have every chance to be heard.
+
+The movement has already become so big, and the questions which it brings up are so tremendous and so far-reaching, that it will be difficult to foresee what the outcome will be.
+
+Technocracy, in any event, will not have smooth sailing.  It will be loved, it will be attacked, it will be condemned everywhere.
+
+And that is the reason why TECHNOCRACY REVIEW will not take sides with any faction, be it the spokesmen for Technocracy itself, be it the capitalists, the socialists or communists.
+
+All of these factions, and many others besides, are tremendously interested in the new movement.  Each may have its say in TECHNOCRACY REVIEW.  All sides will be presented.  The magazine itself will print as many diversified articles as it is possible to do in a single issue, giving as many viewpoints as humanly possible.
+
+Readers' opinions, whether *pro* or *anti,* will be published with the same idea in mind; *i.e.,* all may have their say and the best letters will be published in future issues.
+
+As to the publishers themselves, they feel they are particularly well fitted to publish a magazine of this sort.  They have published technical and semi-technical magazines for the past twenty-five years, and are, therefore, well versed in technology, as well as publishing.
+
+Their editorial staff is sufficiently diversified to include not only technicians but economists as well, to present fairly both sides of the question.
+
+This being the first issue of the magazine, we naturally would like to have a few words from you, the readers, also on your attitude toward TECHNOCRACY REVIEW.
+
+# The Machine and the Depression
+
 FOR the first time in the history of the world, it has been certified by official, charitable and other organizations, through their investigations, millions of people find themselves actually starving in the midst of plenty.[^1]  A recent German book---*"Amerika---Untergang am Ueberflus,"* (America---Perishing Amid Plenty) by A. E. Johann, is highly illuminating on this particular point.
 
 Many well-informed people immediately jump to the conclusion that it is the machine, pure and simple, which causes the depression by producing too much of everything; which in turn debases the prices, consequently reducing profits and earnings, and throwing many people out of employment.
