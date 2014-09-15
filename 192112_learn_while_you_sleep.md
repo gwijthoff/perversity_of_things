@@ -59,3 +59,5 @@ Whether he wishes to be entertained, or whether he wishes to learn, depends upon
 *Learning, which is remembering, is like any other practice.*  Some people can remember the contents of a book when only read once.  It takes others two or three readings to remember it well.  For that reason if the "sleep-reader" thinks that not enough impression has been made by one reading, of any subject, there is no difficulty in repeating it the next night, or as many nights as he desires, until he has absorbed that particular matter.
 
 All of the above is merely theoretical, of course, no machine having been tried but the writer would not be surprised to see one built and in operation in the not distant future.
+
+<!-- see also… thought_recorder_ee_v7n01_191905.jpg ? -->
