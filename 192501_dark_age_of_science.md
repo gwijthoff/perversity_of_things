@@ -63,7 +63,7 @@ THE GOLDEN AGE OF SCIENCE
 
 \vspace{3mm}
 
-is now symbolized by the golden cover of SCIENCE & INVENTION, LOOK FOR THE GOLD COVER every month!
+is now symbolized by the golden cover of SCIENCE \& INVENTION, LOOK FOR THE GOLD COVER every month!
 
   }
 }

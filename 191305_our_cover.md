@@ -20,7 +20,7 @@ The scene is laid near the coast, in almost any part of the globe.  The time, le
 
 On top of the "powerhouse" we see two towers with curious light balls.
 
-These are the *"radiofers."*  You must understand that the "power-house" which shoots forth such a colossal force, can not be frequented by humans.  As a matter of fact no human being could come near the house, or within 500 yards.  For that reason the power is entirely controlled from a distance, by wireless of course.  The control is exercised through the "radiofers."
+These are the *"radiofers."*  You must understand that the "power-house" which shoots forth such a colossal force, can not be frequented by humans.  As a matter of fact no human being could come near the house, or within 500 yards.  For that reason the power is entirely controlled from a distance, by wireless of course.  The control is exercised through the "radiofers."[^fer]
 
 In the left foreground we see a curious wheeless railroad.  The cars float actually in the air, some feet above the broad, single iron track.  The power is obtained from the distant power aerial by wireless, of course.  One will notice the aerial wires on top of the cars, which receive the energy.  The train is suspended by electromagnetism and glides smoothly along at the rate of some 200 miles an hour.[^pat]
 
@@ -29,3 +29,5 @@ In the left foreground also we see an immense 1,000-foot *"optophor"* tower.  Th
 [^col]:  A reproduction of this sketch would form the first full-color illustration on the cover a Gernsback magazine, with a similar explanation of its feasibility.  It originally appeared in a black and white version on the cover of the May 1913 issue of *Electrical Experimenter.*
 
 [^pat]:  Gernsback: "In 1912 patent No. 1,020,942 was issued to [Emile] Bachelet on such a suspended train system."
+
+[^fer]:  Radiofers were a plot device in *Ralph* used to…

@@ -6,26 +6,30 @@ title: Chronological Contents
     - interrupters
     - electrolytic solution
 - The Dynamophone | May 1908
-    - coherer first mention, and detector broadly
+    - coherer first mention, and gen'l category of detectors
     - Branly
     - human motor
     - telimco
+    - De Forest quote, but he's not introduced
 - [The Aerophone Number] | October 1908
     - radio avant la lettre
     - Fessenden as first to broadcast voice
     - first detector mention, links to "Radioson"
-    - links to "Radio Steps Out," radio's others
+    - links to "Radio Steps Out," radio's other possibilities
 - [The Wireless Joker] | November 1908
-    - law: threat of a one mentioned, not footnoted
+    - law: threat of one mentioned, not footnoted
     - how does a wireless conversation work?
 - Wireless Association of America | January 1909
     - law: WAOA founded
-    - Tom Swift and fiction outside of Hugo magazines
+    - Tom Swift boy's books and fiction outside of Hugo magazines
 - Wireless on Mars (with all editorials) | February 1909
     - difficulties of tuning
-    - Hugo's humor
+    - Hugo's humor and Mohammed Fips
 - Signaling to Mars | May 1909
+    - annual blue book
 - Television and the Telephot | December 1909
+    - selenium
+    - "autobiography mentioned, not explained
 - [The Roberts Wireless Bill] | January 1910
     - law: threatening bill proposed
     - politics of rural access to media

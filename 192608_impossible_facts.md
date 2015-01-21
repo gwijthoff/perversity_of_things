@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Impossible" Facts
+title: \'Impossible\' Facts
 author: |
     *Amazing Stories*, vol. 1 no. 5
 date: August 1926

@@ -81,7 +81,7 @@ If you are eligible fill out application sheet and state particulars as follows:
 
 In order to facilitate quick classification, please be brief and keep application sheet separate from your letter.
 
-[^qke]:  The 7.1 magnitude Messina earthquake struck Sicily on December 28, 1908, triggering a resulting tsunami and taking about 123,000 lives.  Three years later, escaping from Earthquake Island using a spark gap wireless set formed the central struggle of Victor Appleton's (nom de plume of Howard Roger Garis) *Tom Swift and His Wireless Message:*
+[^qke]:  The 7.1 magnitude Messina earthquake struck Sicily on December 28, 1908, triggering a tsunami and taking 123,000 lives.  Three years later, escaping from Earthquake Island using a spark gap wireless set formed the central struggle of the boys' book *Tom Swift and His Wireless Message* by Victor Appleton (nom de plume of Howard Roger Garis):
 
     > "But I think I can summon help."
     

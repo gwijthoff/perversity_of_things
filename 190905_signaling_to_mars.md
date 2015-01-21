@@ -106,4 +106,4 @@ And still some people wish to keep the student in the dark, to refrain him from 
 
 [^3]: Article in the May, 1908, issue M. E., page 55.
 
-[^4]: "Worlds in the MAking." See Panspermie.
+[^4]: "Worlds in the Making." See Panspermie.
