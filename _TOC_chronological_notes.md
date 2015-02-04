@@ -70,6 +70,7 @@ title: Chronological Contents
     - variable condenser (Leyden jars)
     - oscillation transformer or Helix
 - Our Cover | May 1913
+    - Radiofer
 - The Radioson Detector | February 1914
     - electrolytic / bare-point detector
     - FESSENDEN
@@ -78,8 +79,10 @@ title: Chronological Contents
     - salesmanship
     - collaboration, hardware versioning
 - Sayville | August 1915
-- Warfare of the Future: The Radium Destroyer | November 1915
+    - Luxembourg identity
+    - WWI first mention?
 - Phoney Patent Offizz: Bookworm’s Nurse | November 1915
+    - prehistory of SF in dime novels
 - The Radio League of America: A Retrospect | December 1915
 - Hearing Through Your Teeth | January 1916
 - The Future of Wireless | March 1916

@@ -26,9 +26,9 @@ I, U. R. Wright, of the Burg of Whereatin, Va., do hereby swear dreadfully, and 
 
 Full description of this wonderful apparatus follows:
 
-A small but powerful dynamo is strapped to the small of the back. On each end of the shaft is an aluminum flywheel covered with fly-paper and having teeth around the inner edge of the rim. Pawls fastened to the legs of the wearer engage these teeth and spin the dynamo when the victim walks along either fro or to, hither or thither. The current thus gen- erated is led by small wires to storage batteries concealed in the high stove-pipe hat which goes with the outfit. So a man, thus fitted out, really has "*bats* in his belfry." The top of this hat is the most ingenious part of the whole mechanism. It consists first of a shallow hard rubber pan, shaped much like a friction tight molasses bucket lid. In this lid are laid narrow strips alternately of copper and zinc, these being connected in parallel. On top of this is an image of Theodore Roosevelt, rampant, carved from a lump of copper sulphate or bluestone. More about this later.
+A small but powerful dynamo is strapped to the small of the back. On each end of the shaft is an aluminum flywheel covered with fly-paper and having teeth around the inner edge of the rim. Pawls fastened to the legs of the wearer engage these teeth and spin the dynamo when the victim walks along either fro or to, hither or thither. The current thus generated is led by small wires to storage batteries concealed in the high stove-pipe hat which goes with the outfit. So a man, thus fitted out, really has "*bats* in his belfry." The top of this hat is the most ingenious part of the whole mechanism. It consists first of a shallow hard rubber pan, shaped much like a friction tight molasses bucket lid. In this lid are laid narrow strips alternately of copper and zinc, these being connected in parallel. On top of this is an image of Theodore Roosevelt, rampant, carved from a lump of copper sulphate or bluestone. More about this later.
 
-Between the shoulders of the unfortunate is an umbrella which normally hangs down, closed, behind him. On the handle end of the umbrella is a segment of gears which engage with a small motor. Now the action is thus : When a shower starts, and the Bookworm is ambling along, face buried in a volume of "Deadwood Dick," the rain drops trickle over the Bluestone image of "Teddy," partly dissolving him and covering the zinc and copper strips with bluestone solution, thus forming an electric cell. (The bluestone image, after months of constant use, will acquire a likeness to William Jennings Bryan.) The electric current thus set up actuates a switch which cuts in the storage battery to the motor which hoists the umbrella. There is a tiny hole in the bottom of the hard rubber lid or pan which contains the zinc and copper strips so that the bluestone solution trickles very slowly out, and down the back of the wearer's neck. For this reason the patient must wear blue acid proof overalls. When all of the solution has run out, the switch is released and the umbrella is automatically let down to its normal position.
+Between the shoulders of the unfortunate is an umbrella which normally hangs down, closed, behind him. On the handle end of the umbrella is a segment of gears which engage with a small motor. Now the action is thus : When a shower starts, and the Bookworm is ambling along, face buried in a volume of "Deadwood Dick," the rain drops trickle over the Bluestone image of "Teddy," partly dissolving him and covering the zinc and copper strips with bluestone solution, thus forming an electric cell.[^dwd] (The bluestone image, after months of constant use, will acquire a likeness to William Jennings Bryan.) The electric current thus set up actuates a switch which cuts in the storage battery to the motor which hoists the umbrella. There is a tiny hole in the bottom of the hard rubber lid or pan which contains the zinc and copper strips so that the bluestone solution trickles very slowly out, and down the back of the wearer's neck. For this reason the patient must wear blue acid proof overalls. When all of the solution has run out, the switch is released and the umbrella is automatically let down to its normal position.
 
 Strapped to the chest (if he has one) of the victim is a small electric fan in circuit with a thermostat so when it is warm the thermostat starts up a delightful mountain breeze.
 
@@ -47,3 +47,19 @@ By his attorney,
 Stanley H. Covington, Lynchburg, Va.
 
 Witnesses : I. B. Darn, Whooda Thoughtit, Ischga Bibble. 
+
+[^dwd]:  *Deadwood Dick* was a series of dime novel westerns published by Edward L. Wheeler from 1877-1885.  "He wore a Stetson hat, and is said to have greeted even strangers as 'pard.'"  @johannsen_house_1950, available online at Northern Illinois University Libraries's Beadle and Adams Dime Novel Digitization Project, <http://www.ulib.niu.edu/badndp/>.
+
+    The dime novels…
+    
+    As Gary Westfahl has argued, Gernsback was a historian of science fiction as well as a founder of the genre, referring to H.G. Wells, Edgar Allan Poe, Jules Verne and the lesser known Luis Senarens in some of his first editorials for *Amazing Stories.*  @westfahl_jules_1992.  This spoof suggests that Gernsback was aware of an even deeper tradition, one that he builds upon with his own magazines.
+    
+    It wasn't until 19… that dime novels were considered in SF scholarship, beginning with the work of… 
+    
+    <http://www.sf-encyclopedia.com/entry/boys_papers>
+    
+    <http://www.sf-encyclopedia.com/entry/dime-novel_sf>
+    
+    ![](images/deadwood_dick_cover.jpg) <!-- no figure -->
+    
+    **This is seen as an origin point for American-specific SF. How do I contrast my account of its origins in the Gernsback magazines?**
