@@ -19,17 +19,19 @@ title: Chronological Contents
 - [The Wireless Joker] | November 1908
     - law: threat of one mentioned, not footnoted
     - how does a wireless conversation work?
+    - other publishers
 - Wireless Association of America | January 1909
     - law: WAOA founded
     - Tom Swift boy's books and fiction outside of Hugo magazines
 - Wireless on Mars (with all editorials) | February 1909
     - difficulties of tuning
-    - Hugo's humor and Mohammed Fips
+    - Hugo's humor and Mohammed Fips, Martians
 - Signaling to Mars | May 1909
-    - annual blue book
+    - first annual blue book announced
+    - Mars, Martians, and the possibility of alien life
 - Television and the Telephot | December 1909
     - selenium
-    - "autobiography mentioned, not explained
+    - autobiography mentioned, not explained
 - [The Roberts Wireless Bill] | January 1910
     - law: threatening bill proposed
     - politics of rural access to media
