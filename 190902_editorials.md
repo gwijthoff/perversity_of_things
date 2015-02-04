@@ -12,7 +12,7 @@ csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 
 * * * * * * * 
 
-At last wireless telegraphy has had its real christening.  For the first time in history, due directly to wireless telegraphy a terrible disaster was averted and close to 500 huan beings are now alive instead of resting on the bottom of the ocean, like so many others, before the days of wireless.
+At last wireless telegraphy has had its real christening.  For the first time in history, due directly to wireless telegraphy a terrible disaster was averted and close to 500 human beings are now alive instead of resting on the bottom of the ocean, like so many others, before the days of wireless.
 
 Only a few weeks ago there were many people who doubted the practicability and usefulness of wireless.  In fact the public at large rather had an idea that wireless was a scientific toy, and on a ship nothing but a diversion for passengers, who had too much money to spend by sending telegrams, "which never arrived at their destination, anyway."
 

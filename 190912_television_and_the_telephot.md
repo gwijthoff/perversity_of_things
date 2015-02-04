@@ -71,7 +71,7 @@ If several cells are exposed to light at the transmitter, several alternating cu
 
 These in turn operate the lamps in the various squares, assigned to them.
 
-Mr. Ruhmer has perfected the selenium cell a good deal, and as his model worked very rapidly, it will be seen that the sluggishness of the cells has been overcome to a certain extent.
+Mr. Ruhmer has perfected the selenium cell a good deal, and as his model worked very rapidly, it will be seen that the sluggishness of the cells has been overcome to a certain extent.[^sur]
 
 Simple geometric figures were transmitted quite successfully as can be seen in the photograph, where 9 squares at the transmitter were lighted and the same amount, in the same position were reproduced at the receiver. This is quite remarkable if it is remembered that only *one wire* is used between transmitter and receiver.
 
@@ -130,24 +130,16 @@ No patents were taken out on this invention by the writer, as he considers the d
 
 [^cll]: The greatest benefit of this set up is that the entire image is transmitted across a single wire, as opposed to one wire for each individual pixel, referred to in the article as "raster." This multiplexing was a unique solution to the problem of translating a two dimensional image into a one-dimensional electrical current, which was seen as the biggest stumbling block to television at that point.
 
-[^ruh]:  The majority of Ruhmer's gorgeously illustrated book, -@ruhmer_wireless_1908, deals with the technical requirements, limitations, and possibilities of *image* transmission, rather than audio.
+[^ruh]:  The majority of Ruhmer's gorgeously illustrated book, @ruhmer_wireless_1908, deals with the technical requirements, limitations, and possibilities of *image* transmission, rather than audio.
 
 [^xpo]:  A reporter for *Scientific American* visited Ruhmer's laboratory earlier that year, detailing his preparations for the Brussels Exposition:  "Mr. Ernest Ruhmer, of Berlin, well known for his inventions in the field of wireless telephony and telegraphy, has succeeded in perfecting what is probably the first demonstration apparatus which may be said actually to solve the problem of tele-vision. […] In fact, a complete and definite tele-vision apparatus, costing the trifling sum of one and a quarter million dollars, is to be the *clou* of this exposition." @schlenoff_50_2009.  
 
-    According to another article in a New Zealand newspaper, the Belgian government was entirely financing Ruhmer's experiments.  The working version prepared for the Exhibition transmitted geometric patterns from Liege, 75 miles away.  It contained 25 pixels which each cost about 15 New Zealand pounds.  Ruhmer explained to the reporter that an apparatus of at least 4,000 cells would be required "to reproduce the head and shoulders of a person" and would thus cost £60,000, while "a scene or an event requiring the background of a landscape" would require 10,000 cells and £150,000.  Ruhmer, 31 at the time, describes the possibilities of this future, sufficiently powerful apparatus as a public utility placed in major cities for shared use, since its expense would be prohibitive for individual families:
+    According to a New Zealand newspaper, the Belgian government was entirely financing Ruhmer's experiments.  The working version prepared for the Exhibition transmitted geometric patterns from Liege, 75 miles away.  It contained 25 pixels which each cost about 15 New Zealand pounds.  Ruhmer explained to the reporter that an apparatus of at least 4,000 cells would be required "to reproduce the head and shoulders of a person" and would thus cost £60,000, while "a scene or an event requiring the background of a landscape" would require 10,000 cells and £150,000.  Ruhmer, 31 at the time, describes the possibilities of this future, sufficiently powerful apparatus as a public utility placed in major cities for shared use, since its expense would be prohibitive for individual families:
     
     > A father, remote from the scene, might be enabled to see a new-born child. A death-bed scene, a last look at some dying dear one, would even be within the range of possibilities. And I can think of no scientifically insurmountable reason why the Admiralty in Berlin, let us say, might not be able to watch the German Armada at battle in the North Sea, or be in 'eye communication' with the crews, of military airships. It would all be, as I have pointed oat, a question of money that is, a sufficiently powerful apparatus.  @_seeing_1910.
 
-    Getty box 9 folder 13, Letters from Hausmann to Poupard and to Huget, 1959-1960.
+[^sur]: Dada artist Raoul Hausmann, in a letter to the art historian Yves Poupard-Lieussou, mentions that a 1901 book by Ruhmer on electro-acoustic phenomena was influential to his experiments with phonetic poetry using the magnetophone in the 1910s. @hausmann__1959
+
+    Hausmann's most famous work, the "Mechanical Head [The Spirit of Our Time]" (c. 1920), shows a subject whose perception is determined by the mechanical apparatuses affixed to it.
     
-    I am researching a pioneer in television technology, Ernst Ruhmer, who is mentioned in a particular letter(s) in the "Yves Poupard-Lieussou correspondence and collected papers on Dada and Surrealism, 1905-1984" (inventory info below).
-
-    Because I am based in New York, I am not able to visit the Getty.  Is it possible to have an electronic version of this letter sent to me?
-
-    The letter in question is in Box 9, Folder 13.  Ruhmer's name is listed in that box's description as a "mentioned individual."  It looks like that folder contains about 25 letters, so I would be happy to find the letter I'm looking for myself if you're willing to send PDFs of each.
-
-    Thanks in advance for your help!
-
-    ID/Acc. No.: 1366-524 930004 930004* 930004**
-
-    Persistent Link: http://primo.getty.edu/primo_library/libweb/action/dlDisplay.do?vid=GRI&afterPDS=true&institution=01GRI&docId=GETTY_ALMA21136222980001551
+    ![Raoul Hausmann's "Mechanical Head" \(1920\)](MechanicalHead-Hausmann.jpg) <!-- no figure -->

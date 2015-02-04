@@ -22,7 +22,7 @@ The wireless telephone of the future must be as flexible as the wire telephone o
 
 Every farmer will be able to operate his wireless telephone, when the sending and receiving  instruments will be housed in a box a foot square, without depending on the lighting current for its operation. The author predicts that in less than 10 years this stage will have been reached as it is bound to come sooner or later.
 
-Quite a little new matter will be found in  these pages and while some old matter has necessarily appeared for the sake of completeness of the book, the author trusts that the necessity of reviewing such matter will be apparent.
+Quite a little new matter will be found in these pages and while some old matter has necessarily appeared for the sake of completeness of the book, the author trusts that the necessity of reviewing such matter will be apparent.
 
 The author shall feel happy if this little volume will be the cause to advance the new art if ever so little, and he will be pleased to bear honest criticism and suggestions as to the contents of the book.
 
@@ -48,11 +48,9 @@ Around the nails wind 80 turns of No. 28 B. & S. wire, enameled wire preferable.
 
 ![](images/wireless_telephone3.png)
 
-This coil  is the secondary.
+This coil is the secondary.
 
-On the same nails wind 40 turns of No. 18 B. &
-
-S. wi re and finish it with tape the same as secondary.
+On the same nails wind 40 turns of No. 18 B. & S. wire and finish it with tape the same as secondary.
 
 This coil is the primary.
 
