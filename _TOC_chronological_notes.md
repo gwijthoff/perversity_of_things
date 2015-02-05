@@ -83,6 +83,7 @@ title: Chronological Contents
     - WWI first mention?
 - Phoney Patent Offizz: Bookworm’s Nurse | November 1915
     - prehistory of SF in dime novels
+    - racism in SF
 - The Radio League of America: A Retrospect | December 1915
 - Hearing Through Your Teeth | January 1916
 - The Future of Wireless | March 1916
