@@ -52,7 +52,7 @@ The most important fact---entirely overlooked by the press and all would-be scie
 
 That is a fact of tremendous importance.
 
-When radio first was invented some twenty odd years ago, we used but trifling wave lengths from less than 500 meters upward. It was soon found out that to bridge great distances, such as sending across the ocean and further, much longer wave lengths were absolutely necessary. In other words, *the greater the disloncv wt wish to cover the greater the wave-length we require.* Thus today our great transoceanic radio stations operate on wavelengths from 6,000 to 16,000 meters (6 to 16 kilometers). This gives an average of about 10,000 meters.
+When radio first was invented some twenty odd years ago, we used but trifling wave lengths from less than 500 meters upward. It was soon found out that to bridge great distances, such as sending across the ocean and further, much longer wave lengths were absolutely necessary. In other words, *the greater the distance we wish to cover the greater the wave-length we require.* Thus today our great transoceanic radio stations operate on wavelengths from 6,000 to 16,000 meters (6 to 16 kilometers). This gives an average of about 10,000 meters.
 
 Let us now assume that the average distance these stations cover is 5,000 miles. That gives us 2,000 meters wave-length for every 1,000 miles we cover.
 
@@ -64,6 +64,6 @@ Our conclusion must then be that *if any extra terroririal nirssage's arr picked
 
 Here then is a chance for our earnest investigator to get busy at once. Tuning coils or concentrated inductances to tune up to 30,000 kilometers (30,000,000 meters) can be assembled for less than $100 today, if used in connection with a *very* large aerial. If there are any extra-terrestrial messages, I predict quick confirmation of them.
 
-On the other hand, the intelligent creatures who know how to send radio messages across a chasm of 50 million miles, admittedly know a few things about the game themselves. They may have sent these messages for centuries upon centuries, waiting for us to grow up and finally hear them. Thus the Martians and probably the Venerians are surely on an infinitely higher plane of civiliza tion than ourselves. And we with our twenty odd years' experience in radio---don't we really look foolish in the extreme?
+On the other hand, the intelligent creatures who know how to send radio messages across a chasm of 50 million miles, admittedly know a few things about the game themselves. They may have sent these messages for centuries upon centuries, waiting for us to grow up and finally hear them. Thus the Martians and probably the Venerians are surely on an infinitely higher plane of civilization than ourselves. And we with our twenty odd years' experience in radio---don't we really look foolish in the extreme?
 
 But to make the point clear, if we *do* get messages, they probably will not all be in dots *and* dashes. They may come in musical notes, the same as we transmit radio band music from a phonograph over hundreds of miles, or they may come in the actual voice (providing these beings talk like we do), in other words, radio telephone messages. But time will tell. In the meanwhile we shall wait a bit longer.

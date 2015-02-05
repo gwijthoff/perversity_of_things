@@ -17,3 +17,10 @@ mention signaling Mars newspaper clipping: ![](signaling_mars_insert.jpg)
 * * * * * * * * * * * 
 
 Anonymity online: "Wireless Joker", "Signaling to Mars" (announcing first Blue Book), "Wireless Association."
+
+* * * * * * * * * * *
+
+Paul and illustrations
+=======================
+
+Gernsback says that producing realistic illustrations of the future is the most difficult, and most rewarding part of the magazine, and that the idea is to fire the imagination of a reader/experimenter:  "It is no easy matter to think out new things of the future and illustrating them adequately by means of expensive washdrawings or three-color cover illustrations.  Indeed, there is nothing more difficult connected with the publication." ("Imagination Versus Facts")
