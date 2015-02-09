@@ -101,6 +101,7 @@ title: Chronological Contents
 - The Future of Radio | October 1919
 - Thomas A. Edison Speaks to You | December 1919
 - Interplanetarian Wireless | February 1920
+    - Mars, communicating with
 - Science and Invention | August 1920
 - An American Jules Verne | October 1920
 - Innovations in Sensations | December 1921

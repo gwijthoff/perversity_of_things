@@ -14,7 +14,7 @@ csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 
 ![Advertisement for Chandlee & Chandlee](images/what_to_invent.png)
 
-**O**F late, we are receiving a great many inquiries from experimenters, would-be inventors, inventors, as well as others, asking us to publish a "list" of useful electrical devices which as yet require to be invented.[^1]  Most of our correspondents state that they are of an inventive turn of mind and quite a few admit very frankly that in the past they have lost a good deal of money and time in trying to develop ideas which afterwards turned out to be of no earthy practical use.  By boiling down the various inquiries, this is what our correspondents desire:  "What electrical inventions are urgently required at present, and which ones are the most desirable from a financial viewpoint?"
+**O**F late, we are receiving a great many inquiries from experimenters, would-be inventors, inventors, as well as others, asking us to publish a "list" of useful electrical devices which as yet require to be invented.[^plt]  Most of our correspondents state that they are of an inventive turn of mind and quite a few admit very frankly that in the past they have lost a good deal of money and time in trying to develop ideas which afterwards turned out to be of no earthy practical use.  By boiling down the various inquiries, this is what our correspondents desire:  "What electrical inventions are urgently required at present, and which ones are the most desirable from a financial viewpoint?"
 
 As most everyone is familiar with the important problems as yet unsolved, such as:  Electricity direct from Coal; Harnessing of the Sun's and the Ocean's Energy; Cold Light, etc., we do not for the present wish to dwell upon these.  For that reason the "list" which we suggest below will probably be more in keeping with our would-be inventors' desires.  We make no claim that the suggestions are highly original, or that they could not easily be improved upon.  We do, however, think that it would be quite profitable to invent and market any one of the ideas and devices cited.  At least that is our humble opinion.
 
@@ -26,7 +26,7 @@ As most everyone is familiar with the important problems as yet unsolved, such a
 
 ![Page from April 1916 issue of *Electrical Experimenter*](images/what_to_invent2.jpg)
 
-*Marble Substitute.*  There is an immense demand for instrument bases and parts, switch and switchboard bases, etc.  At present very expensive marble, slate, wood or composition is used.  Porcelain is cheap, but never presents a good appearance, especially for instrument bases.  Marble dust is cheap and can be readily had in large quantities.  Who will be the first *to mold* a real cheap marble base, that take a good polish?  We are aware of the fact that artificial marble is in existence.  It is, however, almost as expensive as the natural.
+*Marble Substitute.*  There is an immense demand for instrument bases and parts, switch and switchboard bases, etc.  At present very expensive marble, slate, wood or composition is used.  Porcelain is cheap, but never presents a good appearance, especially for instrument bases.  Marble dust is cheap and can be readily had in large quantities.  Who will be the first *to mold* a real cheap marble base, that take a good polish?  We are aware of the fact that artificial marble is in existence.  It is, however, almost as expensive as the natural.[^bkt]
 
 *Telephone Muffler.*  A device is needed whereby you can talk into your telephone transmitter in such a manner that a person sitting close by cannot hear what you say.  Every business office, for obvious reasons, can use such an attachment.  At the present time the business man must use a cumbersome, as well as expensive telephone booth.  There have been telephone mufflers on the market in the past, but all died a quick death; there was just one trouble with them; they didn't muffle!
 
@@ -34,4 +34,6 @@ As most everyone is familiar with the important problems as yet unsolved, such a
 
 These are only a very few suggestions.  If required we will publish more from time to time.
 
-[^1]:  Mirrors later solicitation of "plots" in *Science Wonder Stories*, v3n2 Summer 1932, for instance.  Asking for ideas, be they machines or stories.
+[^plt]:  Once he transitioned to publishing fiction magazines exclusively, Gernsback would transition to soliciting "plots" from his readers instead of inventions.  In the November 1929 issue of *Science Wonder Stories* for instance, he offers a prize of $150 in gold for story treatments: "…the more interesting, the more exciting, and *the more scientifically probable* you can make it, the better.  Remember, *anyone* can participate in this contest" (485).
+
+[^bkt]:  Bakelite, patented in 1909, was an early form of plastic that would soon become the standard for radios, especially mass produced sets.
