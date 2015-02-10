@@ -118,8 +118,8 @@ And still some people wish to keep the student in the dark, to refrain him from 
 
 [^itn]: Gernsback: \"Article in the May, 1908, issue M. E., page 55."
 
-[^spm]: Gernsback: \"'Worlds in the Making.' See Panspermie \[sic\]."  This note refers to @arrhenius_worlds_1908.  Panspermia is the theory that some form of microscopic life is spread as evenly throughout the universe as matter itself.  Arrhenius writes, "According to this theory life-giving seeds are drifting about in space.  They encounter the planets and fill their surfaces with life as soon as the necessary conditions for the existence of organic beings are established" (217).  This would imply that "all organic beings in the whole universe should be related to one another and should consist of cells which are built up of carbon, hydrogen, oxygen, and nitrogen" (229).
+[^spm]: Gernsback: \"'Worlds in the Making.' See Panspermie \[sic\]."  This note refers to @arrhenius_worlds_1908.  Panspermia is the theory that some form of microscopic life is spread just as evenly throughout the universe as matter itself.  Arrhenius writes, "According to this theory life-giving seeds are drifting about in space.  They encounter the planets and fill their surfaces with life as soon as the necessary conditions for the existence of organic beings are established" (217).  This would imply that "all organic beings in the whole universe should be related to one another and should consist of cells which are built up of carbon, hydrogen, oxygen, and nitrogen" (229).
 
 [^blu]: Electro Importing Company's annual *Blue Book* was the culmination of Gernsback's calls for greater accountability in "The Wireless Joker."  It listed the names and call signs of amateur radio operators around the country.  Part of the impetus for publishing this phone book of sorts was to encourage greater accountability for the content of wireless messages once the names of their senders were shared openly and freely.
 
-    ![](blue_book.jpg)
+    ![](images/blue_book.jpg)
