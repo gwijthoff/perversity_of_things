@@ -142,4 +142,4 @@ No patents were taken out on this invention by the writer, as he considers the d
 
     Hausmann's most famous work, the "Mechanical Head [The Spirit of Our Time]" (c. 1920), shows a subject whose perception is determined by the mechanical apparatuses affixed to it.
     
-    ![Raoul Hausmann's "Mechanical Head" \(1920\)](MechanicalHead-Hausmann.jpg) <!-- no figure -->
+    ![Raoul Hausmann's "Mechanical Head" \(1920\)](images/MechanicalHead-Hausmann.jpg) <!-- no figure -->

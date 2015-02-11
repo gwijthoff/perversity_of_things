@@ -122,4 +122,4 @@ And still some people wish to keep the student in the dark, to refrain him from 
 
 [^blu]: Electro Importing Company's annual *Blue Book* was the culmination of Gernsback's calls for greater accountability in "The Wireless Joker."  It listed the names and call signs of amateur radio operators around the country.  Part of the impetus for publishing this phone book of sorts was to encourage greater accountability for the content of wireless messages once the names of their senders were shared openly and freely.
 
-    ![](images/blue_book.jpg)
+    ![](images/blue_book.jpg) <!-- no figure -->

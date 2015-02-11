@@ -290,7 +290,7 @@ We believe that we have made everything as plain as possible and that by reading
 
 [^spc]:  Radio spectrum is today an endangered resource with the rapid expansion and popularity of mobile data.  The FCC's National Broadband Plan of 2010, for instance, in the face of a "looming spectrum crisis", proposed a massive transfer of radio spectrum to the mobile broadband industry, which, they argued, already provides all the functionality of television and radio.  The National Broadband Plan seeks to set up at least a more fluid system of spectrum management and at most a full fledged marketplace in which industries can trade their allotted airspace.  This image from the FCC shows the crowded spectrum allotment and potential "white spaces" available for reallocation.
 
-    ![](images/spectrum.png)
+    ![](images/spectrum.png) <!-- no figure -->
 
 [^sli]:  Describe this slider motion, what does it mean to "tune" in this way, what does the gesture look like?  Tuner knob turned at same time as condenser knob?  See "Thus by adjusting the tuner…"
 
