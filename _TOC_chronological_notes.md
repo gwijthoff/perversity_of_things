@@ -29,6 +29,7 @@ title: Chronological Contents
 - Signaling to Mars | May 1909
     - first annual blue book announced
     - Mars, Martians, and the possibility of alien life
+    - Arrhenius cited by Gernsback
 - Television and the Telephot | December 1909
     - selenium
     - autobiography mentioned, not explained
@@ -102,6 +103,7 @@ title: Chronological Contents
 - Thomas A. Edison Speaks to You | December 1919
 - Interplanetarian Wireless | February 1920
     - Mars, communicating with
+    - Arrhenius cited by G again
 - Science and Invention | August 1920
 - An American Jules Verne | October 1920
 - Innovations in Sensations | December 1921
