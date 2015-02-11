@@ -106,6 +106,8 @@ title: Chronological Contents
     - Arrhenius cited by G again
 - Science and Invention | August 1920
 - An American Jules Verne | October 1920
+    - dime novels
+    - racism
 - Innovations in Sensations | December 1921
 - Learn and Work While You Sleep | December 1921
 - from Radio For All | January 1922
