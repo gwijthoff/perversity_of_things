@@ -60,7 +60,7 @@ And the other day when we made him dig out a few hundred of his time-worn yellow
     
     @senarens_frank_1893, p. 15.
     
-    The dime novel paradigm is one origin point that many histories of science ficiton would gladly speed past.  But one wonders the degree to which this predecessor is still with us, considering just how many of us have played out the exact tactics of that scenario in SF-themed first person shooter video games.  [SEE VIDEO GAME ARTICLE by Jagoda IN CAMBRIDGE COMPANION?]
+    The dime novel paradigm is one origin point that many histories of science ficiton would gladly speed past.  But one wonders the degree to which this predecessor is still with us, considering just how many of us have played out the exact tactics of the Steam Wonder tank scenario in SF-themed first person shooter video games.  [SEE VIDEO GAME ARTICLE by Jagoda IN CAMBRIDGE COMPANION?]
 
 [^nbr]: Brooks Landon writes that Luis Senarens "wrote between 1,500 and 2,000 dime novel stories during his prolific career," a number that Sam Moskowitz estimates to make up "more than 75 per cent of all the hundreds of prophetic dime novels written during that period … the work of a single man."  In 1911, Senarens transitioned to the film world, writing silent film treatments and editing "one of the earlier film fan magazines, *Moving Picture Stories.*"  @landon_science_2002, p. 45. @moskowitz_explorers_1963, p. 108, 124.
 
