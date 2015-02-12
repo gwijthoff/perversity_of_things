@@ -12,6 +12,8 @@ csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 
 * * * * * * * * 
 
+![](images/sayville_cover.jpg)
+
 **S**AYVILLE and Tuckerton are at present the only links connecting the American Continent directly with the German Empire.  Both stations can now receive and transmit wireless messages to and from Germany, without any relaying means, at any given hour of the day.[^lgi]
 
 First Tuckerton and now Sayville have been taken over by our watchful Government with the evident intention of preventing the two stations from committing an unneutral act, in conformity with international law practice.[^tkr]
@@ -33,7 +35,7 @@ When Frye & Co. receive the message they consult their code book and find that i
 
 > *Adriatic will dock at Greenock.*
 
-Within twenty-five minutes after John Miller handed his message to the operator on the *Adriatic* Sayville has received and dispatched the following message to its Nauen (Germany) station:
+Within twenty-five minutes after John Miller handed his message to the operator on the *Adriatic* Sayville has received and dispatched the following message to its Nauen (Germany) station:[^nn]
 
 > *F.S. Schneider & Co.,*
 > *Friedrichstrasse, Berlin.*
@@ -53,7 +55,7 @@ In view of the above it is not quite clear how the United States Government, eve
 
 [^lgi]: Sayville, New York is located on Long Island.  Tuckerton, New Jersey is on the south-eastern Jersey shore, just north of Atlantic City.  Both towns were the sites of massive wireless telegraph stations owned by the German company Telefunken.
 
-[^tkr]:  The following month's issue explains exactly why the Sayville station was closed.  Charles A. Apgar, an amateur inventor and contributor to Gernsback's magazines, had devised a way to record wireless telegraph signals on phonograph cylinders, the first permanent record of a wireless message ever produced.  Apgar presented these recordings of covert German transmissions to the Navy, which precipitated the closing of Sayville and a law banning all amateur wireless activity.  Both a model of the value of the amateur wireless tinkerer and the cause of the entire amateur community's work being put in jeopardy, Apgar was a divisive figure.  “Meanwhile, the part played by the magazine aroused sharp resentment from the old Sayville officials. Dr. K[arl] G. Frank, head of the station, wrote a bitter letter to the editor, the point of which was a little blunted by the fact that by the time it was printed, the Government had already closed Sayville. Dr. Frank, incidentally, was later convicted as a German Intelligence agent.” @kennedy_jr._coherer_1958.  For the story of German cryptography channeled through American wireless plants during World War I, see @wythoff_invention_2014.
+[^tkr]:  The following month's issue explains exactly why the Sayville station was closed.  Charles A. Apgar, an amateur inventor and contributor to Gernsback's magazines, had devised a way to record wireless telegraph signals on phonograph cylinders, the first permanent record of a wireless message ever produced.  Using this method, Apgar produced recordings of covert German transmissions that were through Sayville to U-Boats operating in the Atlantic Ocean.  His presentation of these findings to the US Navy precipitated the closing of Sayville and a law banning all amateur wireless activities.  Both a model of the value of the amateur wireless tinkerer and the cause of the entire amateur community's work being put in jeopardy, Apgar was a divisive figure.  “Meanwhile, the part played by the magazine aroused sharp resentment from the old Sayville officials. Dr. K[arl] G. Frank, head of the station, wrote a bitter letter to the editor, the point of which was a little blunted by the fact that by the time it was printed, the Government had already closed Sayville. Dr. Frank, incidentally, was later convicted as a German Intelligence agent.” @kennedy_jr._coherer_1958.  For the story of German cryptography channeled through American wireless plants during World War I, see @wythoff_invention_2014.
 
 [^sbm]: This issue includes the latest installment of Gernsback's serial novel, *The Scientific Adventures of Baron Munchausen,* in which the narrator establishes a wireless connection with the Baron as he lands on the surface of the moon.  The next pages switch back to hard technical description with a feature that details precisely how submarines send wireless messages from the depths.
 
@@ -64,3 +66,5 @@ In view of the above it is not quite clear how the United States Government, eve
     Gernsback, "The Case of Luxembourg," *The Chicago American*, @gernsback_case_1918.  
     
     Paul Lesch argues that Gernsback actively cultivated a Luxembourgish identity throughout his life: "It is particularly interesting that Gernsback, born of German parents, not only insists on the anti-German sentiments existing in Luxembourg at the time, but seems to share them as well." @henzig_hugo_2010, p. 18.
+
+[^nn]: The large station in Nauen, Germany was the origin point for the cryptographic relayed through Sayville.  Its power was renowned throughout the world, and was the subject of much interwar speculation over secret research conducted by the Germans into "rays."  See **"Predicting Future Inventions"** (August 1923).
