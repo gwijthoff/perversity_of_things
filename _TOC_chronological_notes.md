@@ -119,10 +119,14 @@ title: Chronological Contents
 - Human Progress | October 1922
 - Spiritism | June 1923
 - Predicting Future Inventions [Scientifiction Number] | August 1923
+    - SF authors
+    - what an inventor does, how you imagine the future
+    - corporations hiring people to predict future technology trends. like coolhunting
 - The New Science and Invention | October 1923
 - Are We Intelligent? | November 1923
 - [Radio Television Plane for the Military] | November 1924
 - The Dark Age of Science  | January 1925
+    - dislike for automobiles, climate awareness of pollution and energy waste
 - A New Sort of Magazine | April 1926
 - [Objects at a Distance] | May 1926
 - Fiction Versus Facts | July 1926
