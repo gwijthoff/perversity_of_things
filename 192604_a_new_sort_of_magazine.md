@@ -35,3 +35,7 @@ We who are publishing AMAZING STORIES realize the great responsibility of this u
 Exclusive arrangements have already been made with the copyright holders of the entire voluminous works of ALL of Jules Verne's immortal stories.  Many of these stories are not known to the general American public yet.  For the first time they will be within easy reach of every reader through AMAZING STORIES.  A number of German, French and English stories of this kind by the best writers in their respective countries, have already been contracted for and we hope very shortly to be able to enlarge the magazine and in that way present always more material to our readers.
 
 How good this magazine will be in the future is up to you.  Read AMAZING STORIES---get your friends to read it and then write us what you think of it.  We will welcome constructive criticism---for only in this way will we know how to satisfy you.
+
+* * * * * * * * 
+
+    Mike Ashley argues that the choice of Jules Verne's novel *Off On a Comet, or Hector Servadec* as the featured cover story was probably for name recognition, as it was "arguably one of Verne's least scientifically plausible novels.  Gernsback admits so in his introductory blurb:  '…the author here abandons his usual scrupulously scientific attitude and gives his fancy freer rein.'"  @ashley_gernsback_2004, p. 78.

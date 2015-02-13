@@ -46,7 +46,7 @@ And the other day when we made him dig out a few hundred of his time-worn yellow
     
     @delany_racism_2000
     
-    It would be nice if Senarens could prove the exception to this rule.  Much like Lisa Yaszek's work on the hundreds of female authors (many publishing under male pen names) for whom writing science fiction in postwar suburban America was "virtually the only vehicle of political dissent," one wishes that Senarens ==might stand as an example of a nonwhite author who== could shed light on marginalized communities that participated (as editors, readers, storytellers) in the otherwise suffocatingly white male world of dime novel---and later pulp---fiction.  @yaszek_galactic_2008, p. 3, quoting Judith Merril.
+    It would be nice if Senarens could prove the exception to this rule.  Much like Lisa Yaszek's work on the hundreds of female authors (many publishing under male pen names) for whom writing science fiction in postwar suburban America was "virtually the only vehicle of political dissent," one wishes that Senarens as a Cuban author could shed light on marginalized communities that participated (as editors, readers, storytellers) in the otherwise suffocatingly white male world of dime novel---and later pulp---fiction.  @yaszek_galactic_2008, p. 3, quoting Judith Merril.
     
     Unfortunately, Senarens's work is in fact a distillation of the absolute worst tendencies of the dime novels' virulent racism and gleeful violence.  E.F. Bleiler's catalogue barely scratches the surface: "sadism, a rancorous disparaging of all races with the exception of WASPS, factual ignorance, coarse imperialist clichés about Manifest Destiny and the right of the White Man to rule the world." @bleiler_senarens_2014
     
@@ -60,7 +60,7 @@ And the other day when we made him dig out a few hundred of his time-worn yellow
     
     @senarens_frank_1893, p. 15.
     
-    The dime novel paradigm is one origin point that many histories of science ficiton would gladly speed past.  But one wonders the degree to which this predecessor is still with us, considering just how many of us have played out the exact tactics of the Steam Wonder tank scenario in SF-themed first person shooter video games.  [SEE VIDEO GAME ARTICLE by Jagoda IN CAMBRIDGE COMPANION?]
+    The dime novel paradigm is one origin point that many histories of science ficiton would gladly speed past.  But one wonders the degree to which this predecessor is still with us, considering just how many of us have played out the exact tactics of Senarens's Steam Wonder tank scenario in SF-themed first person shooter video games.
 
 [^nbr]: Brooks Landon writes that Luis Senarens "wrote between 1,500 and 2,000 dime novel stories during his prolific career," a number that Sam Moskowitz estimates to make up "more than 75 per cent of all the hundreds of prophetic dime novels written during that period … the work of a single man."  In 1911, Senarens transitioned to the film world, writing silent film treatments and editing "one of the earlier film fan magazines, *Moving Picture Stories.*"  @landon_science_2002, p. 45. @moskowitz_explorers_1963, p. 108, 124.
 

@@ -129,6 +129,9 @@ title: Chronological Contents
     - dislike for automobiles, climate awareness of pollution and energy waste
 - A New Sort of Magazine | April 1926
 - [Objects at a Distance] | May 1926
+- The Lure of Scientifiction | June 1926
+    - fans and fandom
+    - readers hunting for examples of SF stories
 - Fiction Versus Facts | July 1926
 - Impossible Facts | August 1926
 - The Double-Grid Tube | August 1926
