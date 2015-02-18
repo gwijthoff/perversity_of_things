@@ -16,8 +16,7 @@ csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 
 **I**N time to come, there is no question that science fiction will be looked upon with considerable respect by every thinking person. The reason is that science fiction has already contributed quite a good deal to progress and civilization and will do so increasingly as time goes on.
 
-It all started with Jules Verne and his *Nautilus,* which was the forerunner of all modem submarines. The brilliant imagination of Jules Verne no doubt did a tremendous bit to stimulate inventors and constructors of submarines. But then of course, Jules Verne was an exception in that he knew how to use fact and combine it
-with fiction.
+It all started with Jules Verne and his *Nautilus,* which was the forerunner of all modem submarines. The brilliant imagination of Jules Verne no doubt did a tremendous bit to stimulate inventors and constructors of submarines. But then of course, Jules Verne was an exception in that he knew how to use fact and combine it with fiction.
 
 In time to come, also, our authors will make a marked distinction between science fiction and science *faction,* if I may coin such a term.
 
