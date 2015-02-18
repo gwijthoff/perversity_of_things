@@ -141,6 +141,7 @@ title: Chronological Contents
 - Editorially Speaking | September 1926
 - Is Radio at a Standstill? | September 1926
 - Imagination and Reality | October 1926
+    - tinkering, sf as a kind of tinkering with seemingly impossible ideas that will be fulfilled
 - The Broadcasting Situation | October 1926
 - The Pianorad | November 1926
 - Coming Developments in Radio | November 1926
