@@ -14,11 +14,11 @@ csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 
 ![](images/teeth.png)
 
-**T**HE following interesting experiment can be performed by anyone who has an ordinary disc phonograph. It is interesting, in so far as it shows the transmission of sound through the teeth, and through the bony substance of the human skull, which in turn reacts upon the auditory nerve.[^1] It is not well known but it is a fact nevertheless that sounds do not necessarily have to enter through the oral opening in order that we can hear sounds. Physicians in testing for hearing sometimes use a tuning fork which, after struck, is pressed with it's lower part against the back of the skull, right behind the ear. The sound is then heard inside of the head the same as if it had actually entered through the opening of the ear itself. This principle is made use of in the experiment described here, and while it is not electrical by any means, it probably will interest every experimenter who owns a phonograph.
+**T**HE following interesting experiment can be performed by anyone who has an ordinary disc phonograph. It is interesting, in so far as it shows the transmission of sound through the teeth, and through the bony substance of the human skull, which in turn reacts upon the auditory nerve.[^npw] It is not well known but it is a fact nevertheless that sounds do not necessarily have to enter through the oral opening in order that we can hear sounds. Physicians in testing for hearing sometimes use a tuning fork which, after struck, is pressed with its lower part against the back of the skull, right behind the ear. The sound is then heard inside of the head the same as if it had actually entered through the opening of the ear itself. This principle is made use of in the experiment described here, and while it is not electrical by any means, it probably will interest every experimenter who owns a phonograph.[^ggs]
 
-Stop up both of your ears with cotton as tightly as possible so that no sound will be heard from the outside. Now place an ordinary darning needle between your teeth by biting on it ; hard, taking care at the same time that ille lips or tongue do not touch the needle. Tjie latter is important because if either lips or tongue touch the needle the sound will be decreased considerably. For best results the needle itself should project not more than 1 or IY2 inch from the mouth. For that reason the darning needle should be broken off about one and one-half inches from its sharp point. It goes without saying that the sharp point should project out of the mouth while the broken off end should be inside of the mouth.
+Stop up both of your ears with cotton as tightly as possible so that no sound will be heard from the outside. Now place an ordinary darning needle between your teeth by biting on it ; hard, taking care at the same time that ille lips or tongue do not touch the needle. The latter is important because if either lips or tongue touch the needle the sound will be decreased considerably. For best results the needle itself should project not more than 1 or 2 inches from the mouth. For that reason the darning needle should be broken off about one and one-half inches from its sharp point. It goes without saying that the sharp point should project out of the mouth while the broken off end should be inside of the mouth.
 
-Now start an ordinary disc phonograph and carefully press down upon the record with the needle's point held at the same angle as the reproducer's needle is held ordinarily. With a little practise one will become proficient in moving the head at the same ratio of speed as the ordinary reproducer arm is moved from the outside of the record towards the inside. As soon as the needle touches the record with sufficient pressure, the inside of the head will be filled immediately with music exceedingly loud and clear.
+Now start an ordinary disc phonograph and carefully press down upon the record with the needle's point held at the same angle as the reproducer's needle is held ordinarily. With a little practise one will become proficient in moving the head at the same ratio of speed as the ordinary reproducer arm is moved from the outside of the record towards the inside. As soon as the needle touches the record with sufficient pressure, the inside of the head will be filled immediately with music exceedingly loud and clear.[^def]
 
 A curious result of the experiment is that a person standing near by can bear the music, the head acting as a reproducer in this case.
 
@@ -26,9 +26,17 @@ Of course, it will be understood that a totally deaf person will not be able to 
 
 The writer should like to hear from readers, particularly from those who are partly deaf, who have tried this experiment; the *Electrical Experimenter* will be glad to publish the results in subsequent issues.[^ltr]
 
-[^ltr]:  later article w/ photos: SI Nov. 1923, p. 649, IMG_0795.  Also, cover image in gold.
+[^ltr]:  A profile of this experiment was published in the November 1923 issue of *Science and Invention* as the cover story.  See **"Are We Intelligent"** for an editorial that evokes what might be possible with such alternative forms of communication.
 
-[^1]:  This issue's installment of *The Scientific Adventures of Baron Münchausen* includes an extrapolation of this technique:
+    ![](images/teeth2.JPG) <!-- no figure -->
+    
+    ![](images/teeth3.png) <!-- no figure -->
+
+[^ggs]:  Google Glass, the prototype head-mounted-display glasses released in 2013, used the same principle of bone conduction technology to send audio to the user via a small oval-shaped component positioned behind the ear.  @ingraham_google_2013.
+
+[^def]:  In 1923, Gernsback was awarded a patent for a device he called the Osophone and its "sound vibrations transmitted directly to the osseous tissue of the body."  @gernsback_acoustic_1924.
+
+[^npw]:  This issue's installment of *The Scientific Adventures of Baron Münchausen* includes a distant extrapolation of the bone conduction technique---the apparent telepathic abilities of Martians---with a similar instruction manual on how to achieve it:
 
     "Not far from the equator of the planet a central music plant is operated by a single Martian, who, of course, is a musical genius. He operates one of the organ-like instruments of which I spoke before. The "plant" comprises besides the instrument, two Tos rods each 20 feet high. These rods work exactly as the ones just described, except that they are operated at an enormous frequency. I have stood in front of them while they were operating, so close, in fact, that I could have touched both rods with my hands. However, my ears detected not the slightest sound. But, incredible as it seems, millions of Martians were listening to the wonderful music at that minute, produced by these same rods, *but not with their ears.* They were listening with their brains! […]
     

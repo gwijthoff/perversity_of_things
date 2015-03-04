@@ -26,7 +26,7 @@ Mr. Edison, who, as is well known, was elected Chairman of the Navy Consulting B
 } 
 \end{center}
 
-**M**R. EDISON having kindly consented to speak to the readers of the Electrical Experimenter, an interview with the illustrious inventor had been arranged for during the latter part of October of this year.
+**M**R. EDISON having kindly consented to speak to the readers of the Electrical Experimenter, an interview with the illustrious inventor had been arranged for during the latter part of October of this year.[^bnq]
 
 This interview, by the way, has some history attached to it. During the early part of 1917 a similar appointment had been made to interview Mr. Edison on the same subject. But just then the great war broke out and Mr. Edison, who, as is well known, was immediately appointed the head of the Naval Consulting Board, broke off all engagements, devoting himself day and night to the welfare of his country. For this reason the interview only took place a few weeks ago.
 
@@ -148,6 +148,8 @@ While shaking hands I was again imprest with Mr. Edison's hand, and I subsequent
 
 I also made another discovery, namely, that there was no oil painting in existence of Mr. Edison. True, several of these had been made by certain artists after Mr. Edison had patiently sat for them, but he was more or less displeased with the result, and on one occasion did not hesitate to put his foot thru one of them. After securing Air. Edison's permission, I charged Mr. Howard V. Brown with the delicate mission of making an oil painting of the famous man. It is reproduced on the front cover of this magazine in full colors. It is the only oil painting in existence of Mr. Edison today, and the inventor, who inspected it, was very much pleased with it, declaring it a perfect likeness.
 
+![](images/ee_cover_121919_edison.jpg)
+
 As I past out of the laboratory I caught a last glimpse of Mr. Edison. He had risen from his chair, making his way to a little room containing delicate scales and apparatus. The tall, white-haired figure, somewhat stooped under its 73 years' load, clad in a duster, bespotted with chemicals, slowly faded out of view into the adjoining room. 
 
-![INCORPORATE SOMEHOW??](images/edison3.jpg)
+[^bnq]:  Edison kept a clipping of this article among his scrapbooks.

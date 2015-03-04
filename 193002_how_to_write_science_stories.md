@@ -12,11 +12,11 @@ csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 
 * * * * * * * * 
 
-IN modern detection of crime, the X-ray machine, test-tubes, bunsen-burners, the microphotograph, the spectrograph, the spectrophotometer and the polarizer are preceding the baton and police whistle in usefulness.[^wfl] As the pioneer in publicizing these advances in criminal-detection, and in educating both police and public, Scientific Detective Monthly is performing invaluable duties.
+IN modern detection of crime, the X-ray machine, test-tubes, bunsen-burners, the microphotograph, the spectrograph, the spectrophotometer and the polarizer are preceding the baton and police whistle in usefulness.[^wfl] As the pioneer in publicizing these advances in criminal-detection, and in educating both police and public, *Scientific Detective Monthly* is performing invaluable duties.[^sdm]
 
-The primary aim of this magazine is to interest and entertain. Apart from the fact that all material must deal with scientific detection of crime, no editorial foibles and policies exist against which the writer so often battles in vain. There is only one editorial dictum—scientific accuracy. That accomplished, the author can give his imagination free reign.
+The primary aim of this magazine is to interest and entertain. Apart from the fact that all material must deal with scientific detection of crime, no editorial foibles and policies exist against which the writer so often battles in vain. There is only one editorial dictum---scientific accuracy. That accomplished, the author can give his imagination free reign.
 
-Realizing that Scientific Detective Monthly, published at 96 Park Place, New York, is exploring a new field of action, I have prepared for the readers of WRITER'S DIGEST the following lengthy treatise on the Scientific Detective Story.
+Realizing that *Scientific Detective Monthly,* published at 96 Park Place, New York, is exploring a new field of action, I have prepared for the readers of WRITER'S DIGEST the following lengthy treatise on the Scientific Detective Story.
 
 LET it be understood, in the first place, that a science fiction story must be an exposition of a scientific theme and it must be also a story. As an exposition of a scientific theme, it must be reasonable and logical and must be based upon known scientific principles. You have a perfect right to use your imagination as you will in developing the principles, but the fundamental scientific theory must be correct.
 
@@ -24,7 +24,7 @@ As a story, it must be interesting. Even though you are making a description of 
 
 The rules that are given here are recommended for your careful consideration.
 
-Scientific detection of crime offers writers the greatest opportunity and most fertile field since the detective first appeared in fiction. Radio, chemistry, physics, bacteriology, medicine, microscopy—every branch of science can be turned to account. The demand for this material is large, the supply is small. But authors who wish to capitalize on this new source of income must be careful to follow certain well-defined principles. These may be explained by setting forth a list of rules: What To Do, and, as the colored character in Octavus Roy Cohen's story says, "What To Don't."
+Scientific detection of crime offers writers the greatest opportunity and most fertile field since the detective first appeared in fiction. Radio, chemistry, physics, bacteriology, medicine, microscopy---every branch of science can be turned to account. The demand for this material is large, the supply is small. But authors who wish to capitalize on this new source of income must be careful to follow certain well-defined principles. These may be explained by setting forth a list of rules: What To Do, and, as the colored character in Octavus Roy Cohen's story says, "What To Don't."
 
 Here are some hints that will increase your remuneration very materially, and will insure your manuscripts a thorough reading and prompt report.
 
@@ -36,7 +36,7 @@ Here are some hints that will increase your remuneration very materially, and wi
 
 (4) What description of clouds and sunsets was to the old novelist, description of scientific apparatus and methods is to the modern Scientific Detective writer. Here again the author must remember that his work will be read by competent scientists among our readers; and, without careful reference to the encyclopedia, no descriptions of scientific instruments should be included in your stories. If you are not in touch with a Public Library, it is advisable to buy a few really good reference books. Criminoscientific fiction has come to stay and your investment will pay you dividends.
 
-(5) A scientific crime is, ipso facto, a mysterious one. Do not underestimate the value of mystery and suspense in your stories; but remember that it is not necessary to commit wholesale slaughter in order to obtain these effects. A story is a good story when the reader can imagine himself threatened by the same peril as the characters in the tale. I can imagine myself killed by a diabolical bacteriologist—I find it harder to visualize wholesale destruction by a mythical organization. The latter is less personal and individual. Your object is to project scientific diablerie into truthful settings.
+(5) A scientific crime is, ipso facto, a mysterious one. Do not underestimate the value of mystery and suspense in your stories; but remember that it is not necessary to commit wholesale slaughter in order to obtain these effects. A story is a good story when the reader can imagine himself threatened by the same peril as the characters in the tale. I can imagine myself killed by a diabolical bacteriologist---I find it harder to visualize wholesale destruction by a mythical organization. The latter is less personal and individual. Your object is to project scientific diablerie into truthful settings.
 
 (6) For your own sake, avoid hackneyed characterization. Keep clear of fair-haired, blue-eyed Irishmen; long, lanky, keen-eyed, dark-complexioned clean-cut Americans, et al. Although good characterization helps a story, better none than poor ones.
 
@@ -50,9 +50,9 @@ A FEW Don'ts must be remembered if you are to turn out a good story. Here are so
 
 (c) Don't drag in television. It is worked to death and there are so many better appliances you can use in your stories.
 
-(d) What you are not sure about—look up at the library. Don't make your criminal or detective sit down at a table and twirl dials and snap switches without an explanation of what these are for, and why they are operated by the character. Your readers want to know about this; and it gives you a good chance to pad your story legitimately from a scientific text book. Scientific Detective Stories are easy to write once you grasp the swing of them.
+(d) What you are not sure about---look up at the library. Don't make your criminal or detective sit down at a table and twirl dials and snap switches without an explanation of what these are for, and why they are operated by the character. Your readers want to know about this; and it gives you a good chance to pad your story legitimately from a scientific text book. Scientific Detective Stories are easy to write once you grasp the swing of them.
 
-(e) Don't fall into the misapprehension that, because your story has plenty of science in it, a plot is therefore unnecessary. The science improves the plot—not vice-versa.
+(e) Don't fall into the misapprehension that, because your story has plenty of science in it, a plot is therefore unnecessary. The science improves the plot---not vice-versa.
 
 (f) Break up your story into action, dialogue, and description. So many lines of one, so many of another. If you have a long descriptive passage to write, interlope some action, as, for example:
 
@@ -76,28 +76,6 @@ The whole secret of scientific fiction lies in reading about your subject before
 
 I have gone through this subject at length, because I am very much interested in having our writers become successful. As time goes on, you will see certain writers forging steadily to the front and gaining a reputation and a following. Those are the authors who have spent a good deal of time and effort in the construction of their early stories, making them works of art from every point of view.
 
-[^wfl]: Gary Westfahl's headnote to the republication of this essay, from *Science Fiction Studies* #63, Volume 21, Part 2 (July 1994):
+[^wfl]: This essay was republished with an introduction by Gary Westfahl in *Science Fiction Studies* #63, Volume 21, Part 2 (July 1994), and follows his editorial corrections.  First appearing in *Writer's Digest,* Westfahl argues that it "qualifies as the first article ever published on how to write science fiction."
 
-    The following article, which originally appeared in *Writer's Digest* (10:27-29, February 1930), surely qualifies as the first article ever published on how to write science fiction. To my knowledge, the only critical reference to the article occurs in Sam Moskowitz's *Strange Horizons: The Spectrum of Science Fiction* (Charles Scribner's Sons, 1976); it is not listed, for example, in H. W. Hall's *Science Fiction and Fantasy Reference Index,* 1878-1985 (Detroit: Gale Research Co, 1987; 2 volumes).
-
-    As introductory comments indicate, Gernsback was primarily interested in recruiting authors for his magazine *Scientific Detective Monthly,* and many of his comments focus on the subgenre he hoped to establish with that magazine, "the Scientific Detective Story." However, much of the advice here is relevant to writing all forms of science fiction. It is not surprising to find Gernsback repeatedly stressing the importance of scientific accuracy and logic; but he gives at least equal attention to the qualities of effective fiction, even advising, "Don't fall into the misapprehension that, because your story has plenty of science in it, a plot is therefore unnecessary." And, by patiently explaining available resources and possible strategies for writers who are unfamiliar with science, Gernsback demonstrates a willingness to employ writers who lack a scientific background. The article thus serves to correct some common misconceptions about Gernsback's editorial philosophy and policies.
-
-    "How to Write `Science' Stories" also exemplifies a possibly valuable but underutilized source of information for scholars: articles by science fiction writers in The Writer, Writer's Digest, and other magazines written by and for working writers. At a time when fanzines were not published regularly and there were no in-house forums like The Bulletin of the Science Fiction Writers of America, these magazines were the only way for science fiction writers to communicate directly to other established or would-be science-fiction writers; and some took advantage of the opportunity. For example, Henry Kuttner contributed two articles to Writer's Digest, "Selling the Fantasy Story" (18:29-33, March 1938) and "Selling Science Fiction" (19:34-38 October 1939), and Ross Rocklynne offered the same magazine "Science Fiction Simplified" (21:25-30, October 1941). Such articles could provide important information about the attitudes and approaches of science fiction writers of that era; the problem is that copies of these magazines, of limited circulation and not collected by libraries, are exceedingly rare.
-
-    I present the text exactly as originally published, making only these few corrections:
-
-    2. Hyphen after "dictum" replaced by dash.
-
-    5. Comma added after "apparatus."
-
-    7. "0n" added after "capitalize."
-
-    13(5). "A" added before "mythical organization."
-
-    17(a). The first letter of "look" was improperly italicized in the original text.
-
-    26(j). "Msot" corrected to "most."
-
-    26(j). "Buried deep in public ignorance" replaces "buried deed in public igno-rance" ; other possible readings would be "buried dead in public ignorance" or "buried indeed in public ignorance."
-
-    30. "Yet" before "your finale" omitted.
+[^sdm]: *Scientific Detective Monthly* was Gernsback's experiment in a new subgenre of science fiction that ran for ten issues only, January 1930 until October.  The stories published here used "scientific" (which almost always meant technological) deduction and rationality without the need for futuristic predictions or settings.  Much of the fiction published in *Modern Electrics* and *Electrical Experimenter*---by writers like Charles S. Wolfe, Jacques Morgan, and Thomas W. Benson---anticipates this style of technoscientific problem solving set in the present.  Gernsback argues here that scientific detective stories are simply a more mature, better researched form of detective fiction and anticipates that they will soon overtake the entirety of that genre.

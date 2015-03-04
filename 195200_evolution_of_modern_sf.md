@@ -10,6 +10,8 @@ csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 
 * * * * * * * * 
 
+![](images/evolution_modern_sf.JPG)
+
 The writer has frequently been called the "Father of Science Fiction" (TIME magazine, January 3, 1942; NEW YORKER magazine, February 13, 1943; and many others).  Usually authors not quite familiar with the writer's early work set the date of the start of modern science fiction in the year 1926, which date coincides with the first science fiction magazine, "Amazing Stories," the first issue of which was launched by the writer in April, 1926.
 
 We would like to correct this view tor historical purposes.  Modern science fiction, like so many other endeavors, had an orderly evolution,  as the preaent paper will clearly demonatrate.

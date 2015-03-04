@@ -43,6 +43,7 @@ title: Chronological Contents
 - from The Wireless Telephone | January 1911
 - [The Born and the Mechanical Inventor] | February 1911
     - invention, social construction, creativity
+    - idea of a device before its material possibility
     - nonwestern "repair"
     - early wireless telephone company failures, stock manipulation
     - De Forest, first voice transmission, failed company, contributor

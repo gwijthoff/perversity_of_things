@@ -26,19 +26,16 @@ Then, too, amateurs, in isolated cases, have helped the police in running down c
 
 Also, it is not to be forgotten that during the war amateurs helped in building up a radio force that was of great help in the war.  Indeed, the writer himself was instrumental in recruiting the amateurs, and secured over 1,000 enlistments, for which he received a very flattering letter from Ex-Secretary of the Navy, the Hon. Mr. Daniels.  No doubt the amateurs would do the same thing again, if called upon, but, as one correspondent in this contest put it *"The amateurs can not rest upon past laurels, particularly when there is not a new war every day."*
 
-Summing up, therefore, the real usefulness of the American amateur in the United States is practically nil.  This does not sound very nice, but it is the whole, unvarnished truth.  The writer, who has been an amateur, and still is, feels that he knows whereof he speaks.  The question simmers down to this:  "Is there a real usefulness for the radio amateur?"  THERE IS NOT!  That is, if the amateur is honest with himself.  Sending a few messages to each other, making transatlantic records, and waiting for the next war, to show what we can do, does not enhance our standing with the public.  *As far as the public is concerned, the radio amateur does not even exist.*  Make the following test, which we made recently in New York, and which some correspondents made in various communities in the United States, and you will get a good idea of what the populace thinks or imagines the radio amateur of today to be.
+Summing up, therefore, the real usefulness of the American amateur in the United States is practically nil.  This does not sound very nice, but it is the whole, unvarnished truth.  The writer, who has been an amateur, and still is, feels that he knows whereof he speaks.  The question simmers down to this:  "Is there a real usefulness for the radio amateur?"  THERE IS NOT!  That is, if the amateur is honest with himself.  Sending a few messages to each other, making transatlantic records, and waiting for the next war, to show what we can do, does not enhance our standing with the public.  *As far as the public is concerned, the radio amateur does not even exist.*[^keq]  Make the following test, which we made recently in New York, and which some correspondents made in various communities in the United States, and you will get a good idea of what the populace thinks or imagines the radio amateur of today to be.
 
 Stand on any street corner, and as 100 people who pass by the following question: *What is a radio amateur?"*  The answers, boiled down, in about 90 per cent of the cases actually tested, will be as follows:  *"Oh! A radio amateur is an experimenter who tinkers with radio apparatus."*
 
 This is then what some 95,000,000 or more people in the United States think of us.  In other words, we have never sold ourselves to the public---for a very good reason:  WE HAD NOTHING TO SELL, for our usefulness in the United States, up to this time, was nil.
 
-\begin{center}
-\fbox{
-  \parbox[c]{7cm}{
+* * * * * * * * * * * 
   
-PRIZE WINNERS
+# PRIZE WINNERS
 
-\vspace{3mm}
 
 - First Prize (\$200.00)---Mr. L. W. Gundy (1 BZL), P. O. Box 67, Phillips, Me.
 - Second Prize (\$100.00)---Mr. Jesse Marsten, 909 Beck St., N. Y. C.
@@ -48,9 +45,9 @@ PRIZE WINNERS
 - Sixth Prize (\$25.00)---Mr. Stem Anderson, 3257 Q St., Lincoln, Neb.
 - Seventh Prize (\$25.00)---Mr. Frank H. Fanning, 301 Holt St., Ashland, Ky.
 
-\vspace{3mm}
+* * * * * * * * * * * 
 
-HONORABLE MENTION:
+# HONORABLE MENTION:
 
 - Mr. Ernest G. Underwood, Elwood, Calif.
 - Mr. Allen H. Duncan, 32 Waverly Pl., New York City
@@ -62,9 +59,7 @@ HONORABLE MENTION:
 - Mr. H. F. Rook, Ridgefield Park, N. J.
 - Mr. Rex Durant, Cricklewood, London, England.
 
-  }
-}
-\end{center}
+* * * * * * * * * * * 
 
 When radio was young, it was all right for radio amateurs to do just what they were doing, that is, sending each other messages, doing research work, etc., *but the world moves on*---WHILE THE RADIO AMATEUR STANDS STILL.  As the writer mentioned before, the radio amateur is in a rut, and deep down in his heart he knows it.
 
@@ -74,21 +69,19 @@ We thought that there must be somewhere, somehow, some way to put the radio amat
 
 As we had foreseen, and as we mentioned in our columns of the October issue, the two articles, "IS THE RADIO AMATEUR DOOMED?" and "WHO WILL SAVE THE RADIO AMATEUR?" brought a number of letters from the narrow-minded and misguided amateurs, who, in their simplicity, thought that we were "knocking" the game, and trying to put the radio amateur out of business.  We were assailed from all sides, with many "brick-bats," and even the mouthpiece of the American Radio Relay League, who certainly should know better, said things about this contest that not even a third-rate, slandering, country newspaper would stoop to utter.  That, however was expected.  We were even questioned about the \$500.00 Prize Contest, and it was darkly hinted that we were chasing the dollar in making this offer, but just how we were to do this was not mentioned.  We offered the \$500.00 in prizes in good faith, and are paying out these same \$500.00 today in the same good faith, cheerfully, because we know that we have accomplished something that will help to make radio amateurism in this country a real force.
 
-The contest, from every point of view, with one exception, was the biggest we ever staged.  Over 5,000 replies were received from amateurs all over the world, and we received many wonderful and inspiring letters.  A thing that pleased us particularly was that letters from the best amateurs in this country were in the majority, and many hundreds were received from members of the American Radio Relay League, the Radio League of America, and all of the prominent radio clubs in the country.  The one fly in the ointment was that nearly one half of the contributors did not take the time to read the conditions, and indeed did not get the spirit of the Contest.  On page 795 of our October issue, in the gist of the entire contest, in these words:  *"What we wish, therefore, fellow amateurs, is a manuscript of not more than 1,000 words, setting forth your idea s to the best plan to put the radio amateurs on solid footing, where they can perform the greatest good for the community, and for the radio art."*  That was our message.  Nearly one half of those who answered, evidently did not take the trouble to read this, or, if they did, they thought the contest referred to something else.  The fact remains that 50 per cent of the contributors tried to save the amateur by trying to devise new legislation, to protect him!  What these contributors did not see at all was that _*no force in the whole world can save the amateur except the amateur himself._*  Most of these correspondents had an idea that the amateur was doomed on account of the interference which he is making.  Nothing can be more erroneous.  We never had such an idea in mind, and nowhere did we print a single line about such a thing, or even suggest it.  
+The contest, from every point of view, with one exception, was the biggest we ever staged.  Over 5,000 replies were received from amateurs all over the world, and we received many wonderful and inspiring letters.  A thing that pleased us particularly was that letters from the best amateurs in this country were in the majority, and many hundreds were received from members of the American Radio Relay League, the Radio League of America, and all of the prominent radio clubs in the country.  The one fly in the ointment was that nearly one half of the contributors did not take the time to read the conditions, and indeed did not get the spirit of the Contest.  On page 795 of our October issue, in the gist of the entire contest, in these words:  *"What we wish, therefore, fellow amateurs, is a manuscript of not more than 1,000 words, setting forth your ideas to the best plan to put the radio amateurs on solid footing, where they can perform the greatest good for the community, and for the radio art."*  That was our message.  Nearly one half of those who answered, evidently did not take the trouble to read this, or, if they did, they thought the contest referred to something else.  The fact remains that 50 per cent of the contributors tried to save the amateur by trying to devise new legislation, to protect him!  What these contributors did not see at all was that _*no force in the whole world can save the amateur except the amateur himself.*_  Most of these correspondents had an idea that the amateur was doomed on account of the interference which he is making.  Nothing can be more erroneous.  We never had such an idea in mind, and nowhere did we print a single line about such a thing, or even suggest it.
 
-The truth is that the amount of interference that the public is getting form the amateur is insignificant.  There is very much more interference from the commercial stations that from the amateurs, and we believe the public at large knows and appreciates this.  Moreover, amateurs are learning not to send during broadcasting hours, and within the next six months *this problem will be solved entirely by the amateurs themselves,* so there is little need of legislation on that score.  Even a single circuit crystal set, unless it is right under the shadow of an amateur's transmitting aerial, does not, as a rule, experience much interference from 200 meters.  The wave-length of most amateurs does not go much above 250 meters, and this, we might say, is exceptional, so why worry on that score?
+![](images/rn_cover_192302.jpg)
+
+The truth is that the amount of interference that the public is getting form the amateur is insignificant.  There is very much more interference from the commercial stations that from the amateurs, and we believe the public at large knows and appreciates this.  Moreover, amateurs are learning not to send during broadcasting hours, and within the next six months *this problem will be solved entirely by the amateurs themselves,* so there is little need of legislation on that score.  Even a single circuit crystal set, unless it is right under the shadow of an amateur's transmitting aerial, does not, as a rule, experience much interference from 200 meters.  The wave-length of most amateurs does not go much above 250 meters, and this, we might say, is exceptional, so why worry on that score?[^atw]
 
 To resume, our contest has been a great success.  The suggestions that are made in the seven prize-winning letters are very substantial, and, if followed, will surely put the amateur on the map in avery short time, but---like your doctor---we can only give the prescription.  It is up to the patient, the radio amateur, to take his medicine, which, in this case, is quite pleasant, and, we are certain, effective.  The judges of the contest were as follows:
 
-H. Gernsback, Editor of RADIO NEWS
-
-L. G. Pacent, President of Pacent Electric Co.
-
-Robert E. Lacault, Associate Editor of RADIO NEWS
-
-Armstrong Perry, Author, and
-
-L. M. Clement.
+- H. Gernsback, Editor of RADIO NEWS
+- L. G. Pacent, President of Pacent Electric Co.
+- Robert E. Lacault, Associate Editor of RADIO NEWS
+- Armstrong Perry, Author, and
+- L. M. Clement.
 
 The judges were almost unanimous in their decision on the seven prize-winning letters, and there was little divergence of opinion.  Mr. L. W. Grundy was awarded first prize, mainly on account of his suggestion to re-transmit broadcast programs over the electric light lines.  This, indeed, is one of the best suggestions advanced, and we have more to say about this in another section of the magazine.  (See article: "Popularizing Radio.")  In addition to the prize winners, there were eight letters which were deemed of sufficient importance to be awarded Honorable Mention.  These letters will be published in subsequent issues.  Some of the prize-winning letters follow:
 
@@ -105,7 +98,7 @@ If he becomes selfish and self-centered he is doomed; but he won't, he will adju
 
 Broadcasting is here to stay.  The public wants it; they will get it; they ought to have it.  If amateur transmission interferes, we must suspend same during reasonable hours.  However, the listener to broadcasts must share the air, he cannot expect full control from 10 A.M. until midnight.  8-10 P.M. or 7:30-9:30 is time enough when one considers he has it every evening.  The amateur's work is valuable.  Most broadcasting is mere amusement.  It has its place but it cannot be selfish and "hog the ether."
 
-Let's own up we all like to listen in once in a while.  What is to be the amateur's attitude toward broadcasting?  We must gracefully accept it and as a public need, help further it.  There is chaos in broadcasting now but the inexorable law of evolution, the survival of the fittest will prevail.  How can we help?  Let's give kindly unbiased advice in regard to selection of sets to cover the required distances.  This will prevent the buying of inferior, hence unsatisfactory goods.  I butted in once whenI heard a misinformed clerk tell a young woman that a crystal set would bring in KDKA six hundred miles away.  I simply suggested that a regenerative set would do much better.  The clerk sold the better set, it worked, everybody happy and satisfied.  Let us show novices how to tune their sets, and get the most from them, for few novices can handle a tube set without guidance.  Let us tackle receivers, freedom from QRM means freedom to transmit.
+Let's own up we all like to listen in once in a while.  What is to be the amateur's attitude toward broadcasting?  We must gracefully accept it and as a public need, help further it.  There is chaos in broadcasting now but the inexorable law of evolution, the survival of the fittest will prevail.  How can we help?  Let's give kindly unbiased advice in regard to selection of sets to cover the required distances.  This will prevent the buying of inferior, hence unsatisfactory goods.  I butted in once when I heard a misinformed clerk tell a young woman that a crystal set would bring in KDKA six hundred miles away.[^kdk]  I simply suggested that a regenerative set would do much better.  The clerk sold the better set, it worked, everybody happy and satisfied.  Let us show novices how to tune their sets, and get the most from them, for few novices can handle a tube set without guidance.  Let us tackle receivers, freedom from QRM means freedom to transmit.
 
 \begin{center}
 \fbox{
@@ -131,7 +124,7 @@ Some of the good points brought out in this contest, and which were awarded priz
 }
 \end{center}
 
-But we want to transmit.  When the new White Radio Bill becomes law let's retransmit some of the excellent programs over the electric light lines or through the air for the benefit of users of cheaper sets.  Here's a field experimentation and service.  Let us open our homes to the public, let's put our loud speakers in halls, homes, churches, schools, etc., and give them a free concert.  The public will appreciate the public-minded amateur.  Let us post market and weather reports, news items and other things of public interest.  One amateur posted the World's Series' results before they came over the wire.  A friend of mine invited in a father and mother to listen to a glee club broadcast four hundred miles away and their son was an accompanist.  Did they enjoy it?  Just imagine!  In some of our small towns no Marine Bands nor high class performers ever come.  Broadcasting is their blessing.
+But we want to transmit.  When the new White Radio Bill becomes law let's retransmit some of the excellent programs over the electric light lines or through the air for the benefit of users of cheaper sets.[^wrb]  Here's a field experimentation and service.  Let us open our homes to the public, let's put our loud speakers in halls, homes, churches, schools, etc., and give them a free concert.  The public will appreciate the public-minded amateur.  Let us post market and weather reports, news items and other things of public interest.  One amateur posted the World's Series' results before they came over the wire.  A friend of mine invited in a father and mother to listen to a glee club broadcast four hundred miles away and their son was an accompanist.  Did they enjoy it?  Just imagine!  In some of our small towns no Marine Bands nor high class performers ever come.  Broadcasting is their blessing.
 
 Let us prepare ourselves fro the new era.  Let us ban, as quickly as possible, by example and advice, the spark transmitter.  Let's push C.W.  It's the thing we need.  We will experiment with directional transmission and hence avoid interference.  Above all we need a wave meter, using it to keep strictly within our wave bands.  When we have opportunity for self-policing let us do it efficiently.  We should make our relay and DX work of greater value.  Let's make the subject matter of the message as important as distance itself.  It seems that we may add greatly to the radio art by doing research work.
 
@@ -141,7 +134,7 @@ If we amateurs will lead the boys of our communities we will make ourselves indi
 
 Ours is an educational task.  Amateur leaders must make the rank and file see the light.  We must work through the various organizations, we might add a home service branch to our Relay League with distinct and definite duties in regard to community and public servie.
 
-The writer is a deep-dyed amateur, he has tried to serve.  Four hundred people listened in at his home during November and December, 1921.  A new cage aerial lately swung into place has elicited commendation and within 24 hours a neighbor "tickled his palm" with a five spot, "in recognition of your willingness to let folks listen in and because you have helped the boys of this town."  Let us be patient to serve rather than arbitrarily selfish and we can make ourselves and our cause, amateur radio, positively vital.  I do not worry, the amateur is resourceful enough to adjust himself to any condition and he will: and *Long will he Live.*
+The writer is a deep-dyed amateur, he has tried to serve.  Four hundred people listened in at his home during November and December, 1921.  A new cage aerial lately swung into place has elicited commendation and within 24 hours a neighbor "tickled his palm" with a five spot, "in recognition of your willingness to let folks listen in and because you have helped the boys of this town."  Let us be patient to serve rather than arbitrarily selfish and we can make ourselves and our cause, amateur radio, positively vital.  I do not worry, the amateur is resourceful enough to adjust himself to any condition and he will: and *Long will he live.*
 
 * * * * * * * * * * * 
 
@@ -198,6 +191,22 @@ I hope that the above mentioned suggestions will aid in pacifying the misunderst
 
 So fellows, let's band together and fight for our rights as one.
 
-[^inv]: See citation from Hintz on difficulty of developing professional organizations for inventors.
+[^arm]: Armstrong Perry, who had previously written news articles for *Science and Invention* and other periodicals like *Radio Age,* published this piece on amateurism in *Literary Digest* alongside an interview with Sir Oliver Lodge, in which he argues that the theory of the aether should be rescued despite the scientific community having decisively moved on from the idea.  @perry_is_1922.  Perry would go on to publish short fiction about radio operators in *Radio News,* albeit of a non-speculative type.  @perry_ham_1927.  @perry_radio_1927.
+    
+[^keq]: Though Gernsback is obviously trying to stir up his readership, this article touches on a very real anxiety about the role of the amateur in a world of increasingly professionalized engineering and invention. But historian of technology Eric S. Hintz argues that despite commonly accepted wisdom, independent inventors continued to be a source of viable innovations well into the twentieth century, when corporate research and development was gradually beginning to take on greater importance. Well after the "heroic" era of inventors like Thomas Edison and Alexander Graham Bell,
 
-[^arm]: Armstrong Perry was…  Perry's piece was published in *Literary Digest,* alongside an article profiling Sir Oliver Lodge doubling down on the theory of the ether, defending it at all costs. @perry_is_1922
+    > lesser-known "post-heroic" inventors continued to contribute many important innovations throughout the twentieth century, among them Ruben's mercury battery, Edwin Land's Polaroid film, and Chester Carlson's Xerox photocopying process. … There is certainly no denying the importance of science-based R&D at firms like GE, AT&T, and DuPont, but vertically integrated industrial research was not the only path to successful innovation.  Small and medium-sized firms often pursued innovation strategies---licensing independent inventors, hiring consultants, and outsourcing inventions---that were much different from the ones followed by bigger firms.  In this case, the P.R. Mallory Company followed a mixed innovation strategy to commercial success: developing a long-term relationship with independent inventor Samuel Ruben and licensing his patents, while simultaneously investing in its own scientific research laboratories.
+    
+    @hintz_portable_2009, 26-7, 56.  See also @hintz_post-heroic_2011 for a chart showing that patents issued to independent inventors outnumbered corporate patents until 1933 and "still represented nearly 50 percent of total patents throughout the 1950s."
+    
+[^atw]: What was the experience of the amateur listener in 1923?  When did audio broadcasts begin?  Give a little radio history here, not stepping on the toes of any articles in the "wireless" section.
+
+[^kdk]:  Broadcasting from Pittsburgh, KDKA was made famous for announcing the results of the 1920 presidential election over the airwaves, an event that many historians of radio see as "*the* beginning date of United States radio broadcasting." @barfield_listening_1996, 3.  KDKA was run by Frank Conrad out of his garage and began the first regularly scheduled broadcast programming, "initially called wireless concerts, which consisted primarily of pushing a Victrola up to a microphone and playing records."  KDKA became a magnet for operators around the world trying to tune in to distant stations.  @douglas_listening_1999, 64.
+
+[^wrb]:  The debate between Congressional Representative Wallace White of Maine and Senator Clarence Dill from Washington over the regulation of the airwaves produced the Federal Radio Commission in 1927, which became the Federal Communications Commission in 1934.  The White Bill, mentioned here, proposed putting radio broadcasting under the oversight of the Department of Commerce, then led by Herbert Hoover.  While "White sought to protect the economic interests of RCA and the rest of the radio industry, … freshman Senator Dill aligned himself with the Senate's insurgent Progressives whose goal was to protect the average person from corporate greed.  The insurgents wanted the federal government to regulate the industry for common good, but they believed that experts would manage radio better than partisan politicians." @goodman_ideological_2000, 118.
+
+[^inv]: Unfortunately, it seemed no such organization was ever formed.  Focusing on the first half of the twentieth century, Eric Hintz writes that 
+
+    > "Independent inventors struggled to form durable professional groups.  This rendered them politically impotent and unable to push through certain legislative reforms.  Also, without a flagship organization to speak on behalf of the profession, independent inventors were at a disadvantage in their rhetorical battles with industrial researchers, who characterized them as unsophisticated and obsolete."
+    
+    @hintz_post-heroic_2011, 745.
