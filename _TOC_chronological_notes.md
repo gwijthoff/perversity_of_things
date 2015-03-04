@@ -120,6 +120,9 @@ title: Chronological Contents
 - The Radio Science | June 1922
 - Is Radio Threatening the Phonograph and Theatre? | June 1922
 - Human Progress | October 1922
+- Who Will Save the Amateur | May 1925
+    - continuous wave vs. spark gap transmitters
+    - DXing
 - Spiritism | June 1923
 - Predicting Future Inventions [Scientifiction Number] | August 1923
     - SF authors
