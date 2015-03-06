@@ -1,4 +1,13 @@
---- layout: post title: | *The Scientific Adventures of Baron Münchhausen*, Part 5: \ "Münchhausen Departs for the Planet Mars" author: | *Electrical Experimenter*, vol. 3 no. 6 date: October 1915 bibliography: _scientifiction.bib csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl ---
+--- 
+layout: post 
+title: | *The Scientific Adventures of Baron Münchhausen*, Part 5: \ 
+    "Münchhausen Departs for the Planet Mars" 
+author: | 
+    *Electrical Experimenter*, vol. 3 no. 6 
+date: October 1915 
+bibliography: _scientifiction.bib 
+csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
+---
 
 **DRAFT:** *Please do not share without permission of the author. Typeset versions in  [web](http://gernsback.wythoff.net/191510_munchhausen5.html) \| [pdf](https://github.com/gwijthoff/perversity_of_things/blob/gh-pages/typeset_drafts/191510_munchhausen5.pdf?raw=true) \| [doc](https://github.com/gwijthoff/perversity_of_things/blob/gh-pages/typeset_drafts/191510_munchhausen5.docx)*
 
