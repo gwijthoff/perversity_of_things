@@ -34,7 +34,7 @@ var WRInitTime=(new Date()).getTime();
   <div class="title">
     <a href="/">The Perversity of Things:</a>
   <div class="meta"> 
-    <a href="/">Writings on Media, Technology, and Science Fiction</a> </div>
+    <a href="/">Writings on Media, Tinkering, and Scientifiction</a> </div>
   <div class="author">
   <a href="/">Hugo Gernsback | Grant Wythoff, editor</a>
   </div>
@@ -72,9 +72,9 @@ var WRInitTime=(new Date()).getTime();
 
 <p>By talking medium loud in the transmitter, the resistance in same will be varied accordingly and the armature will close the circuit at G, through battery B and coil I, which may be a common one-inch spark-coil not deprived of its vibrator.</p>
 
-<p>Every time the circuit is closed at G a series of sparks will jump across the balls at S, creating oscillations.  These oscillations, traveling through the ether, arrive at the receiving station, where they impinge on the antennae A and operate the coherer O through relay R’.  The decoherer D is also shown.  Relay, coherer and decoherer are all operated by a single dry cell L.  This is the same circuit as in my “Telimco” wireless system.<sup id="fnref:tel"><a href="#fn:tel" class="footnote">3</a></sup>  Relay R’ has in addition two stationary contacts T and T’, which, when the armature Z closes, complete another circuit, as, for instance, through a small motor P, an incandescent light, etc.</p>
+<p>Every time the circuit is closed at G a series of sparks will jump across the balls at S, creating oscillations.  These oscillations, traveling through the ether, arrive at the receiving station, where they impinge on the antennae A and operate the coherer O through relay R’.  The decoherer D is also shown.  Relay, coherer and decoherer are all operated by a single dry cell L.<sup id="fnref:coh"><a href="#fn:coh" class="footnote">3</a></sup>  This is the same circuit as in my “Telimco” wireless system.<sup id="fnref:tel"><a href="#fn:tel" class="footnote">4</a></sup>  Relay R’ has in addition two stationary contacts T and T’, which, when the armature Z closes, complete another circuit, as, for instance, through a small motor P, an incandescent light, etc.</p>
 
-<p>As long as words are spoken in the transmitter M, oscillations will be set up in S and the receiving station will work continuously until the voice at M stops.  Motor P will, of course, be kept in motion only as long as the voice talks into M.</p>
+<p>As long as words are spoken in the transmitter M, oscillations will be set up in S and the receiving station will work continuously until the voice at M stops.  Motor P will, of course, be kept in motion only as long as the voice talks into M.<sup id="fnref:coi"><a href="#fn:coi" class="footnote">5</a></sup></p>
 
 <hr />
 
@@ -106,7 +106,7 @@ var WRInitTime=(new Date()).getTime();
 <div class="footnotes">
   <ol>
     <li id="fn:hum">
-      <p>A sentence such as this, linking human “muscular force” to “mechanical effects” in a metaphor that isn’t signaled as such, becomes possible thanks to the rise of the “human motor” as a dominant form of political, social, technical and scientific thought from the late nineteenth century through the interwar period.  Anson Rabinback has shown how labor is transformed into “labor power” over this period, “a concept emphasizing the expenditure and deployment of energy as opposed to human will, moral purpose, or even technical skill.”  Predicated on a utopian ideal of a body without fatigue, discourse on the human motor sought to marry the motion of the body with that of the machine:</p>
+      <p>A sentence linking human “muscular force” to “mechanical effects” in a metaphor that isn’t signaled as such becomes possible thanks to the rise of the “human motor” as a dominant form of political, social, technical and scientific thought from the late nineteenth century through the interwar period.  Anson Rabinback has shown how labor is transformed into “labor power” over this period, “a concept emphasizing the expenditure and deployment of energy as opposed to human will, moral purpose, or even technical skill.”  Predicated on a utopian ideal of a body without fatigue, discourse on the human motor sought to marry the motion of the body with that of the machine:</p>
 
       <blockquote>
         <p>European scientists devised sophisticated techniques to measure the expenditure of mental and physical energy during mechanical work—not only of the worker, but also of the student, and even of the philosopher.  If the working body was a motor, some scientists reasoned, it might even be possible to eliminate the stubborn resistance to perpetual work that distinguished the human body from a machine.  If fatigue, the endemic disorder of industrial society, could be analyzed and overcome ,the last obstacle to progress would be eliminated.</p>
@@ -117,8 +117,25 @@ var WRInitTime=(new Date()).getTime();
     <li id="fn:wrk">
       <p>This is a clever workaround:  at a time when the voice couldn’t be <em>transmitted</em> via wireless, perhaps it could at least be <em>translated</em> into a form of electrical or mechanical force. <a href="#fnref:wrk" class="reversefootnote">&#8617;</a></p>
     </li>
+    <li id="fn:coh">
+      <p>The coherer is one of the earliest forms of “detector,” the most important component of a wireless set.  The detector is responsible for demodulating radio frequency signals into an audio frequency current, ready to be piped through the listener’s headphones.  The idea behind the coherer is that when a radio frequency signal is applied to a glass vial filled with metal powder, the metal filings will “cohere” and an electrical current will pass through the device.  Each telegraphic “dot” or “dash” causes the filings to cohere, after which some form of “decoherer” mechanically taps the vial to loosen them once again.</p>
+
+      <p>The coherer was initially discovered by the physicist and inventor Édouard Branly (1844 – 1940).  A 1904 article written by wireless pioneer Lee De Forest explains, “The form and nature of the ordinary filings-tube coherer, as applied to-day in wireless telegraphy, is fairly familiar.  Branley [sic] discovered, in 1891, that the effect of electrical oscillations upon a body of metal fillings was to produce a marked increase in the conductivity of the mass, a conductivity which persisted until the particles were broken apart again by mechanical jar.  Although Varley, Hughes, Onesti and others had previously noted this phenomenon, none of these investigators had fully appreciated the causes involved, or given to the world of science the benefit of their researches in thorough published reports.”  @de_forest_electrolytic_1904, p. 424.</p>
+
+      <p><img src="images/branly_coherer.png" alt="Branly coherer, from Archie Frederick Collins *Wireless Telegraphy*" /> <!-- no figure --></p>
+
+      <p>It was left for Marconi to, in the words of electrical engineer Thomas H. Lee, combine Hertz’s spark-gap transmitter with Branly’s coherer and “tinker like crazy.”  It is worth noting that the physical principle behind the coherer’s operation is still not understood today.  It remains a device with practical applications whose inner workings are nevertheless not understood.  @lee_nonlinear_2004, p. 3. <a href="#fnref:coh" class="reversefootnote">&#8617;</a></p>
+    </li>
     <li id="fn:tel">
       <p>The Telimco was the flagship product of The Electro Importing Company, it’s name a shortened form of the company’s.  It was the first radio set ever sold fully assembled to the public. <a href="#fnref:tel" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:coi">
+      <p>Though the coherer wasn’t as sensitive as later crystal and electrolytic detectors, it had the merit of being the only one to work in mobile applications until the late 1910s.  In a later editorial on what he refers to as “radio kinetics,” Gernsback writes of the shortcomings and unique benefits of the coherer:</p>
+
+      <blockquote>
+        <p>as far back as 1906 this investigator fired guns, closed doors, started and stopt motors by means of distant radio control. This was in the age of the coherer, and probably due to its inherent shortcomings, the art of radio kinetics was not much advanced until very recently. The coherer is a very unsatisfactory scientific instrument insofar that even if constructed by precision mechanics, it has the great inherent fault of being susceptible to shocks as well as to most extraneous impulses. Thus, for instance, a very sensitive coherer will usually operate on strays or static as well as inductive effects and stray waves. In other words this instrument—even the most balanced one—is not reliable. It will go off when least expected. A coherer heretofore was thought to be the prime necessity for radio kinetics because it was practically the only instrument known that could close the contacts of a relay. Ordinary detectors such as the crystal type and others could not be used until about three or four years ago, at which time very sensitive galvanometer relays were introduced which actually could be used to close a contact by means of a carborundum or silicon detector.” “Radio Kinetics,” <em>Radio Amateur News</em>, vol. 1 no. 12, June 1920.</p>
+      </blockquote>
+      <p><a href="#fnref:coi" class="reversefootnote">&#8617;</a></p>
     </li>
   </ol>
 </div>

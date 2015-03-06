@@ -17,6 +17,6 @@ for f in $FILES
 do
   # extension="${f##*.}"
   filename="${f%.*}"
-  echo "Converting $f to $filename.pdf"
+  echo "Converting $f to $filename.docx"
   `pandoc -s -S --latex-engine=xelatex --filter pandoc-citeproc $f -o typeset_drafts/$filename.docx`
 done
