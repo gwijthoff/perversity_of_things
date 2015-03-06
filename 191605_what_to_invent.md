@@ -34,6 +34,6 @@ As most everyone is familiar with the important problems as yet unsolved, such a
 
 These are only a very few suggestions.  If required we will publish more from time to time.
 
-[^plt]:  Once he transitioned to publishing fiction magazines exclusively, Gernsback would transition to soliciting "plots" from his readers instead of inventions.  In the November 1929 issue of *Science Wonder Stories* for instance, he offers a prize of $150 in gold for story treatments: "…the more interesting, the more exciting, and *the more scientifically probable* you can make it, the better.  Remember, *anyone* can participate in this contest" (485).
+[^plt]:  Once he transitioned to publishing fiction magazines exclusively, Gernsback would began to solicit "plots" from his readers instead of inventions.  In the November 1929 issue of *Science Wonder Stories* for instance, he offers a prize of $150 in gold for story treatments: "…the more interesting, the more exciting, and *the more scientifically probable* you can make it, the better.  Remember, *anyone* can participate in this contest" (485).
 
 [^bkt]:  Bakelite, patented in 1909, was an early form of plastic that would soon become the standard for radios, especially mass produced sets.
