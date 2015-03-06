@@ -1,8 +1,6 @@
 --- 
 layout: post 
-title: | 
-    *The Scientific Adventures of Baron Münchhausen*, Part 5 \ 
-    "Münchhausen Departs for the Planet Mars" 
+title: *The Scientific Adventures of Baron Münchhausen*, Part 5\: "Münchhausen Departs for the Planet Mars" 
 author: | 
     *Electrical Experimenter*, vol. 3 no. 6 
 date: October 1915 
