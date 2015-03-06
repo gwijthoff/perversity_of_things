@@ -1,10 +1,10 @@
---- 
-layout: post 
-title: Munchhausen
-author: | 
-    *Electrical Experimenter*, vol. 3 no. 6 
-date: October 1915 
-bibliography: _scientifiction.bib 
+---
+layout: post
+title: Munchhausen 5
+author: |
+    *Electrical Experimenter,* vol. 3 no. 6
+date: October 1915
+bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
