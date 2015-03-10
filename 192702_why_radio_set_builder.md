@@ -26,7 +26,7 @@ Radio is an art which changes rapidly, as is well known. While no revolutionary 
 
 But once the manufacturer is "tooled up" to turn out the season's supply, it is not always possible or desirable for him to make a change. In the meanwhile the art and progress of radio goes on, and the manufacturer naturally wants to know, in plenty of time, what the tendency will be for next year. By encouraging the set builders he gets a very good idea in what direction the tendency is heading; and he is able, at no cost at all to himself, to get this information, by simply watching the radio press and studying this tendency. When the new season comes along, the manufacturer is, therefore, apt to have a pretty good idea of what will happen, or what may be expected to happen next season. This is not to say that the manufacturer gets all of his ideas from the radio constructors. No such meaning is implied; but he gets valuable information; and for that reason most set manufacturers today openly encourage set building, because, first, they know that it cannot hurt their business and, secondly, because they derive from it valuable information which they would not have if there were no set building going on. 
 
-The set builders themselves, in the meanwhile, are having a mighty fine time, building to their hearts' content; in which they are encouraged by the parts manufacturers, who are themselves always ahead of the set manufacturers in bringing out new devices. These new devices are tried out by the set builders, and within six months it becomes known whether a certain device wi11 "take," in the long run, or not.
+The set builders themselves, in the meanwhile, are having a mighty fine time, building to their hearts' content; in which they are encouraged by the parts manufacturers, who are themselves always ahead of the set manufacturers in bringing out new devices. These new devices are tried out by the set builders, and within six months it becomes known whether a certain device will "take," in the long run, or not.
 
 This has been the case with the straight-line-frequency condensers, as it has also been with the new vernier dials.[^dnp] It is true of shielding the various parts and many other features; none of which would, perhaps, have become incorporated in ready-made sets as soon as they were, if the set builders themselves had not paved the way for such parts.
 
@@ -50,9 +50,21 @@ Set building is continuing to increase rapidly, as it has done for five years, i
 
 **Mr. Hugo Gernsback speaks every Monday night at 9 P. M. from Station WRNY on various radio and scientific subjects.**
 
-[^shd]: Shielding?
+[^shd]: Shielding a radio set involved placing electrically conductive or magnetic materials between individual components in order to reduce the possibility of electromagnetic interference.
 
-[^dnp]: straight-line-frequency condensers, vernier dials
+[^dnp]: Both of these were innovations in tuning knob construction.  As more and more broadcasters began to crowd the airwaves in the late 1920s, straight line frequency condensers made tuning easier by spacing out frequencies at the lower end of the dial so that the distance between stations was uniform from one end of the dial to the other.  "At the lower end of the broadcasting band, ten kilocycles do not change the wavelength nearly as much as the same change does at 500 meters, for instance."  Straight line condensers were a solution to this problem.
+
+    > As the shaft is turned, the plates engage with each other more and more rapidly.  The result of this construction is to give slow changes in capacity when the plates are nearly disengaged, and rapid changes when the dial is turned to the higher numbers. … This means that as you turn the dial toward zero, the condenser plates move slower and slower in proportion to the amount of motion on the dial.
+    
+    @lane_new_1926
+
+    Vernier dials allowed for large movements on a knob to result in fine-grained input: "each complete rotation of the control knob causes only a fraction of a revolution of the main shaft, permitting fine and accurate adjustment."  @_vernier_2003.  It is named for the vernier scale, which performs a similar function for measurement: a secondary scale on a pair of calipers indicates with more granularity where a measurement lies *between* two marks on the primary scale.  It was invented by the French mathematician Pierre Vernier (1580-1637).  @_vernier_2015.
+    
+    ![](images/straight_line_condenser1.png) <!-- no figure -->
+    
+    ![](images/straight_line_condenser2.png) <!-- no figure -->
+    
+    ![](images/straight_line_condenser3.png) <!-- no figure -->
 
 [^fns]: In his editorial for *Science and Invention,* titled "Handicraft" and published in the same month, Gernsback argues that making things by hand not only gives the white collar worker a means of diversion and release after work, but serves as an education in its own right.  For each material worked with and each technique applied, a whole new set of materials and techniques must be learned:
 
