@@ -25,9 +25,9 @@ Incidentally, this outburst from the dean of modern electricity was in connectio
 
 Since the publication of this famous interview with Mr. Edison, the press, and particularly the radio press over the entire country, has been more or less agitated. The following comments of mine, most of which were printed in the *New York Times* of September 26, and the *New York Evening Post* of the same date, were made by me at the time, and are here somewhat amplified:
 
-I have too high a personal opinion of Thomas A. Edison to wish to say anything of a controversial nature, or anything that would even border on discourtesy to the great inventor, but I do believe that Mr. Edison has not been recently in touch with radio sufficiently to appreciate fully the tremendous advances that have been made. Mr. Edison is a busy man, and a tremendously busy inventor. It would be well-nigh impossible for him to be in touch with all of the various commercial phases of radio all over the country; and like other executives he obtains his reports from subordinates, and such reports of ten as not may be highly colorful and even wrong.
+I have too high a personal opinion of Thomas A. Edison to wish to say anything of a controversial nature, or anything that would even border on discourtesy to the great inventor, but I do believe that Mr. Edison has not been recently in touch with radio sufficiently to appreciate fully the tremendous advances that have been made. Mr. Edison is a busy man, and a tremendously busy inventor. It would be well-nigh impossible for him to be in touch with all of the various commercial phases of radio all over the country; and like other executives he obtains his reports from subordinates, and such reports often as not may be highly colorful and even wrong.
 
-Right here I wish to pay a tribute to Mr. Edison that the radio industry so far has been unwilling to accord him. If it were not for Mr. Edison and the "Edison Effect," radio would not he what it is today. It is the Edison Effect that has made possible our present vacuum tubes, now used universally in radio. Radio, therefore, owes a tremendous debt to Thomas Alva Edison; and I recommend to the radio industry that it acknowledge this debt more frequently in the future.
+Right here I wish to pay a tribute to Mr. Edison that the radio industry so far has been unwilling to accord him. If it were not for Mr. Edison and the "Edison Effect," radio would not he what it is today. It is the Edison Effect that has made possible our present vacuum tubes, now used universally in radio. Radio, therefore, owes a tremendous debt to Thomas Alva Edison; and I recommend to the radio industry that it acknowledge this debt more frequently in the future.[^espk]
 
 As to Mr. Edison's remarks, the statements that follow are facts which can be checked up by any one who is unbiased. They are not given with any idea of starting a controversy.
 
@@ -43,10 +43,14 @@ The radio and phonograph are two different entities, and should never compete. A
 
 The radio dealers are making far more money in radio now than ever before. A great number interviewed, in New York and vicinity, claim that their business was never better and is on the increase. There are pretty close to 30,000 radio dealers throughout the country today. It is true that for some time the dealers did not make money, due to the price-cutting evil, but this is rapidly being eradicated.
 
-Some of the best sets of today combine the phonograph and the radio. Each has its particular field. You can not listen to Caruso on the radio, nor can you get the latest presidential address on the phonograph.	
+Some of the best sets of today combine the phonograph and the radio. Each has its particular field. You can not listen to Caruso on the radio, nor can you get the latest presidential address on the phonograph.[^crj]
 
 The radio industry today is only five years old, and it may safely be predicted that when it becomes as old as the phonograph is today we shall hardly be able to recognize it as the same development. It is admitted that radio is not yet perfect. Neither is the phonograph, nor the automobile, nor motion pictures, nor electric lights; nor, for that matter, a pair of shoes.
 
 * * * * * * * * * * * 
 
 **Mr. Hugo Gernsback speaks every Monday night at 9 P. M. from Station WRNY on various radio and scientific subjects.**
+
+[^espk]:  See **Thomas A. Edison Speaks to You** on the Edison effect.
+
+[^crj]: Enrico Caruso was an Italian opera tenor with a famously "phonogenic" voice, one that drove the sales of phonographs in the early twentieth century according to @potter_tenor:_2009.
