@@ -59,7 +59,9 @@ What is invention?
 overarching story
 ------------------
 
+Immediately after launching *Modern Electrics,* Gernsback writes to luminaries in the field, requesting articles and interviews.  To Edison, 3.28.09: "The writer believes you to be interested in the propagation of the electrical arts among the Young and as MODERN ELECTRICS is devoted exclusively to young people the writer hopes that his step will find approval by the Master of Electricity."
 
+Takes place between the machine shop model of innovation w/ the telegraph, according to Paul Israel (an age that some mythologize as the era of the independent inventor) and its transition, thanks largely to Edison, to corporate R&D (which many also mythologize as being solely the province of scientists disconnected from practical innovation, when in fact there was a great deal of small-scale tinkering, and, according to Hintz, independent inventors lived on).
 
 points
 -------
