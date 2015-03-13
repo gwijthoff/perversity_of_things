@@ -47,24 +47,13 @@ title: Chronological Contents
     - nonwestern "repair"
     - early wireless telephone company failures, stock manipulation
     - De Forest, first voice transmission, failed company, contributor
-- Ralph 124C 41+, part 1 | April 1911
-- Ralph, part 2 | May 1911
 - Ralph, part 3 | June 1911
     - hypnobioscope
-- Ralph, part 4 | July 1911
-- Ralph, part 5 | August 1911
-- Ralph, part 6 | September 1911
-- Ralph, part 7 | October 1911
-- Ralph, part 8 | November 1911
-- Ralph, part 9 | December 1911
-- Ralph, part 10 | January 1912
-- Ralph, part 11 | February 1912
 - [The Alexander Wireless Bill] + April mention? | February 1912
     - later amended as Radio Act of 1912. First mention here?
     - Hugo's recommendations here incorporated into final Radio Act, February issue, paragraph 15, 2nd part of treatise
     - cite Hagen on Radio Act?
     - points out shortcomings in April issue, p. 24
-- Ralph, part 12 | March 1912
 - Wireless and the Amateur: A Retrospect | February 1913
     - last included Modern Electrics article
 - A Treatise on Wireless Telegraphy | May 1913
@@ -79,7 +68,7 @@ title: Chronological Contents
     - electrolytic / bare-point detector
     - FESSENDEN
     - De Forest's theft, spade detector
-    - first Audion mention?
+    - first Audion mention? And, the audion as bad for experimenters, w/ H.G. encouraging alternative detectors to be found
     - salesmanship
     - collaboration, hardware versioning
 - Sayville | August 1915
@@ -104,6 +93,7 @@ title: Chronological Contents
 - Grand Opera by Wireless | September 1919
 - The Future of Radio | October 1919
 - Thomas A. Edison Speaks to You | December 1919
+    - another battle over the vacuum tube's provenance (this time not de Forest vs. Lee Armstrong), w/ Edison angry about John Fleming being awarded a patent for the Fleming valve, w/o acknowledging the discovery of the "Edison effect."
 - Interplanetarian Wireless | February 1920
     - Mars, communicating with
     - Arrhenius cited by G again
