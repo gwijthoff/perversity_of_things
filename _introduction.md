@@ -84,7 +84,11 @@ points
 
 interested in the material possibility of inventions before they are an idea.  See 191608_perversity and…
 
-how does one develop the inventor's intuition?  by learning about materials and process.  each technique involves the learning of countless other techniques.
+how does one develop the inventor's intuition?  by learning about materials and process.  each technique involves the learning of countless other techniques. "Handicraft," quoted in fn for 192702_why_set_builder.
+
+use fn on radio set building contest ending in intro, from 192702, p. 6?
+
+use fn on 20th century independent inventors in intro? 192302_who_will_save
 
 use Paul Israel on machine shop to corporate research
 
