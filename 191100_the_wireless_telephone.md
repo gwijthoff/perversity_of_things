@@ -2,7 +2,10 @@
 layout: post
 title: from *The Wireless Telephone*
 author: |
-    A Treatise on the Low Power Wireless Telephone, Describing all the Present Systems and Inventions of the New Art.  Written for the Student and Experimenter and those engaged in Research Work on Wireless Telephony.
+    A Treatise on the Low Power Wireless Telephone,\
+    Describing all the Present Systems and Inventions of the New Art.\
+    Written for the Student and Experimenter and those engaged\
+    in Research Work on Wireless Telephony.
 date: 1911
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
