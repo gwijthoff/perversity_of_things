@@ -18,7 +18,7 @@ It is no different with radio.  No sooner has the new art demonstrated its incon
 
 We ask ourselves with horror what would have happened to our telephones if our Government had taken control of them in the early eighties, as was the case in most European countries.  Today there are more telephones in New York City than in France and Belgium combined.  A single New York building---the Hudson Terminal building---has more telephones than all of Greece!
 
-Now Europe needs the telephone no less than America, but it has been proved time and again that it is the Government control which retards development.  As soon as the Government steps in, competition as well as the natural development ceases---the art decays.
+Now Europe needs the telephone no less than America, but it has been proved time and again that it is the Government control which retards development.  As soon as the Government steps in, competition as well as the natural development ceases---the art decays.[^owd]
 
 If this is true of the telephone and telegraph, how much truer is it of Radio?  And particularly Radio in the United States---the land of enormous distances, where Radio will be more necessary within twenty-five years than the wire telephone is to-day.
 
@@ -43,3 +43,5 @@ And now Washington officials once more threaten this art---a distinctly American
 Washington, Sept. 27---Effective Oct. 1, all restrictions on amateur radio stations are removed.  This applies to amateur stations, technical and experimental stations at schools and colleges, and to all other stations except those used for the purpose of transmitting or receiving commercial traffic of any character.  These restrictions on stations handling commercial traffic will remain in effect until the President proclaims that a state of peace exists.
 
 Attention is invited to the fact that all licenses for transmitting stations have expired and that it will be necessary for the amateurs to apply to the Department of Commerce for new licenses.  So far as amateurs are concerned, radio resumes its pre-war status under the Department of Commerce.
+
+[^owd]: In a 1919 issue of the trade journal *Telephony,* the Merchants' Association of New York issued a resolution in opposition to government ownership of telephone infrastructure: "In England the telephone system is state-owned, and operated by the Post Office Department. The service is unreliable and subject to much delay. (In passing it may be said that the highly efficient telegraph service of England, for which the rates are very low, is provided at the cost of a heavy annual deficit payable by taxation.)  The installation is in large part antiquated.  It can be brought up to American standards only by extensive reconstruction at a cost of many million pounds; and the funds required have been persistently refused by the government." @_is_1919.
