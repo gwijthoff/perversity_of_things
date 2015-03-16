@@ -96,8 +96,10 @@ use big NYU prof activist guy on frustrated amateurs moving into science
 
 links from Henry on popular scientific education here.  While Gernsback talks about sci edu more in the scientifiction section than tinkering, this is a good place to bring up these themes in the intro, esp. if i'm not directly tying each intro section to organizational "themes" of the book.  So, what role does the tinkerer have between 19thC and institutionalized science?  And, contextualize push for public science education in the US
 
-wireless
-==========
+"speech and other articulate sounds" ^[191100_wireless_telephone]
+====================================
+
+[wireless]
 
 "radiophone" still being used as late as 192302_who_will_save
 
