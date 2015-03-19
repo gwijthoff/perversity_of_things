@@ -50,21 +50,9 @@ Set building is continuing to increase rapidly, as it has done for five years, i
 
 **Mr. Hugo Gernsback speaks every Monday night at 9 P. M. from Station WRNY on various radio and scientific subjects.**
 
-[^shd]: Shielding a radio set involved placing electrically conductive or magnetic materials between individual components in order to reduce the possibility of electromagnetic interference.
+[^shd]: Gernsback discusses shielding in **"Is Radio at a Standstill?"**
 
-[^dnp]: Both of these were innovations in tuning knob construction.  As more and more broadcasters began to crowd the airwaves in the late 1920s, straight line frequency condensers made tuning easier by spacing out frequencies at the lower end of the dial so that the distance between stations was uniform from one end of the dial to the other.  "At the lower end of the broadcasting band, ten kilocycles do not change the wavelength nearly as much as the same change does at 500 meters, for instance."  Straight line condensers were a solution to this problem.
-
-    > As the shaft is turned, the plates engage with each other more and more rapidly.  The result of this construction is to give slow changes in capacity when the plates are nearly disengaged, and rapid changes when the dial is turned to the higher numbers. … This means that as you turn the dial toward zero, the condenser plates move slower and slower in proportion to the amount of motion on the dial.
-    
-    @lane_new_1926
-
-    Vernier dials allowed for large movements on a knob to result in fine-grained input: "each complete rotation of the control knob causes only a fraction of a revolution of the main shaft, permitting fine and accurate adjustment."  @_vernier_2003.  It is named for the vernier scale, which performs a similar function for measurement: a secondary scale on a pair of calipers indicates with more granularity where a measurement lies *between* two marks on the primary scale.  It was invented by the French mathematician Pierre Vernier (1580-1637).  @_vernier_2015.
-    
-    ![](images/straight_line_condenser1.png) <!-- no figure -->
-    
-    ![](images/straight_line_condenser2.png) <!-- no figure -->
-    
-    ![](images/straight_line_condenser3.png) <!-- no figure -->
+[^dnp]: For an explanation of straight-line frequency condensers and vernier dials, see **"Is Radio at a Standstill?"**
 
 [^fns]: In his editorial for *Science and Invention,* titled "Handicraft" and published in the same month, Gernsback argues that making things by hand not only gives the white collar worker a means of diversion and release after work, but serves as an education in its own right.  For each material worked with and each technique applied, a whole new set of materials and techniques must be learned:
 

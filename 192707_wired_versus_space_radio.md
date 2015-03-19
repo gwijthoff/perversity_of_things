@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why the Radio Set Builder
+title: Wired Radio Versus Space Radio
 author: |
  *Radio News*, vol. 9 no. 1
 date: July 1927
@@ -20,13 +20,13 @@ In America the broadcasters expect to get back, through the returns from good-wi
 
 There is, however, another system which may shortly go into operation in the eastern part of the United States, and which is known under the name of wired radio. There is nothing new about this, for it is not a new invention by any means.
 
-General G. O. Squier took out patents on wired radio many years ago, but so far the svstem has not met with much success or encouragement in application to broadcasting; although this can be accomplished by wired radio over any existing lines, be they telephone or telegraph, electric-light or power. It is understood that, for the time being at least, the telephone interests will have none of wired radio. On the other hand, one of the largest electric light and power corporations in the country, with networks extending throughout the east, definitely intends to go "on the wire" with wired broadcasting in the near future, probably within six or eight months.
+General G. O. Squier took out patents on wired radio many years ago, but so far the svstem has not met with much success or encouragement in application to broadcasting; although this can be accomplished by wired radio over any existing lines, be they telephone or telegraph, electric-light or power.[^gos] It is understood that, for the time being at least, the telephone interests will have none of wired radio. On the other hand, one of the largest electric light and power corporations in the country, with networks extending throughout the east, definitely intends to go "on the wire" with wired broadcasting in the near future, probably within six or eight months.
 
 Many technical difficulties had to be overcome to make this possible, but officials of the company sponsoring wired radio now believe that the difficulties have been smoothed out, and that a real service can actually start very soon. Somewhere in the east there will be studios where three different programs will be broadcast simultaneously on different wavelengths over existing wire systems.
 
 By means of a simple switch on a special receiving set, it is promised, the listener renting the instrument from the wired-radio company will be able to select any one of the three programs being fed to the electric-light wires, and this program will issue from a loud speaker. Two models of receivers are planned. One will use a crystal detector, and is intended primarily for headphone reception. The other will include a regular audio amplifier and a loud speaker, all "A," "B" and "C" power being derived from the power line. No aerial and ground will be used, as the receiver picks the programs directly off the power wires.
 
-If one already owns a radio receiver, he can rent the crysta! receiver and connect it to his set in such a manner that the audio amplifier in the latter will amplify the signals; the radio loud speaker will then reproduce them as it does space-radio impulses. This is just an outline of the proposal, from the advance information at hand.
+If one already owns a radio receiver, he can rent the crystal receiver and connect it to his set in such a manner that the audio amplifier in the latter will amplify the signals; the radio loud speaker will then reproduce them as it does space-radio impulses. This is just an outline of the proposal, from the advance information at hand.
 
 Interesting as are the possibilities of wired radio, however, I personally do not believe that it will prove a formidable competitor of space radio.
 
@@ -49,3 +49,11 @@ It is in the nature of every radio fan to investigate and the prediction is free
 * * * * * * * * * * * 
 
 **Mr. Hugo Gernsback speaks every Monday night at 9 P. M. from Station WRNY on various radio and scientific subjects.**
+
+[^gos]: Major General George Owen Squier (1865-1934) first became a proponent of wired radio in 1900 after observing that the tactics of the Spanish American war was revolved around "coal and cables":
+
+    > Reliable submarine [cable] communications under exclusive control are not only absolutely necessary, but exercise a dominating influence upon the control of the seas, whether in commercial strategy or in military and naval strategy.
+    
+    Eventually, Squier moved from advocating a network of US government cables that networked the newly annexed territories in the Philippines, Cuba, and Puerto Rico, to an agenda closer to home.  Forming a company in 1922 called Wired Radio, Squier sold "centralized transmissions within a rationalized system of stimulus codes", or the canned music crowd control we now know as Muzak, a term coined by Squier.
+    
+    @winkler_nexus:_2008, 20-21.  @min_soothe_2002.

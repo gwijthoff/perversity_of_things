@@ -30,7 +30,7 @@ In front of the bridge we see a number of people who are propelled by Radio Powe
 
 We next see the crewless ships controlled by radio. This has been made possible today. Indeed, several U. S. battleships have already been manoeuvred over a considerable distance by radio. The time will come when we can direct a ship across the ocean without a human being on board. Future freight will be sent in this manner. The ship, every ten minutes, gives its location by radio, so that the land dispatcher will know at any time where the ship is located. Collisions are avoided by a number of instruments into details of which we need not go here, but which have already been perfected. Collision with icebergs also is avoided by thermo-couples which divert the ship away from the iceberg as soon as it enters water which has been cooled below a certain degree.
 
-The radio-controlled airplane works similarly to the radio-controlled ship, and it will be possible to control such airships very readily in the future. As a matter of fact, John Hays Hammond, Jr., in this country, has done this very thing.[^jhh] Radio-controlled airplanes will play a great role in the next war.
+The radio-controlled airplane works similarly to the radio-controlled ship, and it will be possible to control such airships very readily in the future. As a matter of fact, John Hays Hammond, Jr., in this country, has done this very thing.[^jhh] Radio-controlled airplanes will play a great role in the next war.[^jfk]
 
 It is a mistake to think that radio is only good for the distribution of intelligence. As the illustration shows, the great uses of radio have not been touched upon as yet.
 
@@ -82,6 +82,8 @@ At the time this volume is written, radio is just about twenty-five years old. I
 
 [^pqn]: For more on Nikola Tesla's World Wireless System, the most concrete proposal for such an infrastructure, see **The Future of Wireless.**  A similar technology is described in **Our Cover,** referred to as a "Radiofer."
 
-[^hhh]: Hammond (1888-1965), recipient of the 1963 Institute of Electrical and Electronics Engineers (IEEE) Medial of Honor, was known for piloting a yacht by remote control in 1914 on a 120-mile trip between Gloucester and Boston, Massachusetts. @dandola_living_2004.
+[^jhh]: Hammond (1888-1965), recipient of the 1963 Institute of Electrical and Electronics Engineers (IEEE) Medial of Honor, was known for piloting a yacht by remote control in 1914 on a 120-mile trip between Gloucester and Boston, Massachusetts. @dandola_living_2004.
+
+[^jfk]: By the 1940s, remote controlled aircraft were being experimented with in the United States.  Joseph P. Kennedy, Jr., the oldest brother of President John F. Kennedy, was killed in World War II in one early "drone" program.  Operation Aphrodite called for a pilot to fly a B-17 Flying Fortress packed with explosives close to a bombing site and parachute away from the craft before it was remotely piloted into the target using radio control and two television cameras mounted on the dashboard.  In the case of Kennedy's plane, the explosives detonated prematurely.  Ed Grabianowski, "The Secret Drone Mission that Killed Joseph Kennedy Jr.," *io9*, February 21, 2013, <http://io9.com/5985733/the-secret-drone-mission-that-killed-joseph-kennedy-jr>.
 
 [^n21]: Leveling an "off the beaten track" challenge to the radio experimenter to break out into new areas of research, Gernsback describes in this editorial the future of wireless picture transmission.  It is quoted directly with no changes in the next three paragraphs.  @gernsback_radio_1921.
