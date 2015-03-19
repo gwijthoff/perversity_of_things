@@ -96,12 +96,26 @@ use big NYU prof activist guy on frustrated amateurs moving into science
 
 links from Henry on popular scientific education here.  While Gernsback talks about sci edu more in the scientifiction section than tinkering, this is a good place to bring up these themes in the intro, esp. if i'm not directly tying each intro section to organizational "themes" of the book.  So, what role does the tinkerer have between 19thC and institutionalized science?  And, contextualize push for public science education in the US
 
+see prologue to Aitken, Syntony and Spark on invention as a kind of guessing, separate from science, a blind creativity.
+
 "speech and other articulate sounds" ^[191100_wireless_telephone]
 ====================================
 
 [wireless]
 
 "radiophone" still being used as late as 192302_who_will_save
+
+overarching story
+------------------
+
+points
+-------
+
+Though HG and collaborators feel left out of the broadcast boom, Radio News is still a beacon for tinkerers around the world, who feel that their sets are far superior to the "average" sets sold by companies, in department stores, etc., and that they serve as the vanguard of advancing the "science."
+
+A trip back to the archives for forgotten curiosities in radio history, both to educate an expanding public on precisely how this technology works, and to find new paths forward that may have been overlooked.
+
+In 192704_radio_steps_out, it's shown how radio technology infuses many other devices and media, including sound film and the phonograph.  The interweaving of these seemingly disparate cultural forms just goes to show how much emerging media were a product of alchemical combinations between components and imaginaries -- the idea here being that "radio" could have been anything, not just the consumer-friendly broadcast medium it was being solidified as in 1927.  Given a different combination of shared elements between new media, many other configurations were possible.
 
 random notes
 ==============
