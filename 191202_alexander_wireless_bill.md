@@ -22,7 +22,7 @@ This holds true of the Alexander bill, and as soon as the bill was made public, 
 
 The Government realizes fully the importance of the American amateurs to-day, and if any bill should be passed, it will be one that regulates wireless, but in no way suppresses it. 
 
-This, *Modern Electrics* has always advocated. In fact *Modern Electrics* is heartily in accord with any bill that should regulate wireless in such a way that the amateurs do not interfere with commercial or Government business, which is only right and fair. 
+This, *Modern Electrics* has always advocated. In fact *Modern Electrics* is heartily in accord with any bill that should regulate wireless in such a way that the amateurs do not interfere with commercial or Government business, which is only right and fair.
 
 As stated elsewhere in this issue, Government officials have already been busy in New York of late, to find out what equipment the various amateurs use, what their wave lengths are, what power they use, etc. 
 
@@ -38,4 +38,4 @@ It is significant that none of the other periodicals, who always shout that they
 
 *Modern Electrics* has been the first in the wireless field and will continue to serve the wireless amateur and the independent wireless interests in the future, as in the past.
 
-[^wpd]: Early Radio History: "On December 11, 1911, the Alexander Wireless bill was introduced in Congress, to set up comprehensive regulation of the U.S. radio industry, which until then was almost completely unregulated. This bill would eventually be passed as the Radio Act of 1912, and signed on August 13, 1912 by President Taft. The initial bill did not include any provisions for amateur radio transmitters. But before it was passed, it was amended to include provisions explictedly recognizing amateur stations, while generally limiting them to operation on 200 meters (1500 kilohertz). Hugo Gernsback claimed that this editorial of his was the first time anyone suggested that U.S. amateurs should be assigned to operate on 200 meters. (The editorial also suggested that amateur stations should be allowed to use wavelengths of 1,000 meters and above, but this was not included in the new law)." <http://earlyradiohistory.us/1912200.htm>
+[^wpd]: The Alexander Wireless Bill was introduced for debate in congress on December 11, 1911 by Joshua W. Alexander, Democratic representative from Missouri.  Alexander later served as the US Secretary of Commerce and was succeeded by Herbert Hoover, who would play a decisive role in the creation of the Federal Communications Commission (see **"Who Will Save the Radio Amateur?"**).  The Alexander Bill was the kernel that eventually became the Radio Act of 1912.  While the bill included no mention of amateur stations, after months of debate and agitation among wireless communities, the Radio Act of 1912 explicitly defined the acceptable range of activities available to amateurs.
