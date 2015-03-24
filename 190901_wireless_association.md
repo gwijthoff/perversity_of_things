@@ -22,7 +22,7 @@ Not alone on sea, or between land and sea, but on the mainland also, Wireless is
 
 The greatest aim of the Wireless Association of America is to bring young experimenters together---not in clubs, but in practical work.[^clb]  The Editor would like to see every reader of "Modern Electrics"; in possession of a wireless station; there is really nothing more instructive and entertaining than a wireless between two isolated, or for that matter, distant points in a city.  The necessary instruments, thanks to competition are now so cheap that they are in reach of everybody, and we have as yet to hear of the person regretting an investment in wireless instruments.
 
-The Association's button will also be of great help to bring young experimenters, unknown to each other, together.  As only a few thousand buttons were ordered, prospective members should send at once for same, as it will take several weeks to obtain a new supply.
+The Association's button will also be of great help to bring young experimenters, unknown to each other, together.  As only a few thousand buttons were ordered, prospective members should send at once for same, as it will take several weeks to obtain a new supply.[^pin]
 
 * * * * * * * * * * * 
 
@@ -99,4 +99,14 @@ In order to facilitate quick classification, please be brief and keep applicatio
     
     @appleton_tom_1911, p. 168.
 
-[^clb]:  A rival publication, *Electrician and Mechanic,* started its own "Wireless Club" the previous year, boasting 114 members as of September 1908.  A monthly section of the magazine, "Wireless Club," published short letters from member: "experiences, discoveries, and suggestions, which may be helpful to all interested."  The first installment is available at Thomas H. White's *United States Early Radio History* site: <http://earlyradiohistory.us/1908wc2.htm>.
+[^clb]:  In addition to numerous local clubs around the country, rival publications attempted to build their own national organizations of wireless operators.  *Electrician and Mechanic,* started a "Wireless Club" the previous year, garnering a modest 114 members as of September 1908.  A monthly section of the magazine, "Wireless Club," published short letters from member: "experiences, discoveries, and suggestions, which may be helpful to all interested."  The first installment is available at Thomas H. White's *United States Early Radio History* site: <http://earlyradiohistory.us/1908wc2.htm>.  *The Wireless Age* formed a National Amateur Wireless Association in 1915 with a greater emphasis on citizen preparedness for potential war.  Major J. Andrew White, editor of *The Wireless Age* and broadcaster at the famous 1921 experimental broadcast of the Jack Dempsey v. Georges Carpentier fight, wrote that he hoped this organization would help boys from the ages of 12 to 18 "learn what military discipline means, accustom themselves to the rigors of camping and forced marches, perfect themselves in the operation of portable wireless equipment and become trained soldiers in embryo."
+
+    Hiram Percy Maxim proposed a different idea for a wireless organization in 1914: one that would expliditly work toward relaying messages across long distances, in effect forming a communications network of small, volunteer broadcast stations.  This American Radio Relay League formed its own magazine, *QST,* and though it tried to collaborate with the Wireless Association of America, *Electrical Experimenter* refused to publish advertisements for the ARRL writing that it was "distinctly competitive to The Electrical Experimenter."  A secretary of the AARL wrote to Milton Hymes, *Electrical Experimenter's* advertising manager, trying to convince the then-largest wireless publication in the country that
+    
+    > We regard the Electrical Experimenter as a companion magazine; a magazine of an entirely different type. Your paper is devoted to articles which would interest an experimenter and one who wished to keep abreast of the electrical news. Our paper is to keep each amateur in touch with the other regarding the operations of their stations.
+    
+    But *Electrical Experimenter* held firm.  *QST* published this correspondence in its July 1916 issue, and a bitter rivalry ensued between the two organizations.  See @white_pioneering_1996.  The letters exchanged between *QST* and *Electrical Experimenter* are available at <http://earlyradiohistory.us/1916QST.htm>.
+    
+[^pin]: By 1912, the Wireless Association of America boasted 22,300 members.
+
+    ![](images/waoa_pin.jpg)
