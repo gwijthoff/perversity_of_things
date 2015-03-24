@@ -43,3 +43,7 @@ It will be necessary, in other words, for the television broadcasting companies 
 **TELEVISION NEWS IS PUBLISHED ON THE 15TH OF EVERY OTHER MONTH**
 
 *THE NEXT ISSUE COMES OUT AUGUST 15TH*
+
+======
+
+see also first ever editorial for the magazine, "The Television Art," which says that big corporations are purposefully holding back progress and experimentation in television, jealously guarding their patents.  Television News, vol 1 no 1, March-April 1931.
