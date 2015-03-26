@@ -75,4 +75,20 @@ I have stated all this before, editorially and otherwise.  This time I will not 
 
 "As to the statistics, it appeared, if the figures given by the U.S. Bureau of Foreign and Domestic Commerce in 1928 were valid, the demand for automobiles, radios, telephones, moving pictures, etc., had so increased during the same period that 1,280,000,000 men had found employment since 1920 as chauffeurs and the like, 100,000 had been taken in in the servicing of electric refrigerators, oil burners, etc., 185,000 had been hired as teachers, and 100,000 had become life-insurance agents.  There was also between 1920 and 1928 an increase in the school population of 3,500,000.  But part of this was due to the rise in population.  The actual increase in percentage of the school-age population attending schools was 2.7 per cent.  Other surveys found an enormous increase (407,000) in the medical and allied professions, and in hotels, restaurants, moving pictures, and banking, with the result that 1,907,000 new positions 
 
-[^1]: This inaugural issue of *Technocracy Review* contained essays by 
+* * * * * * * * * * *
+
+[^1]: This inaugural issue of *Technocracy Review* contained essays by
+
+Probably use one of the following editorials instead, using only the opening editorial announcement of Technocracy Review as a footnote.  In the later editorial, sees technocracy as a form of SF, imagining nothing new really.
+
+WS March 1933: Wonders of Technocracy
+WS July 1931: Wonders of the Machine Age 
+both in original page images
+
+![Illustration for Nathan Schachner's story "The Robot Technocrat," set in the year 1954 when America has reached its lowest point in the depression and society has completely broken down.](images/ws_193303_cover_technocrat.jpg)
+
+Ashley on Schachner: "Schachner generally supported technocracy in his stories, because it favored a scientific solution to problems, but he also recognized that there needed to be a balancing of all skills.  There was no simple answer to the nation's problems, but rebelling against science rather than utilizing its knowledge was not the answer." @ashley_gernsback_2004, 210.
+
+Scientifiction that treats technocracy with a great degree of skepticism.  Out of the total ruins of American society in the year 1954 comes Hugh Corbin, leader of a movement called the Reconstructionists, who seek to "rebuild the machines that the masses destroyed in their blind rage against overproduction."  A Russian scientist named Anton Kalmikoff creates a massive computer that "can predict the future from a series of political, scientific, and socio-economic factors" (Ashley).  Predicts current state of social collapse if continued, if Hitler's reign continues, and "Corbin's" new vision, which is the only viable one.  In the story, the government battles with scientists for control.
+
+Technocracy Review only ran for two (or three?) issues.  According to Moskowitz, "made uncomfortable by the company he was keeping", Seekers of Tomorrow p. 357.  Lasser became more involved in fighting unemployment and became a member of the Socialist Party in 1933.  According to Lasster, HG called him into his office and said, "If you like working with the unemployed so much, I suggest you go and join them."  Fired from his role w/ Wonder Stories.  HG needed capital to launch Sexology, which became a hit w/ its first issue in _______.  Lasser's salary freed up space, and Gernsback hired a sixteen-year-old fan Charles D. Hornig who could work at 20/week rather than Lasser's 70/week.  So, fuck your political movement, I have a new idea for some escapism amid the depression that can make me more money.  Took place in the summer of 1933.

@@ -122,6 +122,10 @@ In 192704_radio_steps_out, it's shown how radio technology infuses many other de
 regulation [pithy phrase]
 ===========
 
+"A perfect Babel of voices" 191906_amateur_radio_restored
+
+"out into the star-lit night and myriads of voices" 191906_amateur_radio_restored
+
 Do these articles amount to a full scale policy or philosophy of regulation?  Probably not.  More a series of reactions to conditions on the ground.  Tries to remain as agnostic as possible.
 
 random notes
@@ -146,6 +150,8 @@ mention signaling Mars newspaper clipping: ![](signaling_mars_insert.jpg)
 Anonymity online: "Wireless Joker", "Signaling to Mars" (announcing first Blue Book), "Wireless Association."
 
 * * * * * * * * * * *
+
+Contact the Pulp Magazines Project for one of their gorgeous photos of pulp newststands, as here: <http://www.pulpmags.org/wonder_page.html>
 
 Paul and illustrations
 =======================

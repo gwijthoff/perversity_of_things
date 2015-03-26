@@ -18,7 +18,7 @@ When on Nov. 11 the glad news came that the great war had been won, the world on
 
 A nation may be opprest by a relentless foe in a similar manner by unust laws which curtail the freedom of its people.  Indeed, when it was proposed last winter to take away from the American Radio Amateur the freedom of the ether, which would have deprived the liberties of over 300,000 young men in this country, war was declared once more.  This was war to the knife; it was as short as it was decisive.  But Right as usual won over Might, and the American Radio Amateur won *his* war, and the Allies won theirs.
 
-And, as the Allies will win the fruits of their victory in the months to come, so will the amateurs reap the fruit of their victory.  Indeed, the reaping has already begun.  On April 15th the ban on Radio, at least for *receiving,* was officially taken off, and a mighty shout went up when Radio Amateurs were again permitted ot use the ether to their hearts' content.  Altho the ban for *sending* has not been removed at this time of writing, the chances are that before the next issue is in your hands the freedom of the ether will be once more restored completely.
+And, as the Allies will win the fruits of their victory in the months to come, so will the amateurs reap the fruit of their victory.  Indeed, the reaping has already begun.  On April 15th the ban on Radio, at least for *receiving,* was officially taken off, and a mighty shout went up when Radio Amateurs were again permitted ot use the ether to their hearts' content.  Altho the ban for *sending* has not been removed at this time of writing, the chances are that before the next issue is in your hands the freedom of the ether will be once more restored completely.[^dnls]
 
 As soon as the newspapers published the welcome tidings on April 15th that the ban on receiving was off, hundreds of thousands of amateurs began dusting off their sets and aerials blossomed forth over night by the thousands to resume their former activities once more.
 
@@ -97,3 +97,9 @@ We ask every amateur who is not a member of the League to sign the blank appende
 LONG LIVE THE RADIO AMATEUR!
 
 ![](images/radio_league_america.png)
+
+[^dnls]: As Gernsback reported three months later, Secretary of the Navy, Josephus Daniels, attempted to maintain government control over radio activities after the war.  @gernsback_government_1919.  However, during the 1919 hearings on permanent naval radio control,
+
+    > two congressmen pointedly criticized [Daniels's] wartime use of navy funds to purchase radio company assets without explicit authorization from Congress.  Further discrediting the secretary was testimony from amateur groups and commercial firms, including E. J. Nally's angry retelling of the travails of Pan-American Wireless [the hybrid government/private entity that incorporated all patents, personnel, and equipment from American Marconi and Federal Telegraph companies during the war].  The committee tabled the bill a month later.  The ire against Daniels spread to the rest of the House.  House Minority Leader James R. Mann publicly called for Daniels's impeachment over the purchase of radio company assets.
+    
+    @winkler_nexus:_2008, 254.

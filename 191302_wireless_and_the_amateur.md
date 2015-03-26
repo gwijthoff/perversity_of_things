@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Wireless and the Amateur: A Retrospect
+title: |
+    Wireless and the Amateur: A Retrospect
 author: |
-
-*Modern Electrics*, vol. 5 no. 11
+    *Modern Electrics*, vol. 5 no. 11
 date: February 1913
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl

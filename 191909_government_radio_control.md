@@ -12,7 +12,7 @@ csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 
 * * * * * * * * 
 
-**O**N July 24th Secretary of the Navy Daniels addressed a remarkable letter to the peaker of House of Representatives, which is reprinted in full on another page.
+**O**N July 24th Secretary of the Navy Daniels addressed a remarkable letter to the speaker of House of Representatives, which is reprinted in full on another page.
 
 We had thought that Government radio control was at a rest for a while when certain radio bills defeated last year. It seems however to be a pastime in Washington to sponsor Government Control radio every month or so, at least so it looks to us. The writer has pointed out in his previous articles that the Radio Act of 1912 has been found ample for all requirements, be they Government, commercial or amateur Daniels speaks in his letter of *"assigning certain belts wave lengths for the exclusive use of these services."* He immediately corrects himself by saying that *"as a of fact such allotment of wave length is coming about thru International Agreement."*
 
@@ -28,7 +28,7 @@ As the Radio art progresses, laws to regulate the art become of less and less im
 
 In radio exactly the same situation prevails As far as the bug-a-boo interference is concerned, radio will work out its own remedies. Great strides have been made in the past few years, particularly during the war, and the next ten years will certainly show a complete revolution. The word "interference" will he laughed at.[^1]
 
-The whole radio situation is so obviously simple at the present time that we cannot comprehend why the powers that be in Washington do not realize this and forget all about Government radio control for a while. The amateurs are using the lowest step in the wave-length ladder. Next come the commercial stations covering small distances After them come the long distance trans-oceanic stations with their long wave lengths necessary due to the great distances. There is now very little interference between all of these, and what interference there is is mainly due to inefficient personnel, or inadequate apparatus, or both.
+The whole radio situation is so obviously simple at the present time that we cannot comprehend why the powers that be in Washington do not realize this and forget all about Government radio control for a while. The amateurs are using the lowest step in the wave-length ladder. Next come the commercial stations covering small distances. After them come the long distance trans-oceanic stations with their long wave lengths necessary due to the great distances. There is now very little interference between all of these, and what interference there is is mainly due to inefficient personnel, or inadequate apparatus, or both.
 
 As to Government control of radio, we are certain that the country wants none of it at present after its unsatisfactory experiment in Government ownership of the telegraph, telephone, and cable lines just returned. And after its more or less disastrous experiment in Government control of the railroads of the country, we believe our legislators will think twice before attempting radio Government control at present.
 
