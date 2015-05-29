@@ -30,6 +30,8 @@ Unlike the mirror, however, you should not be able to see your own picture in yo
 
 From this it will be seen immediately how difficult the problem becomes, as if you could see yourself in your own Telephot, as well as the picture of your friend, it is obvious that there would be a 'mix-up' of personalities, the consequence being that you could not recognize your friend nor yourself, while your friend at the other end could of course not recognize you nor himself.
 
+![May 1918 cover of *Electrical Experimenter.*](images/ee_cover_telephot.jpg)
+
 In the telephone the case is not so difficult, as it is absolutely necessary that one party talks while the other listens; if both talk and listen, none can understand, as the voices mix up.
 
 In the Telephot this parallel does not hold good, as there is nothing to restrain you from looking at your friend at the same time he is looking at you.
@@ -101,7 +103,7 @@ As each prong swings it sends a current over the line L' L". If now No. 1 and No
 
 ![](images/tv_tele_5.png)
 
-Now, then, if the selenium cell connected to El is lighted with, say, 10 C.P., a proportionate amount of energy---call it 10 energies---are received at LR1. The light relay therefore passes 10 energies of the small tungsten lamp TL through its opening, and 10 energies are projected on the screen S. If the cell connected to E6 receives the light of 100 C. P. it is evident that LR6 receives 100 energies and the screen is lighted with 100 energies and so on.
+Now, then, if the selenium cell connected to El is lighted with, say, 10 C.P., a proportionate amount of energy---call it 10 energies---are received at LR1. The light relay therefore passes 10 energies of the small tungsten lamp TL through its opening, and 10 energies are projected on the screen S. If the cell connected to E6 receives the light of 100 C. P. it is evident that LR6 receives 100 energies and the screen is lighted with 100 energies and so on.[^mror]
 
 Thus it will be seen that if we have enough selenium cells at H and enough light relays at G any picture in motion will be transmitted correctly and reproduced in its true phases on the screen S. It is only a matter of building the apparatus and instruments with sufficient precision.
 
@@ -124,7 +126,7 @@ No patents were taken out on this invention by the writer, as he considers the d
 
     > The cell devised by Ruhmer was given a cylindrical form so that the light might be evenly distributed over its surface by the reflector. The selenium cell was made by winding two fine platinum wires in parallel and separated by 7-10 mm. on a glass tube 33 mm. in length and 20 mm. in circumference and then foreing the prepared selenium in the space between the wires. This preparation consists of heating the amorphous red powder, in which state selenium is found, until it is transformed into a black, gummy mass, when it becomes a very good insulator; it is then applied to the interstices of the platinum wires and baked for twelve hours at a constant temperature of 200° F., when it is annealed by gradually reducing the temperature and crystalline selenium results, having a gray color and assuming the remarkable property of varying its electrical resistance under the influence of light. Such a cell is marvelously sensitive to light variations. (290-292)
 
-[^frt]: Though Gernsback claims in his autobiography that this article "may have been the first to explain television in simple terms for the layman" (64), the technology had been envisioned much earlier and explained in similarly generalist terms. Most historians date the earliest depiction of television *avant la lettre* to a George Du Maurier cartoon in the December 9, 1878 issue of *Punch.* The cartoon, "Edison's Telephonoscope" was a prediction for the following year, part of Punch's "Almanack for 1879." The caption reads, "Every evening, before going to bed, Pater- and Materfamilias set up an electric camera-obscura over their bedroom mantel-piece, and gladden their eyes with the sight of their children at the Antipodes, and converse gaily with them through the wire." Friedrich Kittler dates the coinage of a name for this medium to Raphael Eduard Liesegang's 1891 book *Beitrage zum Problem des elektrischen Fernsehen* \[Contributions to the Problem of Electrical Television\]. For more on the 19th century origins of electric image scanning techniques, see Kittler, Friedrich. *Optical Media: Berlin Lectures 1999.* Trans. Anthony Enns. Cambridge: Polity Press, 2002. pp. 208-12. Further explications of the principle of television for a popular audience in the German context can be found in the writings of the technologist Eugen Nesper, *Das elektrische Fernsehen und das Telehor* (Berlin: Verlag von M. Krayn, 1923). Nesper was a frequent contributor to the magazine *Der Radio-Amateur* and reviewed several of Gernsback's devices in this publication.
+[^frt]: Though many point to this article as the first either to coin the term "television" or explain its idea to the layman (for instance @oneil_amazing_1963), the technology had been envisioned much earlier and explained in similarly generalist terms. Most historians date the earliest depiction of television *avant la lettre* to a George Du Maurier cartoon in the December 9, 1878 issue of *Punch.* The cartoon, "Edison's Telephonoscope" was a prediction for the following year, part of Punch's "Almanack for 1879." The caption reads, "Every evening, before going to bed, Pater- and Materfamilias set up an electric camera-obscura over their bedroom mantel-piece, and gladden their eyes with the sight of their children at the Antipodes, and converse gaily with them through the wire." Friedrich Kittler dates the coinage of a name for this medium to Raphael Eduard Liesegang's 1891 book *Beitrage zum Problem des elektrischen Fernsehen* \[Contributions to the Problem of Electrical Television\]. For more on the 19th century origins of electric image scanning techniques, see @kittler_optical_2010, 208-12. Further explications of the principle of television for a popular audience in the German context can be found in the writings of the technologist @nesper_elektrische_1923. Nesper was a frequent contributor to the magazine *Der Radio-Amateur* and reviewed several of Gernsback's devices in this publication.
 
     !["Edison's telephonoscope \(transmits light as well as sound\), from *Punch,* December 9, 1878](images/telephonoscope.jpg) <!-- no figure -->
 
@@ -143,3 +145,15 @@ No patents were taken out on this invention by the writer, as he considers the d
     Hausmann's most famous work, the "Mechanical Head [The Spirit of Our Time]" (c. 1920), shows a subject whose perception is determined by the mechanical apparatuses affixed to it.
     
     ![Raoul Hausmann's "Mechanical Head" \(1920\)](images/MechanicalHead-Hausmann.jpg) <!-- no figure -->
+    
+[^mror]: In a 1918 article on the telephot, Gernsback points out that successful two-way moving image communication would require both speakers' faces to be illuminated:
+
+    > In order that the distant person may see the speaker's face, it is of course necessary that the latter's face be illuminated. For it goes without saying that if the speaker was in the dark, his friend could not possibly see him on the other side because no light impulses would be thrown on the "sending" lens. For this reason it will be necessary to provide a lamp R at the top of the Telephot, which lamp throws its rays on the speaker's face; from here the light rays are thrown onto the lens, thence to be transmitted to the distant station.
+    
+    @gernsback_television_1918.
+    
+    Just five years earlier, Gernsback had patented a "luminous electric mirror" whose design mimicked that of his speculative prototypes for the telephot.
+    
+    @gernsback_luminous_1913.
+    
+    ![](images/gernsback_mirror_patent.png) <!-- no figure -->

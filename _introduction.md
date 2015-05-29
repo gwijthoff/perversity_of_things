@@ -119,6 +119,12 @@ A trip back to the archives for forgotten curiosities in radio history, both to 
 
 In 192704_radio_steps_out, it's shown how radio technology infuses many other devices and media, including sound film and the phonograph.  The interweaving of these seemingly disparate cultural forms just goes to show how much emerging media were a product of alchemical combinations between components and imaginaries -- the idea here being that "radio" could have been anything, not just the consumer-friendly broadcast medium it was being solidified as in 1927.  Given a different combination of shared elements between new media, many other configurations were possible.
 
+Historical context:  American nationalist/colonialist aspirations after the Spanish American War is an important context for thinking about networking (and securing) a public, a polity, as well as the question of whose future was being imagined as existing within this public, whose wonder in the face of self-awareness as being a part of this public.  See the footnote in "Wired Radio Versus Space Radio" on strategic control of submarine cables.
+
+A classic SF question: how can national borders remain with global networks unifying all peoples?
+
+In a sense, G's optimism about technological progress is only possible in the unscathed US after World War I.
+
 regulation [pithy phrase]
 ===========
 
@@ -127,6 +133,11 @@ regulation [pithy phrase]
 "out into the star-lit night and myriads of voices" 191906_amateur_radio_restored
 
 Do these articles amount to a full scale policy or philosophy of regulation?  Probably not.  More a series of reactions to conditions on the ground.  Tries to remain as agnostic as possible.
+
+[television and other new media]
+=================================
+
+Can combine categories of TV and "media" here, because TV never really developed as a community for Gernsback.  He started *Television News* as a wager to the argument that communities of amateurs can advance a "new art" faster than any closed off, patent-hoarding corporation.  That may be true, but the corporations dictated the terms of that development.  So, this section can be more broadly about Gernsback's understanding of media history, and how new media develop within communities.
 
 random notes
 ==============
