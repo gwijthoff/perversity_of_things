@@ -34,7 +34,7 @@ But one of the most important branches of the new art is undoubtedly *Radio Powe
 
 In the face of these developments in the Radio Act, who can doubt that the future will bring forth still more wonderful achievements, not to be imagined to-day by the most fervid imagination.
 
-And now Washington officials once more threaten this art---a distinctly American art---the eighth wonder of the modern world.  But the country at large wants no further harmful radio legislation, we are certain.  On page 190 we found a few voices.  Radio enthusiasts should read particularly Mr. Manderville's letter to his Senator---and follow suit.  Let our slogan be:  *"Hands off Radio.*"
+And now Washington officials once more threaten this art---a distinctly American art---the eighth wonder of the modern world.  But the country at large wants no further harmful radio legislation, we are certain.  On page 190 we found a few voices.  Radio enthusiasts should read particularly Mr. Manderville's letter to his Senator---and follow suit.  Let our slogan be:  *"Hands off Radio.*"[^mndr]
 
 * * * * * * * * * * * 
 
@@ -45,3 +45,7 @@ Washington, Sept. 27---Effective Oct. 1, all restrictions on amateur radio stati
 Attention is invited to the fact that all licenses for transmitting stations have expired and that it will be necessary for the amateurs to apply to the Department of Commerce for new licenses.  So far as amateurs are concerned, radio resumes its pre-war status under the Department of Commerce.
 
 [^owd]: In a 1919 issue of the trade journal *Telephony,* the Merchants' Association of New York issued a resolution in opposition to government ownership of telephone infrastructure: "In England the telephone system is state-owned, and operated by the Post Office Department. The service is unreliable and subject to much delay. (In passing it may be said that the highly efficient telegraph service of England, for which the rates are very low, is provided at the cost of a heavy annual deficit payable by taxation.)  The installation is in large part antiquated.  It can be brought up to American standards only by extensive reconstruction at a cost of many million pounds; and the funds required have been persistently refused by the government." @_is_1919.
+
+[^mndr]: Manderville's letter to his senator reads:
+
+    >  The writer wishes to appeal to you to prevent, if possible, the control of all wireless telegraphic communication being placed in the hands of the Navy Department.  He asks this in a dual capacity; first, as a private citizen who is a wireless amateur and vitally interested in wireless telegraphy, both as an electrical engineer and as an experimenter, and, second, as chief engineer of the T. W. Phillips Gas & Oil company, a public service corporation engaged in supplying gas to 20,000 consumers in Western Pennsylvania. …  Navy control of wireless telegraphy spells death to both amateur and business use of this method of communication.  Another point is that all wireless installations now are thoroly under government control in the hands of efficient officers of the Department of Commerce and there is no good reason for any change. … In closing I wish to point out that all the great advances in the use of wireless telegraphy and telephony have been made by amateurs or commercial companies.
