@@ -109,4 +109,4 @@ In order to facilitate quick classification, please be brief and keep applicatio
     
 [^pin]: By 1912, the Wireless Association of America boasted 22,300 members.
 
-    ![](images/waoa_pin.jpg)
+    ![](images/waoa_pin.jpg) <!-- no figure -->
