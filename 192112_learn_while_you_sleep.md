@@ -60,4 +60,4 @@ Whether he wishes to be entertained, or whether he wishes to learn, depends upon
 
 All of the above is merely theoretical, of course, no machine having been tried but the writer would not be surprised to see one built and in operation in the not distant future.
 
-<!-- see also… thought_recorder_ee_v7n01_191905.jpg ? -->
+``` see also… thought_recorder_ee_v7n01_191905.jpg ? ```
