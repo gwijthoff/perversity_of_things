@@ -54,7 +54,7 @@ There are, of course, hundreds of other applications of the idea which readily s
     
     For more on the history of baseball as one of many prime movers in the development of broadcast technologies, see @tygiel_new_2001.
 
-    ![](images/si_baseball_scoreboard.png)
+    ![](images/si_baseball_scoreboard.png) <!-- no figure -->
     
 [^eye]:  Gernsback's use of "electric eyes" isn't just a metaphor.  In other contexts, he describes the physiology of the eye as a literal "television apparatus":
 
