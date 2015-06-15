@@ -14,7 +14,7 @@ csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 
 **T**HIS year marks the second centenary of the creation of the piano.  There has been no radical development in the piano since except the advent of the player piano or mechanical piano.
 
-The Pianorad, which is played  very much like the piano, by means of a similar keyboard, is a new invention.  In this new musical instrument, the principles of the piano as well as the principles of radio are for the first time combined in a single musical instrument.
+The Pianorad, which is played very much like the piano, by means of a similar keyboard, is a new invention.  In this new musical instrument, the principles of the piano as well as the principles of radio are for the first time combined in a single musical instrument.
 
 \begin{center}
 \fbox{
@@ -49,7 +49,7 @@ A novel idea is the connection of the Pianorad *direct* to the broadcast-station
 
 ## Developments Still Continuing
 
-The Pianorad has as yet not entered the commercial stage.  The instrument illustrated in this article has 25 keys and therefore, 25 notes.  A full 88-note Pianorad has as yet not been constructed, but will be built in a short time.  The larger instrument could have been built at once, but it would occupy almost as much aspace as a piano; and as this amount of room was not then available in the studio of WRNY, for which the first Pianorad was especially constructed, the smaller instrument was built instead.
+The Pianorad has as yet not entered the commercial stage.  The instrument illustrated in this article has 25 keys and therefore, 25 notes.  A full 88-note Pianorad has as yet not been constructed, but will be built in a short time.  The larger instrument could have been built at once, but it would occupy almost as much space as a piano; and as this amount of room was not then available in the studio of WRNY, for which the first Pianorad was especially constructed, the smaller instrument was built instead.
 
 ![](images/pianorad1.png)
 
