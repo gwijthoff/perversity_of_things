@@ -1,16 +1,29 @@
 ---
+
 title: |
+
     *The Perversity of Things:*\
+
     *Writings on Media, Tinkering, and Scientifiction*\
+
     Hugo Gernsback
+
 author: |
+
     Grant Wythoff, editor\
+
     Society of Fellows in the Humanities\
+
     Columbia University\
+
     [wythoff.net](http://wythoff.net)
+
 date: 11 November 2014
+
 bibliography: _scientifiction.bib
+
 csl: /Users/grantwythoff/TeX/_chicago-fullnote.csl
+
 ---
 
 # Introduction 
