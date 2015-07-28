@@ -62,7 +62,7 @@ Mr. Marconi's explanation is that illuminated space possesses for electric waves
 
 The writer wishes to offer a different explanation, which seems far more plausible.
 
-Referring to Fig. 1, let T represent a section of the earth.  Let A be a station on the American, E a station of the English coast.  As will be seen, the sun is just setting for the point A, while E has night already (no sun rays reach #).
+Referring to Fig. 1, let T represent a section of the earth.  Let A be a station on the American, E a station of the English coast.  As will be seen, the sun is just setting for the point A, while E has night already (no sun rays reach E).
 
 When A is sending the waves are shot out *parallel* with the sun's rays and *carried with the rays.*  The action of the sun's rays is so strong that most of the electric waves are carried along, and therefore never reach E at all.  Only by using more powerful waves can this effect be overcome.  This action is not surprising at all.  Electromagnetic waves are closely related to light rays.  As Svante Arrhenius has also shown us, the rays of the sun exert a certain amount of pressure on all encountered objects.[^spm]  It is therefore easy to prove that considering the close relationship of light rays and Hertzian waves, the latter *will be carried in the direction away from the sun* under favorable circumstances.  Again considering Fig. 1, such favorable circumstances would be reached during sunset or during sunrise.
 
@@ -100,7 +100,13 @@ The same with the wireless experimenter.  The large stations may vainly shout at
 
 And still some people wish to keep the student in the dark, to refrain him from doing mischief!  Sancta Simplicitas!
 
-[^orb]: As Robert Markley explains, "For a few weeks every twenty-six months, Mars and the Earth are aligned on the same side of the sun in their elliptical orbits.  During these periods of opposition, Mars is visible through comparatively small telescopes, and, since the mid-seventeenth century, scientific observations of the planet's surface and atmosphere have clustered during these periods."  The orbital opposition of 1909 was the first time Percival Lowell tested out his **telescope to take photographs of the surface of Mars and prove his theory of Martian canals.**  @markley_dying_2005, p. 33.
+[^orb]: In his book on the intertwined histories of astronomical observations and literary depictions of Mars, Robert Markley succinctly describes the red planet's orbital opposition:
+
+    > For a few weeks every twenty-six months, Mars and the Earth are aligned on the same side of the sun in their elliptical orbits.  During these periods of opposition, Mars is visible through comparatively small telescopes, and, since the mid-seventeenth century, scientific observations of the planet's surface and atmosphere have clustered during these periods.
+    
+    @markley_dying_2005, p. 33.
+    
+    The occasion for this article, the orbital opposition of 1909, was also the first time Percival Lowell took a successful series of telescopic photographs of Mars in an attempt to prove his theory that a vast infrastructure of canals were built across the Martian surface.  For more, see @hoyt_lowell_1996; @morton_mapping_2002; @crossley_imagining_2011.
 
 [^pic]: William Henry Pickering was an astronomer with the Harvard Observatory known for discovering Saturn's moon Phoebe, advancing telescopic photography, and advancing popular knowledge of the surface of Mars. In April 1909, Pickering proposed a plan to communicate with Mars using a massive heliograph.  Pickering described the system in a front-page article in *The New York Times:*  
 
@@ -108,9 +114,11 @@ And still some people wish to keep the student in the dark, to refrain him from 
     
     > These mirrors would all have to be attached to one great axis parallel to the axis of the earth, run by motors, and so timed as to make a complete revolution every twenty-four hours, thus carrying the reflecting surface around with the axis once a day and obviating the necessity of continually readjusting it to allow for the movement of the planets.  @times_plans_1909
     
-    An article in *Popular Mechanics* notes that Pickering
+    Signaling to Mars didn't mean that Pickering believed there to be life on Mars.  A few months later, *Popular Mechanics* magazine noted that Pickering
     
-    > is also among those who seriously doubt that there are any living beings upon Mars, although he has due respect for the theories of those opposed to him, but he does believe that his scheme of sending messages is the one practical way of finding out, once for all, whether there are such beings, although he admits that if no answering signals were made, it would not disprove the theories that Martians exist. @_scheme_1909
+    > is also among those who seriously doubt that there are any living beings upon Mars, although he has due respect for the theories of those opposed to him, but he does believe that his scheme of sending messages is the one practical way of finding out, once for all, whether there are such beings, although he admits that if no answering signals were made, it would not disprove the theories that Martians exist. 
+    
+    @_scheme_1909
     
     A version of the plan was actually carried out in 1924, when Swiss astronomers "mounted a heliograph in the Alps to flash signals to Mars.  The U.S. Navy maintained radio silence for three days to listen to messages from the Martians." @markley_dying_2005, p. 158.
 
@@ -120,6 +128,6 @@ And still some people wish to keep the student in the dark, to refrain him from 
 
 [^spm]: Gernsback: \"'Worlds in the Making.' See Panspermie \[sic\]."  This note refers to @arrhenius_worlds_1908.  Panspermia is the theory that some form of microscopic life is spread just as evenly throughout the universe as matter itself.  Arrhenius, a 1903 Nobel Prize winner in chemistry, writes, "According to this theory life-giving seeds are drifting about in space.  They encounter the planets and fill their surfaces with life as soon as the necessary conditions for the existence of organic beings are established" (217).  This would imply that "all organic beings in the whole universe should be related to one another and should consist of cells which are built up of carbon, hydrogen, oxygen, and nitrogen" (229).
 
-[^blu]: Electro Importing Company's annual *Blue Book* was the culmination of Gernsback's calls for greater accountability in "The Wireless Joker."  It listed the names and call signs of amateur radio operators around the country.  Part of the impetus for publishing this phone book of sorts was to encourage greater accountability for the content of wireless messages once the names of their senders were shared openly and freely.
+[^blu]: Electro Importing Company's annual *Blue Book* was the culmination of Gernsback's calls for greater accountability in **The Wireless Joker.**  A wireless telephone book of sorts, each annual edition listed the names and call signs of amateur radio operators around the country, and later, the world.  Its presence was designed to encourage greater accountability for the content of wireless messages once the names of their senders were shared openly and freely.
 
-    ![](images/blue_book.jpg) <!-- no figure -->
+    ![Second annual *Wireless Blue Book,* courtesy: Collection of Jim and Felicia Kreuzer, Grand Island, NY.](images/blue_book2_jim.png) <!-- no figure -->
