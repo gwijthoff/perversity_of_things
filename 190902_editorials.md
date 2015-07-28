@@ -30,7 +30,7 @@ The editor is truly amazed at the tremendous interest shown in the association, 
 
 A membership application card has been issued which will be sent free of charge to any prospective member.
 
-The demand for the association button is so tremendous that we will pssibly run short again.  Every mail brings dozens of orders, and if you do not receive your button at once, please do not get impatient.  The buttons are shipped just as quick as the factory can turn them out and just as quick as our mailing department can address and ship them.
+The demand for the association button is so tremendous that we will possibly run short again.  Every mail brings dozens of orders, and if you do not receive your button at once, please do not get impatient.  The buttons are shipped just as quick as the factory can turn them out and just as quick as our mailing department can address and ship them.
 
 Members are requested to be kind enough to refrain from asking for information as to members near their localities at least till the 15th or 20th of this month.
 
@@ -58,13 +58,13 @@ At the recent exhibition of the Physical Society in London, the Marconi Wireless
 
 Mr. Spif Marseroni, the great national wireless scientist, has scored another great triumph.  As will be recalled, Martians have been for a long time in the habit of receiving and sending telephone messages, no matter if they were walking in the street or gliding in an aeroplane.  In fact, this system is now so popular that the "Interplanetarian Remembering Co." has found no trouble whatsoever in getting over 60 million subscribers to their new system.  The system is simple enough.
 
-Suppose you are a busy man.  During the night you suddenly recall that you must see a certain party to-morrow afternoon, 4 p. m.  While you stay in bed yo ucall up the Remembering Co. and tell the operator to call you to-morrow afternoon at 3.30 p. m.
+Suppose you are a busy man.  During the night you suddenly recall that you must see a certain party to-morrow afternoon, 4 p.m.  While you stay in bed you call up the Remembering Co. and tell the operator to call you to-morrow afternoon at 3.30 p.m.
 
-Next day at 3.30 p. m. the little buzzer which you carry in your vest pocket suddenly "goes off" and when you put your pocket phone to the ear a young lady will tell you in a silver voice, that you have to meet a party at 4 p. m.  The service of the new company is so efficient that it does not make much difference *where* you are.  The Remembering Co. will locate you, whether you are taking a bath, or whether you are napping in a Morris chair in the lobby of an airship.
+Next day at 3.30 p.m. the little buzzer which you carry in your vest pocket suddenly "goes off" and when you put your pocket phone to the ear a young lady will tell you in a silver voice, that you have to meet a party at 4 p.m.  The service of the new company is so efficient that it does not make much difference *where* you are.  The Remembering Co. will locate you, whether you are taking a bath, or whether you are napping in a Morris chair in the lobby of an airship.
 
-It will also be recalled that Mr. Marsteroni is the inventor of the Telewirltransport.  This as will be known, has been considered up to a few days ago, his greatest invention.  By means of his system Martians may ride on electric motor rollers, the energy being supplied from a central station wirelessly through the ether.  The power on all Martian airships and aeroplanes is furnished wirelessly to them from the same central station to which the users must be subscribers.
+It will also be recalled that Mr. Marseroni is the inventor of the Telewirltransport.  This as will be known, has been considered up to a few days ago, his greatest invention.  By means of his system Martians may ride on electric motor rollers, the energy being supplied from a central station wirelessly through the ether.  The power on all Martian airships and aeroplanes is furnished wirelessly to them from the same central station to which the users must be subscribers.
 
-Now Mr. Marsteroni has succeeded by conveying food through the ether wirelessly for unlimited distances.  Already a large syndicate has been formed under name of "Interplanetarian Wireless Food Co." to exploit the invention.  If you are a subscriber and you are walking in the street, and if it is 12 o'clock noon, your call buzzer suddenly rings.  You put the phone to your ear and this may be what you hear:
+Now Mr. Marseroni has succeeded by conveying food through the ether wirelessly for unlimited distances.  Already a large syndicate has been formed under name of "Interplanetarian Wireless Food Co." to exploit the invention.  If you are a subscriber and you are walking in the street, and if it is 12 o'clock noon, your call buzzer suddenly rings.  You put the phone to your ear and this may be what you hear:
 
 "Luncheon ready, please.  What will you have?"
 
@@ -80,8 +80,8 @@ Of course the sending operator must be careful so as not to "mix" things, as in 
 
 However, by using tuning separators this defect has been entirely overcome now.
 
-[^rms]:  The RMS Republic was a luxury steamship that collided with the SS Florida on January 23, 1909.  The ship was equipped with a Marconi-designed wireless set, and became the first ever to send a "CQD" distress signal, effectively saving all 1200 passengers aboard.  @_official_1909.  The operator of the wireless aboard the Republic was Jack Binns, who became a hero among the amateurs, and was later hired as a correspondent for the *New York Tribune,* reporting on the activities of local tinkerers.  For more on Jack Binns and the collision, visit <http://www.jackbinns.org/the_republic-florida_collision>.
+[^rms]:  The RMS Republic was a luxury steamship that collided with the SS Florida on January 23, 1909.  The ship was equipped with a Marconi-designed wireless set, and became the first ever to send a "CQD" distress signal, effectively saving all 1,200 passengers aboard.  @_official_1909.  The operator of the wireless aboard the Republic was Jack Binns, who became a hero among the amateurs, and was later hired as a correspondent for the *New York Tribune* to report on the activities of local tinkerers.  For more on Jack Binns and the collision, visit <http://www.jackbinns.org/the_republic-florida_collision>.
 
 [^tnr]:  Tuning wireless sets so that they didn't transmit and receive on one wavelength only was still a great challenge at this point.
 
-[^fps]:  Included as part of the regular "Wireless Screech" humor section, and written under the pseudonym Mohammed Ullyses Fips, which Gernsback used for all of his tongue-in-cheek columns throughout the years.
+[^fps]:  This section was included as part of the regular "Wireless Screech" humor section and written under the pseudonym Mohammed Ullyses Fips, a name that Gernsback used for all of his tongue-in-cheek columns throughout the years.
