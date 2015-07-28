@@ -2,11 +2,11 @@
 title: Chronological Contents
 ---
 
-27/47 Feb 13
-
 - A New Interrupter | July 1905
     - interrupters
     - electrolytic solution
+    - condenser / capacitor
+    - popular scientific education and other science magazines
 - The Dynamophone | May 1908
     - coherer first mention, and gen'l category of detectors
     - Branly
@@ -16,7 +16,7 @@ title: Chronological Contents
 - [The Aerophone Number] | October 1908
     - radio avant la lettre
     - Fessenden as first to broadcast voice
-    - first detector mention, links to "Radioson"
+    - links to "Radioson" for more on first ever voice over radio
     - links to "Radio Steps Out," radio's other possibilities
 - [The Wireless Joker] | November 1908
     - law: threat of one mentioned, not footnoted
