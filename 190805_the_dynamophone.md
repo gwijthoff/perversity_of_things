@@ -90,7 +90,7 @@ We remembered this in time and the present issue of "MODERN ELECTRICS" proves th
     
     @gernsback_radio_1920.
 
-[^tel]:  The Telimco---a rough acronym of The Electro Importing Company and their flagship product---was the first fully-assembled radio set ever sold to the American public, with transmitting and receiving models made available.  For the Dynamophone described here, picture a Telimco transmitter retrofitted with a telephone mouthpiece, and a Telimco receiver hooked up to some form of motor.  As long as the user speaks into that mouthpiece on the transmitter, the motor on the receiving end would run.
+[^tel]:  The Telimco---a portmanteau of "The Electro Importing Company" and their flagship product---was the first fully-assembled radio set ever sold to the American public, with transmitting and receiving models made available.  For the Dynamophone described here, picture a Telimco transmitter retrofitted with a telephone mouthpiece, and a Telimco receiver hooked up to some form of motor.  As long as the user speaks into that mouthpiece on the transmitter, the motor on the receiving end would run.
 
     Blueprints for such jury rigged apparatuses were typical of *Modern Electrics* at the time, and were presented as if they were easily replicable by readers who could stock their home workshops with parts from the *Electro Importing Catalog.*  This issue, for instance, also contains instructions by Gernsback for building an alarm clock connected to light-sensitive selenium cells (used in early television prototypes -- see **Television and the Telephot**) that would set the alarm ringing when hit by the morning sunlight.
     
