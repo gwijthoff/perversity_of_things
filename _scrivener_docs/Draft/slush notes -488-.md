@@ -1,37 +1,3 @@
-How to read this book
-
-==================
-
-The thematic TOC is meant only as a navigational aid. As you will see, the categories bleed into one another with articles touching on multiple topics at once. Part of the argument of this book is that tinkering *is* fiction, that a critical understanding of television was itself a scientifictional enterprise, and so on.
-
-Stuff on selected stories from Ralph and Sci Adventures: not for reasons of space, but to approximate the experience of readers who sometimes would only have access to one issue, who weren't subscribers but would read free issues and trade freely in letters section.
-
-Be prepared for Gernsback to repeat himself, favorite examples he always has in his back pocket like Verne's submarine or ... -- one must remember that, writing multiple editorials each week, he was a pulp media theorist, a craftsman of ideas in the same way that his writers were.
-
-tinkering
-
-=======
-
-Use the section header, “Certain Future Instrumentalities”, from the essay “Reasonableness in Science Fiction” (Dec 1932)
-
-social ideology
-
-===========
-
-Managing capitalism’s excesses through technocracy:  “While some genre SF suggests a need to restrain capitalist excesses, this typically takes the form not of democratic contorl but of technocratic management and engineering inverventions, as in Robert A. Heinlein’s “The Roads Must Roll” (1940) and George O. Smith’s Venus Equilateral stories (1942-7).  More commonly, from Hugo Gernsback’s Ralph 124C 41+: A Romance of the Year 2660 (1911-12) onward, SF normalizes capitalism by assuming its endless unquestioned perpetuation, a tendency that leads Bruce Sterling’s Schismatrix (1985) for example, to treat neoliberal economics as if they are laws of physics.” (Mark Bould in Cambridge Companion to US SF, p. 87)
-
-“Csicsery-Ronay calls particular attention to those “fantasies of physical mastery and engineering know-how” that continue to drive os much science fiction as part and parcel of the way imperlalism “facilitated the subjugation of less developed cultures, wove converging networks of technical administration, and established standards of ‘objective measurement’ that led inevitably to myths of racial and national supremacy.” @canavan_introduction_2015, 10 — quoting “Science Fiction and Empire,” in SF Studies 30.2 (July 2003)
-
-Less faith in progress than one might otherwise think?  Reminds readers that the gains made by progress are fragile, and could be taken away at any moment.  "The penalty of our present civiliztion is that it makes us soft and without resistance.” From 192210_human_progress
-
-But here, about as positivist as you can get, in 193107_wonders_machine_age: "Famines, pestilence and other scourges were the usual thing long before the Machine Age, when there was no machine to put the blame on. Today, thanks to the Machine Age, we no longer have country-wide famines of the severity of the past; and thanks to science, we no longer have the scourges and pestilences that our ancestors had to contend with. Quick communication by rail, water, and air, tends to do away with both acute famine and widespread diseases.”  States that “science fiction is based upon the progress of science; THAT IS ITS VERY FOUNDATION. Without it, there could be no science fiction.”  Faith in technological progress is synonymous with SF, for Gernsback.  Adds that if we go back to a Middle Age, the Machine Age will not be the cause of it.  Humans will.
-
-SF or 90s media theory?
-
-==================
-
-A number of quotes in the intro. And play a game: science fiction or 90s media theory? Can you tell which is part of which genre?
-
 scientifiction
 
 ==========
@@ -47,6 +13,18 @@ Delany defending the pulps as the true starting point for science fiction, that 
 “On Reprints” editorial on difficulty of finding quality historical SF, both because of publishing rights but also because it just doesn’t hold up to the stuff being published by 1933.  Which wasn’t the case in 1926, when almost entirely reprints.  In six years, an overage of new stories being produced.  But while he gets a lot of stories, apparently it’s hard to find stories that are scientifically “plausible” up to his standards.  See “Reasonableness in SF” 1932.
 
 Westfahl in intro to “How to Write Science Stories”: "And, by patiently explaining available resources and possible strategies for writers who are unfamiliar with science, Gernsback demonstrates a willingness to employ writers who lack a scientific background. The article thus serves to correct some common misconceptions about Gernsback's editorial philosophy and policies."
+
+American-specific SF
+
+===============
+
+“We can now understand precisely why American science fiction became widely recognized as the best science fiction in the world.  It had a name that conveyed and imposed a special sense of identity, firmly associated with science; it was buttressed by arguments testifying to its unique value and significance; it was vigorously supported by armies of dedicated fans eager to both promote and critique its works; it was centered on a characteristic narrative that was exciting and colorful enough to attract a broad range of readers; and these adventures were accompanied by more distinguished stories rooted in a more challenging agenda that could appeal to literary connoisseurs.  In contrast, the imaginative literatures of other nations lacked a recognized name, were not clearly associated with science, were not buttressed by arguments about their singular virtues, did not enjoy organized support, and were not anchored by an involving narrative pattern in alliance with more thought-provoking efforts.” (@westfahl_mightiest_2015, 27)
+
+SF is inherently about world-consciousness, so a focus on American SF goes against the spirit of the genre:  “Given the genre’s origins and favored themes it is not surprising that none of the major scholarly journals devoted to SF criticism are nation-specific in their orientation.” (@canavan_introduction_2015, 3)
+
+“The simple premise of the present volume, then, despite all of these caveats, is that the science ficitonal imagination is so fundamental to the arc of history across the so-called American Century that we might productively talk about a specifically American SF.  Many of the ideas, themes, and conventions of contemporary science fiction take their roots in a disctinctively American cultural experience, and so SF in America serves as a provocative index to twentieth- and twenty-first-century American culture, reflecting America’s hopes, desires, ambitions, and fears.” @canavan_introduction_2015, 4
+
+See Bruce Franklin’s book on Robert Heinlein, Science Fiction as America
 
 readership & fandom
 
@@ -64,35 +42,15 @@ Andrew Ross:  “in Gernsback’s view, sf was more a social than a literary mo
 
 Also, community of wireless operators.  Right after article on signaling to Mars (190905), the introduction of the Wireless Blue Book — individuals, people lighting up on a wireless map, as if soon the Martians will be in the addressable Blue Book too.
 
-regulation & activism
-
-===============
-
-"However, the competition magazine, Electrician and Mechanic, soon adopted this idea and founded a club of radio amateurs named The Wireless Club.”  @tesla_reprint_2007
-
-Anonymity online: "Wireless Joker", "Signaling to Mars" (announcing first Blue Book), "Wireless Association."
-
 Paul and illustrations
 
 =======================
 
 Gernsback says that producing realistic illustrations of the future is the most difficult, and most rewarding part of the magazine, and that the idea is to fire the imagination of a reader/experimenter:  "It is no easy matter to think out new things of the future and illustrating them adequately by means of expensive washdrawings or three-color cover illustrations.  Indeed, there is nothing more difficult connected with the publication." ("Imagination Versus Facts")
 
-American-specific SF
+Craftsmanship of writing SF
 
-===============
-
-“We can now understand precisely why American science fiction became widely recognized as the best science fiction in the world.  It had a name that conveyed and imposed a special sense of identity, firmly associated with science; it was buttressed by arguments testifying to its unique value and significance; it was vigorously supported by armies of dedicated fans eager to both promote and critique its works; it was centered on a characteristic narrative that was exciting and colorful enough to attract a broad range of readers; and these adventures were accompanied by more distinguished stories rooted in a more challenging agenda that could appeal to literary connoisseurs.  In contrast, the imaginative literatures of other nations lacked a recognized name, were not clearly associated with science, were not buttressed by arguments about their singular virtues, did not enjoy organized support, and were not anchored by an involving narrative pattern in alliance with more thought-provoking efforts.” (@westfahl_mightiest_2015, 27)
-
-SF is inherently about world-consciousness, so a focus on American SF goes against the spirit of the genre:  “Given the genre’s origins and favored themes it is not surprising that none of the major scholarly journals devoted to SF criticism are nation-specific in their orientation.” (@canavan_introduction_2015, 3)
-
-“The simple premise of the present volume, then, despite all of these caveats, is that the science ficitonal imagination is so fundamental to the arc of history across the so-called American Century that we might productively talk about a specifically American SF.  Many of the ideas, themes, and conventions of contemporary science fiction take their roots in a disctinctively American cultural experience, and so SF in America serves as a provocative index to twentieth- and twenty-first-century American culture, reflecting America’s hopes, desires, ambitions, and fears.” @canavan_introduction_2015, 4
-
-See Bruce Franklin’s book on Robert Heinlein, Science Fiction as America
-
-Craftsmanship
-
-===========
+=====================
 
 SF studies questions about the quality and aesthetic merit of early stories (and their dislike for Gernsback era stories, and favoring of Campbell stuff) misses the point.  This was about craft not art.
 
@@ -107,28 +65,6 @@ magazine publishing business
 =====================
 
 A dummy magazine is a prototype produced solely to trademark the publication’s title with the U.S. Patent Office before that magazine has ever been mass produced.  According to Sam Moskowitz, “Customarily only a few copies, rarely more than a dozen, of any one issue of such dummy magazines are produced, for the law requires only that you must show proof that you were paid for three copies in order to register the trademark.”  @moskowitz_gernsback_1971.  Examples of titles Gernsback submitted to the Patent Office in the form of dummy magazines that never materialized as full publications include *Scientific Detective Monthly* (1929),  *Buccaneer Stories* (1934), *Exploration Tales: Thrilling Stories and Novels of Past and Present Soldiers of Fortune* (1934), *True Supernatural Stories* (1934), and *Prescience Fiction* (1952).
-
-“science"
-
-=======
-
-“For interwar science ficiotn, ‘amazing,’ ‘astounding,’ and ‘wonder’ were more than magazine titles; they were also metaphors for a specific style to imagine science, clarion calls for its conversation.  … Gernsback developed a view of participatory science before he began his science fiction ventures…” @cheng_astounding_2012
-
-“In the early years of pulp science fiction magazines in the 1920s and 1930s there are not many letters that discuss what science fictiron or scientifiction is.  Everyone knew what ‘it’ was — it had something to do with ‘science’ — but everyone seemed to have a different notion of what constituted ‘science,’ what does and does not belong to the universe of science fiction and who has the rights to make these decisions.  What science fiction is, the genre, is taken for granted in the letters, but the texts, the instances of this genre, are not so defined, so that attempts to limit the field become a series of test cases about which there is not always agreement.” @larbalestier_battle_2002, 33
-
-See Larbalestier section, “the science in science fiction,” 31-38
-
-See 192008 “Science and Invention” on G’s definition of science as what the average person understands, not the expert.
-
-american science education context
-
-============================
-
-I was on the move yesterday. Two articles by John Rudolph (at Madison) — Epistemology for the Masses and something on general science in Chicago — will be useful. Jewett's book on science and democracy would also be good to cite. And my own work will in fact deal with this, but mostly with the c19 preconditions that led to this kind of c20 rhetoric. Is that useful? Hope all's well..
-
-See 192310 “The New Science and Invention” on how he sees the magazine’s role in popular science
-
-"The reason is that the average man or woman does not wish to laboriously wander through miles of text of scientific facts, which means concentration and study. With fiction, however, this does not hold true because fiction is an entertainment; it does not require study. On the other hand, *we have tried to reduce all scientific matter to entertainment instead of study.*"
 
 international tinkering context
 

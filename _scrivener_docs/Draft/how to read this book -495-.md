@@ -1,0 +1,5 @@
+The thematic TOC is meant only as a navigational aid. As you will see, the categories bleed into one another with articles touching on multiple topics at once. Part of the argument of this book is that tinkering *is* fiction, that a critical understanding of television was itself a scientifictional enterprise, and so on.
+
+Stuff on selected stories from Ralph and Sci Adventures: not for reasons of space, but to approximate the experience of readers who sometimes would only have access to one issue, who weren't subscribers but would read free issues and trade freely in letters section.
+
+Be prepared for Gernsback to repeat himself, favorite examples he always has in his back pocket like Verne's submarine or ... -- one must remember that, writing multiple editorials each week, he was a pulp media theorist, a craftsman of ideas in the same way that his writers were.

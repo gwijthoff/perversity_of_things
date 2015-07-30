@@ -4,6 +4,12 @@
 
 Can combine categories of TV and "media" here, because TV never really developed as a community for Gernsback.  He started *Television News* as a wager to the argument that communities of amateurs can advance a "new art" faster than any closed off, patent-hoarding corporation.  That may be true, but the corporations dictated the terms of that development.  So, this section can be more broadly about Gernsback's understanding of media history, and how new media develop within communities.
 
+SF or 90s media theory?
+
+--------------------------------
+
+A number of quotes in the intro. And play a game: science fiction or 90s media theory? Can you tell which is part of which genre?
+
 ## Media history
 
 > *Later works that read current inventions in light of their not so distant precursors, profiling forgotten (and often quirky) paths not taken in the development of radio and television.*
