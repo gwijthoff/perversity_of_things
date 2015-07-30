@@ -18,7 +18,7 @@ The resolution, as introduced by Representative Roberts of Massachusetts, is rep
 
 It is of no practical value whatsoever, un-American, and will keep down the progress of a young and useful art, which in time may develop into an as yet undreamed-of asset of the nations' power.
 
-Wireless telegraphy and telephony, in a country of such vast distances as America is a very valuable means for cheap transmission of intelligence, and it is the duty of the Government to encourage it, and not to pass a resolution to throttle it like England and Germany have done, in which two countries the art is almost unknown.
+Wireless telegraphy and telephony, in a country of such vast distances as America is a very valuable means for cheap transmission of intelligence, and it is the duty of the Government to encourage it, and not to pass a resolution to throttle it like England and Germany have done, in which two countries the art is almost unknown.[^eurp]
 
 It would be deplorable indeed to see Representative Roberts' resolution passed.  The farmer, who three years hence will be in a position to own his wireless telephone to call up his next neighbor fifty miles distant from him, will much rather install his private wireless 'phone, rather than be forced to subscribe to an exorbitant rent of an instrument owned and controlled by the United Wireless Company or some other wireless trust, to which trusts such a resolution would give full swing to extort high rates.[^pol]
 
@@ -64,11 +64,13 @@ It is provided that within 30 days of the organization of the board it shall sub
 
 The Wireless Association of America was founded solely to advance wireless.  IT IS NOT A MONEY MAKING ORGANIZATION.  Congress threatens to pass a law to license all wireless stations.  The W. A. O. A. already has over 3,000 members---the largest wireless  organization in the world.  When the time for action arrives, the thousands of members will exert a powerful pressure to oppose the "wireless license" bill.  This is *one* of the purposes of the W. A. O. A.  There are more.
 
-![](images/waoa.png)
+!["How to Make a Wireless Bicycle Outfit," submitted to the September 1910 issue by reader William Dettmer.](images/bicycle_wireless.png)
 
-[^rep]: Congressman Ernest W. Roberts of Massachusetts's 7th District introduced House Joint Resolution 95.  Though Roberts's proposals did not go far, aspects of this Resolution were incorporated into the Radio Acts of 1910 and 1912.
+[^rep]: Congressman Ernest W. Roberts of Massachusetts's 7th District introduced his legislation on wireless regulation as House Joint Resolution 95.  Though Roberts's proposals did not go far, aspects of this Resolution were incorporated into the Radio Acts of 1910 and 1912.
 
-[^pol]: Jonathan Sterne writes on the postwar politics of rural access to a different medium---broadcast television---which encountered significant difficulties in particular geographic locations.  "Once potential audience members saw an existing system and its limits, they demanded access on the principle that television was a kind of infrastrucutre, like roads or utilities.  Issues of access and entitlement to television thus grew in importance precisely at the areas where profitability was most limited." (47)  Gernsback's emphatic declaration of wireless as a "utility" is thus an accurate depiction of how Americans would later identify themselves within a national network of communications relays.  @sterne_television_2003
+[^eurp]: For more on the development of wireless telegraphy in Great Britain and Germany (where it was largely controlled by the private company Telefunken), see @winkler_information_2009; @evans_path_2010.
+
+[^pol]: Jonathan Sterne writes on the postwar politics of rural access to a later medium---broadcast television---which encountered significant difficulties in particular geographic locations.  "Once potential audience members saw an existing system and its limits, they demanded access on the principle that television was a kind of infrastrucutre, like roads or utilities.  Issues of access and entitlement to television thus grew in importance precisely at the areas where profitability was most limited." (47)  Gernsback's emphatic declaration of wireless as a "utility" is thus an accurate depiction of how Americans would later identify themselves within a national network of communications relays.  @sterne_television_2003
 
 [^idi]: A letter from a reader published in the June 1909 issue of *Modern Electrics* explains that it is no surprise for government stations to experience interference with when they are using apparatuses that are "three years behind time."  
 

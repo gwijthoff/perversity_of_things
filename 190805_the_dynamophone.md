@@ -56,7 +56,7 @@ Never before was the "craze" so strongly developed as this year; uncountable cas
 
 * * * * * * * * * * 
 
-Since "MODERN ELECTRICS" made its appearance a month ago, the editor has been flooded with mail.  From the hundreds of congratulating letters received 159 (one hundred and fifty nine) up to this writing deal with nothing but Wireless.  Most readers wish the "Wireless Department" enlarged, some even went as far and asked us to publish nothing but Wireless, a great many wanted a description of an electrolytical Detector, while an equally large audience wanted to build a Silicon Detector.
+Since "MODERN ELECTRICS" made its appearance a month ago, the editor has been flooded with mail.  From the hundreds of congratulating letters received 159 (one hundred and fifty nine) up to this writing deal with nothing but Wireless.  Most readers wish the "Wireless Department" enlarged, some even went as far and asked us to publish nothing but Wireless, a great many wanted a description of an electrolytical Detector, while an equally large audience wanted to build a Silicon Detector.[^ctst]
 
 We had in mind to print a good many interesting articles besides the ones the "Wireless Department," but our motto is: "To print what our readers WANT, not merely what strikes the Editor's fancy."
 
@@ -92,8 +92,10 @@ We remembered this in time and the present issue of "MODERN ELECTRICS" proves th
 
 [^tel]:  The Telimco---a portmanteau of "The Electro Importing Company" and their flagship product---was the first fully-assembled radio set ever sold to the American public, with transmitting and receiving models made available.  For the Dynamophone described here, picture a Telimco transmitter retrofitted with a telephone mouthpiece, and a Telimco receiver hooked up to some form of motor.  As long as the user speaks into that mouthpiece on the transmitter, the motor on the receiving end would run.
 
-    Blueprints for such jury rigged apparatuses were typical of *Modern Electrics* at the time, and were presented as if they were easily replicable by readers who could stock their home workshops with parts from the *Electro Importing Catalog.*  This issue, for instance, also contains instructions by Gernsback for building an alarm clock connected to light-sensitive selenium cells (used in early television prototypes -- see **Television and the Telephot**) that would set the alarm ringing when hit by the morning sunlight.
+    Blueprints for such jury rigged apparatuses were typical of *Modern Electrics* at the time, and were presented as if they were easily replicable by readers who could stock their home workshops with parts from the *Electro Importing Catalog.*  This issue, for instance, also contains instructions by Gernsback for building an alarm clock ("An Electric Sun Alarm") connected to light-sensitive selenium cells (used in early television prototypes -- see **Television and the Telephot**) that would set the alarm ringing when hit by the morning sunlight.
     
     ![Telimco Spark Transmitter, Model 1086, 1906, courtesy Henry Ford Museum.](images/telimco_transmitter_ford.jpeg) <!-- no figure -->
     
     ![Telimco Radio Receiver, Model 1086, 1906, courtesy Henry Ford Museum.](images/telimco_receiver_ford.jpeg) <!-- no figure -->
+    
+[^ctst]: This issue of *Modern Electrics* contained the first winner of a regular "Laboratory Contest" section.  Reader Irving Kimball impressed with the submission of his "vitaphone," a device that combined motion picture and sound reproduction.  "The original model of his motor-pyrograph,' an automated electrically operated pyrograph or wood-burning machine, works to perfection." (63)
