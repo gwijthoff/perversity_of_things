@@ -36,6 +36,8 @@ The incredibly rich context of the science fiction's birth in Gernsback's fleet 
 
 ![*Electrical Experimenter*, May 1918.](images/tv_telephot_cover.jpg)
 
+![A newsstand in New York City, June 1913 photographed by Lewis Hine.  Library of Congress <http://www.loc.gov/pictures/item/ncl2004001189/PP/>](images/1913_newsstand_hine.tif)
+
 ## Gernsback's reputation in the critical literature
 
 Hugo Gernsback has been given very little attention in science fiction studies, with the field's leading critics often assuming that *Amazing Stories* was little more than a marketing gimmick for Gernsback's technical ventures.  The fiction published in the pages of his magazines is often seen to have very little aesthetic or literary value.  So when Gernsback is given credit in the foundation of modern American SF, it is as a kind of marketer of a new brand name, rather than a writer or editor.  As Alexi and Cory Panshin write, "In the pages of *Amazing*, SF literature at last became identified by a single name: 'scientifiction.' It was provided with a history. It was defined and demonstrated. It was consolidated and unified. In *Amazing*, SF became conscious of itself."^[@panshin_world_1989, 170.]  According to John Clute and Peter Nicholls, Gernsback "gave the genre a local habitation and a name," and for James Gunn, he "provided a focus for enthusiasm, for publication, for development," and bestowed science fiction with its "characteristic content, a characteristic form, and characteristic purposes."^[@clute_encyclopedia_1995, 491. @gunn_alternate_1975, 128.] 

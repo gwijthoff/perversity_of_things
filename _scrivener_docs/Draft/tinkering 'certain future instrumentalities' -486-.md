@@ -32,7 +32,7 @@ points
 
 -------
 
-interested in the material possibility of inventions before they are an idea.  See 191608_perversity and…
+interested in the material possibility of inventions before they are an idea.  See 191608_perversity and… (fn text: media theorists have attempted to come up with a language for the idea of something before it's material possibility, citing Bazin)
 
 how does one develop the inventor's intuition?  by learning about materials and process.  each technique involves the learning of countless other techniques. "Handicraft," quoted in fn for 192702_why_set_builder.
 
@@ -55,3 +55,5 @@ see prologue to Aitken, Syntony and Spark on invention as a kind of guessing, se
 Gernsback oversaw experiments with broadcast media and the effects of various instruments and signal processing techniques on the auditory perception of the station's listeners from his radio station WRNY.  Several articles and editorials cover these experiments, including a concert broadcasting some of some of the earliest electronic instruments developed at the E.I. Company offices ("The Pianorad") as well as one of the earliest television broadcasts on record, using a unique method of interleaving audio and visual signals across a single frequency ("Television and the Telephot").  Gernsback championed the creativity and problem-solving abilities of the tinkerer throughout his career ("Why the Radio Set Builder"; "Is Radio at a Standstill?")
 
 While conducting these groundbreaking experiments, Gernsback kept these developments open to the contributions and participation of his readers.  In one editorial for *Radio News*, ("Television to the Front") Gernsback describes the television as just a simple add-on or expansion kit to a normal domestic radio set.  "I am quite certain that the final television apparatus on your radio set will take up no more room than your present cone speaker."  Regardless of how advanced the devices detailed in the pages of Gernsback's magazines seemed—solar cells, automobile mounted radiotelephones, electric keyboards powered by vacuum tubes—his staff reported on them as if they only required a combination of already existing electrical principles and components.  These new media appear as little more than the sum of individual building blocks that one can pick and choose from out of the pages of the *Electro Importing Catalog*.
+
+Edison on atomic technology:  "You know, Mr. Gernsback, I am an inventor, and as such I do not concern myself overmuch with philosophical research."  What Gernsback does as "philosophy" about future possibilities.

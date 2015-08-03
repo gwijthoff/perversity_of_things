@@ -41,3 +41,5 @@ With the outbreak of World War I, the U.S. Navy outlawed all amateur wireless br
 Gernsback would later re-enter policy debates and the politics of technology with his short-lived *Technocracy Review,* which featured essays by the leaders of the Technocracy, Inc. movement.  People like Howard Scott argued that a small elite of technologically-inclined leaders, by dint of their mathematical and engineering expertise, would be able to govern the country more rationally, economically, and fairly.  Gernsback's editorials for this magazine provide an overview of the idea as it gained currency after the stock market crash ("The Machine and the Depression").
 
 “Unquestionably the entire credit for obtaining the amateur’s rights belongs to *Modern Electrics*” (**Wireless and the Amateur: A Retrospect**, February 1913)
+
+Imagination as invention -- Senarens "invented" submarines, in "American Jules Verne."

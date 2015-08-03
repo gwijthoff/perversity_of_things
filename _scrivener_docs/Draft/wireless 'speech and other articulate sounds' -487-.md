@@ -27,3 +27,7 @@ Historical context:  American nationalist/colonialist aspirations after the Span
 A classic SF question: how can national borders remain with global networks unifying all peoples?
 
 In a sense, G's optimism about technological progress is only possible in the unscathed US after World War I.
+
+"The radiophone will link moving humanity with the stationary one." (**The Future of Wireless**)
+
+"In our big cities thousands of ears listen every minute of the day to what is going on in the vast ether-ocean." (**War and the Radio Amateur**)
