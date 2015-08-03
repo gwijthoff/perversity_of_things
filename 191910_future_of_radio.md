@@ -22,7 +22,7 @@ Now Europe needs the telephone no less than America, but it has been proved time
 
 If this is true of the telephone and telegraph, how much truer is it of Radio?  And particularly Radio in the United States---the land of enormous distances, where Radio will be more necessary within twenty-five years than the wire telephone is to-day.
 
-We are certain that if the men who now advocate Government Radio control were possest of but a little vision as to the marvelous future and the possibilities of Radio, they would recoil with horror at their preposterous suggestions.
+We are certain that if the men who now advocate Government Radio control were possest of but a little vision as to the marvelous future and the possibilities of Radio, they would recoil with horror at their preposterous suggestions.[^nrlg]
 
 At the present the radio art comprises but two branches:  Radio telegraphy and telephony.  Before the war the latter was only a laboratory experiment.  To-day sets are being sold at a low price that plug into your lamp socket and you can then talk to your friend thirty miles away---be he in the house, his auto, his yacht or in his airship.  Soon every farmhouse will boast its radiophone.  Every limousine will be equipt with it.  How would these developments fare under Government control?
 
@@ -45,6 +45,8 @@ Washington, Sept. 27---Effective Oct. 1, all restrictions on amateur radio stati
 Attention is invited to the fact that all licenses for transmitting stations have expired and that it will be necessary for the amateurs to apply to the Department of Commerce for new licenses.  So far as amateurs are concerned, radio resumes its pre-war status under the Department of Commerce.
 
 [^owd]: In a 1919 issue of the trade journal *Telephony,* the Merchants' Association of New York issued a resolution in opposition to government ownership of telephone infrastructure: "In England the telephone system is state-owned, and operated by the Post Office Department. The service is unreliable and subject to much delay. (In passing it may be said that the highly efficient telegraph service of England, for which the rates are very low, is provided at the cost of a heavy annual deficit payable by taxation.)  The installation is in large part antiquated.  It can be brought up to American standards only by extensive reconstruction at a cost of many million pounds; and the funds required have been persistently refused by the government." @_is_1919.
+
+[^nrlg]: Gernsback is referring to Secretary of the Navy Josephus Daniels's suggestions to Congress for a bill keeping radio broadcasting under the control of the Navy.  See also **Amateur Radio Restored.**
 
 [^mndr]: Manderville's letter to his senator reads:
 

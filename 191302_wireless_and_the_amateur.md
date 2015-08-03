@@ -23,7 +23,7 @@ The first wireless bill not antagonistic to the amateur, The Burke Bill, appeare
 
 At last the Alexander Bill made its appearance on December 11, 1911. This bill as far as the amateur was concerned was not quite acceptable to the writer, who had the amateurs' rights at heart and steps were immediately taken to bring about an amendment as the writer, perhaps more than anyone else, realised that this bill, in some term or other, would become a law sooner or later. This is clearly stated in his Editorial in the February, 1912, issue of *Modern Electrics.*[^wa4] In that Editorial is to be found also _the first and now historical recommendation_ that if a wireless law was to be framed it should restrict the amateur from using a higher power than 1 kw, and his wave length should be kept below 200 metres. No one else had thought of it before, and it is to be noted that when Congress finally passed the present wireless law, *_it accepted the writer's recommendation in full,_* thus paying him the greatest compliment, while at the same time acknowledging the fact that he acted as the then *sole* spokesman for and in behalf of the wireless amateur. 
 
-In March, 1912 the writer, in a letter to the *New York Times* (See page 24, April, 1912, issue *Modern Electrics*) pointed out the shortcomings of the Alexander Bill, and protested against unfair legislation. 
+In March, 1912 the writer, in a letter to the *New York Times* (See page 24, April, 1912, issue *Modern Electrics*) pointed out the shortcomings of the Alexander Bill, and protested against unfair legislation.[^nyts]
 
 *The Times,* as well as a host of other newspapers, took up the cry and published broadcast the shortcomings of the Alexander Bill. 
 
@@ -70,3 +70,23 @@ Long live the Wireless! Long live the Amateur!!
 [^wa3]: See **The Roberts Wireless Bill.**
 
 [^wa4]: See **The Alexander Wireless Bill.**
+
+[^nyts]: The letter to the *Times* editor reads:
+
+    > I note your timely article on "The Wireless Control Bill."  While you have taken your stand very well, as far as the commercial interests go, I would like to give the views of the wireless experimenters and amateurs whom I have represented for the last six years.
+    
+    > Although it is not generally known, there are to-day close to 400,000 wireless experimenters and amateurs in the United States alone.  The Wireless Association of America to-day numbers 16,189 members, and there are now 122 wireless clubs and subsidiary wireless associations scattered from coast to coast.
+    
+    > Much has been written and said against the wireless amateur, and while it is true that some mischief has been done, report has never been made of any case where serious damage was done, except in a single instance a few years ago, when a Massachusetts amateur transmitted a false "S. O. S." call, which sent a United States Government boat out on a fool's errand.  On the other hand, the amateur has done a great deal of good by taking up distress calls, and it should be understood that good work has frequently been done in the past by amateurs receiving and transmitting such calls where they would probably not have been received by the few commercial and Government stations.  Furthermore, a great many amateurs, while not necessarily schoolboys, have done much to further the art in general, and many patents have been taken out during the last three years by such students interested in wireless.
+    
+    > The interests which would like to see the Alexander bill passed have evidently not looked very much into the future.  On account of the vast distances in this country, radio-telegraphic and radio-telephonic intercommunication will positively find a distinct usefulness, greater without doubt than that of the present telephone.  An immense usefulness alone will be found in radio-telephonic stations between moving vehicles and fixed posts.
+    
+    > There is a feature in wireless which perhaps is not appreciated.  It has been recognized that, on account of the great interest which a young man finds in the study of wireless, this new art does much toward keeping him at home, where other diversions usually, sooner or later, lead him to quesitonable reports; and for this reason well informed parents are only too willing to allow their sons to become interested in wireless.  If it were only for this reason, it would be worth while not to curb enthusiasms for the new art.  The public fully shares this view, which has been proved time and again.
+    
+    > H. GERNSBACK
+    
+    > Business Manager Wireless Association of America, Editor Modern Electrics
+    
+    > New York, March 27, 1912
+    
+    @gernsback_4000000_1912.

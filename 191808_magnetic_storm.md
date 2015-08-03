@@ -18,7 +18,7 @@ csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 
 Again, and very slowly he re-read the article, which millions that same day had read casually, without a quiver, let alone, a nose quiver. The newspaper item was simple enough:
 
-> NEW YORK, Aug. 10, 1917.---An electromagnetic storm of great violence swept over the eastern section of the United States iast night. Due to a brilliant Aurora Borealis,---the Northern Lights,---telegraph and long distance telephone, as well as cable communications were interrupted for hours. No telegraphic traffic was possible between New York and points West. It was impossible to work any of the transatlantic cables between 12:15 A. M. and 9:15 A. M., every one of them having "gone dead." The Aurora Borealis disturbance affected all telegraph and telephone lines extending between Chicago and the eastern cities. On telegraph wires of the Postal Telegraph Co. without regular battery being applied at terminal offices, grounded lines showed a potential of 425 volts positive, varying to 225 volts negative; the disturbance continuing between 12:15 A. M. and 9:15 A. M.
+> NEW YORK, Aug. 10, 1917.---An electromagnetic storm of great violence swept over the eastern section of the United States last night. Due to a brilliant Aurora Borealis,---the Northern Lights,---telegraph and long distance telephone, as well as cable communications were interrupted for hours. No telegraphic traffic was possible between New York and points West. It was impossible to work any of the transatlantic cables between 12:15 A. M. and 9:15 A. M., every one of them having "gone dead." The Aurora Borealis disturbance affected all telegraph and telephone lines extending between Chicago and the eastern cities. On telegraph wires of the Postal Telegraph Co. without regular battery being applied at terminal offices, grounded lines showed a potential of 425 volts positive, varying to 225 volts negative; the disturbance continuing between 12:15 A. M. and 9:15 A. M.
 
 > At Newark, N. J., in the Broad Street office a Western Union operator was severely shocked, trying to operate the key, while long sparks played about his instruments.
 
@@ -26,7 +26,7 @@ Sparks rose excitedly and began pacing the cement floor of the vast Tesla labora
 
 "Why" Sparks had been just an ordinary "Bug," an experimenter, when he entered Tesla's great research laboratory at the beginning of the great war in 1914. Tesla liked the keen, red-haired tousled boy, who always seemed to divine your thoughts before you had uttered five words. His clear blue eyes, lying deep in their sockets, sparkled with life and intelligence and what Sparks did not know about electricity was mighty little indeed. I believe there is no electrical book in existence that Sparks had not devoured ravenously in his spare hours, while having lunch or else while in bed, in the small hours of the morning. His thirst for electrical knowledge was unbounded, and he soaked up every bit of information like a sponge. Yes, and he retained it, too. In short, the young prodigy was a living electrical cyclopedia and highly valued by his associates. No wonder Tesla in three short years had made him superintendent of the laboratory.
 
-![. . . The President of the Glorious French Republic Shouts Dramatically: "Messieurs . . . le Jour de Gloire est Arrivé . . . VIVE-LA-FRANCE!!"---and Throws in the Huge Swith With Its Long Ebonite Handle. . . .](images/magnetic_storm2.png)
+![. . . The President of the Glorious French Republic Shouts Dramatically: "Messieurs . . . le Jour de Gloire est Arrivé . . . VIVE-LA-FRANCE!!"---and Throws in the Huge Switch With Its Long Ebonite Handle. . . .](images/magnetic_storm2.png)
 
 # Sparks' First Name 
 
@@ -78,7 +78,7 @@ IN THE SEPTEMBER "E.E." YOU WILL FIND:
 
 \vspace{3mm}
 
-"The Phenomena of Electrical Counduction in Gases V---Weighing an Ion," by Rogers D. Rusk, M.A.
+"The Phenomena of Electrical Conduction in Gases V---Weighing an Ion," by Rogers D. Rusk, M.A.
 
 \vspace{3mm}
 
@@ -86,7 +86,7 @@ IN THE SEPTEMBER "E.E." YOU WILL FIND:
 
 \vspace{3mm}
 
-"Glass-blowing lessons---How to Heat and Bend, As Well As Build Glass Chemical Appparatus---Part I," by Prof. Herbert E. Metcalf.
+"Glass-blowing lessons---How to Heat and Bend, As Well As Build Glass Chemical Apparatus---Part I," by Prof. Herbert E. Metcalf.
 
 \vspace{3mm}
 
@@ -146,7 +146,7 @@ Before he finished his train of thought, his engine stopt dead. Cursing volubly 
 
 **S**ICK with an unknown terror, von Unterrichter made a clumsy landing in the midst of his other flyers, all of them pale, some shaking, some with a strange animal expression in their eyes. *What unknown, invisible hand had with one stroke disabled the fifteen engines, one thousand meters above the ground?*
 
-*"Himmelkreuzdonnerwetter,"* shrieked von Unterrichter jumping to the ground, near his airdrome. "I . . . I . . . cannot" . . . here his voice broke. For the first time in his life the young Prussian was speechless. He then stamped his foot in a frenzied fury, but finally gave vent to a full round of cursing. At last he collected his senses sufficiently to look for thecause of the mysterious occurrence. It only took five minutes to find it. His mechanician pointed to the magneto.
+*"Himmelkreuzdonnerwetter,"* shrieked von Unterrichter jumping to the ground, near his airdrome. "I . . . I . . . cannot" . . . here his voice broke. For the first time in his life the young Prussian was speechless. He then stamped his foot in a frenzied fury, but finally gave vent to a full round of cursing. At last he collected his senses sufficiently to look for the cause of the mysterious occurrence. It only took five minutes to find it. His mechanician pointed to the magneto.
 
 *"Kaput,"* he said laconically, if not grammatically.
 
@@ -206,7 +206,7 @@ Now it so happened that von Unterrichter had been an expert wireless man before 
 
 He ran to the wagon which carried the mobile radio field apparatus and peremptorily ordered the operator in charge away. *"Aber Herr Leutnant",* expostulated the thus rudely interrupted man, "I tell you . . ."
 
-*"Maul halten",* thundered von Unterrichter, with which he sat down, clamping the operator's receivier on his own head. 
+*"Maul halten",* thundered von Unterrichter, with which he sat down, clamping the operator's receiver on his own head. 
 
 # At the Wireless Key 
 
@@ -244,13 +244,13 @@ But I am permitted to give an outline of just what happened on that memorable mo
 
 **B**UT first we must go back to Tesla's laboratory once more, back to that evening when "Why" Sparks first overwhelmed Tesla and his companions with his idea. This is in part what Sparks said:
 
-"Mr. Tesla! In 1898 while you were making your now historic high-frequency experiments in Colorado with your 300-kiIowatt generator, you obtained sparks 100 feet in length. The noise of these sparks was like a roaring Niagara, and these spark discharges were the largest and most wonderful produced by man down to this very day. The Primary coil of your oscillator measured 51 *feet in diameter,* while you used 1100 amperes. The voltage probably was over 20 million. Now then, in your book, *High Frequency Currents,* among other things you state that the current which you produced by means of this mammoth electric oscillator was so terrific that its effect was felt 13 miles away. Altho there were no wires between your laboratory and the Colorado Electric Light & Power Co., five miles distant, your *"Wireless" Energy* burnt out several armatures of the large dynamo generators, *simply by long distance induction from your high frequency oscillator.* You subsequently raised such havoc with the Lighting Company's dynamos that you had to modify your experiments, although you were over five miles away from the Lighting Company.[^g2]
+"Mr. Tesla! In 1898 while you were making your now historic high-frequency experiments in Colorado with your 300-kilowatt generator, you obtained sparks 100 feet in length. The noise of these sparks was like a roaring Niagara, and these spark discharges were the largest and most wonderful produced by man down to this very day. The Primary coil of your oscillator measured 51 *feet in diameter,* while you used 1100 amperes. The voltage probably was over 20 million. Now then, in your book, *High Frequency Currents,* among other things you state that the current which you produced by means of this mammoth electric oscillator was so terrific that its effect was felt 13 miles away. Altho there were no wires between your laboratory and the Colorado Electric Light & Power Co., five miles distant, your *"Wireless" Energy* burnt out several armatures of the large dynamo generators, *simply by long distance induction from your high frequency oscillator.* You subsequently raised such havoc with the Lighting Company's dynamos that you had to modify your experiments, although you were over five miles away from the Lighting Company.[^g2]
 
 "Now if in 1898, twenty years ago, you could do that, why, WHY cannot we go a step further in 1918, when we have at our command vastly more powerful generators and better machinery. If you can burn out dynamo armatures 13 miles distant with a paltry 300 kilowatts, *why* cannot we burn out every armature within a radius of 500 miles or more.
 
 #Sparks' Great Project
 
-**"T**HE primary coil of your oscillator in 1898 I was 51 feet in diameter. WHY *cannot we build a primary 'coil' from the English Channel down to Switzerland, paralleling the entire Western front?* This is not such a foolish, nor such a big undertaking as you might think. My calculations show that if we were to string highly insulated copper wires one-quarter inch thick on telegraph poles behind the front, the problem would become a simple one. Ordinary telegraph poles can be used, and each pole is to carry twenty wires. Beginning three feet above the ground, each wire is spaced two feet distant from the next one. These wires run continuous from the sea to Switzerland. Moreover, every ten miles or so we place a huge 3,000 kilowatt generating plant with its necessary spark gaps, condensers, etc. The feed wires from these generating plants then run into the thick wires, strung along the telegraph poles, forming the gigantic Tesla Primary Coil. Of course, you realize that in a scheme of this kind it is not necessary to run the telegraph poles actually parallel with every curve of the actual front. That would be a waste of material. But we will build our line along a huge flat curve which will sometimes come to within onehalf mile of the front, and sometimes it will be as much as fifteen miles behind it. The total length of the line I estimate to be about 400 miles. That gives us 40 generating plants or a total power of 120,000 kilowatts! A similar line is built along the Italian front, which is roughly one hundred miles long at present. That gives us another 30,000 kilowatts, bringing the total up to 150,000! Now the important part is to project the resultant force from this huge Tesla primary coil in *one direction only,* namely that facing the enemy. This I find can be readily accomplished by screening the wires on the telegraph poles at the side facing our way as well as by using certain impedance coils. The screen is nothing else but ordinary thin wire netting fastened on a support wire between the telegraph poles. This screen will then act as a sort of electric reflector. So." . . . Sparks demonstrated hy means of one of his sketches.
+**"T**HE primary coil of your oscillator in 1898 I was 51 feet in diameter. WHY *cannot we build a primary 'coil' from the English Channel down to Switzerland, paralleling the entire Western front?* This is not such a foolish, nor such a big undertaking as you might think. My calculations show that if we were to string highly insulated copper wires one-quarter inch thick on telegraph poles behind the front, the problem would become a simple one. Ordinary telegraph poles can be used, and each pole is to carry twenty wires. Beginning three feet above the ground, each wire is spaced two feet distant from the next one. These wires run continuous from the sea to Switzerland. Moreover, every ten miles or so we place a huge 3,000 kilowatt generating plant with its necessary spark gaps, condensers, etc. The feed wires from these generating plants then run into the thick wires, strung along the telegraph poles, forming the gigantic Tesla Primary Coil. Of course, you realize that in a scheme of this kind it is not necessary to run the telegraph poles actually parallel with every curve of the actual front. That would be a waste of material. But we will build our line along a huge flat curve which will sometimes come to within one-half mile of the front, and sometimes it will be as much as fifteen miles behind it. The total length of the line I estimate to be about 400 miles. That gives us 40 generating plants or a total power of 120,000 kilowatts! A similar line is built along the Italian front, which is roughly one hundred miles long at present. That gives us another 30,000 kilowatts, bringing the total up to 150,000! Now the important part is to project the resultant force from this huge Tesla primary coil in *one direction only,* namely that facing the enemy. This I find can be readily accomplished by screening the wires on the telegraph poles at the side facing our way as well as by using certain impedance coils. The screen is nothing else but ordinary thin wire netting fastened on a support wire between the telegraph poles. This screen will then act as a sort of electric reflector. So." . . . Sparks demonstrated hy means of one of his sketches.
 
 "Everything completed we turn on the high-frequency current into our line from the sea to little Switzerland. Immediately we shoot billions of volts over Germany and Austria, penetrating every corner of the Central empires. *Every closed coil of wire throughout Germany and Austria, be it a dynamo armature, or a telephone receiver coil, will be burnt out, due to the terrific electromotive force set up inductively to our primary current.* In other words every piece of electrical apparatus or machinery *will become the secondary of our Tesla coil, no matter where located.* Moreover the current is to be turned on in the day time only. It is switched off during the night. The night is made use of to advance the telegraph poles over the recaptured land,---new ones can be used with their huge primary coil wires, for I anticipate that the enemy *must* fall back. Turning off the power does not work to our disadvantage, for it is unreasonable to suppose that the Teutons will be able to wind and install new coils and armatures to replace all the millions that were burnt out during the day. Such a thing is impossible. Besides, once we get the Germans moving, it ought to be a simple matter to follow up our advantage, for you must not forget that we will destroy ALL their electrical communications with one stroke. No aeroplane, no automobile, will move throughout the Central States. In other words, we will create a titanic artificial Magnetic Storm, such as the world has never seen. But its effect will be vastly greater and more disastrous than any natural magnetic storm that ever visited this earth. Nor can the Germans safeguard themselves against this electric storm any more than our telegraph companies can when a real magnetic storm sweeps over the earth. Also, every German telegraph or telegraph line in occupied France and Belgium will be our ally! These insulated metallic lines actually help us to "guide" our energy into the very heart of the enemy's countries. The more lines, the better for us, because all lines act as feed wires for our high frequency electrical torrents. . . ."
 
@@ -324,7 +324,7 @@ THE END
 
 *Sie, Müller:* You, Müller!
 
-*Zu Befehl, Herr Leutmant:* As your orders, Lieutenant!
+*Zu Befehl, Herr Leutnant:* As your orders, Lieutenant!
 
 *Versammlung, sofort:* Assembly, at once!
 
@@ -398,7 +398,7 @@ THE END
 
 [^g]: Gernsback: "For translation of foreign terms see end of this story."
 
-[^g1]: Gernsback: "All German telephones are magneto operated. To call Central you mast turn the handle of ths ringing magneto."
+[^g1]: Gernsback: "All German telephones are magneto operated. To call Central you mast turn the handle of the ringing magneto."
 
 [^pru]: The following section on the "Prussian mind" was removed from the *Amazing Stories* reprint of this story in July 1926.
 

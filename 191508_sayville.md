@@ -55,9 +55,9 @@ In view of the above it is not quite clear how the United States Government, eve
 
 [^lgi]: Sayville, New York is located on Long Island.  Tuckerton, New Jersey is on the south-eastern Jersey shore, just north of Atlantic City.  Both towns were the sites of massive wireless telegraph stations owned by the German company Telefunken.
 
-[^tkr]:  The following month's issue explains exactly why the Sayville station was closed.  Charles A. Apgar, an amateur inventor and contributor to Gernsback's magazines, had devised a way to record wireless telegraph signals on phonograph cylinders, the first permanent record of a wireless message ever produced.  Using this method, Apgar produced recordings of covert German transmissions that were through Sayville to U-Boats operating in the Atlantic Ocean.  His presentation of these findings to the US Navy precipitated the closing of Sayville and a law banning all amateur wireless activities.  Both a model of the value of the amateur wireless tinkerer and the cause of the entire amateur community's work being put in jeopardy, Apgar was a divisive figure.  
+[^tkr]:  The following month's issue explains exactly why the Sayville station was closed.  Charles A. Apgar, an amateur inventor and contributor to Gernsback's magazines, had devised a way to record wireless telegraph signals on phonograph cylinders, the first permanent record of a wireless message ever produced.  Using this method, Apgar produced recordings of covert German transmissions that were sent via Sayville to U-Boats operating in the Atlantic Ocean.  His presentation of these findings to the US Navy precipitated the closing of Sayville and a law banning all amateur wireless activities.  Both a model of the value of the amateur wireless tinkerer and the cause of the entire amateur community's work being put in jeopardy, Apgar was a divisive figure.  
 
-    > Meanwhile, the part played by the magazine aroused sharp resentment from the old Sayville officials. Dr. K[arl] G. Frank, head of the station, wrote a bitter letter to the editor, the point of which was a little blunted by the fact that by the time it was printed, the Government had already closed Sayville. Dr. Frank, incidentally, was later convicted as a German Intelligence agent.
+    > Meanwhile, the part played by the magazine \[*Electrical Experimenter*\] aroused sharp resentment from the old Sayville officials. Dr. K[arl] G. Frank, head of the station, wrote a bitter letter to the editor, the point of which was a little blunted by the fact that by the time it was printed, the Government had already closed Sayville. Dr. Frank, incidentally, was later convicted as a German Intelligence agent.
     
     @kennedy_jr._coherer_1958.  For the story of German cryptography channeled through American wireless plants during World War I, see @wythoff_invention_2014.
 
@@ -67,8 +67,8 @@ In view of the above it is not quite clear how the United States Government, eve
 
     > For a generation back Germany has cast covetous glances at the little country---no doubt on the theory that 'he who does not honor the pfennig is unworthy of the thaler'.  Due to its insidious and clumsy methods, however, little headway was made in Germanizing the Luxembourgeois. . . . Of course the Luxembourgeois greatly resent the German occupation, just as much as do the Belgians.  Since the invasion the inhabitants have been in a more or less ugly mood, as testified on good authority by the information which filters through them from time to time.
     
-    Gernsback, "The Case of Luxembourg," *The Chicago American*, @gernsback_case_1918.  
+    @gernsback_case_1918.  
     
     Paul Lesch argues that Gernsback actively cultivated a Luxembourgish identity throughout his life: "It is particularly interesting that Gernsback, born of German parents, not only insists on the anti-German sentiments existing in Luxembourg at the time, but seems to share them as well." @henzig_hugo_2010, p. 18.
 
-[^nn]: The large station in Nauen, Germany was the origin point for the cryptographic relayed through Sayville.  Its power was renowned throughout the world, and was the subject of much interwar speculation over secret research conducted by the Germans into "rays."  See **"Predicting Future Inventions"** (August 1923).
+[^nn]: The Nauen station's power was renowned throughout the world, and was the subject of much interwar speculation over secret research conducted by the Germans into "rays."  See **"Predicting Future Inventions"** (August 1923).

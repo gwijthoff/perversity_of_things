@@ -36,16 +36,14 @@ Summing it up the failure of most experimenters and workers who do not accomplis
 
 If people would only stop to think how infinitely little we know about everything about us, and how thoughtless we are in our relations to all inanimate things, we would not be so apt to complain about the fabled Perversity of Things.
 
-![The Only Authentic Photograph of Mr. Edison's Hands Ever Taken Publisht Here for the First Time.  The Spots on the Hands are Chemical Stains Which Could Not Be Washt off at the Time the Picture Was Taken.  IF THE WORLD WRE ALLED UPON TO MAKE AN INVENTORY OF WHAT MR. EDISON'S HANDS ACTUALLY WROUGHT IN ENRICHING THIS PLANET, THERE WOULD NOT BE GOLD ENOUGH TO PAY HIM. \[From *Electrical Experimenter,* December 1919.\]](images/edison_hands.png)
-
 [^glv]:  Commenting on his hands-on training in early nineteenth century Edinburgh, the engineer James Nasmyth writes, "The truth is, the eyes and fingers---the bare fingers---are the two principal inlets to sound practical instruction. They are the chief source of trustworthy knowledge in all the materials and operations that the engineer has to deal with. No book knowledge can avail for that purpose. The nature and properties of materials must come in through the finger-ends; hence I have no faith in younger engineers who are addicted to wearing gloves. Gloves, especially kid-gloves, are non-conductors of technical knowledge." @nasmyth_james_1883, 99-100.  Quoted in @roberts_mindful_2007, 309.
 
-[^qal]:  The anthropologist Tim Ingold distinguishes between the properties and the qualities of materials in his essay on the importance of attending to "the stuff things are made of" in studies of material culture.  Similar to Gernsback's observation here, the properties of things are objective while the qualities are a matter of subjective perception.
+[^qal]:  The anthropologist Tim Ingold distinguishes between the properties and the qualities of materials in his essay on the importance of attending to "the stuff things are made of" in studies of material culture.  Similar to Gernsback's lesson here, Ingold argues that the properties of things are objective while the qualities are a matter of subjective perception.
 
     > If, as I have suggested, we are to redirect our attention from the materiality of objects to the properties of materials, then we are left with the question: what are these properties? How should we talk about them? One approach to answering this question has been proposed by the theorist of design, David Pye. His concern is to examine the idea that every material has inherent properties that can be either expressed or suppressed in use. This idea is frequently enunciated by sculptors and craftspeople who assert that good workmanship should be ‘true to the material', respecting its properties rather than riding roughshod over them. … Pye argues that it is not really the *properties* of materials that an artist or craftsperson seeks to express, but rather their *qualities.*
     
     Ingold quotes from Pye's book:
     
-    > The properties of materials are objective and measurable. They are out there. The qualities on the other hand are subjective: they are in here: in our heads. They are ideas of ours. They are part of that private view of the world which artists each have within them. We each have our own view of what stoniness is. (47)
+    > The properties of materials are objective and measurable. They are out there. The qualities on the other hand are subjective: they are in here: in our heads. They are ideas of ours. They are part of that private view of the world which artists each have within them. We each have our own view of what stoniness is.
 
-    @ingold_being_2011, 29, citing @pye_nature_1968.
+    @ingold_being_2011, 29, citing @pye_nature_1968, 47.

@@ -14,7 +14,7 @@ csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 
 **R**ADIO AMATEUR NEWS with this issue makes its debut to the radio fraternity. At this occasion it may not be amiss to state the pertinent reasons for its existence and why as a matter of fact it just *had* to come.
 
-This magazine is the logical outcome of many attempts to publish a purely Radio periodical, independent thruout and devoted to American Radio Amateurism.
+This magazine is the logical outcome of many attempts to publish a purely Radio periodical, independent thruout and devoted to American Radio Amateurism.[^wran]
 
 In 1908 I started the first magazine in America in which were publisht many radio articles---MODERN ELECTRICS. Radio Amateurism being in its infancy then, could not support a purely radio magazine,---so MODERN ELECTRICS devoted only about one-quarter of its contents to radio. In 1913 I came out with the ELECTRICAL EXPERIMENTER. This magazine has been more prominent than any other on account of its very important radio section. Even during the war---with radio amateurism dead and nearly every radio magazine discontinued---the ELECTRICAL EXPERIMENTER, at a great financial loss, continued publishing radio articles uninterruptedly, month after month, to keep alive the radio spark in the hearts of our amateurs.
 
@@ -47,3 +47,7 @@ Now, my friends, it's up to you how great and how big RADIO AMATEUR NEWS shall b
 Three cheers for American Radio Amateurism---
 
 *Long live the Radio Amateur.*
+
+[^wran]: While *Electrical Experimenter* began as a specialized companion magazine for tinkerers, by 1918 it owed its 100,000 issue per month circulation to an increasingly general focus.  A magazine whose tagline was "The Electrical Magazine for the Experimenter" became "The Electrical Magazine for Everybody."  It later changed its name to *Science and Invention* in 1920, a magazine that covered an array of developments in science and technology, and began experiments with dynamic page layouts in favor of longer texts (See **The New Science and Invention.**)
+
+    The new title *Radio Amateur News* (later shortened to *Radio News*) thus became the new home for hands-on readers, a magazine that took seriously the role of the independent experimenter throughout the 1920s, an age of mass-produced sets and big broadcasting companies.

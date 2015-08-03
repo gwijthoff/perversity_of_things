@@ -16,7 +16,7 @@ csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 
 But "invention" antedates "science" by thousands of years.  When our prehistoric man first fashioned his crude hammer by binding a stone to a stick, by means of reeds, he had made a basic invention in every sense of the word.  And when he first applied his stick to a huge boulder he wisht to move, then placing a smaller stone under the stick---he had made another notable basic invention---the lever.
 
-In fact, both of these basic inventions are discoveries, and if they were first made today, would be patentable.  Right here we may state that in patent law "discovery" and "invention" are held to be synonymous, tho popularly an "invention" designates one that is new and useful as well as patentable.
+In fact, both of these basic inventions are discoveries, and if they were first made today, would be patentable.  Right here we may state that in patent law "discovery" and "invention" are held to be synonymous, tho popularly an "invention" designates one that is new and useful as well as patentable.[^nsai]
 
 Science, or rather the sciences, on the other hand first came into being with the ancient Greeks.  Of course, some sciences existed before the Greeks, but they were not recognized as such.  At least there is no record of any sciences classified as such by the Phoenicians or the old Egyptians.  Even in Grecian times there were comparatively little sciences.  Thus the Platonists had their sciences divided into dialects, physics and ethics.
 
@@ -35,3 +35,9 @@ Then as now they burn our great discoverers and our great scientists at the stak
 It matters little that Jules Verne or Nikola Tesla are a hundred years ahead of the times---the scientists scoff and laugh unbelievingly.
 
 But happily, the great public today appreciates the "fantastic dreamer", because it knows from experience that these "fantastic dreams" have a habit of coming true on the morrow.
+
+[^nsai]: This issue marks a change in the title of the magazine from *Electrical Experimenter* to *Science and Invention,* though a shift in its content from specialized articles for tinkerers to general interest pieces had been underway for over a year.  Thomas Edison, when solicited for comment on the name change by Gernsback, replied in a letter: 
+
+    > Change of name from Electrical Experimenter to Science and Invention better indicates the proper sphere of your journal.  Your field is not unlimited and your journal will be of great value in the advancement of invention and individual applications of science.
+    
+    @edison_telegram_1920

@@ -72,10 +72,12 @@ There are, indeed, encouraging signs already.  Certain commercial stations on th
 
 [^pne]: President Wilson's executive order not only shut down all sending and receiving stations in the country not yet under government control, it also assumed ownership of all wireless patents so that private firms could cooperate on new devices.  "A government-imposed patent moratorium instructed all suppliers to make use of the best components, no matter who owned the patent.  The government guaranteed to protect all suppliers against infringement claims and encouraged the inventors not to be oversensitive to relatively free use of their apparatus during the national emergency.  Under this arrangement, with the inventors and radio companies concentrating less on marketing strategies and litigation, and more on research and development, significant advances in continuous wave technology were achieved.  Civilian-military cooperation produced apparatus more ideally suited to the navy's special needs." @douglas_inventing_1987, 278.
 
-[^far]: While the presence of local stations and a well-trained citizenry were important, Jonathan Reed Winkler Argues that the Great War necessitated a holistic understanding of the United States's strategic interests within an increasingly global communications network:
+[^far]: While the presence of local stations and a well-trained citizenry were important, Jonathan Reed Winkler argues that the Great War necessitated a holistic understanding of the United States's strategic interests within an increasingly global communications network:
 
     > It was only during World War I that the United States first came to comprehend how a strategic communications network---the collection of submarine telegraph cables and long-distance radio stations used by a nation for diplomatic, commercial, and military purposes---was vital to the global political and economic interests of a great power in the modern world.
 
-    @winkler_nexus:_2008, 2.  The airwaves were thus increasingly seen as another territory to be defended in war and peacetime, especially at a moment in which the available broadcast spectrum---thanks to primitive tuning circuits---was thought to be limited to no more than twelve long-distance stations in the world at a time.  See @winkler_nexus:_2008, 251-3.
+    @winkler_nexus:_2008, 2.  
+    
+    The airwaves were thus increasingly seen as another territory to be defended in war and peacetime, especially at a moment in which the available broadcast spectrum---thanks to primitive tuning circuits---was thought to be limited to no more than twelve long-distance stations in the world at a time.  See @winkler_nexus:_2008, 251-3.
 
-    SEE ALSO KRAJEWSKI'S NEW BOOK ON GLOBAL NETWORKS PRE-WWI
+    Also relevant here is Markus Krajewski's media archaeological account of attempts to configure and conceptualize the globe as a single system around the turn of the twentieth century. @krajewski_world_2014.
