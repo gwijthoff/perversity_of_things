@@ -49,3 +49,7 @@ When the actual performance begins, it will be an easy matter for the operator t
 From a financial standpoint it would be good business for the opera company, as well as for the moving picture house, *both of which would thus derive a new income running into the hundreds of thousands with hardly any expense whatsoever.* The grand opera with an outlay of from one thousand to three thousand dollars could buy its high power radio telephone outfit, while every live picture house throughout the country would be able with an expenditure of less than five hundred dollars to buy its necessary radio telephone equipment *and this cost would only be initial,* because nothing except burnt-out vacuum tubes need be replaced and there is practically no cost of upkeep.
 
 The writer confidently expects that this scheme will be in use throughout the country very shortly. 
+
+===========
+
+@steichen_metropolitan_2009
