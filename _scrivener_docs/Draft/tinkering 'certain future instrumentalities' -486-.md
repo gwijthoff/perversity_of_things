@@ -20,6 +20,10 @@ Immediately after launching *Modern Electrics,* Gernsback writes to luminaries i
 
 Takes place between the machine shop model of innovation w/ the telegraph, according to Paul Israel (an age that some mythologize as the era of the independent inventor) and its transition, thanks largely to Edison, to corporate R&D (which many also mythologize as being solely the province of scientists disconnected from practical innovation, when in fact there was a great deal of small-scale tinkering, and, according to Hintz, independent inventors lived on).
 
+(from 192302: [^keq]: Though Gernsback is obviously trying to stir up his readership, this article touches on a very real anxiety about the role of the amateur in a world of increasingly professionalized engineering and invention. But historian of technology Eric S. Hintz argues that despite commonly accepted wisdom, independent inventors continued to be a source of viable innovations well into the twentieth century, when corporate research and development was gradually beginning to take on greater importance. Well after the "heroic" era of inventors like Thomas Edison and Alexander Graham Bell:)
+
+"The amateur's work is valuable."  from Grundy's letter on who will save the radio amateur 192302 -- not just blind tinkering, but "work."
+
 * * * * * * 
 
 What begins as an objective description of a new wireless component seems to eventually boil down to a product pitch.  Indeed, the Radioson would be advertised for sale from the Electro Importing Company in competitor's publications in the coming months.  But the level of detail Gernsback goes into here is unique, making this essay not just a product announcement, but a detailed discussion of how the device is constructed and why:

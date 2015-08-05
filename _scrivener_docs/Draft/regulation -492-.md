@@ -16,6 +16,8 @@ social ideology
 
 --------------------
 
+Grundy's letter about saving the amateur, 192302: "It stills a thirst for scientific knowledge and hence stimulates manhood."  science = manhood
+
 Managing capitalism’s excesses through technocracy:  “While some genre SF suggests a need to restrain capitalist excesses, this typically takes the form not of democratic contorl but of technocratic management and engineering inverventions, as in Robert A. Heinlein’s “The Roads Must Roll” (1940) and George O. Smith’s Venus Equilateral stories (1942-7).  More commonly, from Hugo Gernsback’s Ralph 124C 41+: A Romance of the Year 2660 (1911-12) onward, SF normalizes capitalism by assuming its endless unquestioned perpetuation, a tendency that leads Bruce Sterling’s Schismatrix (1985) for example, to treat neoliberal economics as if they are laws of physics.” (Mark Bould in Cambridge Companion to US SF, p. 87)
 
 “Csicsery-Ronay calls particular attention to those “fantasies of physical mastery and engineering know-how” that continue to drive os much science fiction as part and parcel of the way imperlalism “facilitated the subjugation of less developed cultures, wove converging networks of technical administration, and established standards of ‘objective measurement’ that led inevitably to myths of racial and national supremacy.” @canavan_introduction_2015, 10 — quoting “Science Fiction and Empire,” in SF Studies 30.2 (July 2003)
@@ -23,6 +25,8 @@ Managing capitalism’s excesses through technocracy:  “While some genre SF s
 Less faith in progress than one might otherwise think?  Reminds readers that the gains made by progress are fragile, and could be taken away at any moment.  "The penalty of our present civiliztion is that it makes us soft and without resistance.” From 192210_human_progress
 
 But here, about as positivist as you can get, in 193107_wonders_machine_age: "Famines, pestilence and other scourges were the usual thing long before the Machine Age, when there was no machine to put the blame on. Today, thanks to the Machine Age, we no longer have country-wide famines of the severity of the past; and thanks to science, we no longer have the scourges and pestilences that our ancestors had to contend with. Quick communication by rail, water, and air, tends to do away with both acute famine and widespread diseases.”  States that “science fiction is based upon the progress of science; THAT IS ITS VERY FOUNDATION. Without it, there could be no science fiction.”  Faith in technological progress is synonymous with SF, for Gernsback.  Adds that if we go back to a Middle Age, the Machine Age will not be the cause of it.  Humans will
+
+(from footnote)  Throughout *Radio for All,* Gernsback uses by then slightly older, outmoded technologies to open up radio's possible futures to a new community of wirelessly connected citizens.  Daniel Czitrom describes this approach to educating a new public in the very technology that would constitute their awareness of themselves *as* a public as Gernsback's "hardware socialism."
 
 regulation & activism
 
