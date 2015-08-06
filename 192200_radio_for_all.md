@@ -86,6 +86,6 @@ At the time this volume is written, radio is just about twenty-five years old. I
 
 [^jhh]: Hammond (1888-1965), recipient of the 1963 Institute of Electrical and Electronics Engineers (IEEE) Medial of Honor, was known for piloting a yacht by remote control in 1914 on a 120-mile trip between Gloucester and Boston, Massachusetts. @dandola_living_2004.
 
-[^jfk]: By the 1940s, experiments had begun in the United States with full-size, remote controlled aircraft.  Joseph P. Kennedy, Jr., the oldest brother of President John F. Kennedy, was killed in World War II in one early "drone" program.  Operation Aphrodite called for a pilot to fly a B-17 Flying Fortress packed with explosives close to a bombing site and parachute away from the craft before it was remotely piloted into the target using radio control and two television cameras mounted on the dashboard.  In the case of Kennedy's plane, the explosives detonated prematurely.  Ed Grabianowski, "The Secret Drone Mission that Killed Joseph Kennedy Jr.," *io9*, February 21, 2013, <http://io9.com/5985733/the-secret-drone-mission-that-killed-joseph-kennedy-jr>.
+[^jfk]: For more on the idea of full-size, radio-controlled airplanes and their use in war, see **A Radio-Controlled Television Plane.**
 
 [^n21]: Leveling an "off the beaten track" challenge to the radio experimenter to break out into new areas of research, Gernsback describes in this editorial the future of wireless picture transmission.  It is quoted directly with no changes in the next three paragraphs.  @gernsback_radio_1921.

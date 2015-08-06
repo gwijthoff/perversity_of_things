@@ -88,6 +88,8 @@ The author will be glad to answer any questions concerning the Radioson, and he 
     
     @gernsback_developing_1919.
     
+    Readers continued, however, to be interested in crystal set designs well into the 1920s.  See, for instance, **The Detectorium.**
+    
 [^rfa]: By the time of his 1922 book, *Radio for All,* Gernsback admits the inherent technical limitations of the Radioson detector: "Unfortunately the Radioson, once subjected to strong signals or even too strong static currents, would burn out the exceedingly fine Wollaston wire, after which the instrument became inoperative. Although the Radioson was perhaps one of the best electrolytic detectors ever designed, no means could be found to keep it from burning out and the manufacture of it was given up by the makers.  Soon after the invention of the electrolytic detector, crystal detectors came into vogue." @gernsback_radio_1922, 58.
 
 [^buy]:  |
