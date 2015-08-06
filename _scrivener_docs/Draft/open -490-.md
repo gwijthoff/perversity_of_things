@@ -55,3 +55,13 @@ Looking back to his own hands-on training in Edinburgh in 1817-1820, the eminent
 Samuel Smiles, ed., James Nasmyth, engineer: an autobiography (New York: Harper, 1883), pp. 99-100, 226-228. Compare A.E. Musson, ‘James Nasmyth and the early growth of mechanical engineering,’ Economic history review 10 (1957): 121-127. [from Mindful Hand, p. 309]
 
 Explain “perversity” of things.
+
+"Beauty is a groping of the emotions towards realization of things which may be unknown only to the intellect." 192607 Fiction Versus Facts
+
+Weird inventions/experiments
+
+	- place a sewing needle between your teeth and hold it to a record.  This is how ESP works for Martians.
+
+	- The Pianorad, first electric keyboard.  Looks like a car engine w/ a horn attached, cylinders plugged into a loudspeaker, each one a tube for a note on a keyboard.  Super radiumpunk.
+
+	- Physiophone, music for the deaf by wires
