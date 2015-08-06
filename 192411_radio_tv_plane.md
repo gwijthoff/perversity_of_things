@@ -2,7 +2,7 @@
 layout: post
 title: A Radio-Controlled Television Plane
 author: |
- *The Experimenter*, vol. ? no. ?
+ *The Experimenter*, vol. 1 no. 4
 date: November 1924
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
@@ -24,7 +24,7 @@ An entirely new age will then be opened up and it is not necessary for the write
 
 In this article, we shall concern ourselves with the radio-controlled television plane, which will come into being immediately the minute the television problem is put on a practical basis. It should not be construed that the radio television plane is merely a monstrous war machine, but it also has its uses during peace time, as will be explained. At the present time it costs great effort, time and aviators' lives in order to train our perfect flyers.
 
-A radio-controlled airplane has already been demonstrated by the French and American Governments, and it flew for a lengthy period without anyone on board. The entire control was from the ground while the machine was aloft. The plane arose, cut figure eights, volplaned, ascended, descended and went through all the ordinary evolutions; the control being effected entirely and solely by radio. The same kind of a machine is also being experimented with successfully by our own and several other Governments, and it may be said therefore that the radio-controlled airplane has passed the experimental stages and has become practical and feasible for military use.
+A radio-controlled airplane has already been demonstrated by the French and American Governments, and it flew for a lengthy period without anyone on board. The entire control was from the ground while the machine was aloft. The plane arose, cut figure eights, volplaned, ascended, descended and went through all the ordinary evolutions; the control being effected entirely and solely by radio. The same kind of a machine is also being experimented with successfully by our own and several other Governments, and it may be said therefore that the radio-controlled airplane has passed the experimental stages and has become practical and feasible for military use.[^jfk1]
 
 But the great trouble with radio-controlled airplanes is that the operator must see the plane. If his machine were to make a landing at a great distance he might land the airplane on top of a building or in a river, or it might collide with a mountain.
 
@@ -56,6 +56,8 @@ There are, of course, hundreds of other applications of the idea which readily s
 
     ![](images/si_baseball_scoreboard.png) <!-- no figure -->
     
+[^jfk1]: By the 1940s, experiments had begun in the United States with full-size, remote controlled aircraft.  Joseph P. Kennedy, Jr., the oldest brother of President John F. Kennedy, was killed in World War II in one early "drone" program.  Operation Aphrodite called for a pilot to fly a B-17 Flying Fortress packed with explosives close to a bombing site and parachute away from the craft before it was remotely piloted into the target using radio control and two television cameras mounted on the dashboard.  In the case of Kennedy's plane, the explosives detonated prematurely.  Ed Grabianowski, "The Secret Drone Mission that Killed Joseph Kennedy Jr.," *io9*, February 21, 2013, <http://io9.com/5985733/the-secret-drone-mission-that-killed-joseph-kennedy-jr>.
+
 [^eye]:  Gernsback's use of "electric eyes" isn't just a metaphor.  In other contexts, he describes the physiology of the eye as a literal "television apparatus":
 
     > The animal eye is the most marvelous television apparatus ever invented. Moreover, it is non-electrical. If we look at an object, the latter is thrown into our eye, which is nothing but a marvelously efficient camera, but instead of a photographic plate, the impulses are thrown up on the Retina which records the object, not only in black and white as does the photographic plate, but the picture is recorded in its natural colors on the retina. From here numerous fine nerve strings interlocked in the retina connect with the optical nerve, which nerve in turn connects with the occipital lobes of the brain, translating the various light impulses, (stimuli) with their component colors into a "picture," which is then "seen" in our mind. We say "seen" advisedly, because of course the picture is not actually seen in the mind, but the impulses which the retina has picked up are translated into another form, which we experience in turn as the sensation of seeing.

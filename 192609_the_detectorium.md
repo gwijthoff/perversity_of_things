@@ -12,7 +12,7 @@ csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 
 * * * * * * * * 
 
-**I**N view of the growing popularity of the crystal detector, especially in our large cities, I believe that experimenters all over, particularly the new-comers, wil be interested in an instrument invented by me in 1910. The Detectorium, as it was designated by me at that time, was patented June 21, 1910 (U. S. Patent No. 961,855).[^855]
+**I**N view of the growing popularity of the crystal detector, especially in our large cities, I believe that experimenters all over, particularly the new-comers, will be interested in an instrument invented by me in 1910. The Detectorium, as it was designated by me at that time, was patented June 21, 1910 (U. S. Patent No. 961,855).[^855]
 
 During all the years since broadcasting has come into vogue, I do not recall having seen the device described; but it was so good in the old days, and performed so remarkably well, that I feel it my duty to bring it again to light. It was originally described in the world's first radio magazine, which I published; namely, "MODERN ELECTRICS," in the July, 1910, issue.[^dtc]
 
@@ -70,6 +70,8 @@ I shall be glad to hear from those who have constructed the Detectorium.[^rdr]
 
 [^prt]: In a handbook published by Gernsback's brother Sidney and other Electro Importing employees, one lesson is devoted to the construction of the Detectorium, recommending that a kite be used to lift the aerial to a sufficient height.  They write that apparatus is
 
-    > very well adapted to the requirements of all portable wireless stations, such as those in mule pack sets, aeroplane airship sets, and in a hundred other places, where light weight and great compactness are prime requisites. … This method of using a loading coil is the only way by which so long a wave length may be obtained within such a limited space.  @gernsback_experimental_1916, 62-3.
+    > very well adapted to the requirements of all portable wireless stations, such as those in mule pack sets, aeroplane airship sets, and in a hundred other places, where light weight and great compactness are prime requisites. … This method of using a loading coil is the only way by which so long a wave length may be obtained within such a limited space.  
+    
+    @gernsback_experimental_1916, 62-3.
     
 [^frd]: The farad is the standard unit for measuring electrical capacitance. It is named after Michael Faraday (1791-1876), the physicist who pioneered research in electromagnetism. A µf denotes a microfarad, or one millionth of a farad.

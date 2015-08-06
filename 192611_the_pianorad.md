@@ -14,7 +14,7 @@ csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 
 **T**HIS year marks the second centenary of the creation of the piano.  There has been no radical development in the piano since except the advent of the player piano or mechanical piano.
 
-The Pianorad, which is played very much like the piano, by means of a similar keyboard, is a new invention.  In this new musical instrument, the principles of the piano as well as the principles of radio are for the first time combined in a single musical instrument.
+The Pianorad, which is played very much like the piano, by means of a similar keyboard, is a new invention.  In this new musical instrument, the principles of the piano as well as the principles of radio are for the first time combined in a single musical instrument.[^pnrd]
 
 \begin{center}
 \fbox{
@@ -60,3 +60,13 @@ The Pianorad was first demonstrated publicly Saturday, June 12 at 9 P. M., with 
 The principle embodied in this instrument was first demonstrated in 1915 by Dr. Lee de Forest, inventor of the Audion.  At that time Dr. de Forest was able to produce musical tones by means of vacuum tubes, but the radio art at that time had not progressed sufficiently to make possible the Pianorad.
 
 An article by Clyde J. Fitch describing the construction of the Pianorad will appear in the December issue of RADIO NEWS.
+
+[^pnrd]: The Pianorad is an improvement on Gernsback's earlier electronic keyboard, the Staccatone, which debuted in *Practical Electrics,* March 1924, along with instructions on how to build one at home.  While the Staccatone consisted of one sine wave oscillator connected to each of sixteen keys---"simple on/off switches \[that produced\] a sharp staccato note with little control over the attack of the sound," the Pianorad had significantly more control over the pitch and duration of its notes.  @holmes_electronic_2012.
+
+    According to musician Simon Crab, the redesigned and rechristened Pianorad 
+    
+    > had 25 single LC oscillators, one for every key for its two octave keyboard giving the instrument full polyphony, the oscillators produced virtually pure sine tones. … Each one of the twenty five oscillators had its own independent speaker, mounted in a large loudspeaker horn on top of the keyboard and the whole ensemble was housed in a housing resembling a harmonium. A larger 88 non keyboard version was planned but not put into production.
+
+@crab_pianorad_2014
+
+    ![](images/staccatone_cover.png) <!-- no figure -->

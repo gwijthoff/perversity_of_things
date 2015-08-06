@@ -30,7 +30,7 @@ Right here I wish to pay a tribute to Mr. Edison that the radio industry so far 
 
 As to Mr. Edison's remarks, the statements that follow are facts which can be checked up by any one who is unbiased. They are not given with any idea of starting a controversy.
 
-Rather than waning in popularity, it is well known that radio is on the constant increase. Witness, for instance, the recent Third Annual Radio World's Fair, in New York, where the attendance for the week was 228,000, the greatest on record of any radio show, and a tremendous increase over last year's figures. There certainly was no such interest in the phonograph when the latter was but five years old, which is the age of radio, since radio broadcasting started.
+Rather than waning in popularity, it is well known that radio is on the constant increase. Witness, for instance, the recent Third Annual Radio World's Fair, in New York, where the attendance for the week was 228,000, the greatest on record of any radio show, and a tremendous increase over last year's figures.[^3rwf] There certainly was no such interest in the phonograph when the latter was but five years old, which is the age of radio, since radio broadcasting started.
 
 The sales of radio apparatus, for the United States alone, will reach $520,000,000 for 1926. The figures for the former years, compiled by the Radio Manufacturers' Association, are given here: 1922, $46,500,000; 1923, $120,000,000; 1924, $350,000,000; 1925, $449,000,000. These are not mere estimates, but actual figures. From orders that have been placed, the various radio trade associations know now that the 1926 figure will be exceeded in 1927. The fact is that the popularity of radio is becoming steadily greater rather than less, and no home today is considered complete without its radio set.
 
@@ -54,6 +54,12 @@ The radio industry today is only five years old, and it may safely be predicted 
 
 [^crj]: Enrico Caruso was an Italian opera tenor with a famously "phonogenic" voice, one that drove the sales of phonographs in the early twentieth century according to @potter_tenor:_2009.
 
-[^pl1]: Leroy F. Dyer, Managing Engineer of the Dyer Radio Manufactory, writes in a letter published in the February 1927 issue:
+[^pl1]: Leroy F. Dyer, Managing Engineer of the Dyer Radio Manufactory, writes in a letter published in the February 1927 issue of *Radio News*:
 
     > I want to commend your lenient attitude in commenting upon the remarks, attributed to Mr. Edison, regarding the comparative merits of radio and the phonograph.  In spite of the reverence due our great inventor, most of us could not have resisted a temptation to characterize such statements as propaganda. … It is not fair to compare the results of the average phonograph with the average radio receiver in reproducing music. The average phonograph of today is a highly-developed, scientifically-designed, factory-built piece of apparatus, the culmination of many years of experience. The average radio receiver---well, I don't want to hurt anyone's feelings, but to put it mildly, the *average* radio receiver is far from representing the present state of perfection in the radio art.
+
+[^3rwf]: With exhibitions from amateurs and corporations alike, the Radio World's Fair was held at the newly opened third iteration of Madison Square Garden, beginning September 13, 1926.
+
+    > For the first time, under a single roof, the public will see all the marvelous new radio equipment that, only a few months ago, was in the experimental stage in a hundred research laboratories.  It will not only be a demonstration of the tremendous advance in the radio engineering art, but the sets themselves will be encased in de luxe cabinets that make radio not just a luxury or a necessity in the home, but an actual adornment as well.
+    
+    @_new_1926.

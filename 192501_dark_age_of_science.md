@@ -18,8 +18,6 @@ csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 
 **T**OO many people nowadays are prone to settle themselves back in their chairs and congratulate themselves about the wonderful age in which we are living.  With railroads, airships, radio and other "marvelous" activities abounding around us, it is easy to lull oneself into the belief that surely the millenium has arrived and that the world will never look rosier than it does now.
 
-As a matter of 
-
 \begin{center}
 \fbox{
   \parbox[c]{7cm}{
