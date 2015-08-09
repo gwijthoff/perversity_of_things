@@ -52,6 +52,8 @@ links from Henry on popular scientific education here.  While Gernsback talks ab
 
 see prologue to Aitken, Syntony and Spark on invention as a kind of guessing, separate from science, a blind creativity.
 
+From a footnote to possibly move:  [^fns]: In an editorial for *Science and Invention* titled "Handicraft" and published in the same month as this piece, Gernsback advocates for the importance of making things as a hobby for the white collar worker.  Tinkering isn't just a means of diversion or release after the working day is over, it serves as an education in tools, materials, and techniques.  For Gernsback, the know-how that emerges from the experience of making things is cascading: hands gradually feeling their way along an interlocking series of dependent skills and material properties.  (From 192702 Why the Radio Set Builder, an important piece)
+
 ## Tinkering and technology
 
 > *Reports on broadcast experiments at Gernsback's WRNY radio station, new inventions developed at the Electro Importing Company labs, and critical essays on techniques for thinking creatively through technology.*

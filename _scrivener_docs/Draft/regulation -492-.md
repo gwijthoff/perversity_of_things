@@ -12,6 +12,8 @@ OR, use brief stuff on regulation as a pivot point between a section on wireless
 
 Do these articles amount to a full scale policy or philosophy of regulation?  Probably not.  More a series of reactions to conditions on the ground.  Tries to remain as agnostic as possible.
 
+For an early "information wants to be free" argument, see 192707 Wired Radio Versus Space Radio.  Nothing super quotable, can just paraphrase his arguments.  It's also like the contrast between OTA television and cable, and the idea that amateurs will always find a way to pirate content, no matter what.  So many of the twentieth century's debates over the social use of mass media and whether or not that use is at odds with corporate interests, already played themselves out in the opening decades of the century.
+
 social ideology
 
 --------------------
@@ -47,3 +49,5 @@ Gernsback would later re-enter policy debates and the politics of technology wit
 “Unquestionably the entire credit for obtaining the amateur’s rights belongs to *Modern Electrics*” (**Wireless and the Amateur: A Retrospect**, February 1913)
 
 Imagination as invention -- Senarens "invented" submarines, in "American Jules Verne."
+
+Maybe use footnotes on Technocracy and HG's ambiguous adoption of their ideas in 193107 Wonders of the Machine Age?

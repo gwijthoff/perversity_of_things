@@ -12,6 +12,12 @@ overarching story
 
 ------------------
 
+The amateur avant garde:  
+
+> The set builder naturally is well able to compete with the manufacturer, for two reasons. First, his time costs him little, and in price, therefore, he can compete easily with the factory-made set. Secondly, he has the jump on the manufactured set for the simple reason that, as like as not, his circuit is the latest out, and, therefore, will have improvements that the manufactured set can not boast for some months to come.
+
+from 192710 Radio Enters a New Phase
+
 points
 
 -------
