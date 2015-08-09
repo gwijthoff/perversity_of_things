@@ -21,7 +21,7 @@ Let me review what happened in radio, even before broadcasting began. Originally
 
 About 1916, the manufacture of the first complete sets began. They were more or less self-contained, but necessarily rather crude, to our present way of thinking. But still separate parts, in value, formed the greatest proportion of sales by the radio industry.
 
-When broadcasting started, in 1921, the sale of parts to the public immediately jumped to a tremendous figure; and it was some time before the sale of completely-manufactured sets took the lead and exceeded that of parts. Then gradually the ready-made factory-built set came into the ascendancy and greatly eclipsed the sale of separate parts. That is the situation which we have at present. Though in 1922 and 1923 every radio dealer stocked an immense number of parts and hut few sets, the situation in this country has been reversed since then, and there are now comparatively few dealers who stock parts. Most of them nowadays stock a complete line of sets and accessories.
+When broadcasting started, in 1921, the sale of parts to the public immediately jumped to a tremendous figure; and it was some time before the sale of completely-manufactured sets took the lead and exceeded that of parts. Then gradually the ready-made factory-built set came into the ascendancy and greatly eclipsed the sale of separate parts. That is the situation which we have at present. Though in 1922 and 1923 every radio dealer stocked an immense number of parts and but few sets, the situation in this country has been reversed since then, and there are now comparatively few dealers who stock parts. Most of them nowadays stock a complete line of sets and accessories.
 
 There is, of course, a great difference between *parts* and *accessories;* parts being usually taken to mean those items that go into the manufacture or construction of a radio set, whereas accessories are the articles that are necessary for the operation of the complete set. Under accessories are listed such articles as tubes, batteries and socket-power units, loud speakers, headphones, etc.
 
@@ -52,6 +52,10 @@ Summing up, therefore, these facts, it is reasonable to predict that the radio p
 
 **Mr. Hugo Gernsback speaks every Monday night at 9 P. M. from Station WRNY on various radio and scientific subjects.**
 
-[^rca]: The Radio Corporation of America was formed in 1919 as a "private" company that could take all of the patents that the United States government had seized during World War I.  Tim Wu:  
+[^rca]: The Radio Corporation of America was formed in 1919 as a "private" company that could take over all of the patents that the United States government had seized during World War I.  Tim Wu:  
 
-    > Structurally the RCA was rather like the BBC, a national champion; but unlike the British company, it was neither established nor sustained with public duties.  Rather, in 1919, the RCA was formed mainly in response to the navy's insistence that all vital radio technologies be held by an American firm, in the interests of national security.  And so RCA was fashioned out of the existing American Marconi Company to pool and exploit the rights to use more than two thousand patents owned by General Electric, United Fruit, Westinghouse, and AT&T. @wu_master_2010, 79.
+    > Structurally the RCA was rather like the BBC, a national champion; but unlike the British company, it was neither established nor sustained with public duties.  Rather, in 1919, the RCA was formed mainly in response to the navy's insistence that all vital radio technologies be held by an American firm, in the interests of national security.  And so RCA was fashioned out of the existing American Marconi Company to pool and exploit the rights to use more than two thousand patents owned by General Electric, United Fruit, Westinghouse, and AT&T.
+    
+    @wu_master_2010, 79.
+    
+    For more on the government's patent seizure, see **Silencing America's Wireless.**

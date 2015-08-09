@@ -54,7 +54,7 @@ During the coming season, the shielding idea seems possibly the greatest advance
     
     @lane_new_1926
 
-    Vernier dials allowed for large movements on a knob to result in fine-grained input: "each complete rotation of the control knob causes only a fraction of a revolution of the main shaft, permitting fine and accurate adjustment."  @_vernier_2003.  It is named for the vernier scale, which performs a similar function for measurement: a secondary scale on a pair of calipers indicates with more granularity where a measurement lies *between* two marks on the primary scale.  It was invented by the French mathematician Pierre Vernier (1580-1637).  @_vernier_2015.
+    Vernier dials allowed for large movements on a knob to result in fine-grained input: "each complete rotation of the control knob causes only a fraction of a revolution of the main shaft, permitting fine and accurate adjustment."  @_vernier_2003.  They were named for the vernier scale, which performs a similar function for measurement: a secondary scale on a pair of calipers indicates with more granularity where a measurement lies *between* two marks on the primary scale.  It was invented by the French mathematician Pierre Vernier (1580-1637).  @_vernier_2015.
     
     ![](images/straight_line_condenser1.png) <!-- no figure -->
     

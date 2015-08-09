@@ -20,7 +20,7 @@ In America the broadcasters expect to get back, through the returns from good-wi
 
 There is, however, another system which may shortly go into operation in the eastern part of the United States, and which is known under the name of wired radio. There is nothing new about this, for it is not a new invention by any means.
 
-General G. O. Squier took out patents on wired radio many years ago, but so far the svstem has not met with much success or encouragement in application to broadcasting; although this can be accomplished by wired radio over any existing lines, be they telephone or telegraph, electric-light or power.[^gos] It is understood that, for the time being at least, the telephone interests will have none of wired radio. On the other hand, one of the largest electric light and power corporations in the country, with networks extending throughout the east, definitely intends to go "on the wire" with wired broadcasting in the near future, probably within six or eight months.
+General G. O. Squier took out patents on wired radio many years ago, but so far the system has not met with much success or encouragement in application to broadcasting; although this can be accomplished by wired radio over any existing lines, be they telephone or telegraph, electric-light or power.[^gos] It is understood that, for the time being at least, the telephone interests will have none of wired radio. On the other hand, one of the largest electric light and power corporations in the country, with networks extending throughout the east, definitely intends to go "on the wire" with wired broadcasting in the near future, probably within six or eight months.
 
 Many technical difficulties had to be overcome to make this possible, but officials of the company sponsoring wired radio now believe that the difficulties have been smoothed out, and that a real service can actually start very soon. Somewhere in the east there will be studios where three different programs will be broadcast simultaneously on different wavelengths over existing wire systems.
 
@@ -52,7 +52,7 @@ It is in the nature of every radio fan to investigate and the prediction is free
 
 [^gos]: Major General George Owen Squier (1865-1934) first became a proponent of wired radio in 1900 after observing that the tactics of the Spanish American war was revolved around "coal and cables":
 
-    > Reliable submarine [cable] communications under exclusive control are not only absolutely necessary, but exercise a dominating influence upon the control of the seas, whether in commercial strategy or in military and naval strategy.
+    > Reliable submarine [i.e. telegraph cable] communications under exclusive control are not only absolutely necessary, but exercise a dominating influence upon the control of the seas, whether in commercial strategy or in military and naval strategy.
     
     Eventually, Squier moved from advocating a network of US government cables that networked the newly annexed territories in the Philippines, Cuba, and Puerto Rico, to an agenda closer to home.  Forming a company in 1922 called Wired Radio, Squier sold "centralized transmissions within a rationalized system of stimulus codes", or the canned music crowd control we now know as Muzak, a term coined by Squier.
     
