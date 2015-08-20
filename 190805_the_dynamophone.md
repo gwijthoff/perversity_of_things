@@ -74,7 +74,11 @@ We remembered this in time and the present issue of "MODERN ELECTRICS" proves th
     
     Much like the sympathetic vibrations of a piano tuner or undamped guitar strings, these two currents resonate with one another.  @aitken_continuous_1985, 58.
 
-[^wrk]:  This is a clever workaround:  at a time when the voice couldn't be *transmitted* via wireless, perhaps it could at least be *translated* into a form of electrical or mechanical force.  Gernsback's Dynamophone and Fessenden's heterodyne principle are both directed at the same technical problem.  While one could say that Gernsback's solution achieves results on a metaphorical level, it is clearly the less elegant solution.
+[^wrk]:  This is a clever workaround:  at a time when the voice couldn't be *transmitted* via wireless, perhaps it could at least be *translated* into a form of electrical or mechanical force.  Gernsback's Dynamophone and Fessenden's heterodyne principle are both directed at the same technical problem.  While one could say that Gernsback's solution achieves results on a metaphorical level, it is clearly the less elegant solution.  Nevertheless, he rides this metaphor out in a 1927 article that cites the Dynamophone as a precursor to radio broadcasting.  Just like the affective voice of a news bulletin or an operatic tenor transmitted over the airwaves in the late 1920s, the 1908 Dynamophone used the power of the human voice to "create effects":
+
+    > While it was at that time but a toy, the apparatus foreshadowed broadcasting, because this was before the days of the wireless telephone, and the human voice actually did create effects at the receiving end.
+
+    @gernsback_radio_1927.
 
 [^coh]:  The coherer is one of the earliest forms of "detector" and the most important component of a wireless set.  The detector is responsible for demodulating radio frequency signals into an audio frequency current, ready to be piped through the listener's headphones.  The idea behind the coherer is that when a radio frequency signal is applied to a glass vial filled with metal powder, the metal filings will "cohere" and an electrical current will pass through the device.  Each telegraphic "dot" or "dash" causes the filings to cohere, after which some form of "decoherer" mechanically taps the vial to loosen them once again.
 
