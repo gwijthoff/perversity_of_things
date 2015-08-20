@@ -24,7 +24,7 @@ Even in comparatively modern times there seems to be little agreement as to what
 
 Even today there exists no classification of the sciences that would be acceptable to all of our great thinkers.
 
-The general public and "the man in the street" possibly come nearer the actual definition of "science" than most of our philosophers.  To the public, the arts, discoveries, inventions---all fall under the term science.  Anything under the sun nowadays becomes a "science"---be it the science of cooking, the science of darning socks, or the science of cleaning streets.
+The general public and "the man in the street" possibly come nearer the actual definition of "science" than most of our philosophers.  To the public, the arts, discoveries, inventions---all fall under the term science.  Anything under the sun nowadays becomes a "science"---be it the science of cooking, the science of darning socks, or the science of cleaning streets.[^utnw]
 
 The myriad of inventions and discoveries all tend to make the world more "scientific" and whether we like it or not, one science or another creeps into every one of our homes.  We are surrounded with science all day long as well as during the night.  Science does this thing for us, and makes us do that.  There is no escaping it and the general public has awakened to the fact but yesterday, that science no longer is the sombre book closed with seven seals.  Quite the contrary, it is the public that popularizes science---not our scientists.  Just at present, for instance, educational scientific films are all the rage and the public clamors for more and heartily applauds them.
 
@@ -41,3 +41,11 @@ But happily, the great public today appreciates the "fantastic dreamer", because
     > Change of name from Electrical Experimenter to Science and Invention better indicates the proper sphere of your journal.  Your field is not unlimited and your journal will be of great value in the advancement of invention and individual applications of science.
     
     @edison_telegram_1920
+    
+[^utnw]:  A "Publisher's Announcement" prepared the *Electrical Experimenter's* roughly 200,000 readers for the change in title and content of the magazine in the previous month's issue:
+
+    > your average experimenter wants more than experiments.  He wants to know the latest word in science, the newest invention, the latest developments in the realm of human endeavor.  He wants to know what the scientists and his fellow workers are doing the world over, and he wants these facts in plain English, adequately illustrated.
+    
+    The new format would address a growing readership with more general interests.
+    
+    > The business man, the manufacturer, the doctor, the professor, the student and countless others found in the ELECTRICAL EXPERIMENTER an intellectual gold mine, second to none.  The ELECTRICAL EXPERIMENTER always has and always will appeal to the thinking class. … We kept all of our old friends and supporters---the ones who buy the ELECTRICAL EXPERIMENTER mostly for the experimental section, and we added besides many thousands of new readers who derived their greatest pleasure from the other "general science" departments.  But we are out for the half million mark, because we know from past experience that the greater the circulation the better we can make the magazine, the more text we can give, the better we can satisfy *all* readers.
