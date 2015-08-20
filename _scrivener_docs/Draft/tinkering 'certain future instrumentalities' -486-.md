@@ -2,7 +2,7 @@
 
 ===================================
 
-[tinkering]
+[Along with regulation/social ideology, can serve as a pivot between wireless activities and SF?]
 
 overarching story
 
@@ -31,6 +31,14 @@ What begins as an objective description of a new wireless component seems to eve
 > Detectors and detector theory did not develop in smooth and rational progression, but in the usual fascinatingly wayward manner associated with most human activities. Only on rare occasions did researchers describe their technology with clarity. Moreover, commercial competition meant that there often was a great deal of secrecy about technical details. @thackeray_when_1983
 
 One wonders then who Gernsback is pitching this device to, and why.  If this is such a valuable advance in radio technology, and if Gernsback was truly the obsessive profit-seeker that SF historians like to claim he is, why would he share blueprints for his design?  Why make this public and allow any experimenter to reproduce the results he's achieved?  Did he already try to pitch this to companies and they turned it down because, obviously, a Radioson detector can't be more powerful than the Audion?  Perhaps it is the best possible version:  that Gernsback was on to something, and he thought the best way for ideas travel is to share them, make them public, allow others to "fork" or "version" his hardware so that the idea grows faster that way.  Was this a possible model of collective tinkering before corporatized R&D and professional engineering?
+
+* * * * * * * * * 
+
+Mineral proficiencies:
+
+(Originally a fn in **A Treatise on Wireless**, link to it for more on what precisely molybdenite is, and how amateurs played with chemicals.)  One has to wonder about the experience not only of communicating in private, perhaps in secret, through code and the intimacy of a headset, but also of the mineral proficiencies, the material awareness these amateurs had of their apparatus.  News from New York may become audible to a rural midwesterner if only he could find some molybdenite, or a supplier willing to ship him the nitric acid needed to try out a new electrolytic detector.  
+
+Images such as these seem especially especially poignant in light of recent calls for a critical awareness of the mining of rare earth minerals used in today's increasingly complex digital devices, and the environmental toll of electronic waste once we inevitably replace these devices for new ones.  Jussi Parikka writes of materiality in terms of a "persistance that lingers across scales from minerals and chemical elements to the lungs and organic tissue."  He continues:  "The device is enabled by dubious labor practices, including child labor in the mines of Congo; the appalling working conditions, which lead to a number of scuicides in the Foxconn factories in China; and the planned obsolescence designed into the product which also contributes to its weight share of electronic waste problems." @parikka_dust_2013  See also Timothy Morton's recent work on what he calls "hyperobjects": things that "do not rot in our lifetimes.  They do not burn without themselves burning (releasing radiation, dioxins, and so on).  The ecological thought must think the future of these objects, these toxic things that appear almost more real than reality itself, like the acidic blood of the Alien in Ridley Scott's film, which burns through metal floors."  @morton_ecological_2012, p. 130.
 
 points
 
@@ -63,3 +71,19 @@ Gernsback oversaw experiments with broadcast media and the effects of various in
 While conducting these groundbreaking experiments, Gernsback kept these developments open to the contributions and participation of his readers.  In one editorial for *Radio News*, ("Television to the Front") Gernsback describes the television as just a simple add-on or expansion kit to a normal domestic radio set.  "I am quite certain that the final television apparatus on your radio set will take up no more room than your present cone speaker."  Regardless of how advanced the devices detailed in the pages of Gernsback's magazines seemed—solar cells, automobile mounted radiotelephones, electric keyboards powered by vacuum tubes—his staff reported on them as if they only required a combination of already existing electrical principles and components.  These new media appear as little more than the sum of individual building blocks that one can pick and choose from out of the pages of the *Electro Importing Catalog*.
 
 Edison on atomic technology:  "You know, Mr. Gernsback, I am an inventor, and as such I do not concern myself overmuch with philosophical research."  What Gernsback does as "philosophy" about future possibilities.
+
+John Taggart from a 1999 book of poems: "Technique is the way art means, and sometimes it thinks back, meaning more than we meant it to mean."
+
+I have seen many different editions of these magazines in various archives, academic and private, and seen many scans available in various places online.  Many of the issues have scribbles in the margins, newspaper articles and other ephemera attached between the pages.  An active readership, working out problems, solving problems, thinking actively. @readers
+
+1916 May -- "Edison Says You are a 'Mucker'!"  15 (anon) -- term of endearment for all scientific experimenters.  "Are you an electrical Experimenter?  Yes?  Well, in that case you are a 'MUCKER'!  A plain, common, ordinary, everyday mucker!!  So says one Thomas Alva Edison, and if the 'Wiz' says so it must be true.  You say you don't like to be called such names?  It's a distinction to be called a mucker.  Edison says he is am mucker himself.  Says all scientific experimenters are muckers.  So there!" @experimentation
+
+* * * Thomas Reed, “The Unterrified Amateur” — on a reader who asks how to build an audion tube, the symbol of corporate produced, untinkerable electronics.  Writes with awe as the boy goes out and learns about glassblowing — he probably never makes it but that’s not the point 
+
+Readers ask “The Oracle,” for instance, if a long and low horizontal aerial would be better than a high vertical one, or how many feet are in a pound of “No. 12 B.&S. triple braided weather proof wire,” and whether or not two lead plates soaked in a solution of sulphuric acid would make a good storage battery.  in the v1n4 190807 issue of ME
+
+Don't even have to use the technologies, if yo ucan't afford them.  Reading a form of experimentation:  1923 Feb -- Letter.  1434.  Stephens, Richard J.  "You can better realize what these magazines mean to me when I say that I seldom, if ever, get a chance to have the material to experiment with, so I must content myself with reading matter, and I do like to read, especially such a wealth of material as is combined in the pages of your three publications."  That the readers can think of themselves as experimenters while reading… "as long as Gernsback addressed his readers in semi-technical terms." (Drown 91)
+
+v12n12 192504: G, “Radio and the Student”  —  “A radio set builder must be a carpenter, an electrican, a metal worker, a tinsmith, and a radio engineer, all rolled into one.” 
+
+v14n10 192702 - G, “Handicraft” — again, using this term “knack.” 

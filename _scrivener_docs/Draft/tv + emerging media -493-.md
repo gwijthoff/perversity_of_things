@@ -6,11 +6,15 @@ Can combine categories of TV and "media" here, because TV never really developed
 
 "the heartbeats of a chicken" can be amplifed to an auditorium…  Use bits on "Radio Steps Out," 192704, which has been removed from the book.
 
+what does it mean to communicate while in motion?  why was this something that people strived for? -- radio kinetics -- that moving humanity will now be connected with stationary humanity (find this quote?)
+
 SF or 90s media theory?
 
 --------------------------------
 
 A number of quotes in the intro. And play a game: science fiction or 90s media theory? Can you tell which is part of which genre?
+
+"We are constantly being speeded up mentally" (Are We Intelligent) by Gernsback reads like a line right out of The Gutenberg Galaxy.  That our sensory environments are too packed, too distracting, and we need a better medium to communicate to the masses through because of this.
 
 ## Media history
 
@@ -33,3 +37,23 @@ definitely use, then delete or rephrase from 193107 Television Technique:
     He saw *Television News* as providing an entry point for this community of amateur television experimenters that had yet to come into being:  "To this purpose I am dedicating this new publication, and the future will demonstrate the correctness of the assumption."
 
     @gernsback_television_1931.
+
+* * * * * * * * 
+
+In a September 1926 article, he makes a striking media historical analogy between the threat of radio broadcasting to phonograph manufacturers, and that of the “eliminator” (a lighter, more portable, and rechargeable source of power developed in the mid-20s) to battery manufacturers. In Gernsbackʼs model of the historical “cycles” that the tech industry goes through, competing methods of delivering media— whether the medium is electricity or audio—do not replace but rather force one another to find their own unique attributes, simply as a matter of survival. In his media historical writings, Gernsback often speaks of the “perfection” of an apparatus, a question of medium specificity he almost always raises through the lens of viable business models. Gernsback, Hugo, “Is Radio at a Standstill?” Radio News vol. 8 no. 3 (September 1926), p. 203.
+
+* * * * * * * * 
+
+“Coming Developments in Radio”
+
+“…in which the Editor points out that there have not been any revolutionary improvements in radio and it is likely there will not be any; wherein it is shown why lectures and talks of more than 15 minutes’ duration are not popular; in which this is analysed; that the reason for it is the static ‘mush’ sound background, making listening difficult; and how it is hoped that in a few years this deficiency will be overcome…”
+
+* * * on media evolution:  “It is this process of slow evolution that we may expect in the future, as well, and the old adage also holds true in radio: “Natura non facit saltum”—which, translated, says that Nature does not make jumps.  In other words, all developments are part of a slow-moving plan of evolution.  Even revolutionary inventions, when they do come along, will be found in the end to be not half as great a departure as they were thought to be at first.” @evolution
+
+Actually tempers boosterish or wide-eyed furor or excitement over new technologies:  when broadcasting first initiated, “It was foretold, on all sides, that every school would have radio outfits installed, by means of which the pupils would be instructed by lectures from a central place, where some men of great eminence would lecture, so that the classes all over the country would get the same information simultaneously.”  @futurism
+
+* * * * * * * * 
+
+From **Edison and Radio**:  Platonic forms:  “The radio industry today is only five years old, and it may safely be predicted that when it becomes as old as the phonograph is today we shall hardly be able to recognize it as the same development.  It is admitted that radio is not yet perfect.  Neither is the phonograph, nor the automobile, or motion pictures, nor electric lights; nor, for that matter, a pair of shoes.”
+
+@moskowitz_explorers_1963, p. 238, quotes a NY Times announcement of a WRNY regular TV broadcast.  The face of a performer sent out after a normal audio radio broadcast.

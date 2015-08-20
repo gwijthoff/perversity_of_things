@@ -51,3 +51,31 @@ Gernsback would later re-enter policy debates and the politics of technology wit
 Imagination as invention -- Senarens "invented" submarines, in "American Jules Verne."
 
 Maybe use footnotes on Technocracy and HG's ambiguous adoption of their ideas in 193107 Wonders of the Machine Age?
+
+see Chapter 4 of "Autonomous Technology" by Langdon Winner; Evernote titled "Langdon Winner on technocracy"
+
+There is of course a direct line to the gadget obsession of today, focusing only on devices and what they can do rather than who designed them and why, who gets to use them and how those uses differ.  But HG was *always* interested in how things worked, and sharing that knowledge with the world.  He believed that understanding technology meant making it from scratch, or at least taking it apart to understand how it worked.  So yes, sometimes socially blind, but his maker's ethos constituted a social imperative in its own right.
+
+* * * * * * * * 
+
+See the "famous Verboten cartoon," said to have played a huge role in defeating the Alexander wireless bill, included in the images folder in Scrivener
+
+more on technocracy…
+
+http://bit.ly/ktKq4e
+
+http://bit.ly/mDV5KB
+
+from intro to Kipling’s “Night Mail”:  “The benign anti-democratic rule of Kipling’s A.B.C. anticipate the direction of H.G. Wells and his followers in the 1930s.  The journal of the H.G. Wells society, Cosmopolis, advanced tha cuase of world unity then merged with The Plan, the journal for the Federation of Progressive Societies and Individuals.  The disparate groups on the left recognised the need to band together to resist the fascist agglomeration, an aggressive praxis that Wells described in a lecture as ‘liberal fascism.’  They stood for a planned economy, the rule of the intellectual, production for use rather than profit and resisistance to the racial myths and discredited eugenics of Hitler.  One clear distinction between liberal fascism and its Nazi enemy was that the airships of the progressive forces remained on the drawing board of the imagination.” (17)
+
+Eric Drown sees HG as a modernist and a progressive:
+
+	“Gernsback melded his own version of middle-class progressivism with a grass-roots liberal republican techno-utopianism he found among the amateur radio operators and home electrical experimenters to whom he sold apparatus, supplies, and a compelling view of the world.  As an immigrant bearing no professional credentials himself, Gernsback could not wear the mantle of progressive reform without making significant alterations in it.  First, while he believed in the usefulness of a formal technical education, he also gave considerable weight to innate talent and hard work.  Successful inventors like Thomas Edison and Lee de Forest were possessed of innate abilities that could not be taught in schools.  In such men talent combined with dedication to produce visionaries far superior to the products of universities, engineering schools, training programs, or correspondence courses.  …  progressive reform sought to integrate Americans with the new realities: corporate capitalism, mass culture, and expert government.  For Gernsback, these new realities were a mixed blessing.  He was an entrepreneur, competing increasingly with corporations, his business was impacted by government regulation, and in danger of being left behind by national broadcasting chains established through co-operation between the Department of Commerce, General Electric, Westinghouse, and AT&T.  As long as he credibly could, he insisted on the autonomy of the entrepreneur.  …  Promoting the notion that social progress would follow on the heels of the technological innovations produced by visionary men of genius, Gernsback’s electric futurism was a variation on progressive thought.  Still, Gernsback was offering technically-minded men an autonomy they would rarely if ever achieve.  He focused them on the glories of the entrepreneurial life even while machines put them out of work and raised the entrance costs to capitalist competition.  Though the future would belong not to the men Gernsback’s magazines tried to produce, but to the organizations that shaped them and American culture to organizational needs, his vision of the amateur inventor compensated readers with a vision of themselves as men capable of shaping their own future.”  (81-2, 84) 
+
+These things Gernsback is reporting on must largely have been a matter of conjecture on little bits of information received and reported on by the newspapers.  Much of the negotiations between the FTC, RCA and AT&T were done behind closed doors.  “And all of this maneuvering that could have so altered American communications and culture transpired behind the scrim of corporate confidentiality, not to be made public until scholarly investigation decades later.”  (Wu 80)
+
+In the confluence of engineering, technics, and the law, HG echoes the concerns of Lawrence Lessig in his argument that technology is replacing law in the digital age, that the newest technology makes the slower moving law obsolete, in 192610 v8n4, "The Broadcasting Situation": 
+
+	“In the meanwhile radio broadcasting has not been ruined.  Far from it.  Radio has always been able to take care of itself, and will continue to do so in the future.  To be sure, we all want a radio law to straighten out some of our present tangles, but in the end radio engineering will make the best law obsolete.”
+
+	again, in 192701 v8n7, "Radio Progresses," the argument that llaw moves slower than technology.  on telephone chaos in the early days, hearing many voices on the same call:  “However, it required no law to rectify this situation, and in a few years the telephone engineers had solved the problem satisfactorily.”
