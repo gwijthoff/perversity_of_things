@@ -26,7 +26,7 @@ We also made a reprint of Victor MacClure's famous science fiction story, "The A
 
 Little wonder, therefore, that modern science fiction got an excellent start, and the avidity with which the readers of the time absorbed science fiction was remarkable, as testified by the thousands of letters which poured into our publication offices month after month.  Thie birth of the first science fiction magazine, *Amazing Stories,* published by the writer in 1926, therefore was an orderly evolutionary process of modern science fiction.
 
-As newer science fiction readers cannot very well be acquainted with the facts cited above, it was thought apropos to compile a complete list of early science fiction stories as they appeared in the Gernsback magazines.  The list which follows was compiled by Mr. Theodore Engel, of New York.  It took him several months to go through all the old bound volumes in order to complete his work, and our grateful thanks are due to him for his labors.
+As newer science fiction readers cannot very well be acquainted with the facts cited above, it was thought apropos to compile a complete list of early science fiction stories as they appeared in the Gernsback magazines.  The list which follows was compiled by Mr. Theodore Engel, of New York.  It took him several months to go through all the old bound volumes in order to complete his work, and our grateful thanks are due to him for his labors.^[An earlier version of this bibliography, compiled in a July 1944 typescript by Bill Evans titled "The Gernsback Forerunners," includes the following editorial note: "A number of the early stories would not be classed today as science fiction, but in including them I tried to judge by the time they appeared. … The inclusion of stories has been done according to very liberal standards, especially with *Radio News.*  Hence, one of the stories may have only a faint bit of stf in them, judged by our present standards, but if they are considered in the light of the time they appeared, many of them qualify.  In any case of doubt, I included the story."  Evans's broader definition of what constitutes science fiction led him to list several stories that Engel did not.  I have included them here.]
 
 The writer sincerely trusts that this compilation of early modern science fiction stories will be useful to serious researchers in the future.  Photostats of the stories may be secured by researchers any time by contacting the writer or his office.
 
@@ -382,11 +382,16 @@ Science Fiction in *Radio News*
 - Joseph D. Mountain & C. Sterling Gleason \| The Voice of the People \| Radio News \| 9 \| 5 \| Nov-1927
 - Robert Francis Smith \| Till the Clouds Roll Dry \| Radio News \| 9 \| 6 \| Dec-1927
 - A.M. Jones \| Love in the Air \| Radio News \| 9 \| 7 \| Jan-1928
-- Joseph D. Mountain & C. Sterling Gleason \| The Switch Engine \| Radio News \| 9 \| 8 \| Feb-1928
+- Joseph D. Mountain & C. Sterling Gleason \| The Switch Engine of the Air \| Radio News \| 9 \| 8 \| Feb-1928
 - C. Sterling Gleason \| Roasted by Radio \| Radio News \| 9 \| 9 \| Mar-1928
 - Robert Francis Smith \| The Old Dray Mare \| Radio News \| 9 \| 10 \| Apr-1928
 - C. Sterling Gleason \| In the Bright Darkness \| Radio News \| 9 \| 11 \| May-1928
 - C. Sterling Gleason \| The Port of Missing Airplanes \| Radio News \| 9 \| 12 \| Jun-1928
+- R. F. Smith \| The Passing of the Third-Floor Quack \| Radio News \| 10 \| 1 \| Jul-1928
+- C. Sterling Gleason \| Rain, Rags, and Radio \| Radio News \| 10 \| 2 \| Aug-1928
+- C. Sterling Gleason \| Rays of Justice \| Radio News \| 10 \| 5 \| Nov-1928
+- Dorothy Gernsback \| The Dark Side of Radio \| Radio News \| 10 \| 7 \| Jan-1929
+- C. Sterling Gleason \| The Wings of Death \| Radio News \| 10 \| 8 \| Feb-1929
 
 Science Fiction in *Practical Electrics*
 =========================================
