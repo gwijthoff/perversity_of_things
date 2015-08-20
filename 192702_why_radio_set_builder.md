@@ -60,7 +60,9 @@ Set building is continuing to increase rapidly, as it has done for five years, i
     
     @gernsback_handicraft_1927
 
-[^tvx]: This was a recurring argument in Gernsback's editorials throughout the 1920s:  that that the next great innovations, like television, would come not from corporate R&D labs, but from the avant garde of enterprising amateurs who could afford to take risks and try out wacky ideas.  But the unfounded optimism of the idea that independent amateurs were the engine of emerging media became clear by the end of the decade.  *Radio News* announced in January 1929 that it would end its monthly "constructional prize contest" due to a lack of quality submissions:
+[^tvx]: This was a recurring argument in Gernsback's editorials throughout the 1920s:  that that the next great innovations, like television, would come not from corporate R&D labs, but from the avant garde of enterprising amateurs who could afford to take risks and try out wacky ideas.  But the unfounded optimism of the idea that independent amateurs were the engine of emerging media became clear by the end of the decade.  *Radio News* announced in January 1929 that it would end its monthly "constructional prize contest" due to a lack of quality submissions.  In the initial announcement to the contest, Gernsback reminded readers that their ideas must be experimentally demonstrated. "It is not the idea, *but the putting of it into execution,* that makes a man an inventor.  In addition to this, most purely theoretical ideas are impracticable." @_radio_1928.
+
+    But it seems that with the complexities of radio by 1929, too few independent amateurs were capable of realizing their ideas in any material way:
 
     > The rules of the contest stated very plainly that no one would be eligible for a prize unless some experimental work had been done and the practicability of the device had been demonstrated by the builder.  Most of the entries consisted merely of ideas or suggestions, accompanied by the request that RADIO NEWS do the experimental work necessary for their full development.
     
