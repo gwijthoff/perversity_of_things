@@ -74,7 +74,7 @@ Edison on atomic technology:  "You know, Mr. Gernsback, I am an inventor, and as
 
 John Taggart from a 1999 book of poems: "Technique is the way art means, and sometimes it thinks back, meaning more than we meant it to mean."
 
-I have seen many different editions of these magazines in various archives, academic and private, and seen many scans available in various places online.  Many of the issues have scribbles in the margins, newspaper articles and other ephemera attached between the pages.  An active readership, working out problems, solving problems, thinking actively. @readers
+I have seen many different editions of these magazines in various archives, academic and private, and seen many scans available in various places online.  Many of the issues have scribbles in the margins, newspaper articles and other ephemera attached between the pages.  An active readership, working out problems, solving problems, thinking actively.
 
 1916 May -- "Edison Says You are a 'Mucker'!"  15 (anon) -- term of endearment for all scientific experimenters.  "Are you an electrical Experimenter?  Yes?  Well, in that case you are a 'MUCKER'!  A plain, common, ordinary, everyday mucker!!  So says one Thomas Alva Edison, and if the 'Wiz' says so it must be true.  You say you don't like to be called such names?  It's a distinction to be called a mucker.  Edison says he is am mucker himself.  Says all scientific experimenters are muckers.  So there!" @experimentation
 
@@ -82,7 +82,7 @@ I have seen many different editions of these magazines in various archives, acad
 
 Readers ask “The Oracle,” for instance, if a long and low horizontal aerial would be better than a high vertical one, or how many feet are in a pound of “No. 12 B.&S. triple braided weather proof wire,” and whether or not two lead plates soaked in a solution of sulphuric acid would make a good storage battery.  in the v1n4 190807 issue of ME
 
-Don't even have to use the technologies, if yo ucan't afford them.  Reading a form of experimentation:  1923 Feb -- Letter.  1434.  Stephens, Richard J.  "You can better realize what these magazines mean to me when I say that I seldom, if ever, get a chance to have the material to experiment with, so I must content myself with reading matter, and I do like to read, especially such a wealth of material as is combined in the pages of your three publications."  That the readers can think of themselves as experimenters while reading… "as long as Gernsback addressed his readers in semi-technical terms." (Drown 91)
+Don't even have to use the technologies, if you can't afford them.  Reading a form of experimentation:  1923 Feb -- Letter.  1434.  Stephens, Richard J.  "You can better realize what these magazines mean to me when I say that I seldom, if ever, get a chance to have the material to experiment with, so I must content myself with reading matter, and I do like to read, especially such a wealth of material as is combined in the pages of your three publications."  That the readers can think of themselves as experimenters while reading… "as long as Gernsback addressed his readers in semi-technical terms." (Drown 91)
 
 v12n12 192504: G, “Radio and the Student”  —  “A radio set builder must be a carpenter, an electrican, a metal worker, a tinsmith, and a radio engineer, all rolled into one.” 
 
