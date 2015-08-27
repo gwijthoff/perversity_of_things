@@ -1,4 +1,4 @@
-"speech and other articulate sounds" ^[191100_wireless_telephone]
+"speech and other articulate sounds"
 
 ====================================
 

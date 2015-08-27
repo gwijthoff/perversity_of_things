@@ -1,4 +1,4 @@
-"certain future instrumentalities" ^[193212_reasonableness_in_sf]
+"certain future instrumentalities"
 
 ===================================
 
@@ -39,6 +39,8 @@ Mineral proficiencies:
 (Originally a fn in **A Treatise on Wireless**, link to it for more on what precisely molybdenite is, and how amateurs played with chemicals.)  One has to wonder about the experience not only of communicating in private, perhaps in secret, through code and the intimacy of a headset, but also of the mineral proficiencies, the material awareness these amateurs had of their apparatus.  News from New York may become audible to a rural midwesterner if only he could find some molybdenite, or a supplier willing to ship him the nitric acid needed to try out a new electrolytic detector.  
 
 Images such as these seem especially especially poignant in light of recent calls for a critical awareness of the mining of rare earth minerals used in today's increasingly complex digital devices, and the environmental toll of electronic waste once we inevitably replace these devices for new ones.  Jussi Parikka writes of materiality in terms of a "persistance that lingers across scales from minerals and chemical elements to the lungs and organic tissue."  He continues:  "The device is enabled by dubious labor practices, including child labor in the mines of Congo; the appalling working conditions, which lead to a number of scuicides in the Foxconn factories in China; and the planned obsolescence designed into the product which also contributes to its weight share of electronic waste problems." @parikka_dust_2013  See also Timothy Morton's recent work on what he calls "hyperobjects": things that "do not rot in our lifetimes.  They do not burn without themselves burning (releasing radiation, dioxins, and so on).  The ecological thought must think the future of these objects, these toxic things that appear almost more real than reality itself, like the acidic blood of the Alien in Ridley Scott's film, which burns through metal floors."  @morton_ecological_2012, p. 130.
+
+<!-- Glass light bulbs filled with argon gas in order to detect telegraph messages flowing through the air. The sheer alchemy of these apparatuses by the modern eye... -->Thackeray 1983
 
 points
 

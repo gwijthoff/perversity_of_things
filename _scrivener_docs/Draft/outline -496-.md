@@ -36,16 +36,42 @@
 
 	⁃	But the need for this volume is now becoming apparent as we experience technological revolutions in the fabric of the everyday similar to those that brought readers to the Gernsback publications a century ago.  The ability of Gernsback's ideas to speak to us today can be seen in the ways that images from his magazines circulate online through a wide variety of social image sharing sites and blogs, like Reddit, Tumblr, and the Scientific American blog *Paleofuture*. 
 
-	•	[bio and magazine context]
+	•	"Up-to-date technic" [bio and magazine context]
+
+	⁃	personal background
+
+	⁃	beginnings of Modern Electrics, its authors
+
+	⁃	defining "science" through the public. also, on "technology"
+
+	⁃	not too much on science in the everyday, as this will go into the SF section
+
+	⁃	beginning of Electrical Experimenter. Paul's illustrations and their international spread
 
 	•	“Certain future instrumentalities” [tinkering]
 
 	•	“Speech and other articulate sounds” [wireless]
 
-	•	[regulation and social ideology]
+	•	"A perfect Babel of voices" [regulation and social ideology]
 
 	•	"'Phone and code" [tv + emerging media]
 
 	•	"We exploit the future" [SF]
 
 	•	How to Read This Book
+
+[open]
+
+"Up-to-date technic" [bio and magazine context]
+
+“Certain future instrumentalities” [tinkering]
+
+“Speech and other articulate sounds” [wireless]
+
+"A perfect Babel of voices" [regulation and social ideology]
+
+"'Phone and code" [tv + emerging media]
+
+"We exploit the future" [SF]
+
+How to Read This Book
