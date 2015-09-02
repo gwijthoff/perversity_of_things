@@ -45,7 +45,7 @@ However, young America, up to the occasion, is wide awake as usual.
 
 Foreign wireless experts, invariable exclaim in wonder when viewing the photographs appearing each month in the "Wireless Contest" of this magazine.  They cannot grasp the idea that boys 14 years old actually operate wireless stations successfully every day in the year under all conditions, but they are all of the undivided opinion that Young America leads the rest of the world wirelessly.
 
-Even Dr. Lee de Forest, America's foremost wireless authority, confessed himself surprised that so many young men in this country should be in the possession of such well constructed and well managed wireless stations, which is only another proof that the clear headed young men of this country are unusually advanced in the youngest branch of electrical science.
+Even Dr. Lee de Forest, America's foremost wireless authority, confessed himself surprised that so many young men in this country should be in the possession of such well constructed and well managed wireless stations, which is only another proof that the clear headed young men of this country are unusually advanced in the youngest branch of electrical science.[^dfst]
 
 So far America has lead [sic] in the race.  The next thing is to stay in the front, and let the others follow.  In fact he would be a bold prophet who would dare hint at the wonders to come during the next decade.
 
@@ -110,3 +110,9 @@ In order to facilitate quick classification, please be brief and keep applicatio
 [^pin]: By 1912, the Wireless Association of America boasted 22,300 members.
 
     ![Wireless Association of America member pin, courtesy: Collection of Jim and Felicia Kreuzer, Grand Island, NY](images/waoa_pin_jim.png) <!-- no figure -->
+    
+[^dfst]: Lee de Forest, an inventor of the vacuum tube (which he called the Audion), had a troubled relationship with Gernsback.  They began as close associates, with De Forest contributing to some of the earliest issues of *Modern Electrics,* serving as President of the Wireless Association of America's Board of Directors, and presenting alongside Gernsback at industry banquets.  See @_wireless_1909.
+
+    But De Forest later sued Gernsback for patent infringement, claiming that the Electro Importing Company was selling devices that used his Audion technology without paying royalties.  The $4.00 Electro Audion, sold from 1911-1913 in the *Catalog,* is most likely one of the products he had in mind.  Though the court sided with Electro Importing, arguing that the devices they manufactured contained significant enough improvements on the original Audion design, De Forest continued to contribute to the Gernsback magazines for years to come. 
+    
+    @gernsback_forest_1917.

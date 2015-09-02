@@ -14,7 +14,7 @@ csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 
 > *. . . in which the Editor takes issue with Mr. Edison's claim that radio is a failure; yet it is pointed out that the Radio Industry owes Edison a great debt; wherein facts and figures are given to show that Radio is on a steady increase; granting that neither Radio nor the phonograph is yet perfect; how the interest in Radio is steadily increasing, and radio dealers are now making good money.*
 
-**T**HOMAS A. EDISON has recently been quoted in the press as saying that Radio is a dismal failure. The following remarks on the subject are attributed to Mr. Edison: "The radio is a commercial failure, and its popularity with the public is waning. Radio is impractical commercially and esthetically distorted, and is losing its grip rapidly in the market and in the home. There is not ten per cent. of the interest in radio that there was last year. Radio is a highly complicated machine in the hands of people who know nothing about it. No dealers have made any money out of it. It is not a commercial machine because it is too complicated. Reports from 4,000 Edison dealers who have handled radio sets show that they are rapidly abandoning it, and as for its music---it is awful," comments the wizard of Menlo Park. "I don't see how they can listen to it.
+**T**HOMAS A. EDISON has recently been quoted in the press as saying that Radio is a dismal failure.[^esrc] The following remarks on the subject are attributed to Mr. Edison: "The radio is a commercial failure, and its popularity with the public is waning. Radio is impractical commercially and esthetically distorted, and is losing its grip rapidly in the market and in the home. There is not ten per cent. of the interest in radio that there was last year. Radio is a highly complicated machine in the hands of people who know nothing about it. No dealers have made any money out of it. It is not a commercial machine because it is too complicated. Reports from 4,000 Edison dealers who have handled radio sets show that they are rapidly abandoning it, and as for its music---it is awful," comments the wizard of Menlo Park. "I don't see how they can listen to it.
 
 "Thousands of people have signed a petition asking that sopranos be kept off the air. Of course most of them don't know that the soprano voice distorts the radio. The phonograph is coming into its own because the people want good music. The fact is that radio has never had a high peak of popularity. In towns where 25 or 30 dealers were handling radio sets, only one or two are now handling them. A farmer five miles from town buys a radio, perhaps on the installment plan. A wire becomes loose. The dealer has to arrange to fix it. This happens time and time again. The business becomes unprofitable for the dealer to engage in. He does not make any money out of it. None of them has. They are giving it up as fast as they can. It is not a commercially successful machine, because it is too complicated."
 
@@ -49,6 +49,8 @@ The radio industry today is only five years old, and it may safely be predicted 
 * * * * * * * * * * * 
 
 **Mr. Hugo Gernsback speaks every Monday night at 9 P. M. from Station WRNY on various radio and scientific subjects.**
+
+[^esrc]: @_edison_1926.
 
 [^espk]:  See **Thomas A. Edison Speaks to You** on the Edison effect.
 
