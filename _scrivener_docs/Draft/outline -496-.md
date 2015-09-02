@@ -50,6 +50,20 @@
 
 	•	“Certain future instrumentalities” [tinkering]
 
+	⁃	Amateur inventor amid corporate r&d
+
+	⁃	HG's inventions in magazine pages: advertisement? brag?
+
+	⁃	WRNY
+
+	⁃	Makers, mineral proficiencies, rolling sets of expertise
+
+	⁃	intuition / knack / know-how
+
+	⁃	invention vs. "philosophical research" about the future, according to Edison
+
+	⁃	material possibility of an invention before it exists
+
 	•	“Speech and other articulate sounds” [wireless]
 
 	•	"A perfect Babel of voices" [regulation and social ideology]
