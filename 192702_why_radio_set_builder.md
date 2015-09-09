@@ -38,7 +38,7 @@ For instance, I myself have two factory-made sets in my home, whereas the set wh
 
 This condition is found all over the country, for it is duplicated in the home of practically every set constructor.
 
-Radio set building may be said to be one of the greatest hobbies that ever came into existence. Unlike most other hobbies, it actually serves to advance a new art, and paves the way for better and bigger things.[^fns]
+Radio set building may be said to be one of the greatest hobbies that ever came into existence. Unlike most other hobbies, it actually serves to advance a new art, and paves the way for better and bigger things.
 
 To be up to date, under conditions that change as quickly as do those in radio broadcasting, radio receivers must forever be kept up to the minute. Though the changes are gradual, they are constantly taking place, and their effect is cumulative. You would not think of using, in the midst of the heavy traffic on Fifth Avenue or State Street, a 1914-model car that had to be cranked by hand. No more can you expect the set of 1922, built when there were but a few broadcast stations, to give satisfaction, particularly in our congested centers. It is a well-known fact that every time a station changes its transmitter, or increases its power, thousands of nearby sets are immediately found to be inadequate, because they cannot tune sharply enough to cut out the nearby station and get others at will.
 
@@ -53,12 +53,6 @@ Set building is continuing to increase rapidly, as it has done for five years, i
 [^shd]: Gernsback discusses shielding in **"Is Radio at a Standstill?"**
 
 [^dnp]: For an explanation of straight-line frequency condensers and vernier dials, see **"Is Radio at a Standstill?"**
-
-[^fns]: In an editorial for *Science and Invention* titled "Handicraft" and published in the same month as this piece, Gernsback advocates for the importance of making things as a hobby for the white collar worker.  Tinkering isn't just a means of diversion or release after the working day is over, it serves as an education in tools, materials, and techniques.  For Gernsback, the know-how that emerges from the experience of making things is cascading: hands gradually feeling their way along an interlocking series of dependent skills and material properties.
-
-    > If, for instance, you are making an elaborate radio console for your living room, you will get more information on the subject than you could possibly get from the best text-books.  You will, first of all, become familiar with the various tools necessary to fashion the wood, and if you own a woodworking lathe you will learn quite a good deal about the operation of wood-turning and the tools to be used for this particular purpose.  You will learn what it means to sandpaper, you will learn to recognize the different kinds of wood, and you will know the difference between green and kiln-dried variety of woods.  You will soon know how to use glue, and what kind.  You will study the various fillers, and, last but not least, you will get a thorough education in varnishes and paints, and the use of all of these.
-    
-    @gernsback_handicraft_1927
 
 [^tvx]: This was a recurring argument in Gernsback's editorials throughout the 1920s:  that that the next great innovations, like television, would come not from corporate R&D labs, but from the avant garde of enterprising amateurs who could afford to take risks and try out wacky ideas.  But the unfounded optimism of the idea that independent amateurs were the engine of emerging media became clear by the end of the decade.  *Radio News* announced in January 1929 that it would end its monthly "constructional prize contest" due to a lack of quality submissions.  In the initial announcement to the contest, Gernsback reminded readers that their ideas must be experimentally demonstrated. "It is not the idea, *but the putting of it into execution,* that makes a man an inventor.  In addition to this, most purely theoretical ideas are impracticable." @_radio_1928.
 

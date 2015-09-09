@@ -1,10 +1,8 @@
-[television and other emerging media]
+"'phone and code"
 
 =================================
 
-Can combine categories of TV and "media" here, because TV never really developed as a community for Gernsback.  He started *Television News* as a wager to the argument that communities of amateurs can advance a "new art" faster than any closed off, patent-hoarding corporation.  That may be true, but the corporations dictated the terms of that development.  So, this section can be more broadly about Gernsback's understanding of media history, and how new media develop within communities.
-
-"the heartbeats of a chicken" can be amplifed to an auditorium…  Use bits on "Radio Steps Out," 192704, which has been removed from the book.
+Can combine categories of TV, wireless, and "media" here, because TV never really developed as a community for Gernsback.  He started *Television News* as a wager to the argument that communities of amateurs can advance a "new art" faster than any closed off, patent-hoarding corporation.  That may be true, but the corporations dictated the terms of that development.  So, this section can be more broadly about Gernsback's understanding of media history, and how new media develop within communities.
 
 what does it mean to communicate while in motion?  why was this something that people strived for? -- radio kinetics -- that moving humanity will now be connected with stationary humanity (find this quote?)
 
@@ -12,11 +10,13 @@ SF or 90s media theory?
 
 --------------------------------
 
-A number of quotes in the intro. And play a game: science fiction or 90s media theory? Can you tell which is part of which genre?
+A number of quotes in the intro. And play a game: science fiction or 90s media theory?  Some of the following quotes are taken from works of science fiction, and others from works of 1990s media theory.  Can you tell which is part of which genre?  Goes to show the common threads of both SF and media theory, the way works in both genres from the 90s seem so similar.
 
 "We are constantly being speeded up mentally" (Are We Intelligent) by Gernsback reads like a line right out of The Gutenberg Galaxy.  That our sensory environments are too packed, too distracting, and we need a better medium to communicate to the masses through because of this.
 
-## Media history
+radio history / media archaeology
+
+-------------------------------------------
 
 > *Later works that read current inventions in light of their not so distant precursors, profiling forgotten (and often quirky) paths not taken in the development of radio and television.*
 
@@ -24,7 +24,9 @@ In Gernsback's editorials, media history is evoked not merely as a nostalgic tri
 
 His examples range from a force-field like burglar alarm, to automating the recording of lightning strikes, from measuring the minute weight and touch of a fly to scanning factory workers for stolen metals. And, in a forgotten example of Gernsback's own from the 1900s (which he christened the "Dynamophone") electric motors can be started remotely by the human voice, proving that "the apparatus foreshadowed broadcasting: the human voice actually did create effects at the receiving end," both for machines and humans.  Gernsback consistently reminds us that the inherent abilities of wireless, i.e. of information transmitted through the air, has now itself been scattered by the winds of technological evolution and inflects our understanding of and interaction with a fantastic number of techniques, technologies, and media.
 
-* * * * 
+television and community experimentation
+
+-------------------------------------------------------
 
 definitely use, then delete or rephrase from 193107 Television Technique:
 
@@ -38,7 +40,9 @@ definitely use, then delete or rephrase from 193107 Television Technique:
 
     @gernsback_television_1931.
 
-* * * * * * * * 
+media evolution
+
+-------------------------
 
 In a September 1926 article, he makes a striking media historical analogy between the threat of radio broadcasting to phonograph manufacturers, and that of the “eliminator” (a lighter, more portable, and rechargeable source of power developed in the mid-20s) to battery manufacturers. In Gernsbackʼs model of the historical “cycles” that the tech industry goes through, competing methods of delivering media— whether the medium is electricity or audio—do not replace but rather force one another to find their own unique attributes, simply as a matter of survival. In his media historical writings, Gernsback often speaks of the “perfection” of an apparatus, a question of medium specificity he almost always raises through the lens of viable business models. Gernsback, Hugo, “Is Radio at a Standstill?” Radio News vol. 8 no. 3 (September 1926), p. 203.
 
@@ -55,5 +59,3 @@ Actually tempers boosterish or wide-eyed furor or excitement over new technologi
 * * * * * * * * 
 
 From **Edison and Radio**:  Platonic forms:  “The radio industry today is only five years old, and it may safely be predicted that when it becomes as old as the phonograph is today we shall hardly be able to recognize it as the same development.  It is admitted that radio is not yet perfect.  Neither is the phonograph, nor the automobile, or motion pictures, nor electric lights; nor, for that matter, a pair of shoes.”
-
-@moskowitz_explorers_1963, p. 238, quotes a NY Times announcement of a WRNY regular TV broadcast.  The face of a performer sent out after a normal audio radio broadcast.

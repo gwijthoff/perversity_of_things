@@ -18,7 +18,7 @@ Generally speaking, there are two kinds of inventing.  One is achieved by the ma
 
 The born inventor differs from the mechanical one in that to him ideas come suddenly, without the slightest suggestion.  The writer, for instance, who has invented a number of devices will suddenly have a certain idea, of which he perhaps never thought before.  Within less than ten seconds after the first impression of the idea, he will see the entire device, down to the smallest detail clearly before his mental eye and from that mental picture a complicated sketch of the device can be drawn immediately without reflection or real thinking; just like copying an existing drawing.[^soc]
 
-Considered all in all, the two kinds of inventors, as far as their inventions go are nearly equally matched.  The born inventor will usually invent a great many things, three fourths of which are useless: he becomes guilty of over-production.  The mechanical inventor invents very few things as a rule and most of them are usually useful.  Thus nature tries to maintain the universal equilibrium.[^tin]
+Considered all in all, the two kinds of inventors, as far as their inventions go are nearly equally matched.  The born inventor will usually invent a great many things, three fourths of which are useless: he becomes guilty of over-production.  The mechanical inventor invents very few things as a rule and most of them are usually useful.  Thus nature tries to maintain the universal equilibrium.
 
 A few words of advice to the two kinds of inventors does not seem out of place.
 
@@ -37,12 +37,6 @@ Never market an invention before it is completely worked out and "fool-proof."  
     @bijker_social_2012 \[1987\].
     
     Despite this, Gernsback's stated emphasis on "cultivating inventions" is very much in line with a renewed interest in creativity as an academic discipline or even a measurable learning outcome.  Take for example the College of Creative Studies at the University of California, Santa Barbara, or the International Center for Studies in Creativity at Buffalo State College.  The tension between the exceptionality of the individual inventor struck by divine inspiration and the step-by-step cultivation of that mindset in Gernsback's publications is still with us in books like @johnson_where_2010 and @lehrer_imagine:_2012.  For a stinging critique of creativity experts, see @frank_ted_2013.
-    
-[^tin]:  This division between "born" and "mechanical" styles of invention---the whole cloth innovation of shiny new tools versus incremental acts of modification and repair---may today be seen to reflect a hemispheric divide.  Steven J. Jackson argues that "a Western and productivist imagination" in studies of media and technology obscures the vast majority of technological practices around the world:
-    
-    > breakdown, maintenance, and repair constitute crucial but vastly understudied sites or moments within the worlds of new media and technology today.
-    
-    For more on "the distinctive repair ecologies of the develping world," see @jackson_rethinking_2014.
 
 [^wir]:  Susan J. Douglas suggests that many companies were perceived to have failed in their pursuit of wireless telephone systems---a pre-broadcast radio, point-to-point model of wireless voice communication---despite their many technical achievements, partially because "public expectations as shaped by the press had outdistanced actual achievement" (145).  In addition, several wireless companies were indicted for stock promotion and manipulation schemes.  Douglas quotes a December 1907 *World's Work* article:
 

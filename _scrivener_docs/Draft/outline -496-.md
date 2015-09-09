@@ -1,3 +1,13 @@
+Get quotes:
+
+	✓	Mauss (open)
+
+	✓	Israel (tinkering)
+
+	✓	Aitken, Syntony (tinkering)
+
+BIG POINTS
+
 	•	SF comes from hands-on tinkering
 
 	⁃	knowledge thru the hands
@@ -12,7 +22,7 @@
 
 	•	[open]
 
-	⁃	Coggeshall's handicraft and Gernsback's storytelling
+x	⁃	Coggeshall's handicraft and Gernsback's storytelling
 
 	⁃	HG as founder of SF, and yes, this scene reads as a form of SF, telling stories about a technology.  The Telimco was finicky, barely worked.
 
@@ -26,53 +36,93 @@
 
 	⁃	
 
-	⁃	The gap between technical realities and narrative exposition, storyboarding, storytelling
+	⁃	***somewhere mention Sexology and the presence of occluded groups ("as we will see")
 
-	⁃	knowledge through one’s hands, through the nerves.  and not just knowledge, but understanding the future
+	•	"Up-to-date technic": [bio and magazine context]
 
-	⁃	MAKE SURE that it's clear this is an argument not just about the emergence of SF, but an early media theory.  A discourse on media as it played out in everyday life that drew on applied forms of speculative science.
+x	⁃	personal background
 
-	⁃	The opening should be a condensation of the introduction, hitting all of the main points: SF as making, early media theory, speculative science
+x	⁃	beginnings of Modern Electrics, its authors
 
-	⁃	But the need for this volume is now becoming apparent as we experience technological revolutions in the fabric of the everyday similar to those that brought readers to the Gernsback publications a century ago.  The ability of Gernsback's ideas to speak to us today can be seen in the ways that images from his magazines circulate online through a wide variety of social image sharing sites and blogs, like Reddit, Tumblr, and the Scientific American blog *Paleofuture*. 
-
-	•	"Up-to-date technic" [bio and magazine context]
-
-	⁃	personal background
-
-	⁃	beginnings of Modern Electrics, its authors
-
-	⁃	defining "science" through the public. also, on "technology"
+x	⁃	defining "science" through the public. also, on "technology"
 
 	⁃	not too much on science in the everyday, as this will go into the SF section
 
-	⁃	beginning of Electrical Experimenter. Paul's illustrations and their international spread
+x	⁃	beginning of Electrical Experimenter. Paul's illustrations and their international spread
 
-	•	“Certain future instrumentalities” [tinkering]
+	•	“certain future instrumentalities”: Tinkering, Making, and Mineral Proficiencies [tinkering]
 
-	⁃	Amateur inventor amid corporate r&d
+	⁃	what is tinkering/inventing/mucking around 1910?
 
-	⁃	HG's inventions in magazine pages: advertisement? brag?
+	⁃	Context: amateur inventor amid corporate r&d
+
+	⁃	knack, rolling sets of expertise / mineral proficiencies
+
+	⁃	HG's inventions in magazine pages: advertisement? brag? community?
 
 	⁃	WRNY
-
-	⁃	Makers, mineral proficiencies, rolling sets of expertise
-
-	⁃	intuition / knack / know-how
 
 	⁃	invention vs. "philosophical research" about the future, according to Edison
 
 	⁃	material possibility of an invention before it exists
 
-	•	“Speech and other articulate sounds” [wireless]
+	•	"'phone and code": Wireless, Television, and Other Emerging Media
+
+	⁃	wireless
+
+	⁃	tech optimism after WWI and Span Civil War
+
+	⁃	initially, the amateur avant garde in development of radio
+
+	⁃	response after being left out of the broadcast boom
+
+	⁃	television
+
+	⁃	corporations hoarding patents, when a community of amateurs would help the art progress faster
+
+	⁃	media
+
+	⁃	a medium's platonic form
+
+	⁃	SF or 90s media theory game
 
 	•	"A perfect Babel of voices" [regulation and social ideology]
 
-	•	"'Phone and code" [tv + emerging media]
+	⁃	what rules govern citizens of the ether?
+
+	⁃	history of broadcast regulation
+
+	⁃	rapidly changing technology makes law obsolete
+
+	⁃	technological utopianism / positivism
+
+	⁃	fantasies of physical mastery, science = manhood
+
+	⁃	imperialism and racial supremacy
+
+	⁃	technocracy: managing capitalism's excesses
 
 	•	"We exploit the future" [SF]
 
 	•	How to Read This Book
+
+[Open]
+
+up-to-date technic [bio]
+
+certain future instrumentalities [tinkering]
+
+'phone and code [emerging media]
+
+a perfect Babel of voices [social ideology]
+
+we exploit the future [sf]
+
+How to Read
+
+former
+
+--------------
 
 [open]
 

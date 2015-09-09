@@ -1,3 +1,7 @@
+Delany mentioned in a conversation that pulp editors were often Jewish, hardback, "literary" publishers Protestant.  A big part of HG's identity here, and a meaningful silence on his identity.
+
+* * * * * * * * * * * 
+
 Lead in with list of authors from the nineteenth century that Gernsback championed, yet who were largely unknown.  What it means to hide identity…
 
 (**An American Jules Verne**)
