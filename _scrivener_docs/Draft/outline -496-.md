@@ -4,7 +4,9 @@ Get quotes:
 
 	✓	Israel (tinkering)
 
-	✓	Aitken, Syntony (tinkering)
+	✓	on sci vs tech: Edwin Layton, "Mirror-Image Twins: The Communities of Science and Technology in 19th Century America," 1971
+
+	✓	Layton, "Technology as Knowledge," T&C 1974
 
 BIG POINTS
 
@@ -20,7 +22,7 @@ BIG POINTS
 
 	•	occluded and contested identities for women and minorities in these communities
 
-	•	[open]
+	•	[opening]
 
 x	⁃	Coggeshall's handicraft and Gernsback's storytelling
 
@@ -56,7 +58,7 @@ x	⁃	beginning of Electrical Experimenter. Paul's illustrations and their inter
 
 	⁃	Context: amateur inventor amid corporate r&d
 
-	⁃	knack, rolling sets of expertise / mineral proficiencies
+x	⁃	knack, rolling sets of expertise / mineral proficiencies
 
 	⁃	HG's inventions in magazine pages: advertisement? brag? community?
 
@@ -106,15 +108,19 @@ x	⁃	beginning of Electrical Experimenter. Paul's illustrations and their inter
 
 	•	How to Read This Book
 
+shuffling sections
+
+--------------------------
+
 [Open]
 
 up-to-date technic [bio]
 
-certain future instrumentalities [tinkering]
-
 'phone and code [emerging media]
 
 a perfect Babel of voices [social ideology]
+
+certain future instrumentalities [tinkering]
 
 we exploit the future [sf]
 
@@ -122,7 +128,7 @@ How to Read
 
 former
 
---------------
+----------------------------
 
 [open]
 
@@ -139,3 +145,9 @@ former
 "We exploit the future" [SF]
 
 How to Read This Book
+
+* * * * * * * * * * * 
+
+Israel, discussing Layton's "Mirror-Image Twin" article on the development of engineering science in the 19th century:  "Rather than creating fundamental knowledge of the natural world, engineering theories were intended to describe the behavior of particular technologies in order to aid design practice."  Distinctions between knowledge, theory, and design that obviously become blurred.  @israel_machine_1992, 187
+
+How does the above quote describe a form of science fiction, or the genre in its nascent form?
