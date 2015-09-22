@@ -8,6 +8,10 @@
 
 Wireless as an inherently elevated, intellectual phenomenon.  Ethereal, both in how raw minerals like zinc and copper can be used to communicate through the air for miles and miles, but the fact that voices now exist on the air, that we can commune in that way:  "the most inspiring example of the triumph of mind over matter," from "A Treatise."  Later in an article on regulation, says, "We are now on the threshold of the wireless era, and just beginning to rub our intellectual eyes, as it were" ("Wireless Association of America").
 
+wireless blue book announcement right after signaling to mars editorial… individuals lighting up on a wireless map, as if soon the martians will also be addressable in the wireless blue book.
+
+On **The Wireless Telephone:** at a time in which wireless telephony was still very much a speculative technology, workable only in limited, experimental demonstrations, here was a book that introduced a popular audience to a medium of the future by encouraging them to build it.
+
 overarching story
 
 ------------------

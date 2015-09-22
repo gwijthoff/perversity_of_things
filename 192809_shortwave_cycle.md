@@ -42,4 +42,4 @@ In the meanwhile, it is encouraging to note that the radio broadcast listener an
 
 [^mhz]:  In the United States, 200 to 600 MHz is now allocated exclusively for federal government use.  Over-the-air television is broadcast from 470 to 512 MHz.  For a browsable visualization of current frequency allocation, see <http://reboot.fcc.gov/spectrumdashboard/>.
 
-[^skp]:  Amateurs discovered the skip or skywave phenomenon in the early 1920s: that lower-frequency radio waves can be reflected off the ionosphere, beyond the curve of the earth's horizon.
+[^skp]:  Amateurs discovered the skip or skywave phenomenon in the early 1920s: that lower-frequency radio waves can be reflected off the ionosphere, beyond the curve of the earth's horizon.  For more on the ionosphere, see **Signaling to Mars.**

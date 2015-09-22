@@ -2,7 +2,25 @@ certain future instrumentalities”: Tinkering, Making, and Mineral Proficiencie
 
 ==================================================
 
-Begin with the Osophone:  both a new invention, a try-it-at-home experiment with a sewing needle, and a speculative projection of Martian technology.  All of the threads are here together.  How tinkering with available materials allowed for new inventions, both actual and fantastic.  Describing the functioning of a particular technology as a means of aiding design practice, even when that design practice was a form of narrative speculation.
+An interesting article from the January 1916 issue of *Electrical Experimenter* recommends that the reader tries biting a sewing needle tightly between his teeth and holding the sharp end to the groove of a phonograph record.
+
+> With a little practise one will become proficient in moving the head at the same ratio of speed as the ordinary reproducer arm is moved from the outside of the record towards the inside. As soon as the needle touches the record with sufficient pressure, the inside of the head will be filled immediately with music exceedingly loud and clear. A curious result of the experiment is that a person standing near by can bear the music, the head acting as a reproducer in this case.  (**Hearing Through Your Teeth**)
+
+(This author, having successfully performed this experiment himself, for legal reasons probably shouldn't recommend that the reader try this at home.)  When the same experiment reappears later in the same issue, it's during an installment of *The Scientific Adventures of Baron Münchausen* as a means of describing a very strange Martian technology, the Tos Rod.  
+
+listening "not with their ears. They were listening with their brains!"
+
+> The two reddish plates pressing against the bare temples are made of two metals unknown on earth, and the metals are distributed over the surface of the plate in honeycomb fashion without touching each other. Now if the two plates are pressed against the temples and when wireless waves are passing through them, the waves are translated into vibrations of a certain frequency. It has been found that if these vibrations reach the conscious sense of hearing which is located in the *Temporal Lobe* of the brain, sounds can be impressed upon the brain without requiring the ear and its auditory nerve. In other words, the sound is "heard" directly within the brain without the agency of the ear's mechanism.
+
+Gernsback assures the reader that the ear is not "absolutely essential for hearing," and to illustrate his point describes the same sewing needle experiment.
+
+Seven years later, Gernsback would patent a device he called the Osophone, a "small, compact and handy instrument which can be easily carried about and used without attracting undue attention."  The Osophone employed the same principle as the *Electrical Experimental* editorial, this time with a finished mouthpiece attached to a wire that provided a "simple and practical means by which hearing may be effected by sound vibrations transmitted directly to the osseous tissue of the body."
+
+The example of the Osophone illustrates how tinkering with something as simple as available household materials became the starting point for new inventions, both functional and fictional.  Describing the operation of a particular technology was a means of aiding design practice, even when that design practice was a form of narrative speculation.
+
+* * * * * * * * * * * 
+
+[[What sort of artifact, then, is the Telimco for the historian and theorist of media technologies?  Does it deserve credit for being a historical "first," one of the earliest consumer-friendly sets that would pave the way for radio broadcasting and domestic listening in later decades?  Do we overlook its technical faults, as we do the almost unplayable tin foil phonograph cylinders first released by Edison, in favor of the idea behind the prototype and what it later would become?  Or do we pass it by as a marketing gimmick, a fiction, in favor of technical developments that offer more objectively measurable achievements?  More interesting than the gap between the actual abilities and the claims surrounding the Telimco and other Electro Importing devices is the structure through which these claims were made.]]
 
 amateur inventor / corporate r & d
 
@@ -40,8 +58,6 @@ use fn on radio set building contest ending in intro, from 192702, p. 6?
 
 use fn on 20th century independent inventors in intro? 192302_who_will_save
 
-use Paul Israel on machine shop to corporate research
-
 use big NYU prof activist guy on frustrated amateurs moving into science
 
 tie back to previous section's comments on "science" -- what role does the tinkerer have between 19thC and institutionalized science?  And, contextualize push for public science education in the US
@@ -76,9 +92,9 @@ Details such as these seem especially poignant in light of recent calls for a cr
 
 ![](images/eico_labs1.png)
 
-![From *Electrical Experimenter,* January 1915.](images/eico_labs2.png)
+![From left to right, Harry Winfield Secor and Sidney Gernsback, Hugo's brother.  Both images from *Electrical Experimenter,* January 1915.](images/eico_labs2.png)
 
-Gernsback's own tinkering was conducted with his staff alongside their magazine publishing activities, beginning with the Electro Importing Company's main factory and office building at 233 Fulton Street, now on the site of Ground Zero.  Alongside Coggeshall, H.W. Secor, and his brother Sidney Gernsback, Hugo manufactured not only traditional electrical equipment like telephone parts and headphones, but more speculative devices.^[@_e._1915]  The magazines served as lab reports, detailing the progress made in these experiments in a way that opened them up to suggestions from the community.  The range and nature of the "inventions" detailed in the magazine is diverse.  The operative principle behind new devices like the Osophone were demonstrated through experiments that could be reproduced at home (**Hearing Through Your Teeth**).  **The Physiophone** introduced a means of transforming the music from a phonograph record into rhythmic pulses that could allow people with hearing impairments to enjoy music.  More farfetched devices like **The Isolator,** a chamber worn over the head that aided concentration, were interspersed with the more serious proposals.
+Gernsback's own tinkering was conducted with his staff alongside their magazine publishing activities, beginning with the Electro Importing Company's main factory and office building at 233 Fulton Street, now on the site of Ground Zero.  Alongside Coggeshall, Harry Winfield Secor, and his brother Sidney Gernsback, Hugo manufactured not only traditional electrical equipment like telephone parts and headphones, but more speculative devices.^[@_e._1915]  The magazines served as lab reports, detailing the progress made in these experiments in a way that opened them up to suggestions from the community.  The range and nature of the "inventions" detailed in the magazine is diverse.  The operative principle behind new devices like the Osophone were demonstrated through experiments that could be reproduced at home (**Hearing Through Your Teeth**).  **The Physiophone** introduced a means of transforming the music from a phonograph record into rhythmic pulses that could allow people with hearing impairments to enjoy music.  More farfetched devices like **The Isolator,** a chamber worn over the head that aided concentration, were interspersed with the more serious proposals.
 
 Experimentation continued when Gernsback founded WRNY, a broadcast station… that was used to test out even more devices.
 

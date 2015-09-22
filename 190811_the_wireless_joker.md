@@ -14,9 +14,9 @@ csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 
 The Editor is in receipt of several communications from the government and commercial wireless stations, all of whom file complaints against wireless amateurs, who annoy the large stations throughout the country.
 
-By publishing the call letters and names of the wireless stations in the U.S., we simply wished to keep our readers informed, so that when any of them "caught" a message they would be in a position to know from whence the message was dispatched.[^q]
+By publishing the call letters and names of the wireless stations in the U.S., we simply wished to keep our readers informed, so that when any of them "caught" a message they would be in a position to know from whence the message was dispatched.
 
-MODERN ELECTRICS being the leading wireless telegraph magazine, naturally was appealed to by the large stations.  It seems that a number of experimenters are in the habit of calling up government and commercial stations, thus interfering with regular work and annoying them a great deal.  Usually the large stations do not know the location of the sender and they are thus quite powerless to stop the mischief.
+MODERN ELECTRICS being the leading wireless telegraph magazine, naturally was appealed to by the large stations.  It seems that a number of experimenters are in the habit of calling up government and commercial stations, thus interfering with regular work and annoying them a great deal.  Usually the large stations do not know the location of the sender and they are thus quite powerless to stop the mischief.[^mscf]
 
 This state of affairs can naturally not go on, and we most earnestly request all those who are in the habit of calling up the large stations to refrain in future from doing so.
 
@@ -32,4 +32,4 @@ Of course the result is that some stations in the vicinity of the "joker's" one,
 
 We earnestly hope that those in the habit of sending these "fake" messages will see the harm they are doing and that they will turn their efforts to more fruitful directions.
 
-[^q]:  What would a typical conversation look like between two amateurs?  At what point is a "call letter and name" given in the conversation?
+[^mscf]:  A user skimming the airwaves in 1908 would have found a cacophony of code flashing in multiple directions, including government stations sending out time signals; maritime communications going ship to ship and ship to shore with information like weather conditions, iceberg reports, and ship position and speed; personal "Marconigrams" or "Aerograms" sent from or to these ships; experimenters sending messages across the street or (realistically, the most at that time) across town; and commercial stations conducting experiments and sending messages for paying clients.  In addition, there was no standard for wireless communication at the time, which meant that one user might have identified himself by name while another might have made up a call sign, which weren't standardized until 1927.

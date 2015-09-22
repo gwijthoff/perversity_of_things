@@ -83,6 +83,10 @@ But to make the point clear, if we *do* get messages, they probably will not all
     ![](images/mars_msg2.png) <!-- no figure -->
     
     ![](images/mars_msg3.png) <!-- no figure -->
+    
+    Recourse to Native American weaving techniques in understanding new media technologies was later made in the context of integrated circuits. Lisa Nakamura discusses how the Fairchild Semiconductor built a factory on a Navajo reservation in 1965, purportedly for the community's "manual dexterity, and affective investment in native material craft."  See @nakamura_indigenous_2014.
+    
+    For an account of indigenous North American recording systems that complicates commonly accepted distinctions in the history of writing technology, see @haas_wampum_2007.   
 
 [^sva]: Despite his skepticism about extraterrestrial wireless messages, Arrhenius was a proponent of the theory that---due to its observed heavy cloud cover---the planet Venus was home to a lush, tropical biosphere.  In his lectures on the evolution of the planets, *The Destinies of the Stars* (1918), he claims: 
 

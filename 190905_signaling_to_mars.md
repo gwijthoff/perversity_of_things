@@ -58,7 +58,7 @@ It has been demonstrated time and again that the action of the sun's rays greatl
 
 > Thus in the morning and in the evening when, due to the difference in longitude, daylight extends only part of the way across the Atlantic, the received signals are weak and sometimes cease altogether.[^itn]
 
-Mr. Marconi's explanation is that illuminated space possesses for electric waves a different refractive index to dark space and that in consequence the electric waves may be refracted and reflected in passing from one medium to another.
+Mr. Marconi's explanation is that illuminated space possesses for electric waves a different refractive index to dark space and that in consequence the electric waves may be refracted and reflected in passing from one medium to another.[^sunn]
 
 The writer wishes to offer a different explanation, which seems far more plausible.
 
@@ -120,7 +120,7 @@ And still some people wish to keep the student in the dark, to refrain him from 
     
     @_scheme_1909
     
-    A version of the plan was actually carried out in 1924, when Swiss astronomers "mounted a heliograph in the Alps to flash signals to Mars.  The U.S. Navy maintained radio silence for three days to listen to messages from the Martians." @markley_dying_2005, p. 158.
+    A version of Pickering's plan was actually carried out in 1924, when Swiss astronomers "mounted a heliograph in the Alps to flash signals to Mars.  The U.S. Navy maintained radio silence for three days to listen to messages from the Martians." @markley_dying_2005, p. 158.
 
 [^bon]: Gernsback: \"Described in the October, 1908, issue of M. E., page 243."
 
@@ -131,3 +131,5 @@ And still some people wish to keep the student in the dark, to refrain him from 
 [^blu]: Electro Importing Company's annual *Blue Book* was the culmination of Gernsback's calls for greater accountability in **The Wireless Joker.**  A wireless telephone book of sorts, each annual edition listed the names and call signs of amateur radio operators around the country, and later, the world.  Its presence was designed to encourage greater accountability for the content of wireless messages once the names of their senders were shared openly and freely.
 
     ![Second annual *Wireless Blue Book,* courtesy: Collection of Jim and Felicia Kreuzer, Grand Island, NY.](images/blue_book2_jim.png) <!-- no figure -->
+    
+[^sunn]: Oliver Heaviside proposed the existence of an electrically charged layer in the atmosphere in 1902, but it wasn't until 1927 that the existence of the ionosphere was confirmed.  While Gernsback is correct here that the presence of sunlight effects the transmission of radio waves, it is not the sun's rays themselves but rather their interaction with the ionosphere that causes interference.  He couldn't have known that in 1909, but this was another area where technological achievements outpaced their scientific explanations.  Marconi's first successful transatlantic wireless message in 1901, sent *around* the curvature of the earth, was possible because it bounced off the then-undiscovered ionosphere.

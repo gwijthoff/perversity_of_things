@@ -19,7 +19,7 @@ csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 
 The present little volume is intended for the experimenter doing research work in wireless telephony and the student who wishes to keep abreast with the youngest branch of the new wireless art.
 
-The author realizes that the fuiure use of the wireless telephone will be confined to the low power or battery system, as the present instruments, necessitating 220 and 550 volts for their successful operation, are not desirable nor practical enough for every day use.
+The author realizes that the future use of the wireless telephone will be confined to the low power or battery system, as the present instruments, necessitating 220 and 550 volts for their successful operation, are not desirable nor practical enough for every day use.
 
 The wireless telephone of the future must be as flexible as the wire telephone of today.
 
@@ -47,7 +47,7 @@ One the wall or on a large table tack 6 or 12 nails in form of a circle of 5 fee
 
 ![](images/wireless_telephone2.png)
 
-Around the nails wind 80 turns of No. 28 B. & S. wire, enameled wire preferable. Bring out two leads as shown. When completed, wind tape around the coil so the turns will not unwind.  Two layers of tape are advisable as the finished coil will be somewhat stiffer then.
+Around the nails wind 80 turns of No. 28 B. & S. wire, enameled wire preferable.[^bns] Bring out two leads as shown. When completed, wind tape around the coil so the turns will not unwind.  Two layers of tape are advisable as the finished coil will be somewhat stiffer then.
 
 ![](images/wireless_telephone3.png)
 
@@ -63,13 +63,13 @@ Each wire coil is attached to stand as shown in dotted lines.
 
 Fig. 18 shows the connections.
 
-P is the primary coil, M a common microphone transmitter, B 6-10 cells, C a condenser composed of 50 sheets of tinfoil 5x3 inches with parafined paper between the sheets.
+P is the primary coil, M a common microphone transmitter, B 6-10 cells, C a condenser composed of 50 sheets of tinfoil 5x3 inches with parafined paper between the sheets.[^cdns]
 
 H is a medium size medical coil (without vibrator).  The primary is connected with M-B, the secondary with C-P.
 
 S is the secondary, to the ends of which is connected an ordinary telephone receiver, or better, a set of double head receivers similar to those used in wireless work.
 
-It is important that both coils face each other, as they do not work wen placed otherwise or at too great an angle.
+It is important that both coils face each other, as they do not work when placed otherwise or at too great an angle.
 
 It has been found that the ground G (shown in dotted lines) sometimes helps to increase the sound, this also is the case of condenser C, which improves the whole arrangement a good deal.  This arrangement has little value and is only used for demonstration purposes, and works up to 50 feet.
 
@@ -141,4 +141,10 @@ In operation the varying resistance of the transmitter dx causes a fluctuating c
 
 The receiving apparatus consists of a telephone p, by means of which the passage of the transmitted energy through the receiving shunt o may be detected.
 
-In some cases they employ a condenser lx, as shown either in full or dotted lines in Fig. 22d, to obviate the effect of earth-currents.
+In some cases they employ a condenser lx, as shown either in full or dotted lines in Fig. 22d, to obviate the effect of earth-currents.[^ebwu]
+
+[^ebwu]: The remainder of this chapter describes the construction of a wireless apparatus patented in 1903 by James T. Armstrong and Alfred Orling. @armstrong_system_1903.
+
+[^bns]: B. & S. refers to the size of the wire.  The Brown & Sharpe metal gauge favored by early electrical engineers and contractors to measure the diameter of a wire is still in use today.  
+
+[^cdns]: While a condenser is similar to a battery in that it is used to generate voltage, the comparison ends there.  Batteries create their voltage through chemical reactions between "wet" or "dry" elements until all of these reagents have been exhausted.  A condenser, on the other hand (later known as a capacitor) temporarily stores a variable quantity of voltage that is directly applied to it.

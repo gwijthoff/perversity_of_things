@@ -24,15 +24,19 @@ BIG POINTS
 
 	•	[opening]
 
-x	⁃	Coggeshall's handicraft and Gernsback's storytelling
+	⁃	Coggeshall's handicraft and Gernsback's storytelling
 
-	⁃	HG as founder of SF, and yes, this scene reads as a form of SF, telling stories about a technology.  The Telimco was finicky, barely worked.
+	⁃	A story about the origin of SF, but not the way you would expect.
 
-	⁃	teaching and thinking about how to make the most fantastic of futures by hand.  Handicraft futures.
+	⁃	fantastic things of the future that you can make, with little objects making big effects.  handicraft futures.
+
+	⁃	No such thing as SF, science, or technology
+
+	⁃	So, the fiction of components, of building, of affordances and potential
+
+	⁃	The Telimco was finicky, but served as a proof-of-concept 
 
 	⁃	The rise of popular science, its relationship to magic.
-
-	⁃	Brief overview of Electro Importing's magazines, their development, what they contained
 
 	⁃	Introduce my book.
 

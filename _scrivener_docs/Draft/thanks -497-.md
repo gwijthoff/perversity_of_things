@@ -1,6 +1,8 @@
+For Sara, who…
+
 Paul Israel
 
-Jim and Felicia Kreuzer
+Jim and Felix Kreuzer
 
 Bruce Roloson
 
@@ -13,3 +15,5 @@ Tom Levin
 Kristin Gallerneaux (?)
 
 My colleagues in the Columbia Society of Fellows
+
+To Steve Reich, Drake, and … for the music that fueled the writing of this book.
