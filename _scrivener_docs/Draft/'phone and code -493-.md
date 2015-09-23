@@ -40,6 +40,16 @@ definitely use, then delete or rephrase from 193107 Television Technique:
 
     @gernsback_television_1931.
 
+Mixing up sensory inputs: television signals become tacticle and auditory sensation.  Media are synonymous with the mechanical transportation and simulation of sensory inputs.
+
+    
+
+    “An interesting phenomenon in connection with television itself is that, if the output currents of the light-sensitive cell are listened to in a telephone receiver, they can be heard as sounds, and every object or scene has its own peculiar characteristic sound.  For example, the fingers of a hand held in front of the transmitter will give rise to a sound similar to the grating of a very coarse file, while the human face will cause a high-pitched whistle which will vary in pitch as the head is turned or even when the features are moved.  For experimental purposes Mr. Baird had some phonograph records made of the sounds made by different persons’ faces, and by listening carefully to the reproductions of these records it is possible to distinguish between one face and another by the sounds they make!  With practice, faces may even be recognized by the sounds produced.”
+
+    @dinsdale_television_1927
+
+lifting from Edison patent language on cinema/phonograph:  “To the layman who does not as yet know what television is, I may say that the term describes an electrical process, whereby it is possible to see at a distance and to view distant events as they are taking place.  In this way television does for the eye what the telephone does for the ear.  Your friend, using the telephone, talks to you from his office, while you are sitting in yours; while the television process is comparable in that you will see your friend as he is talking to you, and, vice versa, he will see you.”  @gernsback_television_1927
+
 media evolution
 
 -------------------------

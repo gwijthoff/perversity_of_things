@@ -35,7 +35,7 @@ At this point I wish to say that I believe that our 1910 tuning coils with slide
 CONSTRUCTION IS EASY
 =====================
 
-The Detectorium can be readily constructed by an experimenter, and no particular directions need be given here as to sizes. The illustrations show a tuning coil which was common in 1910, but whose range is greater than the present broadcast range. The coil at that time consisted of a two-inch tube about eight inches long, wound with No. 24 enameled or bare wire. The same size tube can be used today, with the exception that the wire should be about No. 18 or No. 20 B & S bare copper, which will cover the broadcast range surprisingly well.
+The Detectorium can be readily constructed by an experimenter, and no particular directions need be given here as to sizes. The illustrations show a tuning coil which was common in 1910, but whose range is greater than the present broadcast range. The coil at that time consisted of a two-inch tube about eight inches long, wound with No. 24 enameled or bare wire. The same size tube can be used today, with the exception that the wire should be about No. 18 or No. 20 B & S bare copper, which will cover the broadcast range surprisingly well.[^wniv]
 
 The tube is put in a lathe, or similar winding device, and bare copper wire is used, winding with it, at the same time, a thick thread, to separate the wire convolutions so that they do not touch. The thread can remain, if so desired.
 
@@ -64,14 +64,18 @@ I shall be glad to hear from those who have constructed the Detectorium.[^rdr]
 
 [^855]: @gernsback_detectorium_1910.
 
+    For more on the multiple sliders and knobs that the Detectorium replaced, see **A Treatise on Wireless.**
+
 [^dtc]: The Detectorium was sold by Electro Importing, fully assembled, for $3.50 in 1913.
 
     ![](images/detectorium_ad.png) <!-- no figure -->
 
-[^prt]: In a handbook published by Gernsback's brother Sidney and other Electro Importing employees, one lesson is devoted to the construction of the Detectorium, recommending that a kite be used to lift the aerial to a sufficient height.  They write that apparatus is
+[^prt]: In a handbook published by Gernsback's brother Sidney and other Electro Importing employees, one lesson is devoted to the construction of the Detectorium, recommending that a kite be used to lift the aerial to a sufficient height.  They write that the apparatus is
 
     > very well adapted to the requirements of all portable wireless stations, such as those in mule pack sets, aeroplane airship sets, and in a hundred other places, where light weight and great compactness are prime requisites. … This method of using a loading coil is the only way by which so long a wave length may be obtained within such a limited space.  
     
     @gernsback_experimental_1916, 62-3.
     
 [^frd]: The farad is the standard unit for measuring electrical capacitance. It is named after Michael Faraday (1791-1876), the physicist who pioneered research in electromagnetism. A µf denotes a microfarad, or one millionth of a farad.
+
+[^wniv]: B & S refers to the size of the wire.  The Brown & Sharpe metal gauge favored by early electrical engineers and contractors to measure the diameter of a wire is still in use today. 

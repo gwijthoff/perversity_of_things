@@ -67,6 +67,6 @@ An article by Clyde J. Fitch describing the construction of the Pianorad will ap
     
     > had 25 single LC oscillators, one for every key for its two octave keyboard giving the instrument full polyphony, the oscillators produced virtually pure sine tones. … Each one of the twenty five oscillators had its own independent speaker, mounted in a large loudspeaker horn on top of the keyboard and the whole ensemble was housed in a housing resembling a harmonium. A larger 88 non keyboard version was planned but not put into production.
 
-@crab_pianorad_2014
+    @crab_pianorad_2014.
 
     ![](images/staccatone_cover.png) <!-- no figure -->

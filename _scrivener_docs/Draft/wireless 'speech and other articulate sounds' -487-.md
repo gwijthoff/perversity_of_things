@@ -12,6 +12,8 @@ wireless blue book announcement right after signaling to mars editorial… indiv
 
 On **The Wireless Telephone:** at a time in which wireless telephony was still very much a speculative technology, workable only in limited, experimental demonstrations, here was a book that introduced a popular audience to a medium of the future by encouraging them to build it.
 
+As in **New Radio 'Things' Wanted,** basically remixing and retrofitting old technologies to imagine the next great advance in radio.
+
 overarching story
 
 ------------------
