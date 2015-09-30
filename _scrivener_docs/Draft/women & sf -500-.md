@@ -12,6 +12,8 @@ Justine Larbalestier points out that in many conversations on genre among reader
 
 One reader, Mary Byers of Springfield, OH, in a response to Asimov that Larbalestier argues echoes later feminist science fiction critics like Joanna Russ, writes:  "To his plea for less hooey I give my whole-hearted support, but less hooey does not mean less women; it means a difference in the way they are introduced into the story and the part they play." @byers_other_1938.
 
+The very structure of SF actually ended up giving women a way into an arena they were formerly excluded from.  
+
 signals letters written by “the fair sex” in SF magazines
 
 Andrew Ross:  dialects of alien species in “Gernsbackian fiction” “typically vilified in the most overtly racist ways.”  Women rarely made an appearance in pulp SF, unlike Weird Tales’s vampires, witches, and high priestesses.  Frank Paul could draw men, machines, and monsters, “but was said to be technically deficient when it came to depicting female bodies” [IS THIS quote about Paul's deficiencies directly from Ross, or elsewhere?]

@@ -12,8 +12,6 @@ csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 
 * * * * * * * * 
 
-![Illustration from a reprint of "The Magnetic Storm" in the July 1926 issue of *Amazing Stories.*](images/magnetic_storm.jpg)
-
 **"W**HY" Sparks had stopped reading the New York Evening World: He contemplated his old meerschaum pipe meditatively while with his long and lanky index finger, stained by many acids, he carefully rubbed a long, thin and quivering nose. This was always a sign of deep, concentrated thought of the nose's owner. It also, as a rule, induced the birth of a great idea.
 
 Again, and very slowly he re-read the article, which millions that same day had read casually, without a quiver, let alone, a nose quiver. The newspaper item was simple enough:
@@ -26,7 +24,7 @@ Sparks rose excitedly and began pacing the cement floor of the vast Tesla labora
 
 "Why" Sparks had been just an ordinary "Bug," an experimenter, when he entered Tesla's great research laboratory at the beginning of the great war in 1914. Tesla liked the keen, red-haired tousled boy, who always seemed to divine your thoughts before you had uttered five words. His clear blue eyes, lying deep in their sockets, sparkled with life and intelligence and what Sparks did not know about electricity was mighty little indeed. I believe there is no electrical book in existence that Sparks had not devoured ravenously in his spare hours, while having lunch or else while in bed, in the small hours of the morning. His thirst for electrical knowledge was unbounded, and he soaked up every bit of information like a sponge. Yes, and he retained it, too. In short, the young prodigy was a living electrical cyclopedia and highly valued by his associates. No wonder Tesla in three short years had made him superintendent of the laboratory.
 
-![. . . The President of the Glorious French Republic Shouts Dramatically: "Messieurs . . . le Jour de Gloire est Arrivé . . . VIVE-LA-FRANCE!!"---and Throws in the Huge Switch With Its Long Ebonite Handle. . . .](images/magnetic_storm2.png)
+![. . . The President of the Glorious French Republic Shouts Dramatically: "Messieurs . . . le Jour de Gloire est Arrivé . . . VIVE-LA-FRANCE!!"---and Throws in the Huge Switch With Its Long Ebonite Handle. . . .](images/magnetic_storm.png)
 
 # Sparks' First Name 
 

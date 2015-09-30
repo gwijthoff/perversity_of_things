@@ -34,6 +34,8 @@ Get our terms straight:  HG used "tinkerer," a term that was associated with Rom
 
 @aitken_continuous_1985 avoids "the standard and readily available definitions of technology, which normally emphasize either hardware or methods.  Behind these definitions there lies an older and less limiting idea: the conception of technology as knowledge -- Aristotle's 'reasoned state of capacity to make.'"
 
+Building a new form of crystal radio set (**Radioson**) whose performance could not only rival new tube sets, but were much cheaper, easier to fix, and most importantly, more easily understood by home experimenters.  A tinkerer's ethic.
+
 machine shop / individual invention
 
 ==============================

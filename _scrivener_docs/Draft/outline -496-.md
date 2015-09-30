@@ -22,27 +22,29 @@ BIG POINTS
 
 	•	occluded and contested identities for women and minorities in these communities
 
+	•	The opening section should be a condensation of the introduction, hitting all of the main points: SF as making, early media theory, speculative science
+
 	•	[opening]
 
-	⁃	Coggeshall's handicraft and Gernsback's storytelling
+x	⁃	Coggeshall's handicraft and Gernsback's storytelling.  From a physical medium of metal filings to a social medium of radio.
 
-	⁃	A story about the origin of SF, but not the way you would expect.
+x	⁃	This is the story of a literary genre's emergence, but not one that the reader is familiar with.  SF began much earlier than AS, and not primarily as a literary phenomenon but an understanding of everyday technology through making and tinkering.
 
-	⁃	fantastic things of the future that you can make, with little objects making big effects.  handicraft futures.
+x	⁃	Describe the magazines and their contents, as well as what this selection of HG's work represents.
 
-	⁃	No such thing as SF, science, or technology
+	⁃	more on the focus on HG over the whole community?
 
-	⁃	So, the fiction of components, of building, of affordances and potential
+x	⁃	During this period, key objects of SF like science, media, and technology were in flux.  A media theory in the making, based on affordances of small components.
 
-	⁃	The Telimco was finicky, but served as a proof-of-concept 
+x	⁃	Coexistence of very different modes: radically practical, and radically speculative.
 
-	⁃	The rise of popular science, its relationship to magic.
+x	⁃	Radically practical: the Telimco was finicky, but its technical details, its easy functioning, became a platform for speculation about futures that felt immanent.
 
-	⁃	Introduce my book.
+x	⁃	Radically speculative: within the history of popular science magazines, this one blurred the lines between the real and the imaginary.  HG magazines made the scandalous seem possible.
 
-	⁃	
+	⁃	Because of this mixture of practical and speculative, these futures felt possible, like they could be made.  Handicraft futures, similar to Mauss's concept of magic.  This was the "perversity of things."
 
-	⁃	***somewhere mention Sexology and the presence of occluded groups ("as we will see")
+	⁃	HG and his community, occluded groups.  He wasn't an inventor like Edison or Jobs, but his career left us with a way of participating in and debating technological change.
 
 	•	"Up-to-date technic": [bio and magazine context]
 
@@ -55,22 +57,6 @@ x	⁃	defining "science" through the public. also, on "technology"
 	⁃	not too much on science in the everyday, as this will go into the SF section
 
 x	⁃	beginning of Electrical Experimenter. Paul's illustrations and their international spread
-
-	•	“certain future instrumentalities”: Tinkering, Making, and Mineral Proficiencies [tinkering]
-
-	⁃	what is tinkering/inventing/mucking around 1910?
-
-	⁃	Context: amateur inventor amid corporate r&d
-
-x	⁃	knack, rolling sets of expertise / mineral proficiencies
-
-	⁃	HG's inventions in magazine pages: advertisement? brag? community?
-
-	⁃	WRNY
-
-	⁃	invention vs. "philosophical research" about the future, according to Edison
-
-	⁃	material possibility of an invention before it exists
 
 	•	"'phone and code": Wireless, Television, and Other Emerging Media
 
@@ -107,6 +93,22 @@ x	⁃	knack, rolling sets of expertise / mineral proficiencies
 	⁃	imperialism and racial supremacy
 
 	⁃	technocracy: managing capitalism's excesses
+
+	•	“certain future instrumentalities”: Tinkering, Making, and Mineral Proficiencies [tinkering]
+
+	⁃	what is tinkering/inventing/mucking around 1910?
+
+	⁃	Context: amateur inventor amid corporate r&d
+
+x	⁃	knack, rolling sets of expertise / mineral proficiencies
+
+	⁃	HG's inventions in magazine pages: advertisement? brag? community?
+
+	⁃	WRNY
+
+	⁃	invention vs. "philosophical research" about the future, according to Edison
+
+	⁃	material possibility of an invention before it exists
 
 	•	"We exploit the future" [SF]
 

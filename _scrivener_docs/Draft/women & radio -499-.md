@@ -1,3 +1,9 @@
+Silberman:
+
+> But those who enjoyed gabbing away could “chew the rag” with other hams for hours, employing a lexicon as witty and ritualized as the jargon of fandom. The culture of wireless was also a strict meritocracy where no one cared about what you looked like or how gracefully you deported yourself in public. If you knew how to set up a rig and keep it running, you were welcome to join the party.
+
+> The society of hams also enabled shy introverts to study the protocols of personal engagement from a comfortable distance. “Through amateur radio . . . I’ve learned so much about communication between people. I’ve had the opportunity to observe and participate in the giving and getting process, which is what communication is all about,” recalled Lenore Jensen, who co-founded the Young Ladies’ Radio League in 1939 to encourage more women to join the conversation. By interacting with other hams over the airwaves, she learned to conduct herself in social situations gracefully and went on to become an actress celebrated for her performances in The Beverly Hillbillies, General Hospital, and Father Knows Best.
+
 In fact, it's impressive the degree to which race and gender are absolutely invisible in almost all of Gernsback's writings, a kind of "white washing" that perhaps would only be possible for a male Jewish immigrant.
 
 Though Gernsback seldom addressed women, his writers sometimes reported on women in wireless, with some very interesting examples.  Mexican war refugee, women's suffragists.

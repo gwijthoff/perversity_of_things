@@ -12,8 +12,6 @@ csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 
 * * * * * * * * 
 
-![Advertisement for Chandlee & Chandlee](images/what_to_invent.png)
-
 **O**F late, we are receiving a great many inquiries from experimenters, would-be inventors, inventors, as well as others, asking us to publish a "list" of useful electrical devices which as yet require to be invented.[^plt]  Most of our correspondents state that they are of an inventive turn of mind and quite a few admit very frankly that in the past they have lost a good deal of money and time in trying to develop ideas which afterwards turned out to be of no earthy practical use.  By boiling down the various inquiries, this is what our correspondents desire:  "What electrical inventions are urgently required at present, and which ones are the most desirable from a financial viewpoint?"
 
 As most everyone is familiar with the important problems as yet unsolved, such as:  Electricity direct from Coal; Harnessing of the Sun's and the Ocean's Energy; Cold Light, etc., we do not for the present wish to dwell upon these.[^ecdl]  For that reason the "list" which we suggest below will probably be more in keeping with our would-be inventors' desires.  We make no claim that the suggestions are highly original, or that they could not easily be improved upon.  We do, however, think that it would be quite profitable to invent and market any one of the ideas and devices cited.  At least that is our humble opinion.
@@ -24,7 +22,7 @@ As most everyone is familiar with the important problems as yet unsolved, such a
 
 *Heavy Current Microphone.*  Wireless telephony is retarded at present because there is no practical transmitter that can handle from 5 to 10 amperes continuously.  The microphone should be small and should not requirewater cooling, as this makes it highly undesirable.  Preferably no carbon should enter into its construction.
 
-![Page from April 1916 issue of *Electrical Experimenter*](images/what_to_invent2.jpg)
+![Page from April 1916 issue of *Electrical Experimenter*](images/what_to_invent.jpg)
 
 *Marble Substitute.*  There is an immense demand for instrument bases and parts, switch and switchboard bases, etc.  At present very expensive marble, slate, wood or composition is used.  Porcelain is cheap, but never presents a good appearance, especially for instrument bases.  Marble dust is cheap and can be readily had in large quantities.  Who will be the first *to mold* a real cheap marble base, that take a good polish?  We are aware of the fact that artificial marble is in existence.  It is, however, almost as expensive as the natural.[^bkt]
 

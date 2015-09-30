@@ -16,4 +16,6 @@ Kristin Gallerneaux (?)
 
 My colleagues in the Columbia Society of Fellows
 
+Patrick Belk and David Gleason (for scans)
+
 To Steve Reich, Drake, and … for the music that fueled the writing of this book.

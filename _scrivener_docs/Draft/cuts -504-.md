@@ -1,0 +1,5 @@
+In part, this is a book about the origins of American science fiction.  It’s also a look at the emergence of new media around community practices rather than new technical standards or innovations.
+
+Technical literacy was encouraged not only through blueprints and instruction manuals for the amateur tinkerer, but also through thought experiments and graphical projections of what these new media might look like.  This was Gernsback's forté: reading fantastic possibilities for the future of technologically advanced societies off the shape of the most mundane of material objects, techniques and processes.
+
+In …, the addition and subtraction of each wire, condenser, or tuning hookup constituted a full-scale shift in the abilities and sensory affects of the apparatus being constructed as well as the narrative form through which it was described.  
