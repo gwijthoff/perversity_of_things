@@ -1,12 +1,16 @@
 Get quotes:
 
-	✓	Mauss (open)
-
 	✓	Israel (tinkering)
 
 	✓	on sci vs tech: Edwin Layton, "Mirror-Image Twins: The Communities of Science and Technology in 19th Century America," 1971
 
 	✓	Layton, "Technology as Knowledge," T&C 1974
+
+Define terms:
+
+	◦	media (Guillory, "Genesis of the Media Concept"
+
+	◦	fantastic (Todorov, Callois)
 
 BIG POINTS
 

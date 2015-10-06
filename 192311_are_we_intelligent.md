@@ -68,7 +68,7 @@ The next few centuries will bring about a great era of simplification.  Everythi
 
 In some quarters, it is thought that this is a sign of retrogression of the race.  Nothing could be more erroneous.  The scientific explanation is very simple.  Our lives are crowded to such an extent, that it is impossible to read as much as our grandfathers could.  We are constantly being speeded up mentally and if a picture can tell the story in two seconds why should one read a typed story which might occupy 10 or 15 minutes of one's time.[^4]  This, by the way, is the answer to the unprecedented popularity of the New SCIENCE AND INVENTION magazine.
 
-[^1]:  Depicted on the cover of this issue of *Science and Invention* is Gernsback's osophone, a device for conveying audio through bone conduction.  Gernsback was awarded a patent for the device's "sound vibrations transmitted directly to the osseous tissue of the body" the same year (US 1,521,187).  Google Glass, the optical head-mounted display released in 2013, uses this same bone conduction technology for audio.  Considering Gernsback's comparison of ant swarms to the possibility of the direct transmission of information via "thought waves," it seems that he has some sort of extra-sensory perception model of communication in mind here.
+[^1]:  Depicted on the cover of this issue of *Science and Invention* is Gernsback's osophone, a device for conveying audio through bone conduction.  Considering Gernsback's comparison of ant swarms to the possibility of the direct transmission of information via "thought waves," it seems that he has some sort of extra-sensory perception model of communication in mind here.  See **Hearing Through Your Teeth.**
 
     ![](images/osophone.png) <!-- no figure -->
     

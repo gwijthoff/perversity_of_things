@@ -26,7 +26,7 @@ Of course, it will be understood that a totally deaf person will not be able to 
 
 The writer should like to hear from readers, particularly from those who are partly deaf, who have tried this experiment; the *Electrical Experimenter* will be glad to publish the results in subsequent issues.[^ltr]
 
-[^ltr]:  A profile of this experiment was published in the November 1923 issue of *Science and Invention* as the cover story.  See **"Are We Intelligent"** for an editorial that evokes what might be possible with such alternative forms of communication.
+[^ltr]:  A profile of this experiment was published in the November 1923 issue of *Science and Invention* as the cover story.  See **Are We Intelligent** for an editorial that evokes what might be possible with such alternative forms of communication.
 
     ![](images/teeth2.JPG) <!-- no figure -->
     
@@ -36,7 +36,7 @@ The writer should like to hear from readers, particularly from those who are par
 
 [^def]:  In 1923, Gernsback was awarded a patent for a device he called the Osophone and its "sound vibrations transmitted directly to the osseous tissue of the body."  @gernsback_acoustic_1924.
 
-[^npw]:  This issue's installment of *The Scientific Adventures of Baron Münchausen* includes a distant extrapolation of the bone conduction technique---the apparent telepathic abilities of Martians---with a similar instruction manual on how to achieve it:
+[^npw]:  This issue's installment of *The Scientific Adventures of Baron Münchausen* includes a distant extrapolation of the bone conduction technique in the form of a Martian technology that allows them to communicate as if telepathically.  The story also contains a digression in the form of an instruction manual very similar to this one.
 
     > Not far from the equator of the planet a central music plant is operated by a single Martian, who, of course, is a musical genius. He operates one of the organ-like instruments of which I spoke before. The "plant" comprises besides the instrument, two Tos rods each 20 feet high. These rods work exactly as the ones just described, except that they are operated at an enormous frequency. I have stood in front of them while they were operating, so close, in fact, that I could have touched both rods with my hands. However, my ears detected not the slightest sound. But, incredible as it seems, millions of Martians were listening to the wonderful music at that minute, produced by these same rods, *but not with their ears.* They were listening with their brains! […]
     

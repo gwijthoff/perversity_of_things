@@ -30,6 +30,20 @@ What is a "maker" or a "tinkerer" around 1910?  Mucker, experimenter.  Above all
 
 Get our terms straight:  HG used "tinkerer," a term that was associated with Romani gypsies, who would fix old things.  Edison suggested "mucker."  Today, we might say "maker."  But the point is, that the incremental modification associated with a term like "tinkering" involves just as much creative expression, expertise, and skill as the whole cloth production of a new technology we might associate with "invention."
 
+* * * * * * * * * * * 
+
+Forms of self-education during the period varied widely according to class.  While middle class Americans were now able to culturally enrich themselves during their leisure time through several new "great book" series geared toward mass audiences, like the Book of the Month Club and the Harvard Classics "Five Foot Shelf" collection, the urban working classes "were asked to invest their sense of self in hands-on technical knowledge," writes Eric Drown.  Commercial technical institutes and correspondence schools promised upward mobility and job security within a number of growing fields like radio, automobile repair, and electrical engineering.  @drown_usable_2001, p. 77-78.  @rubin_making_1992.
+
+On a new form of scientific education:
+
+> Parents eager to set their children on the right path bought them chemistry sets with names like Chemcraft, produced by the Porter Chemical Company, which also sponsored Chemists Clubs.  Young adult books on electricity and technology flourished, many of them written for boys and intended to instill the noble desire to invent.  Who knew when the next Edison or Morse might arrive on the scene to offer up the world a truly wonderful practical miracle?  @schlesinger_battery:_2011, 200.
+
+> This was certainly a far cry from the genteel instruction on natural philosophy to promote polite drawing room conversation on scientific theory published just a few decades earlier.  It’s interesting to consider just what a young Michael Faraday would make of such a book or of *Harper’s Electricity Book for Boys* (1907) in which the author, Joseph H. Adams, wrote: "Theory is all very well, but there is nothing like mastering principles, and then applying them and working out results for one's self."  @schlesinger_battery:_2011, 201.
+
+> Even as Gernsback's [Telimco] ad appeared, the age of the young amateur experimenter was already well under way.  In his 1901 book *The Master Key: An Electrical Fairy Tale,* L. Frank Baum, of *Wizard of Oz* fame, sets a young man out on an electrical adventure with all manner of gadgets and gizmos that benefit mankind.  The book, as Baum noted in the preface, was "Founded Upon the Mysteries of Electricity and the Optimism of Its Devotees."  @schlesinger_battery:_2011, 200.
+
+* * * * * * * * * * * 
+
 1916 May -- "Edison Says You are a 'Mucker'!"  15 (anon) -- term of endearment for all scientific experimenters.  "Are you an electrical Experimenter?  Yes?  Well, in that case you are a 'MUCKER'!  A plain, common, ordinary, everyday mucker!!  So says one Thomas Alva Edison, and if the 'Wiz' says so it must be true.  You say you don't like to be called such names?  It's a distinction to be called a mucker.  Edison says he is a mucker himself.  Says all scientific experimenters are muckers.  So there!" @experimentation
 
 @aitken_continuous_1985 avoids "the standard and readily available definitions of technology, which normally emphasize either hardware or methods.  Behind these definitions there lies an older and less limiting idea: the conception of technology as knowledge -- Aristotle's 'reasoned state of capacity to make.'"
@@ -123,3 +137,7 @@ interested in the material possibility of inventions before they are an idea.  S
 Invention vs. "philosophical" research about the future.  Edison on atomic technology:  "You know, Mr. Gernsback, I am an inventor, and as such I do not concern myself overmuch with philosophical research."  What Gernsback does as "philosophy" about future possibilities.
 
 John Taggart from a 1999 book of poems: "Technique is the way art means, and sometimes it thinks back, meaning more than we meant it to mean."
+
+Latency of a medium that just isn't recognized.  Guillory writes that "this peculiar latency is characteristic of discourse about media from the sixteenth to the later nineteenth centuries":
+
+> The transposition of writing into print did not elicit at first a theoretical recognition of media as much as a reflection on the latency of print in the technology of writing itself. It was as though print were there, already, in the medium of writing. This is how Bacon understands print in the New Organon: “the technique of printing certainly contains nothing which is not open and almost obvious.” Bacon explains that “men went without this magnificent invention (which does so much for the spread of learning) for so many centuries” because they somehow failed to notice that letters and ink might be used for inscription with a different instrument than the pen, namely “letter types” inked and pressed on paper, an ingenious form of endlessly reproducible writing.^[@guillory_genesis_2010, 324.]

@@ -74,11 +74,11 @@ The author will be glad to answer any questions concerning the Radioson, and he 
 
     ![Radioson vs. Fessenden's original bare-point electrolytic detector.  From "Radio  Detector  Development," by  H.  Winfield  Secor, *The Electrical Experimenter,* January, 1917, pages 652-653, 680, 689-690.](images/Radioson_vs_fessenden.png) <!-- no figure -->
 
-[^wol]:  Named for its inventor---William Hyde Wollaston, the nineteenth-century British chemist known for the discovery of the elements palladium and rhonium---Wollaston Wire is an incredibly thine strand of platinum used in electrical devices.
+[^wol]:  Named for its inventor---William Hyde Wollaston, the nineteenth-century British chemist known for the discovery of the elements palladium and rhonium---Wollaston Wire is an incredibly thin strand of platinum used in electrical devices.
 
     > Platinum wire is drawn through successively smaller dies until it is about .003 inches (0.076 mm, 40 AWG) in diameter. It is then embedded in the middle of a silver wire having a diameter of about 0.1 inches (2.5 mm, 10 AWG). This composite wire is then drawn until the silver wire has a diameter of about .002 inches (0.051 mm, 44 AWG), causing the embedded platinum wire to be reduced by the same 50:1 ratio to a final diameter of .00006 inches (1.5 µm, 74 AWG). Removal of the silver coating with an acid bath leaves the fine platinum wire as a product of the process.
 
-    @lee_nonlinear_2004.  @_wollaston_2014.
+    See @lee_nonlinear_2004; @_wollaston_2014.
 
 [^exp]:  Robert P. Murray, editor of the *Antique Wireless Association Review,* reports on his attempts to reconstruct this Radioson detector in 2005:  "I fashioned one after that shown in the 1914 E.I. Co. catalog.  This had a similar arrangment of electrodes in a glass cup, but in this case the cathode was a coil of about 3 inches of the same platinum wire.  The anode was about 1/4 inch of platinum wire soldered into the advancing screw.  This detector worked, but very faintly.  I found that it worked best when the wire was just about drawn up out of the acid, and possibly pulling on the surface tension.  I do not know why the device worked this way.  I mention this only as a speculation.  I can hardly see 0.001 inch platinum wire without a magnifying glass.  I can certainly not see when it dips into the acid, but can hear the result in the headphones.  When I hold the wire between my fingers I can not feel it." @murray_early_2005, p. 3.
 
@@ -91,8 +91,6 @@ The author will be glad to answer any questions concerning the Radioson, and he 
     Readers continued, however, to be interested in crystal set designs well into the 1920s.  See, for instance, **The Detectorium.**
     
 [^rfa]: By the time of his 1922 book, *Radio for All,* Gernsback admits the inherent technical limitations of the Radioson detector: "Unfortunately the Radioson, once subjected to strong signals or even too strong static currents, would burn out the exceedingly fine Wollaston wire, after which the instrument became inoperative. Although the Radioson was perhaps one of the best electrolytic detectors ever designed, no means could be found to keep it from burning out and the manufacture of it was given up by the makers.  Soon after the invention of the electrolytic detector, crystal detectors came into vogue." @gernsback_radio_1922, 58.
-
-[^buy]:  |
     
     ![The Radioson Detector as advertised in the November 1914 issue of *Popular Electricity and Modern Mechanics*](images/radioson_ad.png) <!-- no figure -->
 

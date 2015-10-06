@@ -6,6 +6,8 @@ Can combine categories of TV, wireless, and "media" here, because TV never reall
 
 what does it mean to communicate while in motion?  why was this something that people strived for? -- radio kinetics -- that moving humanity will now be connected with stationary humanity (find this quote?)
 
+Guillory:  "As we shall see, the extrapolation of a process of mediation from the fact of a particular communicative medium (speech, writing, print) depended not on the incorporation of the concept of medium into a more general conceptual framework but the reverse, a reduction of the social totality to communication as its representative in- stance."  @guillory_genesis_2010, 344
+
 SF or 90s media theory?
 
 --------------------------------

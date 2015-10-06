@@ -50,26 +50,12 @@ Witnesses : I. B. Darn, Whooda Thoughtit, Ischga Bibble.
 
 [^wjb]: That a sculpture of Theodore Roosevelt out of electrically conductive sandstone might melt into the likeness of William Jennings Bryan when exposed to the rain is probably a dig at the latter, who had recently resigned from his position as United States Secretary of State due to his opposition to American entry into World War I after the sinking of the Lusitania.
 
-[^dwd]: As Gary Westfahl has persuasively argued, Gernsback was a historian of science fiction as well as a founder of the genre, referencing H.G. Wells, Edgar Allan Poe, Jules Verne and the lesser known Luis Senarens in some of his first editorials for *Amazing Stories* \(see **A New Sort of Magazine** and **The Lure of Scientifiction**\).  @westfahl_jules_1992.
-
-    But the fact that this spoof depicts an insatiable reader holding a copy of *Deadwood Dick* suggests that Gernsback and his colleagues were aware of an even broader tradition upon which they built.  *Deadwood Dick* was a series of dime novel westerns written by Edward L. Wheeler from 1877-1885.  The series' titular character lived on under ghostwriters from 1886-1897.  Wheeler "wore a Stetson hat, and is said to have greeted even strangers as 'pard.'"  @johannsen_house_1950, available online at Northern Illinois University Libraries's Beadle and Adams Dime Novel Digitization Project, <http://www.ulib.niu.edu/badndp/>.
-    
-    Dime novels serve as an important precursor to magazine era science fiction both materially---printed on very cheap paper and "sent to the army in the field by cords, like unsaved firewood" during the American Civil War---and thematically---featuring stories of marvels, lost races, and inventions like Edward S. Ellis's *Steam Man of the Prairies.*  See @jencks_dime_1904; @bleiler_newark_1989.  
-    
-    According to Christine Bold, Wheeler was unique in his direct appeal to the reader, making his stories especially seductive for hungry bookworms:
+[^dwd]: The addicted reader shown here wearing the bookworm apparatus is holding a copy of the popular nineteenth-century dime novel series *Deadwood Dick* (1877-1897), authored primarily by Edward L. Wheeler (1854-1886).  This nod by Gernsback and his staff to the popular print tradition upon which they built is fitting, as Wheeler was unique among dime novel authors in his direct appeal to the reader, according to Christine Bold.  This would make his stories especially seductive for hungry bookworms:
 
     > In his work, the characters take over all the authorial functions: they invent their own stories, they acknowledge the conventions of their existence and they recognize, finally, that these conventions derive drectly from the commercial contract.
     
-    @bold_voice_1983.  
+    @bold_voice_1983.
     
     Bold cites *Deadwood Dick as Detective* (1879) in particular:
     
     > Fear not that man, for in your hour of need Deadwood Dick is on deck.  When you least dream of it, he is lurking near, watching for your welfare, with a brother's care, and removing such obstacles as will be apt to trip you and throw you into the power of enemies.
-
-    Unfortunately, these "enemies" were almost always signaled through ethnic markers.  Everett F. Bleiler, in his entry on the dime novel in the *Encyclopedia of Science Fiction,* writes:
-    
-    > These stories, together with [Edward S.] Ellis's work, set the pattern for future invention stories. The initial model was the dime-novel Western. Stress was on iron technology, with little or no science; narratives contained random, thrilling incidents, often presented in a disjointed and puerile way. Typical social patterns were: a conscious attempt to capitalize on age conflict, with boy inventors outdoing their elders (Edisonade); aggressive, exploitative capitalism, particularly at the expense of "primitive" peoples; the frontier mentality, with slaughter of "primitives" (in the first Frank Reade, Jr. story Frank kills about 250 Native Americans, to say nothing of destroying an inhabited village); strong elements of sadism; ethnic rancour focused on Native Americans, blacks, Irish and, later, Mexicans and Jews.
-    
-    @bleiler_dime-novel_2014.
-            
-    ![](images/deadwood_dick_cover.jpg) <!-- no figure -->

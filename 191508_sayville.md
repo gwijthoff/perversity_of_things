@@ -67,7 +67,7 @@ In view of the above it is not quite clear how the United States Government, eve
 
     > For a generation back Germany has cast covetous glances at the little country---no doubt on the theory that 'he who does not honor the pfennig is unworthy of the thaler'.  Due to its insidious and clumsy methods, however, little headway was made in Germanizing the Luxembourgeois. . . . Of course the Luxembourgeois greatly resent the German occupation, just as much as do the Belgians.  Since the invasion the inhabitants have been in a more or less ugly mood, as testified on good authority by the information which filters through them from time to time.
     
-    @gernsback_case_1918.  
+    @gernsback_case_1918.
     
     Paul Lesch argues that Gernsback actively cultivated a Luxembourgish identity throughout his life: "It is particularly interesting that Gernsback, born of German parents, not only insists on the anti-German sentiments existing in Luxembourg at the time, but seems to share them as well." @henzig_hugo_2010, p. 18.
 

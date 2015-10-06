@@ -89,4 +89,4 @@ Long live the Wireless! Long live the Amateur!!
     
     > New York, March 27, 1912
     
-    @gernsback_4000000_1912.
+    @gernsback_400000_1912.
