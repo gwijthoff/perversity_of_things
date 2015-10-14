@@ -6,6 +6,12 @@ As these newly minted citizens of the ether stepped "out into the star-lit night
 
 HG’s social ideology through technology, as a technocrat and a utopian.
 
+Use??
+
+	- rival leagues in **Wireless Association of America**
+
+	- amateur defense of interference in **Roberts Wireless Bill**
+
 Do these articles amount to a full scale policy or philosophy of regulation?  Probably not.  More a series of reactions to conditions on the ground.  Tries to remain as agnostic as possible.
 
 For an early "information wants to be free" argument, see 192707 Wired Radio Versus Space Radio.  Nothing super quotable, can just paraphrase his arguments.  It's also like the contrast between OTA television and cable, and the idea that amateurs will always find a way to pirate content, no matter what.  So many of the twentieth century's debates over the social use of mass media and whether or not that use is at odds with corporate interests, already played themselves out in the opening decades of the century.
@@ -25,6 +31,8 @@ Less faith in progress than one might otherwise think?  Reminds readers that th
 But here, about as positivist as you can get, in 193107_wonders_machine_age: "Famines, pestilence and other scourges were the usual thing long before the Machine Age, when there was no machine to put the blame on. Today, thanks to the Machine Age, we no longer have country-wide famines of the severity of the past; and thanks to science, we no longer have the scourges and pestilences that our ancestors had to contend with. Quick communication by rail, water, and air, tends to do away with both acute famine and widespread diseases.”  States that “science fiction is based upon the progress of science; THAT IS ITS VERY FOUNDATION. Without it, there could be no science fiction.”  Faith in technological progress is synonymous with SF, for Gernsback.  Adds that if we go back to a Middle Age, the Machine Age will not be the cause of it.  Humans will
 
 (from footnote)  Throughout *Radio for All,* Gernsback uses by then slightly older, outmoded technologies to open up radio's possible futures to a new community of wirelessly connected citizens.  Daniel Czitrom describes this approach to educating a new public in the very technology that would constitute their awareness of themselves *as* a public as Gernsback's "hardware socialism."
+
+Farah Mendelsohn, audience for Amazing was "the white middle-class male for whom American society is supposedly constructed but who is predominantly a consumer rather than a producer of ideology."  "the concerned—but not necessarily politically active—managerial and scientific middle-class."  in @westfahl_science_2002.
 
 regulation & activism
 

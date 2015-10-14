@@ -1,3 +1,5 @@
+See stuff from Cheng, Astounding Wonder, on stories from readers.  Hiding issues beneath shirts, trying to trade to get a complete set and finish a novel.
+
 The thematic TOC is meant only as a navigational aid. As you will see, the categories bleed into one another with articles touching on multiple topics at once. Part of the argument of this book is that tinkering *is* fiction, that a critical understanding of television was itself a scientifictional enterprise, and so on.
 
 Stuff on selected stories from Ralph and Sci Adventures: not for reasons of space, but to approximate the experience of readers who sometimes would only have access to one issue, who weren't subscribers but would read free issues and trade freely in letters section.  including only single installments from each gernsback novel will mirror the experience for readers who had trouble finding every issue of a novel and tried to trade and collect to get the complete story.  in a way, it’s a gesture toward re-opening this kind of community for modern readers who might want to find the stories for themselves.  See cheng_astounding p. 69 for more on this.

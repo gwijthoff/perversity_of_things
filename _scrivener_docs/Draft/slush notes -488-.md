@@ -42,12 +42,6 @@ Andrew Ross:  “in Gernsback’s view, sf was more a social than a literary mo
 
 Also, community of wireless operators.  Right after article on signaling to Mars (190905), the introduction of the Wireless Blue Book — individuals, people lighting up on a wireless map, as if soon the Martians will be in the addressable Blue Book too.
 
-Paul and illustrations
-
-=======================
-
-Gernsback says that producing realistic illustrations of the future is the most difficult, and most rewarding part of the magazine, and that the idea is to fire the imagination of a reader/experimenter:  "It is no easy matter to think out new things of the future and illustrating them adequately by means of expensive washdrawings or three-color cover illustrations.  Indeed, there is nothing more difficult connected with the publication." ("Imagination Versus Facts")
-
 Craftsmanship of writing SF
 
 =====================

@@ -1,5 +1,7 @@
 For Sara, who…
 
+For those, without whom:  [lifting from Delany thanks in Jewel-Hinged]
+
 Paul Israel
 
 Jim and Felix Kreuzer
@@ -10,12 +12,16 @@ Bill Gleason
 
 Meredith Martin
 
-Tom Levin
+Tom Y. Levin
 
 Kristin Gallerneaux (?)
 
 My colleagues in the Columbia Society of Fellows
 
 Patrick Belk and David Gleason (for scans)
+
+Mike Ashley
+
+Jeffrey Kirkwood
 
 To Steve Reich, Drake, and … for the music that fueled the writing of this book.
