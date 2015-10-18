@@ -50,7 +50,7 @@ x	⁃	Radically speculative: within the history of popular science magazines, th
 
 	⁃	HG and his community, occluded groups.  He wasn't an inventor like Edison or Jobs, but his career left us with a way of participating in and debating technological change.
 
-	•	"Up-to-date technic": [bio and magazine context]
+	•	"up-to-date technic": Media Theory in the Making  [bio and magazine context]
 
 x	⁃	personal background
 
@@ -82,7 +82,7 @@ x	⁃	beginning of Electrical Experimenter. Paul's illustrations and their inter
 
 	⁃	SF or 90s media theory game
 
-	•	"A perfect Babel of voices" [regulation and social ideology]
+	•	"a perfect Babel of voices":  Broadcast Regulation, Amateur Advocacy, and Technocracy  [regulation and social ideology]
 
 	⁃	what rules govern citizens of the ether?
 
@@ -98,7 +98,9 @@ x	⁃	beginning of Electrical Experimenter. Paul's illustrations and their inter
 
 	⁃	technocracy: managing capitalism's excesses
 
-	•	“certain future instrumentalities”: Tinkering, Making, and Mineral Proficiencies [tinkering]
+	•	“certain future instrumentalities”: Tinkering and Mineral Proficiencies [tinkering]
+
+x	⁃	osophone / martians / sewing needle
 
 	⁃	what is tinkering/inventing/mucking around 1910?
 
@@ -114,7 +116,7 @@ x	⁃	knack, rolling sets of expertise / mineral proficiencies
 
 	⁃	material possibility of an invention before it exists
 
-	•	"We exploit the future" [SF]
+	•	"we exploit the future": Scientifiction's Debut [SF]
 
 	•	How to Read This Book
 

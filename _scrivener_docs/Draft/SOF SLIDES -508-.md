@@ -14,6 +14,8 @@
 
     \
 
+# ![](images/debates_in_dh.png)
+
 # ![](images/telimco_receiver_ford.jpeg)
 
 # ![](images/telimco.jpg)
@@ -26,12 +28,12 @@
 
 # ![](images/H-Gernsback-EICO_Book_1918.jpg)
 
+# ![](images/television_telephot.jpg)
+
 # ![](images/Hugo-Gernsback.jpg)
 
 # ![](images/eico_store.png)
 
 # ![](images/me_catalog1907_jim.png)
-
-# ![](images/me_cover_mumford.jpg)
 
 # ![](images/ee_cover_telephot.jpg)

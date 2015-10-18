@@ -59,27 +59,3 @@ magazine publishing business
 =====================
 
 A dummy magazine is a prototype produced solely to trademark the publication’s title with the U.S. Patent Office before that magazine has ever been mass produced.  According to Sam Moskowitz, “Customarily only a few copies, rarely more than a dozen, of any one issue of such dummy magazines are produced, for the law requires only that you must show proof that you were paid for three copies in order to register the trademark.”  @moskowitz_gernsback_1971.  Examples of titles Gernsback submitted to the Patent Office in the form of dummy magazines that never materialized as full publications include *Scientific Detective Monthly* (1929),  *Buccaneer Stories* (1934), *Exploration Tales: Thrilling Stories and Novels of Past and Present Soldiers of Fortune* (1934), *True Supernatural Stories* (1934), and *Prescience Fiction* (1952).
-
-international tinkering context
-
-======================
-
-From Siegfried Zielinski:
-
-There are plenty of popular science and technology magazines from the one before last fin de siècle, but there is not much investigation on this theme. So it is very good that you are doing your study. The popular science magazine was a masse medium, this is what I wanted to stress. In Germany this went together with the idea of VOLKSBILDUNG (popular education for everybody) and the process of academies opening up for ideas and eventions of amateurs.
-
-Myself I delt a lot with the magazines of the so called WORKER'S RADIO MOVEMENT (Arbeiterradio-Bewegung). This was constituted after the first world war, because there had been many trained technicians/brodcasters (Funker), and they had no jobs. They did their own fairs even. Most of their inventions had been pinched by the industry. I have written short texts on this, but this is 40 years ago, when I was still studying. This is a Lemmatum I wrote for my old professor for our book on >>AnArchive(s)<<:
-
-Workers’ Radio Movement
-
-Prior to the introduction of the radio in the 1910s and 20s, in the workers’ movement media policy was solely a policy of ownership. With its own publishing houses, printing shops, bookshops and book clubs, its own stage plays, films, pho- nographic records and photographs, labour un- ions and leftist parties fought for their political and cultural goals against the influence of the capitalist awareness and entertainment indus- try. Often with kitsch in the class struggle, for ex-
-
-ample the weekly magazine In Freien Stunden contra the Gartenlaube. When radio officially commenced broadcasting in Germany in 1923, the left had to change their thinking. Because for technical, economic and political reasons, a policy of ownership was impracticable in this new medium. Whereas an emphatic demand was made for an independent workers’ broad- casting station, at the same time everything was done to effectively organise participation in
-
-35
-
-the new medium. The avant-garde of this new media policy in the dual strategy of ownership and intervention policy were the workers’ radio associations. The movement was initiated with the appeal ‘Calling all!’ broadcast on 9 Novem- ber 1918 by representatives of the workers’ and soldiers’ council who had seized the Wolffsches Telegraphenbüro in Berlin – the beginning of a general strike. It was stopped by the violent de- struction of its office and its workshops by the Nazis. The last issue of the Arbeiter-Sender, published by the communist faction within the movement, was released on 24 February 1933. Two days later, the Freier Radio-Bund was banned. Media policy had top priority for the new brown strongmen in Berlin. In the nearly 15
-
-Arca musarithmica
-
-years of its existence, the workers’ radio move- ment activists mounted numerous exhibitions in which they presented inventions in the area of radio; organised technical courses for the self- assembly of broadcasting and receiving devic- es; published their own magazines; organised evenings for listening to foreign broadcasts, which the Nazis made punishable by death in 1939; and produced radio plays and other piec- es for radio, for example Emil Rosenow’s Ka- ter    Lampe    (1926);    Anderson / Hickerson’s    radio play about the American labour leaders Sacco and Vanzetti, Gods of the Lightning; Friedrich Wolf’s John D. erobert die Welt; or Johannes R. Becher’s Die Tragödie des William Fox oder die Schlacht am Schwarzen Freitag (1931).

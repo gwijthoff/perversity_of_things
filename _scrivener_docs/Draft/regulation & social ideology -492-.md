@@ -6,6 +6,8 @@ As these newly minted citizens of the ether stepped "out into the star-lit night
 
 HG’s social ideology through technology, as a technocrat and a utopian.
 
+There are many parallels to the ways that politics are reorganizing themselves around the Internet today.  We can hear echoes of free culture / open source activist Lawrence Lessig in Gernsback's rejoinder to wired radio that information wants to be free, more or less.  We can hear net libertarians in his…
+
 Use??
 
 	- rival leagues in **Wireless Association of America**
