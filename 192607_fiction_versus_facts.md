@@ -14,7 +14,7 @@ csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 
 **A** FEW letters have come to the Editor's desk from some readers who wish to know what prompts us to so frequently preface our stories in our introductory remarks with the statement that this or that scientific plot is not impossible, but quite probable.
 
-These readers seem to have the idea that we try to impress our friends with the fact that whatever is printed in AMAZING STORIES is not necessarily pure fiction, but could or can be fact.[^rdr]
+These readers seem to have the idea that we try to impress our friends with the fact that whatever is printed in AMAZING STORIES is not necessarily pure fiction, but could or can be fact.
 
 That impression is quite correct. We DO wish to do so, and have tried to do so ever since we started AMAZING STORIES. As a matter of fact, our editorial policy is built upon this structure and will be so continued indefinitely.
 
@@ -43,12 +43,6 @@ Mr. G. Peyton Wertenbaker, author of "The Man from the Atom," says this on the s
 "It is hard to make an actual measure, of course, for the determination of the correct amount of science, but the aesthetic instinct can judge. I can only point out as a model the works of Mr. H. G. Wells, who hits instinctively recognized, in his stories, the correct proportions of fiction, fact, and science. This has been possible only because Mr. Wells is a literary artist above everything, rather than predomin- antly a scientist. If he were a scientist, his taste and sense would permit him only to write books of scientific research. Since he is an artist, he has given us the first truly beautiful work in this new field of literature."
 
 These opinions, we believe, state the case clearly. If we may voice our own opinion we should say that the ideal proportion of a scientifiction story should be seventy-five per cent literature interwoven with twenty-five per cent science.[^cgt]
-
-[^rdr]: John Cheng argues that the publication of readers' letters in the pages of *Amazing Stories* allowed for writers, editors, and readers to engage in a dialogue on science that wasn't merely a passive spectator sport.  It was the construction of a popular consensus on what counted as scientific fact: 
-
-    > As they redefined the character of participation that publishers sought to create for them, readers' exchanges also reshaped the character of science within their writers' fiction and their editors' features, reading it with unanticipated intent and unintended consequence.  Science fiction's conversations not only fostered a community of readership, they imagined and reimagined science and fiction within the social dynamics and historical circumstances of the 1920s and 1930s." 
-    
-    @cheng_astounding_2012, p. 78.
 
 [^cgt]: For Darko Suvin, whose formulation of "cognitive estrangement" has been one of the most influential critical concepts in science fiction studies, the science that a given work explores shapes the parameters of its "literariness," as Wertenbaker and Gernsback put it here.  "Once the elastic criteria of literary structuring have been met, *a cognitive---in most cases strictly scientific---element becomes a measure of aesthetic quality, of the specific pleasure to be sought in SF.*  In other words, the cognitive nucleus of the plot [the work's scientifically plausible conceit] codetermines the fictional estrangement [the fictional construction of a world different from our own] itself." @suvin_metamorphoses_1979, p. 15.  
 

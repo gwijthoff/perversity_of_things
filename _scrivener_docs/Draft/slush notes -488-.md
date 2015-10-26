@@ -59,3 +59,17 @@ magazine publishing business
 =====================
 
 A dummy magazine is a prototype produced solely to trademark the publication’s title with the U.S. Patent Office before that magazine has ever been mass produced.  According to Sam Moskowitz, “Customarily only a few copies, rarely more than a dozen, of any one issue of such dummy magazines are produced, for the law requires only that you must show proof that you were paid for three copies in order to register the trademark.”  @moskowitz_gernsback_1971.  Examples of titles Gernsback submitted to the Patent Office in the form of dummy magazines that never materialized as full publications include *Scientific Detective Monthly* (1929),  *Buccaneer Stories* (1934), *Exploration Tales: Thrilling Stories and Novels of Past and Present Soldiers of Fortune* (1934), *True Supernatural Stories* (1934), and *Prescience Fiction* (1952).
+
+pro / con
+
+========
+
+Emphasis on forum, but a debased one:  
+
+	James Gunn, Alternate Worlds: The Illustrated History of SF:  “Gernsback provided a focus for enthusiasm, for publication, for development.  He may not have shaped modern science fiction… but he provided a place for science fiction to be shaped.  Looking back on the place, it may have been a ghetto, but it was a golden ghetto, a place of brotherhood and opportunity and wonder.  Before Gernsback there were science fiction stories.  After Gernsback, there was a science fiction genre.” (128) 
+
+	Malcolm J. Edwards:  in ESF:  G “gave the genre a local habitation and a name,” and “bestowed upon his creation provincial dogmatism and an illiteracy that bedeviled US SF for years.”
+
+	Aldiss (sets the disparaging tone for some years):  as Landon Brooks puts it, summarizing the current state of scholarship (or lack thereof) on Gernsback, influenced by Aldiss:  “Gernsback’s approach to science fiction was so crude and heavy-handed that it actually initiated most of the negative stereotypes that have been advanced to disparage science fiction” (54).
+
+	Landon Brooks, leaving questions of quality aside, writes that Amazing Stories was “the first true science fiction magazine—the birthplace of genre science fiction,” and Gernsback was “science fiction’s first great editor and critic.”

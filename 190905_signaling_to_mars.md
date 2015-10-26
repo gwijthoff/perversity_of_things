@@ -18,7 +18,7 @@ It is safe to say that all the proposed, possible as well as impossible, project
 
 So far only one feasible plan has been worked out.  The writer refers to Professor Pickering's mirror arrangement, now being discussed all over the world.  But even Professor Pickering is skeptical, as he apparently does not like to take the responsibility of spending ten million dollars on a mere idea which might prove fallacious.[^pic]
 
-Wireless telegraphy has been talked of much lately as a probable solution to the problem.  The writer wishes to show why it is not possible at the present stage of development to use wave telegraphy between the two planets, but at the same time he would like to present a few new ideas how it could be done in the near future.
+Wireless telegraphy has been talked of much lately as a probable solution to the problem.  The writer wishes to show why it is not possible at the present stage of development to use wave telegraphy between the two planets, but at the same time he would like to present a few new ideas how it could be done in the near future.[^o29g]
 
 Take the average present-day wireless station having an output of about 2 K. W.  On good nights and under favorable circumstances such a station may cover 1,000 miles.  Very frequently, however, only about 800 miles can be spanned.
 
@@ -133,3 +133,5 @@ And still some people wish to keep the student in the dark, to refrain him from 
     ![Second annual *Wireless Blue Book,* courtesy: Collection of Jim and Felicia Kreuzer, Grand Island, NY.](images/blue_book2_jim.png) <!-- no figure -->
     
 [^sunn]: Oliver Heaviside proposed the existence of an electrically charged layer in the atmosphere in 1902, but it wasn't until 1927 that the existence of the ionosphere was confirmed.  While Gernsback is correct here that the presence of sunlight effects the transmission of radio waves, it is not the sun's rays themselves but rather their interaction with the ionosphere that causes interference.  He couldn't have known that in 1909, but this was another area where technological achievements outpaced their scientific explanations.  Marconi's first successful transatlantic wireless message in 1901, sent *around* the curvature of the earth, was possible because it bounced off the then-undiscovered ionosphere.
+
+[^o29g]: William Preece, engineer-in-chief of the British Post Office and radio experimenter, suggested as early as 1898 that wireless could be used to contact Mars:  “If any of the planets be populated with beings like ourselves, then if they could oscillate immense stores of electrical energy to and fro in telegraphic order, it would be possible for us to hold commune by telephone with the people of Mars.”  @preece_ethereal_1898.  Quoted in @douglas_amateur_1986.  See also @waller_can_1920.

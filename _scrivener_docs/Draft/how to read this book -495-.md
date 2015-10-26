@@ -17,3 +17,5 @@ There's a consistency among all the devices listed in Gernsback's stories and ar
 Selection criteria:  both representative and uniquely interesting.
 
 These essays represent the hight of Gernsback's output, from his first ever piece of published writing to some of the first editorials he worte after the bankruptcy of Experimenter Publishing in February 1929.
+
+(For a complete list of the fiction published in the Gernsback magazines from *Modern Electrics* on, see **The Evolution of Modern Science Fiction.**)

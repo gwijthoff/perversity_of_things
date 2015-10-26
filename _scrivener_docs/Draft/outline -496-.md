@@ -30,6 +30,8 @@ BIG POINTS
 
 	•	[opening]
 
+	•	(2 days)
+
 x	⁃	Coggeshall's handicraft and Gernsback's storytelling.  From a physical medium of metal filings to a social medium of radio.
 
 x	⁃	This is the story of a literary genre's emergence, but not one that the reader is familiar with.  SF began much earlier than AS, and not primarily as a literary phenomenon but an understanding of everyday technology through making and tinkering.
@@ -52,6 +54,8 @@ x	⁃	Radically speculative: within the history of popular science magazines, th
 
 	•	"up-to-date technic": Media Theory in the Making  [bio and magazine context]
 
+	•	(1 day)
+
 x	⁃	personal background
 
 x	⁃	beginnings of Modern Electrics, its authors
@@ -64,9 +68,19 @@ x	⁃	beginning of Electrical Experimenter. Paul's illustrations and their inter
 
 	•	"'phone and code": Wireless, Television, and Other Emerging Media
 
+	•	1 week
+
+	⁃	SF or 90s media theory game
+
+	⁃	How do new media emerge, and how do we understand their history?  They develop within communities.
+
+	⁃	The idea that media "evolve", that they have platonic forms
+
 	⁃	wireless
 
 	⁃	tech optimism after WWI and Span Civil War
+
+	⁃	wireless as an intellectual phenomenon, linking moving humanity to stationary. were women part of this community?
 
 	⁃	initially, the amateur avant garde in development of radio
 
@@ -76,13 +90,9 @@ x	⁃	beginning of Electrical Experimenter. Paul's illustrations and their inter
 
 	⁃	corporations hoarding patents, when a community of amateurs would help the art progress faster
 
-	⁃	media
-
-	⁃	a medium's platonic form
-
-	⁃	SF or 90s media theory game
-
 	•	"a perfect Babel of voices":  Broadcast Regulation, Amateur Advocacy, and Technocracy  [regulation and social ideology]
+
+	•	1 week
 
 	⁃	what rules govern citizens of the ether?
 
@@ -98,7 +108,11 @@ x	⁃	beginning of Electrical Experimenter. Paul's illustrations and their inter
 
 	⁃	technocracy: managing capitalism's excesses
 
+	⁃	suffragists and radio
+
 	•	“certain future instrumentalities”: Tinkering and Mineral Proficiencies [tinkering]
+
+	•	3 hours
 
 x	⁃	osophone / martians / sewing needle
 
@@ -118,6 +132,30 @@ x	⁃	knack, rolling sets of expertise / mineral proficiencies
 
 	•	"we exploit the future": Scientifiction's Debut [SF]
 
+	•	1 week
+
+x	⁃	smooth transition from tech to SF magazines
+
+x	⁃	basic structure: an idea and its technical feasibility
+
+x	⁃	Gernsback's own stories
+
+	⁃	imagination as a form of invention
+
+	⁃	there is no fiction, and the defense of fiction
+
+	⁃	what is invention?
+
+	⁃	invention before its material possibility (ref. back to tinkering)
+
+	⁃	19th C -> race -> women in SF
+
+	⁃	educational aims
+
+	⁃	shifting discourse on science
+
+	⁃	education through wonder
+
 	•	How to Read This Book
 
 shuffling sections
@@ -126,17 +164,17 @@ shuffling sections
 
 [Open]
 
-up-to-date technic [bio]
+"up-to-date technic":  Media Theory in the Making
 
-'phone and code [emerging media]
+"'phone and code":  Wireless, Television, and Other Emerging Media
 
-a perfect Babel of voices [social ideology]
+"a perfect Babel of voices":  Broadcast Regulation, Amateur Advocacy, and Technocracy
 
-certain future instrumentalities [tinkering]
+"certain future instrumentalities": The Mineral Proficiencies of Tinkering
 
-we exploit the future [sf]
+"we exploit the future": Scientifiction Debuts
 
-How to Read
+How to Read This Book
 
 former
 
