@@ -148,7 +148,7 @@ x	⁃	Gernsback's own stories
 
 	⁃	invention before its material possibility (ref. back to tinkering)
 
-	⁃	19th C -> race -> women in SF
+x	⁃	19th C -> race -> women in SF
 
 	⁃	educational aims
 
