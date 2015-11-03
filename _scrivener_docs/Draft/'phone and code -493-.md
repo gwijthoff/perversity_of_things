@@ -1,6 +1,6 @@
-"'phone and code"
+"'phone and code": Wireless, Television, and Other Emerging Media
 
-=================================
+=======================================================
 
 Guillory:  "As we shall see, the extrapolation of a process of mediation from the fact of a particular communicative medium (speech, writing, print) depended not on the incorporation of the concept of medium into a more general conceptual framework but the reverse, a reduction of the social totality to communication as its representative in- stance."  @guillory_genesis_2010, 344
 
@@ -8,75 +8,39 @@ SF or 90s media theory?
 
 --------------------------------
 
+Thinking about both the rapidly evolving media that shape how we communicate with one another and understand the world, as well as the magazine itself as a medium capable of keeping up with these developments.
+
 A number of quotes in the intro. And play a game: science fiction or 90s media theory?  Some of the following quotes are taken from works of science fiction, and others from works of 1990s media theory.  Can you tell which is part of which genre?  Goes to show the common threads of both SF and media theory, the way works in both genres from the 90s seem so similar.
 
 "We are constantly being speeded up mentally" (Are We Intelligent) by Gernsback reads like a line right out of The Gutenberg Galaxy.  That our sensory environments are too packed, too distracting, and we need a better medium to communicate to the masses through because of this.
 
 **Are We Intelligent,** cites the information overload for everyday people w/ modern technology, and that S&I is designed to match the speed with which people disseminate information now.  A very familiar sounding approach now, with digestible news stories and the time to read listed in the header, etc.  Magazine as a medium for educating an overwhelmed public.  Nice closing gesture to today, and the speed at which Gernsback's ideas moved.
 
-media history / media archaeology
-
--------------------------------------------
-
-> *Later works that read current inventions in light of their not so distant precursors, profiling forgotten (and often quirky) paths not taken in the development of radio and television.*
-
-In Gernsback's editorials, media history is evoked not merely as a nostalgic trip back to the devices of yesteryear, as it often is today in retro-kitsch, but as an archive of possibilities ripe for future experimentation. For instance, in a 1927 editorial ("Radio Steps Out"), at a moment when national broadcast networks were flickering to life and music and variety programs were flooding the country, the medium of radio had become a fixed idea in people's minds that papered over the inherent abilities of the underlying technology. Looking back on that strange trajectory in which the technology underlying wireless telegraphy became "radio," an everyday part of household furniture, Gernsback writes, "the public at large is not aware of the fact that the art of radio is used for hundreds of different purposes aside from broadcasting and telegraphy. … There is hardly any industry today that cannot make use of radio instruments in some phase of its work."
-
-His examples range from a force-field like burglar alarm, to automating the recording of lightning strikes, from measuring the minute weight and touch of a fly to scanning factory workers for stolen metals. And, in a forgotten example of Gernsback's own from the 1900s (which he christened the "Dynamophone") electric motors can be started remotely by the human voice, proving that "the apparatus foreshadowed broadcasting: the human voice actually did create effects at the receiving end," both for machines and humans.  Gernsback consistently reminds us that the inherent abilities of wireless, i.e. of information transmitted through the air, has now itself been scattered by the winds of technological evolution and inflects our understanding of and interaction with a fantastic number of techniques, technologies, and media.
-
-As in **New Radio 'Things' Wanted,** basically remixing and retrofitting old technologies to imagine the next great advance in radio.
-
-A trip back to the archives for forgotten curiosities in radio history, both to educate an expanding public on precisely how this technology works, and to find new paths forward that may have been overlooked.
-
-In 192704_radio_steps_out, it's shown how radio technology infuses many other devices and media, including sound film and the phonograph.  The interweaving of these seemingly disparate cultural forms just goes to show how much emerging media were a product of alchemical combinations between components and imaginaries -- the idea here being that "radio" could have been anything, not just the consumer-friendly broadcast medium it was being solidified as in 1927.  Given a different combination of shared elements between new media, many other configurations were possible.
-
 media evolution
 
 -------------------------
 
-In a September 1926 article, he makes a striking media historical analogy between the threat of radio broadcasting to phonograph manufacturers, and that of the “eliminator” (a lighter, more portable, and rechargeable source of power developed in the mid-20s) to battery manufacturers. In Gernsbackʼs model of the historical “cycles” that the tech industry goes through, competing methods of delivering media— whether the medium is electricity or audio—do not replace but rather force one another to find their own unique attributes, simply as a matter of survival. In his media historical writings, Gernsback often speaks of the “perfection” of an apparatus, a question of medium specificity he almost always raises through the lens of viable business models. Gernsback, Hugo, “Is Radio at a Standstill?” Radio News vol. 8 no. 3 (September 1926), p. 203.
+Where do new media come from?
 
-* * * * * * * * 
+a sense that media "evolve" according to their own logic.
 
-“Coming Developments in Radio”
+In **Is Radio at a Standstill?,* he makes a striking media historical analogy between the supposed threat that the rise of radio broadcasting posed to established phonograph manufacturers, and the impact of the “eliminator” (a lighter, more portable, and rechargeable source of power developed in the mid-20s) to conventional battery manufacturers.  In the model that Gernsback outlines here of the historical cycles that the technology industry goes through, competing formats---whether the medium is electricity or audio---do not replace but rather force one another to find their own unique attributes, simply as a matter of survival.  In his media historical writings, Gernsback often speaks of the "perfection" of an apparatus, a question of medium specificity he almost always raises through the lens of viable business models.  Despite his penchant for projecting far-flung futures, Gernsback was often remarkably conservative when it came to the specifics of precisely how long such perfection would take, and what it would mean for developments in emerging media like wireless (later radio) and television.  Given the small sample size of these very young histories, there was little the technologist had to go in in thinking about the stable, almost Platonic forms that would emerge from the still-underdetermined interaction between rapidly changing technologies and cultural forms.  As he writes in **Edison and Radio**:
 
-“…in which the Editor points out that there have not been any revolutionary improvements in radio and it is likely there will not be any"
+> The radio industry today is only five years old, and it may safely be predicted that when it becomes as old as the phonograph is today we shall hardly be able to recognize it as the same development.  It is admitted that radio is not yet perfect.  Neither is the phonograph, nor the automobile, or motion pictures, nor electric lights; nor, for that matter, a pair of shoes.
 
-* * * on media evolution:  “It is this process of slow evolution that we may expect in the future, as well, and the old adage also holds true in radio: “Natura non facit saltum”—which, translated, says that Nature does not make jumps.  In other words, all developments are part of a slow-moving plan of evolution.  Even revolutionary inventions, when they do come along, will be found in the end to be not half as great a departure as they were thought to be at first.”
+In a move that is perhaps unexpected for a technofuturist like Gernsback, he frequently tempers what he saw as a boosterish furor over the rapid development of new technologies.  By 1927, radio was firmly cemented in American life as an everyday piece of household furniture.  Not only were radios rapidly spreading into homes across the country after the so-called "radio Christmas" of 1924, but the legislative frameworks that would determine the structure of American broadcasting were finally being hammered out.^["More than ten times the number of tube sets were manufactured in 1925 than just two years earlier, and four times as many speakers as in 1923."  @douglas_listening_1999, 78].  Despite this seemingly overnight explosion, Gernsback writes in 1927, “there have not been any revolutionary improvements in radio and it is likely there will not be any."  Instead, people should expect a long process of gradual refinement:
 
-Actually tempers boosterish or wide-eyed furor or excitement over new technologies:  when broadcasting first initiated, “It was foretold, on all sides, that every school would have radio outfits installed, by means of which the pupils would be instructed by lectures from a central place, where some men of great eminence would lecture, so that the classes all over the country would get the same information simultaneously.”
+> It is this process of slow evolution that we may expect in the future, as well, and the old adage also holds true in radio: "Natura non facit saltum"---which, translated, says that Nature does not make jumps.  In other words, all developments are part of a slow-moving plan of evolution.  Even revolutionary inventions, when they do come along, will be found in the end to be not half as great a departure as they were thought to be at first.^[@gernsback_coming_1926.]
 
-From **Edison and Radio**:  Platonic forms:  “The radio industry today is only five years old, and it may safely be predicted that when it becomes as old as the phonograph is today we shall hardly be able to recognize it as the same development.  It is admitted that radio is not yet perfect.  Neither is the phonograph, nor the automobile, or motion pictures, nor electric lights; nor, for that matter, a pair of shoes.”
+One possible move was to read current inventions in light of their not so distant precursors, profiling forgotten (and often quirky) paths not taken in the development of emerging media.  In many of Gernsback's editorials, the history of media is evoked not merely as a nostalgic trip back to the devices of yesteryear, but as an archive of possibilities ripe for future experimentation. For instance, in another 1927 editorial, at a moment when national broadcast networks were flickering to life and music and variety programs were flooding the country, the medium of radio had become a fixed idea in people's minds that papered over the inherent abilities of the underlying technology. Looking back on that strange trajectory in which the technology underlying wireless telegraphy became "radio," an everyday part of household furniture, Gernsback writes, "the public at large is not aware of the fact that the art of radio is used for hundreds of different purposes aside from broadcasting and telegraphy. … There is hardly any industry today that cannot make use of radio instruments in some phase of its work."^[@gernsback_radio_1927.]  His examples range from a force-field like burglar alarm, to automating the recording of lightning strikes, from measuring the minute weight and touch of a fly to scanning factory workers for stolen metals.  And, in a forgotten example of Gernsback's own from the 1900s (which he christened **The Dynamophone**) electric motors can be started remotely by the human voice, proving that "the apparatus foreshadowed broadcasting: the human voice actually did create effects at the receiving end," both for machines and humans.  Gernsback consistently reminds us that the inherent abilities of wireless, of information transmitted through the air, has now itself been scattered by the winds of technological evolution and inflects our understanding of and interaction with a fantastic number of techniques, technologies, and media.  This wasn't just a historiographical move.  In articles like **New Radio 'Things' Wanted,** Gernsback encouraged home experimenters to remix and retrofit old technologies in order to imagine what the next great advance in radio might look like.  Pieces like this both educated an expanding public on precisely how this technology worked, as well as sought out new paths forward that may have been overlooked.
 
-wireless
+Setting aside the seeming perversity of emerging media that allowed them to evolve as if according to their own internal logic, Gernsback elsewhere emphasizes the important role that communities of users played in developing these new cultural forms.  In this sense, the merits of one detector over another were far less important than the new kinds of connection they made possible.  Wireless was an inherently ethereal medium.  In "the most inspiring example of the triumph of mind over matter" (**A Treatise on Wireless Telegraphy**), simple minerals like zinc and copper could be harnessed to transmit the self, live across the ocean.  "We are now on the threshold of the wireless era, and just beginning to rub our intellectual eyes, as it were" (**Wireless Association of America**).  Wireless promised constant contact between friends, family, and complete strangers regardless of location.  "The radiophone," he wrote using another short-lived name for radio *avant la lettre,* "will like moving humanity with the stationary one" (**The Future of Wireless**).^[Gernsback continues to use the term "radiophone" as late as 1923.]  In other words, using "wireless tele-mechanics," even people driving in automobiles could have a conversation with someone sitting at home.  In 1909, Gernsback began publishing an annual wireless *Blue Book* containing the names and call signs of amateur wireless operators around the country.  The announcement of this annual directory that promised more and more citizens of the ether popping up on the map with each passing year alongside his feature on sending and receiving wireless signals from Mars (**Signaling to Mars**) makes it seem as if soon, even Martians will be addressable in the *Blue Book.*  Less than a decade later, Gernsback could write that "In our big cities thousands of ears listen every minute of the day to what is going on in the vast ether-ocean" (**War and the Radio Amateur**).
 
-------------
+In many ways, this poses a classic science fictional question: how can national borders remain in the face of a dawning global consciousness?  The answer, of course, is that these utopian dreams were themselves the product of an American public that emerged from the horrors of World War I seemingly unscathed.  What they didn't realize was that the network of large wireless relay towers whose signals were a popular draw for new and existing amateur listeners were themselves a product of the United States's nationalist ambitions in teh wake of the Spanish-American War.  Wireless at that time was seen as an important tool in networking and securing the public.  (See the annotations in "Wired Radio Versus Space Radio" for more on the strategic control of submarine cables after the Spanish-American War.)
 
-context and optimism
+* * * * * * communities
 
------------------------------
-
-American nationalist/colonialist aspirations after the Spanish American War is an important context for thinking about networking (and securing) a public, a polity, as well as the question of whose future was being imagined as existing within this public, whose wonder in the face of self-awareness as being a part of this public.  See the footnote in "Wired Radio Versus Space Radio" on strategic control of submarine cables.
-
-In a sense, G's optimism about technological progress is only possible in the unscathed US after World War I.
-
-A classic SF question: how can national borders remain with global networks unifying all peoples?
-
-"radiophone" still being used as late as 192302_who_will_save
-
-ether community
-
------------------------
-
-Wireless as an inherently elevated, intellectual phenomenon.  Ethereal, both in how raw minerals like zinc and copper can be used to communicate through the air for miles and miles, but the fact that voices now exist on the air, that we can commune in that way:  "the most inspiring example of the triumph of mind over matter," from "A Treatise."  Later in an article on regulation, says, "We are now on the threshold of the wireless era, and just beginning to rub our intellectual eyes, as it were" ("Wireless Association of America").
-
-wireless blue book announcement right after signaling to mars editorial… individuals lighting up on a wireless map, as if soon the martians will also be addressable in the wireless blue book.
-
-On **The Wireless Telephone:** at a time in which wireless telephony was still very much a speculative technology, workable only in limited, experimental demonstrations, here was a book that introduced a popular audience to a medium of the future by encouraging them to build it.
-
-"The radiophone will link moving humanity with the stationary one." (**The Future of Wireless**)  Things such as Wireless Tele-Mechanics (v2n03 p. 112), surveying the wide and almost limitless range of applications for the new techniques of wireless.  (Radio Kinetics elsewhere?)  not just moving humanity with stationary, but translating human motion and agency from one space to another.  The radio doctor (telemedicine), for instance, in an Evernote.
-
-"In our big cities thousands of ears listen every minute of the day to what is going on in the vast ether-ocean." (**War and the Radio Amateur**)
+One wonders throughout his writings who was included and excluded by this community.  Gernsback himself is remarkably silent on all questions regarding race, gender, and class, perhaps in the hopes of not alienating any potential readers.  
 
 Silberman:
 
@@ -94,15 +58,17 @@ Though it is indeed rare that women are made visible in the pages of these magaz
 
 > We informed him immediately that they were secretaries, stenographers and typists, as well as editors and proofreaders and many others who had directly to do with the production of the magazine.  The firm that did the composing had several dozen girls that performed various jobs in connection with the magazine.  The printer had a number of girls who were either bookkeepers or stenographers, through whose hands passed the bills for the magazine, and the same was true of practically every other industry connected with the production of the magazine.^[@gernsback_magazine_1928.]
 
-Though women are rarely made visible in the content of these magazines themselves, they are there at every stage in the process of their production, from the graphite mines to the chemical supply houses to the newsdealers.  Women are the very circuits that connect and regulate all of the magazine's material inputs and outputs.^[For a history of the influential role women played in the history of periodical publishing throughout he nineteenth century, see @harris_blue_2004.]
+Though women are rarely made visible in the content of these magazines themselves, they are there at every stage in the process of their production, from the graphite mines to the chemical supply houses to the newsdealers.  Women are the very circuits that connect and regulate all of the magazine's material inputs and outputs.^[For a history of the influential role women played in the history of periodical publishing throughout the nineteenth century, see @harris_blue_2004.]
 
-Replicated on Mars, with Martian women part of a "Tos rod" correspondence technology in *Baron Münchausen.*  For some reason, direct thought transference needs a secretary to make a record of it.  A "sensitive recording mechanism" that is "in charge of a secretary" -- one would think he means in *the* charge of a secretary, but who knows.  the role of the female secretary in this procedure is strange.  the entire process is described as the product of a machine, a stylus.  nowhere does she come into the operation, unless she’s occluded by the passive voice…  “is always recorded,” “is carefully labeled and stored away.”^[@CITE_SPECIFIC_INSTALMENT]
+Replicated on Mars, with Martian women part of a "Tos rod" correspondence technology in *Baron Münchausen.*  For some reason, direct thought transference needs a secretary to make a record of it.  A "sensitive recording mechanism" that is "in charge of a secretary" -- one would think he means in *the* charge of a secretary, but who knows.  the role of the female secretary in this procedure is strange.  the entire process is described as the product of a machine, a stylus.  nowhere does she come into the operation, unless she’s occluded by the passive voice…  “is always recorded,” “is carefully labeled and stored away.”^[@gernsback_scientific_2010, p. 137.]
 
 ![From *Electrical Experimenter,* May 1919.](images/thought_recorder.tiff)
 
 amateur avant garde
 
 --------------------------
+
+What role did this community play?
 
 A detente throughout the 1910s after the Radio Act is passed, wherein amateurs could still be seen as the avant garde.
 
@@ -112,19 +78,7 @@ The amateur avant garde:
 
 > The set builder naturally is well able to compete with the manufacturer, for two reasons. First, his time costs him little, and in price, therefore, he can compete easily with the factory-made set. Secondly, he has the jump on the manufactured set for the simple reason that, as like as not, his circuit is the latest out, and, therefore, will have improvements that the manufactured set can not boast for some months to come.(**Radio Enters a New Phase**)
 
-But later, when the technology and the regulation of radio becomes too complicated for amateurs to follow, when WRNY is forced to shut down by the FCC because it's too small, we see a different track being taken (can draw on diss chapter here for Gernsback's archaeology of radio):
-
-Exactly one year after Gernsback launched *Amazing Stories,* he returned his attention to the wireless industry that had given him his start in publishing.  In an April 1927 editorial for his flagship electronics publication, Radio News, Gernsback asked his readers to forget everything they knew about radio.  With the rise of big broadcast networks and programs, the medium of radio had become a fixed idea in people’s minds that papered over the inherent abilities of the underlying technology.
-
-> There was a day, many years ago, when radio was not ‘radio’ at all, but merely ‘wireless.’  The art at that time was merely one of communication; that is, the transmission of intelligence by signals from one point to another without intervening wires.  So things stood, more or less, until the advent of the vacuum tube, after which soon followed the first really successful wireless telephone, which today we term the ‘radiophone,’ as applied to broadcasting.(**Radio Steps Out**)
-
-By 1927, the radio was firmly cemented in the American mind as an everyday piece of household furniture.  Not only were radios rapidly spreading into every American home after the “radio Christmas” of 1924 [find in Douglas -- maybe just say “after several “Radio Christmases” brought the sets into many homes…  so that focus remains on 1927], but the legislative frameworks that would determine the structure of American broadcasting were finally being hammered out.  1927 was the year that the Federal Radio Commission, established by the Radio Act of 1927, came to power, replacing the Department of Commerce as having power to regulate and divide radio stations.  Government regulation of radio had been anticipated for some time, and congressional debates were held as early as 190… over the wild west of the airwaves and how to prevent interference (of the then narrow range of tunable frequencies) and mischief (relaying false messages to ships).
-
-Looking back on that strange trajectory in which the technology underlying “wireless telegraphy,” or more simply “wireless,” as it was known under the Marconi configuration, became “radio,” that everyday part of household furniture, Gernsback writes:
-
-> But radio does not stop here, although the public at large is not aware of the fact that the art of radio is used for hundreds of different purposes aside from broadcasting and telegraphy.” (**Radio Steps Out**)
-
-True to form for Gernsback, a notorious self-promoter, many of the following examples were either invented by him, or “now famous” devices that were first written about and introduced to the public in the pages of Modern Electrics, Gernsback’s first magazine, which ran from 1908 to 1913.  The Dynamophone, for instance, “an apparatus whereby it was possible, with the human voice, to start an electric motor or any other electrical appliance from a distance.”  Or… find more examples
+But later, when the technology and the regulation of radio becomes too complicated for amateurs to follow, when WRNY is forced to shut down by the FCC because it's too small, we see a different track being taken, an archaeology of forgotten developments that are simpler, and can still prove useful.
 
 These contradictions [extolling the virtues of the amateur and the tinkerer while being bankrolled by RCA and AT&T(?) advertising revenue] abounded in the pages of Gernsback’s publications.  
 

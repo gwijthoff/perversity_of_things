@@ -1,6 +1,6 @@
 "certain future instrumentalities”: Tinkering, Making, and Mineral Proficiencies
 
-==================================================
+======================================================
 
 In *Electrical Experimenter's* January 1916 "Wrinkles, Recipes, and Formulas" section, amid a recipe for writing fluid and instructions for a homemade heliograph printing process, there appears a curious piece by Gernsback that recommends the reader try biting a sewing needle tightly between his teeth while holding the sharp end to the groove of a phonograph record:
 

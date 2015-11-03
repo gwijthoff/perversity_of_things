@@ -70,11 +70,13 @@ x	⁃	beginning of Electrical Experimenter. Paul's illustrations and their inter
 
 	•	1 week
 
-	⁃	SF or 90s media theory game
-
-	⁃	How do new media emerge, and how do we understand their history?  They develop within communities.
+	⁃	How do new media emerge, and how do we understand their history?
 
 	⁃	The idea that media "evolve", that they have platonic forms
+
+	⁃	They develop within communities
+
+	⁃	What was the makeup of this community?
 
 	⁃	wireless
 
@@ -130,9 +132,7 @@ x	⁃	invention vs. "philosophical research" about the future, according to Edis
 
 	⁃	material possibility of an invention before it exists
 
-	•	"we exploit the future": Scientifiction's Debut [SF]
-
-	•	1 week
+x	•	"we exploit the future": Scientifiction's Debut [SF]
 
 x	⁃	smooth transition from tech to SF magazines
 
@@ -154,11 +154,11 @@ x	⁃	Imagination as a form of invention.
 
 x	⁃	Were the "inventions" of 19thC proto-SF scientifiction? No, they couldn't be verified by a community.
 
-	⁃	19thC - > race -> women in SF
+x	⁃	19thC - > race -> women in SF
 
 	⁃	Whose future was being imagined? (don't have to pivot on 19C, but maybe on whose future, and who was deciding)
 
-	⁃	educational aims
+x	⁃	educational aims
 
 	⁃	shifting discourse on science
 

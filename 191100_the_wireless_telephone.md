@@ -17,7 +17,7 @@ csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 
 # Preface
 
-The present little volume is intended for the experimenter doing research work in wireless telephony and the student who wishes to keep abreast with the youngest branch of the new wireless art.
+The present little volume is intended for the experimenter doing research work in wireless telephony and the student who wishes to keep abreast with the youngest branch of the new wireless art.[^dsu3]
 
 The author realizes that the future use of the wireless telephone will be confined to the low power or battery system, as the present instruments, necessitating 220 and 550 volts for their successful operation, are not desirable nor practical enough for every day use.
 
@@ -142,6 +142,8 @@ In operation the varying resistance of the transmitter dx causes a fluctuating c
 The receiving apparatus consists of a telephone p, by means of which the passage of the transmitted energy through the receiving shunt o may be detected.
 
 In some cases they employ a condenser lx, as shown either in full or dotted lines in Fig. 22d, to obviate the effect of earth-currents.[^ebwu]
+
+[^dsu3]: This text is excerpted from a slim, 73-page book published by Gernsback's Modern Publishing Co.  At a time in which the wireless transmission of audio (referred to here as "the wireless telephone") was still workable only in limited experimental demonstrations, here was a book that introduced a popular audience to a speculative medium of the future by encouraging them to build it.
 
 [^ebwu]: The remainder of this chapter describes the construction of a wireless apparatus patented in 1903 by James T. Armstrong and Alfred Orling. @armstrong_system_1903.
 

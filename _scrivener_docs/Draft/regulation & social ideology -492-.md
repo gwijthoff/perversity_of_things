@@ -1,6 +1,6 @@
-"a perfect Babel of voices"
+"a perfect Babel of voices": Broadcast Regulation, Amateur Advocacy, and Technocracy
 
-======================
+======================================================
 
 As these newly minted citizens of the ether stepped "out into the star-lit night and myriads of voices" (**Amateur Radio Restored**), what would be the social and legal pacts that held them together, by which they organized their conversations?
 
