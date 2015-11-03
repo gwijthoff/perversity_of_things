@@ -12,6 +12,8 @@ A number of quotes in the intro. And play a game: science fiction or 90s media t
 
 "We are constantly being speeded up mentally" (Are We Intelligent) by Gernsback reads like a line right out of The Gutenberg Galaxy.  That our sensory environments are too packed, too distracting, and we need a better medium to communicate to the masses through because of this.
 
+**Are We Intelligent,** cites the information overload for everyday people w/ modern technology, and that S&I is designed to match the speed with which people disseminate information now.  A very familiar sounding approach now, with digestible news stories and the time to read listed in the header, etc.  Magazine as a medium for educating an overwhelmed public.  Nice closing gesture to today, and the speed at which Gernsback's ideas moved.
+
 media history / media archaeology
 
 -------------------------------------------

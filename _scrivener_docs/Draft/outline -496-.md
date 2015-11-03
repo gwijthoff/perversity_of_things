@@ -122,11 +122,11 @@ x	⁃	osophone / martians / sewing needle
 
 x	⁃	knack, rolling sets of expertise / mineral proficiencies
 
-	⁃	HG's inventions in magazine pages: advertisement? brag? community?
+x	⁃	HG's inventions in magazine pages: advertisement? brag? community?
 
 	⁃	WRNY
 
-	⁃	invention vs. "philosophical research" about the future, according to Edison
+x	⁃	invention vs. "philosophical research" about the future, according to Edison
 
 	⁃	material possibility of an invention before it exists
 
@@ -136,19 +136,27 @@ x	⁃	knack, rolling sets of expertise / mineral proficiencies
 
 x	⁃	smooth transition from tech to SF magazines
 
-x	⁃	basic structure: an idea and its technical feasibility
+	⁃	basic structure: an idea and its technical feasibility
 
-x	⁃	Gernsback's own stories
+x	⁃	Gernsback's own stories are the prototype
 
-	⁃	imagination as a form of invention
+x	⁃	Gernsback not really a literary critic, but a technologist and community organizer.  His definitions come from community feedback/negotiation
 
-	⁃	there is no fiction, and the defense of fiction
+x	⁃	Wertenbaker: proportion of science to fiction, fact to theory. Genre begins around a problem to be solved.
 
-	⁃	what is invention?
+x	⁃	HG's own definitions: what counts as fact and theory, and their proportions, changes with time
 
-	⁃	invention before its material possibility (ref. back to tinkering)
+x	⁃	A faith in technical progress that means there is no such thing as fiction.  All ficiton is possible, all part of the same generic continuum.  In line with some critical commentators today.
 
-x	⁃	19th C -> race -> women in SF
+x	⁃	A spectrum of probability within the fantastic, and the best SF stories are "probable," with technically gifted writers.  These works of science fiction gradually decay into science faction as their predicitons come to be realized.
+
+x	⁃	Imagination as a form of invention.
+
+x	⁃	Were the "inventions" of 19thC proto-SF scientifiction? No, they couldn't be verified by a community.
+
+	⁃	19thC - > race -> women in SF
+
+	⁃	Whose future was being imagined? (don't have to pivot on 19C, but maybe on whose future, and who was deciding)
 
 	⁃	educational aims
 
