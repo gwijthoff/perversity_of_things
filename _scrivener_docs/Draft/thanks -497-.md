@@ -28,4 +28,6 @@ Siegfried Zielinski
 
 David Gutkin (and other fellows)
 
+Jim Steichen
+
 To Steve Reich, Drake, and … for the music that fueled the writing of this book.
