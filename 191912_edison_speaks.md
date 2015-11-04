@@ -12,19 +12,11 @@ csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 
 * * * * * * * * 
 
-\begin{center} 
-\fbox{ 
-  \parbox[c]{7cm}{
+*THIS is the first interview which Mr. Edison has given out for some years past.*
 
-THIS is the first interview which Mr. Edison has given out for some years past.
+*Mr. Edison, who, as is well known, was elected Chairman of the Navy Consulting Board at the outbreak of the world war, was taken up with important duties, refusing to see all visitors. Even several years before this, no general interviews were given out. In this story are covered many points of interest not only to all experimenters and the man interested in science, but to the world at large. Much that is new has been presented here, and it will be noted with satisfaction by all that at the age of seventy-three, Mr. Edison's mind is as keen and clear as ever. We are certain our readers will appreciate this important article. Nearly all of the photographs and illustrations appearing in this story have never been publisht.*
 
-\vspace{3mm}
-
-Mr. Edison, who, as is well known, was elected Chairman of the Navy Consulting Board at the outbreak of the world war, was taken up with important duties, refusing to see all visitors. Even several years before this, no general interviews were given out. In this story are covered many points of interest not only to all experimenters and the man interested in science, but to the world at large. Much that is new has been presented here, and it will be noted with satisfaction by all that at the age of seventy-three, Mr. Edison's mind is as keen and clear as ever. We are certain our readers will appreciate this important article. Nearly all of the photographs and illustrations appearing in this story have never been publisht.
-
-  } 
-} 
-\end{center}
+* * * * * * * * 
 
 **M**R. EDISON having kindly consented to speak to the readers of the ELECTRICAL EXPERIMENTER, an interview with the illustrious inventor had been arranged for during the latter part of October of this year.
 
