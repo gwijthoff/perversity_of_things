@@ -30,7 +30,7 @@ At the receiving end, the future up-to-date radio opera enthusiast will of cours
 
 There is still another novel scheme recently originated by the writer.
 
-The underlying idea is not only to give grand opera by wireless, listen to the music and to the singers only, *but to actually see the operatic stars on the screen as well.* This is how it can be readily accomplished *by means which are available to-day,* and without the slightest technical difficulty.
+The underlying idea is not only to give grand opera by wireless, listen to the music and to the singers only, *but to actually see the operatic stars on the screen as well.* This is how it can be readily accomplished *by means which are available to-day,* and without the slightest technical difficulty.[^loby]
 
 Let us say, by way of example, that the opera "Aida" is filmed in its entirety. This may mean a four or five reel feature. The opera will be filmed just like any other photo-play.
 
@@ -50,6 +50,6 @@ From a financial standpoint it would be good business for the opera company, as 
 
 The writer confidently expects that this scheme will be in use throughout the country very shortly. 
 
-===========
+[^loby]: This wasn't the first proposal for broadcasting both the sound and image of live opera performances, but it was one of the most fully developed at the time.  Thomas Edison, for instance, is quoted in an 1893 *New York Times* article as saying, "My intention is to have such a happy combination of photography and electricity that a man can sit in his own parlor, see depicted upon a curtain the forms of the players in opera upon a distant stage and hear the voices of the singers."  See @wlaschin_encyclopedia_2004, p. vii.
 
-@steichen_metropolitan_2009
+    For a musicological account of more recent initiatives to broadcast opera performances to cinema screens around the world, see @steichen_metropolitan_2009.

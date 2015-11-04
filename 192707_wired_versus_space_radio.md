@@ -44,7 +44,7 @@ When radio first came into vogue it was freely predicted that the phonograph wou
 
 I do not believe that it will be at all practicable, as suggested, for the wired-radio companies to establish a method of secret transmission over their lines, so that only the apparatus rented from them will be capable of receiving their programs; because, the moment apparatus is installed and the nature of the device becomes public, every radio constructor will surely try to build a set by means of which he can tune in on the wired radio.
 
-It is in the nature of every radio fan to investigate and the prediction is freely made that, if wired radio comes into universal use, the parts business will take a sudden leap. Every radio fan and every set builder will no doubt try, at one time or another, to build a radio receiving set that will bring in the wired-radio programs. It seems that the wired-radio interests will be powerless to prevent this; because there is no law on the subject, and because the "bootleg" listener would be stealing nothing.
+It is in the nature of every radio fan to investigate and the prediction is freely made that, if wired radio comes into universal use, the parts business will take a sudden leap. Every radio fan and every set builder will no doubt try, at one time or another, to build a radio receiving set that will bring in the wired-radio programs. It seems that the wired-radio interests will be powerless to prevent this; because there is no law on the subject, and because the "bootleg" listener would be stealing nothing.[^wtbf]
 
 * * * * * * * * * * * 
 
@@ -57,3 +57,10 @@ It is in the nature of every radio fan to investigate and the prediction is free
     Eventually, Squier moved from advocating a network of US government cables that networked the newly annexed territories in the Philippines, Cuba, and Puerto Rico, to an agenda closer to home.  Forming a company in 1922 called Wired Radio, Squier sold "centralized transmissions within a rationalized system of stimulus codes", or the canned music crowd control we now know as Muzak, a term coined by Squier.
     
     @winkler_nexus:_2008, 20-21.  @min_soothe_2002.
+
+
+[^wtbf]: Gernsback made a similar point in a *New York Times* editorial earlier that year, criticizing the state ownership of radio broadcasting in Europe.  In a kind of "information wants to be free" argument for the wireless era, Gernsback writes:
+
+    > It has always been the contention of leaders in the American radio industry that the European method of paid listeners' programs [taxed in this model, as opposed to the privatized subscriptions of "wired radio"] was economically unsound. . . . The reason is that a sufficient number of listeners will not pay a fee and an entirely too large proportion of European listeners use "bootleg" radio outfits and listen in secretly.
+    
+    @gernsback_wellsian_1927
