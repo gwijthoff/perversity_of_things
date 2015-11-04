@@ -15,6 +15,8 @@ csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 
 * * * * * * * * 
 
+![Advertisement for *The Wireless Telephone* in the January 1911 issue of *Modern Electrics.*](images/wireless_telephone_ad.jpg)
+
 # Preface
 
 The present little volume is intended for the experimenter doing research work in wireless telephony and the student who wishes to keep abreast with the youngest branch of the new wireless art.[^dsu3]
