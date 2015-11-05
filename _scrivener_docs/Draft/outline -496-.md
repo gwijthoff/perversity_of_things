@@ -174,7 +174,7 @@ up-to-date technic:  Hugo Gernsback and Media Theory in the Making
 
 a perfect Babel of voices:  Broadcast Regulation, Amateur Advocacy, and Technocracy
 
-??? speech and other articulate sounds:  Wireless, Television, and Other Emerging Media
+speech and other articulate sounds:  Wireless, Television, and Other Emerging Media
 
 certain future instrumentalities:  The Mineral Proficiencies of Tinkering
 
