@@ -60,4 +60,12 @@ Whether he wishes to be entertained, or whether he wishes to learn, depends upon
 
 All of the above is merely theoretical, of course, no machine having been tried but the writer would not be surprised to see one built and in operation in the not distant future.
 
-``` see also… thought_recorder_ee_v7n01_191905.jpg ? ```
+* * * * * * * * 
+
+``` see also… thought_recorder_ee_v7n01_191905.jpg ? ``` and three scientists' views on "thought transmission"
+
+![From *Electrical Experimenter,* May 1919.](images/thought_recorder.jpg)
+
+relate to Menograph use in Ralph?  How fiction moves to editorials and vice versa?
+
+The gendered division of labor that sees women as cogs in an apparatus managed by men extends itself to Mars, with Gernsback's depiction in *Baron Münchhausen* of Martian women assisting in "Tos rod"??? correspondence technology.  For some reason, this alien apparatus that allows "thought waves" to be directly recorded on a ticker tape needs a secretary to make a record of it.  A "sensitive recording mechanism" that is "in charge of a secretary" -- one would think he means in *the* charge of a secretary, but who knows.  the role of the female secretary in this procedure is strange.  the entire process is described as the product of a machine, a stylus.  nowhere does she come into the operation, unless she’s occluded by the passive voice…  “is always recorded,” “is carefully labeled and stored away.”  @gernsback_scientific_2010, p. 137.
