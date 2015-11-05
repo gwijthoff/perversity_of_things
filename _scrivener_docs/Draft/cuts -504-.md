@@ -6,6 +6,8 @@ Technical literacy was encouraged not only through blueprints and instruction ma
 
 In …, the addition and subtraction of each wire, condenser, or tuning hookup constituted a full-scale shift in the abilities and sensory affects of the apparatus being constructed as well as the narrative form through which it was described.  
 
+In many ways, this poses a classic science fictional question: how can national borders remain in the face of a dawning global consciousness?  The answer, of course, is that these utopian dreams were themselves the product of an American public that emerged from the horrors of World War I seemingly unscathed.  What they didn't realize was that the network of large wireless relay towers whose signals were a popular draw for new and existing amateur listeners were themselves a product of the United States's nationalist ambitions in the wake of the Spanish-American War.  Wireless at that time was seen as an important tool in networking and securing the public.  (See the annotations in "Wired Radio Versus Space Radio" for more on the strategic control of submarine cables after the Spanish-American War.)
+
 * * * * * * * * * * * 
 
 Mauss

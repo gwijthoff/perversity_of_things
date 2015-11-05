@@ -1,14 +1,10 @@
 Get quotes:
 
-	✓	Israel (tinkering)
-
 	✓	on sci vs tech: Edwin Layton, "Mirror-Image Twins: The Communities of Science and Technology in 19th Century America," 1971
 
 	✓	Layton, "Technology as Knowledge," T&C 1974
 
 Define terms:
-
-	◦	media (Guillory, "Genesis of the Media Concept"
 
 	◦	fantastic (Todorov, Callois)
 
@@ -70,11 +66,11 @@ x	⁃	beginning of Electrical Experimenter. Paul's illustrations and their inter
 
 	•	1 week
 
-	⁃	How do new media emerge, and how do we understand their history?
+x	⁃	How do new media emerge, and how do we understand their history?
 
-	⁃	The idea that media "evolve", that they have platonic forms
+x	⁃	The idea that media "evolve", that they have platonic forms
 
-	⁃	They develop within communities
+x	⁃	They develop within communities
 
 	⁃	What was the makeup of this community?
 
@@ -172,15 +168,17 @@ shuffling sections
 
 [Open]
 
-"up-to-date technic":  Media Theory in the Making
+up-to-date technic:  Hugo Gernsback and Media Theory in the Making
 
-"'phone and code":  Wireless, Television, and Other Emerging Media
+'phone and code:  [[mass media / communities / users]]
 
-"a perfect Babel of voices":  Broadcast Regulation, Amateur Advocacy, and Technocracy
+a perfect Babel of voices:  Broadcast Regulation, Amateur Advocacy, and Technocracy
 
-"certain future instrumentalities": The Mineral Proficiencies of Tinkering
+??? speech and other articulate sounds:  Wireless, Television, and Other Emerging Media
 
-"we exploit the future": Scientifiction Debuts
+certain future instrumentalities:  The Mineral Proficiencies of Tinkering
+
+we exploit the future:  Scientifiction Debuts
 
 How to Read This Book
 

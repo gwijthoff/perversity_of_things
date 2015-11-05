@@ -30,4 +30,6 @@ David Gutkin (and other fellows)
 
 Jim Steichen
 
+Eric Drown
+
 To Steve Reich, Drake, and … for the music that fueled the writing of this book.

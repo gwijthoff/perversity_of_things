@@ -2,7 +2,9 @@
 
 ======================================================
 
-As these newly minted citizens of the ether stepped "out into the star-lit night and myriads of voices" (**Amateur Radio Restored**), what would be the social and legal pacts that held them together, by which they organized their conversations?
+As these newly minted citizens of the ether stepped "out into the star-lit night and myriads of voices" (**Amateur Radio Restored**), what would be the social and legal pacts that held them together?
+
+The concept of "radio"---and later "television---was a moving target not only for early adopters and the magazines reporting on it, but also legislators.
 
 HG’s social ideology through technology, as a technocrat and a utopian.
 
@@ -18,7 +20,7 @@ Do these articles amount to a full scale policy or philosophy of regulation?  Pr
 
 And how much of the reporting Gernsback was doing on these policy debates at the time must have been a matter of speculation.  Much of the regulation battles Gernsback was reporting on must largely have been a matter of conjecture on little bits of information received and reported on by the newspapers.  Much of the negotiations between the FTC, RCA and AT&T were done behind closed doors.  “And all of this maneuvering that could have so altered American communications and culture transpired behind the scrim of corporate confidentiality, not to be made public until scholarly investigation decades later.”  (Wu 80)
 
-Gernsback’s publications avidly followed these debates using the highly specialized language and expertise reminiscent of today’s tech press / gadget bloggers…  What makes this difficult is that the legislation wasn’t the only variable in the stories… “radio” itself was a moving target.  Susan Douglas:  during the late nineteenth and early twentieth centuries, “the press’s method of covering and interpreting technological change was developed.  In other words, what scholars have identified as the functions of the mass media in the late twentieth century were being formulated and refined during the first twenty-three years of radio’s history.” (Inventing American Broadcasting, 1899-1922, p. xix)
+Gernsback’s publications avidly followed these debates using the highly specialized language and expertise reminiscent of today’s tech press / gadget bloggers…  What makes this difficult is that the legislation wasn’t the only variable in the stories… “radio” itself was a moving target.
 
 For an early "information wants to be free" argument, see 192707 Wired Radio Versus Space Radio.  Nothing super quotable, can just paraphrase his arguments.  It's also like the contrast between OTA television and cable, and the idea that amateurs will always find a way to pirate content, no matter what.  So many of the twentieth century's debates over the social use of mass media and whether or not that use is at odds with corporate interests, already played themselves out in the opening decades of the century.  See also **Future of Radio** quoted editorial on the benefits of private stations paid for by advertisers, which is also a defense of the lowbrow.
 
@@ -27,12 +29,6 @@ In the confluence of engineering, technics, and the law, HG echoes the concerns 
 > In the meanwhile radio broadcasting has not been ruined.  Far from it.  Radio has always been able to take care of itself, and will continue to do so in the future.  To be sure, we all want a radio law to straighten out some of our present tangles, but in the end radio engineering will make the best law obsolete.”
 
 again, in 192701 v8n7, "Radio Progresses," the argument that law moves slower than technology.  on telephone chaos in the early days, hearing many voices on the same call:  “However, it required no law to rectify this situation, and in a few years the telephone engineers had solved the problem satisfactorily.”
-
-social ideology
-
---------------------
-
-Grundy's letter about saving the amateur, 192302: "It stills a thirst for scientific knowledge and hence stimulates manhood."  science = manhood
 
 technoutopianism / technocracy
 
@@ -99,7 +95,5 @@ Taking over her son's set to broadcast suffragist messages.  "Mrs. Alexander Mac
 According to Mrs. MacKenzie, the Yonkers organization used wireless in their 24-hour election night demonstration in November 1915, making speeches in Manor House Square and receiving messages in between "from various celebrities and other suffragists."
 
 > Again, this is not the end and all of the proposition at all.  We have before us the great and as yet, but little explored field of *radio engineering.*  Women seem to progress excellently in the engineering branches.  Primarily this is so because her brain is quick of action, and moreover she usually will be found to have extremely well-balanced ideas as to proportions, so essential in designing. A wonderful imagination coupled to a number of other worthy faculties help to make a really fine combination, so that we find a steadily growing number of women architects, mechanical and electrical experts, radio operators, civil engineers, *ad lib.*  What we need is more of them in the higher positions, where the square root and binomial theorem are everyday quantities.^[@_feminine_1916.]
-
-![Painting by George Wall of fifteen-year-old Kathleen Parkin, San Rafael, CA, and the wireless set she constructed.](images/wireless_girl.jpg)
 
 ![From *Electrical Experimenter,* October 1916.](images/women_preparedness.png)
