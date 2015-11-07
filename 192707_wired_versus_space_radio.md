@@ -59,7 +59,7 @@ It is in the nature of every radio fan to investigate and the prediction is free
     @winkler_nexus:_2008, 20-21.  @min_soothe_2002.
 
 
-[^wtbf]: Gernsback made a similar point in a *New York Times* editorial earlier that year, criticizing the state ownership of radio broadcasting in Europe.  In a kind of "information wants to be free" argument for the wireless era, Gernsback writes:
+[^wtbf]: Gernsback made a similar point in a *New York Times* editorial earlier that year about the pitfalls of any system that would require listeners to pay for broadcast content, whether directly as subscribers or indirectly through state ownership and taxation.  Criticizing the state ownership of radio broadcasting in Europe in an argument that evokes the influential aphorism attributed to Stewart Brand, "information wants to be free," Gernsback writes:
 
     > It has always been the contention of leaders in the American radio industry that the European method of paid listeners' programs [taxed in this model, as opposed to the privatized subscriptions of "wired radio"] was economically unsound. . . . The reason is that a sufficient number of listeners will not pay a fee and an entirely too large proportion of European listeners use "bootleg" radio outfits and listen in secretly.
     

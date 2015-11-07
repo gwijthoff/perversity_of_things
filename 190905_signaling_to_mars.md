@@ -128,7 +128,7 @@ And still some people wish to keep the student in the dark, to refrain him from 
 
 [^spm]: Gernsback: \"'Worlds in the Making.' See Panspermie \[sic\]."  This note refers to @arrhenius_worlds_1908.  Panspermia is the theory that some form of microscopic life is spread just as evenly throughout the universe as matter itself.  Arrhenius, a 1903 Nobel Prize winner in chemistry, writes, "According to this theory life-giving seeds are drifting about in space.  They encounter the planets and fill their surfaces with life as soon as the necessary conditions for the existence of organic beings are established" (217).  This would imply that "all organic beings in the whole universe should be related to one another and should consist of cells which are built up of carbon, hydrogen, oxygen, and nitrogen" (229).
 
-[^blu]: Electro Importing Company's annual *Blue Book* was the culmination of Gernsback's calls for greater accountability in **The Wireless Joker.**  A telephone book of sorts, each annual edition listed the names and call signs of amateur wireless operators around the country, and later, the world.  Its presence was designed to encourage greater accountability for the content of wireless messages once the names of their senders were shared openly and freely.
+[^blu]: The *Blue Book* was the culmination of Gernsback's calls for greater accountability in **The Wireless Joker** and one of the first radio directories in the country.
 
     ![Second annual *Wireless Blue Book,* courtesy: Collection of Jim and Felicia Kreuzer, Grand Island, NY.](images/blue_book2_jim.png) <!-- no figure -->
     
