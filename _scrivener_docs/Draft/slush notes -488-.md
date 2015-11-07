@@ -38,10 +38,6 @@ A tradition that goes all the way back to the Correspondence section in *Modern 
 
 Delany: “the vast tributary system of informal criticism” (Starboard Wine, 238)
 
-Andrew Ross:  “in Gernsback’s view, sf was more a social than a literary movement” (103)
-
-Also, community of wireless operators.  Right after article on signaling to Mars (190905), the introduction of the Wireless Blue Book — individuals, people lighting up on a wireless map, as if soon the Martians will be in the addressable Blue Book too.
-
 Craftsmanship of writing SF
 
 =====================

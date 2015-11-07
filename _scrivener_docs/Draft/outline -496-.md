@@ -4,6 +4,8 @@ Get quotes:
 
 	✓	Layton, "Technology as Knowledge," T&C 1974
 
+	✓	Lessig, technology moving faster than the law
+
 Define terms:
 
 	◦	fantastic (Todorov, Callois)
@@ -166,21 +168,23 @@ shuffling sections
 
 --------------------------
 
-[Open]
+[open]
 
 up-to-date technic:  Hugo Gernsback and Media Theory in the Making
 
-'phone and code:  [[mass media / communities / users]]
+a perfect Babel of voices:  Wireless Publics
 
-a perfect Babel of voices:  Broadcast Regulation, Amateur Advocacy, and Technocracy
+		[[mass media / communities / regulation / technocracy]]
 
-speech and other articulate sounds:  Wireless, Television, and Other Emerging Media
+'phone and code:  Aerophone, Telephot, and Other Emerging Media
 
 certain future instrumentalities:  The Mineral Proficiencies of Tinkering
 
 we exploit the future:  Scientifiction Debuts
 
 How to Read This Book
+
+speech and other articulate sounds
 
 former
 
