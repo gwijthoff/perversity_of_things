@@ -68,11 +68,13 @@ x	⁃	beginning of Electrical Experimenter. Paul's illustrations and their inter
 
 	•	1 week
 
-x	⁃	How do new media emerge, and how do we understand their history?
+[[reframe to solely consist of an analysis of the "public" or the "community" that constituted emerging media.  This can begin more slowly then, with a look at what "media theory" was for Gernsback.  First, how he takes multiple perspectives on an issue, then the section pivots into who these users/readers were.]]
 
-x	⁃	The idea that media "evolve", that they have platonic forms
+	⁃	x	⁃	How do new media emerge, and how do we understand their history?
 
-x	⁃	They develop within communities
+	⁃	x	⁃	The idea that media "evolve", that they have platonic forms
+
+	⁃	x	⁃	They develop within communities
 
 	⁃	What was the makeup of this community?
 

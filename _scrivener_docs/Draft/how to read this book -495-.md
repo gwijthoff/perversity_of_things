@@ -1,4 +1,4 @@
-See stuff from Cheng, Astounding Wonder, on stories from readers.  Hiding issues beneath shirts, trying to trade to get a complete set and finish a novel.
+Begin with stuff from Cheng, Astounding Wonder, on stories from readers.  Hiding issues beneath shirts, trying to trade to get a complete set and finish a novel.  Asimov too?
 
 The thematic TOC is meant only as a navigational aid. As you will see, the categories bleed into one another with articles touching on multiple topics at once. Part of the argument of this book is that tinkering *is* fiction, that a critical understanding of television was itself a scientifictional enterprise, and so on.
 
@@ -16,6 +16,10 @@ There's a consistency among all the devices listed in Gernsback's stories and ar
 
 Selection criteria:  both representative and uniquely interesting.
 
+This selection is meant as an invitation to further digging.
+
 These essays represent the hight of Gernsback's output, from his first ever piece of published writing to some of the first editorials he worte after the bankruptcy of Experimenter Publishing in February 1929.
 
 (For a complete list of the fiction published in the Gernsback magazines from *Modern Electrics* on, see **The Evolution of Modern Science Fiction.**)
+
+In many ways this book can be read as a coherent work of science fiction in its own right, developed over the course of thirty years but a coherent project 

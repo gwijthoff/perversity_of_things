@@ -1,3 +1,13 @@
+and later, in *Sexology* (1933), a relatively progressive treatment of masturbation, homosexuality, and premarital sex into the 1950s and 60s, although articles on "breastfeeding fathers, women with extra breasts, Hitler's sex life, [and] rubber fetishism" were more common.^[Though it's outside the scope of this volume, for a selection of articles from this magazine see @yoe_best_2008.]
+
+(Consider the heritage of this approach to media and speculative thought.  In many ways, media theory has always involved a kind of science fictional spirit, a willingness to think the present state of technosocial realities differently.  The historical collection of essays from the 1980s and 90s *Ars Electronica: Facing the Future* ed. Druckrey is exemplary in this repsect.
+
+Jenkins:  "And, increasingly, media theorists—raised in a culture where science fiction has been a pervasive influence—are drawing on its metaphors as they speculate about virtual worlds, cyborg feminism, post-humanism, and afro-futurism, among a range of other topics."
+
+If not in a positivist, technoutopian vein, then at least with an openness to the future.)
+
+* * * * * * * *
+
 Gernsback, especially in his writings on "spritism", was totally against magic.  Let's get our hands dirty with this technology, *while* we appreciate at the same time exactly how "amazing" it is.  Magic?
 
 In part, this is a book about the origins of American science fiction.  It’s also a look at the emergence of new media around community practices rather than new technical standards or innovations.
