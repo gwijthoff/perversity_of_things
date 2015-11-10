@@ -98,8 +98,6 @@ We remembered this in time and the present issue of "MODERN ELECTRICS" proves th
 
     Blueprints for such jury rigged apparatuses were typical of *Modern Electrics* at the time, and were presented as if they were easily replicable by readers who could stock their home workshops with parts from the *Electro Importing Catalog.*  This issue, for instance, also contains instructions by Gernsback for building an alarm clock ("An Electric Sun Alarm") connected to light-sensitive selenium cells (used in early television prototypes -- see **Television and the Telephot**) that would set the alarm ringing when hit by the morning sunlight.
     
-    ![Telimco Spark Transmitter, Model 1086, 1906, courtesy Henry Ford Museum.](images/telimco_transmitter_ford.jpeg) <!-- no figure -->
-    
-    ![Telimco Radio Receiver, Model 1086, 1906, courtesy Henry Ford Museum.](images/telimco_receiver_ford.jpeg) <!-- no figure -->
+    ![Replica of the 1906 Telimco Spark Transmitter, Model 1086, courtesy Henry Ford Museum.](images/telimco_transmitter_ford.jpeg) <!-- no figure -->
     
 [^ctst]: This issue of *Modern Electrics* contained the first winner of a regular "Laboratory Contest" section.  Reader Irving Kimball impressed with the submission of his "vitaphone," a device that combined motion picture and sound reproduction.  "The original model of his motor-pyrograph,' an automated electrically operated pyrograph or wood-burning machine, works to perfection." (63)
