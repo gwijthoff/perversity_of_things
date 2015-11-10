@@ -6,6 +6,8 @@ Jenkins:  "And, increasingly, media theorists—raised in a culture where scienc
 
 If not in a positivist, technoutopian vein, then at least with an openness to the future.)
 
+This isn't a simple fetishism for technology, but a genuine interest in *how* things worked and in spreading that knowledge to the public.  He believed that understanding technology meant making it from scratch, or at least taking it apart to understand how it worked.  So yes, sometimes socially blind, but his maker's ethos constituted a social imperative in its own right.
+
 * * * * * * * *
 
 Gernsback, especially in his writings on "spritism", was totally against magic.  Let's get our hands dirty with this technology, *while* we appreciate at the same time exactly how "amazing" it is.  Magic?
