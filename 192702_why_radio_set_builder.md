@@ -44,7 +44,7 @@ To be up to date, under conditions that change as quickly as do those in radio b
 
 Investigation usually shows, on such occasions, that most of these unselective sets are single-circuit or crystal receivers and others of ancient vintage, which are no longer suitable for present-day radio traffic. Furthermore, additional demands are being made right along on the selectivity of radio receivers, because the broadcast stations are continually increasing their power. The set builder, naturally, keeps pace with the evolution of broadcast conditions, and is forever ready to build a new and better set to meet future requirements.
 
-Set building is continuing to increase rapidly, as it has done for five years, in this country; and, now that we stand on the threshold of television, I believe I shall not be contradicted in saying that set building will assume tremendous proportions, undreamt-of today, during the next five years.[^tvx]
+Set building is continuing to increase rapidly, as it has done for five years, in this country; and, now that we stand on the threshold of television, I believe I shall not be contradicted in saying that set building will assume tremendous proportions, undreamt-of today, during the next five years.
 
 * * * * * * * * * * * 
 
@@ -53,11 +53,3 @@ Set building is continuing to increase rapidly, as it has done for five years, i
 [^shd]: Gernsback discusses shielding in **"Is Radio at a Standstill?"**
 
 [^dnp]: For an explanation of straight-line frequency condensers and vernier dials, see **"Is Radio at a Standstill?"**
-
-[^tvx]: This was a recurring argument in Gernsback's editorials throughout the 1920s:  that that the next great innovations, like television, would come not from corporate R&D labs, but from the avant garde of enterprising amateurs who could afford to take risks and try out wacky ideas.  But the unfounded optimism of the idea that independent amateurs were the engine of emerging media became clear by the end of the decade.  *Radio News* announced in January 1929 that it would end its monthly "constructional prize contest" due to a lack of quality submissions.  In the initial announcement to the contest, Gernsback reminded readers that their ideas must be experimentally demonstrated. "It is not the idea, *but the putting of it into execution,* that makes a man an inventor.  In addition to this, most purely theoretical ideas are impracticable." @_radio_1928.
-
-    But it seems that with the complexities of radio by 1929, too few independent amateurs were capable of realizing their ideas in any material way:
-
-    > The rules of the contest stated very plainly that no one would be eligible for a prize unless some experimental work had been done and the practicability of the device had been demonstrated by the builder.  Most of the entries consisted merely of ideas or suggestions, accompanied by the request that RADIO NEWS do the experimental work necessary for their full development.
-    
-    @_end_1929.

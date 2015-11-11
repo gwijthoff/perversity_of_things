@@ -36,10 +36,6 @@ readership & fandom
 
 AS published letters with readers’s addresses
 
-Think about the phrase “communities of practice” to name both what groups of tinkerers do and groups of readers/fans do
-
-A tradition that goes all the way back to the Correspondence section in *Modern Electrics.*  "Wrinkles, Recipes and Formulas” and “The Oracle" in the pages of *Science and Invention*
-
 Delany: “the vast tributary system of informal criticism” (Starboard Wine, 238)
 
 Craftsmanship of writing SF
@@ -51,8 +47,6 @@ SF studies questions about the quality and aesthetic merit of early stories (an
 “pulp writers saw themselves as skilled tradespeople.”  Editors referred to an “author” as a mark of distinction, using “writer” anywhere else.  “When a pulp magazine referred to an ‘author,’ the term distinguished the writer of its main story or serial installment from short-story writers who filledn ecessary space toward its back secitons.” @cheng_astounding_2012, 28
 
 “Use of the term ‘writer’ rather than ‘author’ expressed the priorities within pulp publishing.  The product of eighteenth- and nineteenth-century literary developments, the term ‘author’ maintained class and cultural distinction, suggesting creative artists whose literary publication marked and establisehd their individual merit.  The term ‘writer’ referred to tradesmen, cultural workers who produced or, perhaps more appropriately, manufactured storeis for publications, work that was nevertheless dstill distinguished by skill and craftsmanship.” @cheng_astounding_2012, 27
-
-see Samuel R. Delany on this point:  “…a tradition of writers who considered themselves craftsmen first and artists secondarily, if at all.” @delany_silent_1994, 200.
 
 magazine publishing business
 

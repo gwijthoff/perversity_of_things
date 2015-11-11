@@ -172,21 +172,17 @@ shuffling sections
 
 [open]
 
-up-to-date technic:  Hugo Gernsback and Media Theory in the Making
+up-to-date technic:  Hugo Gernsback's Pulp Media Theory
 
-a perfect Babel of voices:  Wireless Publics
-
-		[[mass media / communities / regulation / technocracy]]
+a perfect Babel of voices:  Communities of Inquiry and Wireless Publics
 
 'phone and code:  Aerophone, Telephot, and Other Emerging Media
 
 certain future instrumentalities:  The Mineral Proficiencies of Tinkering
 
-we exploit the future:  Scientifiction Debuts
+we exploit the future:  Scientifiction's Debut
 
 How to Read This Book
-
-speech and other articulate sounds
 
 former
 
