@@ -20,7 +20,7 @@ csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 
 *There is nothing more inspiring, nothing more gripping to the imagination, than this wonderful battle between organized intelligence on one side and unrelenting nature on the other.*
 
-*Mr. Münchhausen's scientific lecture gives you the latest facts---now almost universally believed---about Mars.  You can spend no better half hour than turning your mind from your humdrum existence towards a subject which is as absorbing as it is lofty in its grandeur.*
+*Mr. Münchhausen's scientific lecture gives you the latest facts---now almost universally believed---about Mars.  You can spend no better half hour than turning your mind from your humdrum existence towards a subject which is as absorbing as it is lofty in its grandeur.*[^vdnr]
 
 * * * * * * * * * * 
 
@@ -157,3 +157,5 @@ There was a snapping noise and the rhythmic, low, sizzling sound stopped abruptl
 [^ppe]: Gernsback: "✝An object weighing 1 lb. on Earth weighs 0.167 lb. on the Moon.✝"
 
 [^qwe]: Gernsback: "✝The speed of a falling body at the surface of the earth after the first second is 16 1-12 feet.  In 6 seconds a stone would have traveled but 579.✝"
+
+[^vdnr]: The character of Baron Munchausen was inspired by 

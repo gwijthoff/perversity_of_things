@@ -68,7 +68,7 @@ x	⁃	beginning of Electrical Experimenter. Paul's illustrations and their inter
 
 	•	1 week
 
-[[reframe to solely consist of an analysis of the "public" or the "community" that constituted emerging media.  This can begin more slowly then, with a look at what "media theory" was for Gernsback.  First, how he takes multiple perspectives on an issue, then the section pivots into who these users/readers were.]]
+[[On whether or not amateurs made important contributions to the development of these new media.  Not a brief history of radio, but of the importance of amateurs through the lens of what kind of inventions Gernsback made.  The Radioson = dubious claims?  The dynamophone = a trickster solution.  Not a piecemeal inventor, but a tinkerer whose inventions have a quirkiness, a sense of humor.]]
 
 	⁃	x	⁃	How do new media emerge, and how do we understand their history?
 
@@ -93,6 +93,8 @@ x	⁃	beginning of Electrical Experimenter. Paul's illustrations and their inter
 	⁃	corporations hoarding patents, when a community of amateurs would help the art progress faster
 
 	•	"a perfect Babel of voices":  Broadcast Regulation, Amateur Advocacy, and Technocracy  [regulation and social ideology]
+
+	•	[[reframe to solely consist of an analysis of the "public" or the "community" that constituted emerging media.  This can begin more slowly then, with a look at what "media theory" was for Gernsback.  First, how he takes multiple perspectives on an issue, then the section pivots into who these users/readers were.]]
 
 	•	1 week
 
