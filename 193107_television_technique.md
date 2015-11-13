@@ -55,11 +55,3 @@ It will be necessary, in other words, for the television broadcasting companies 
     A working replica of the apparatus was made by the Early Television Museum in Ohio. <http://www.earlytelevision.org/fss_camera.html>.
 
 [^edt]: For more on the comparative development of film and television editing techniques in the late 1920s and early 1930s, see @barnouw_tube_1990, especially chapters two and three.
-
-[^rqrn]: Gernsback's first editorial for this magazine emphasized a slightly different point: that the large corporations---who by necessity had to be depended on to produce these incredibly complex and expensive technologies---were actually stifling competition by "jealously guarding whatever improvements are made, because these large firms naturally wish to come out with a complete set that can be sold ready-made to the public."  Continuing his argument that communities of amateur tinkerers, openly sharing their results, were a necessary element in the development of new media, Gernsback continues:
-
-    > Everyone knows that, the more people who are working on an art, the more rapid the progress will be in the end.  Many improvements in radio have been due to experimenters who started in a small way and, later on, became outstanding figures in radio. … The more experimenters and the more television fans who become interested in the art, the quicker it will advance and the sooner it will be put on the stable basis which it deserves.
-    
-    He saw *Television News* as providing an entry point for this community of amateur television experimenters that had yet to come into being:  "To this purpose I am dedicating this new publication, and the future will demonstrate the correctness of the assumption."
-
-    @gernsback_television_1931.

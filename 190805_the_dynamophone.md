@@ -20,7 +20,7 @@ To apply power to an object the hand is used more than any other part of the hum
 
 The voice has never been used, no case being on record that a motor or a dynamo was started solely by talking, to or through a medium.  I am, of course, well aware that by talking in a transmitter the telephone diaphragm at the other end will vibrate, but that can hardly be called power, it being proved that in most cases the vibrations of a receiver diaphragm measure less that one-five-thousandths of an inch.[^mcrp]  To provide a contact on the diaphragm in order that the vibrations should close a certain circuit, which in turn could be relayed, to transmit or start power, has always proved a failure on account of the vibrations of the diaphragm, created by the human voice, being exceedingly weak.
 
-My arrangement, as described below, to transmit or start power, etc., simply by talking into a transmitter, will therefore be found novel, especially if it is considered that the transmitter is not connected with the receiving station whatsoever.  The transmission is made by means of wireless electric radiations.[^wrk]
+My arrangement, as described below, to transmit or start power, etc., simply by talking into a transmitter, will therefore be found novel, especially if it is considered that the transmitter is not connected with the receiving station whatsoever.  The transmission is made by means of wireless electric radiations.
 
 No new apparatus being needed in my arrangement, any amateur can easily perform the experiment.
 
@@ -73,12 +73,6 @@ We remembered this in time and the present issue of "MODERN ELECTRICS" proves th
     > Fessenden's answer was to feed two currents into the earpiece: one the antenna current, a train of oscillations at the signal frequency, and the other a train of oscillations generated either locally at the receiver or at a second transmitter, with the two frequencies differing slightly from each other.  The two frequencies would mix or 'beat' against each other, and if the difference between them were correctly chosen, the result would be a wave train that the metal diaphragm of the earpiece could follow and that the human ear could hear.
     
     Much like the sympathetic vibrations of a piano tuner or undamped guitar strings, these two currents resonate with one another.  @aitken_continuous_1985, 58.
-
-[^wrk]:  This is a clever workaround:  at a time when the voice couldn't be *transmitted* via wireless, perhaps it could at least be *translated* into a form of electrical or mechanical force.  Gernsback's Dynamophone and Fessenden's heterodyne principle are both directed at the same technical problem.  While one could say that Gernsback's solution achieves results on a metaphorical level, it is clearly the less elegant solution.  Nevertheless, he rides this metaphor out in a 1927 article that cites the Dynamophone as a precursor to radio broadcasting.  Just like the affective voice of a news bulletin or an operatic tenor transmitted over the airwaves in the late 1920s, the 1908 Dynamophone used the power of the human voice to "create effects":
-
-    > While it was at that time but a toy, the apparatus foreshadowed broadcasting, because this was before the days of the wireless telephone, and the human voice actually did create effects at the receiving end.
-
-    @gernsback_radio_1927.
 
 [^coh]:  The coherer is one of the earliest forms of "detector" and the most important component of a wireless set.  The detector is responsible for demodulating radio frequency signals into an audio frequency current, ready to be piped through the listener's headphones.  The idea behind the coherer is that when a radio frequency signal is applied to a glass vial filled with metal powder, the metal filings will "cohere" and an electrical current will pass through the device.  Each telegraphic "dot" or "dash" causes the filings to cohere, after which some form of "decoherer" mechanically taps the vial to loosen them once again.
 
