@@ -178,7 +178,7 @@ up-to-date technic:  Hugo Gernsback's Pulp Media Theory
 
 a perfect Babel of voices:  Communities of Inquiry and Wireless Publics
 
-'phone and code:  Aerophone, Telephot, and Other Emerging Media
+'phone and code:  Dynamophone, Radioson, and Other Emerging Media
 
 certain future instrumentalities:  The Mineral Proficiencies of Tinkering
 
