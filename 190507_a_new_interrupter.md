@@ -8,10 +8,6 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-**DRAFT:** *Please do not share without permission of the author. Typeset versions in  [web](http://gernsback.wythoff.net/190507_a_new_interrupter.html) \| [pdf](https://github.com/gwijthoff/perversity_of_things/blob/gh-pages/typeset_drafts/190507_a_new_interrupter.pdf?raw=true) \| [doc](https://github.com/gwijthoff/perversity_of_things/blob/gh-pages/typeset_drafts/190507_a_new_interrupter.docx)*
-
-* * * * * * * * * * * 
-
 Experimenting with different magnetic and electric interrupters, the idea occurred to me that it might be possible to construct an interrupter whose chief functions would be based upon the expansion and contraction of mercury, when heated, by passing a current through it.[^oqb]
 
 After many fruitless experiments I succeeded in making such an interrupter, and the definite form  that proved most satisfactory is explained in the following lines:
