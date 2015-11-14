@@ -8,10 +8,6 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-
-
-* * * * * * * * 
-
 **"Those Who Refuse to Go Beyond Fact Rarely Get As Far As Fact" - - - HUXLEY**
 
 * * * * * * * * 

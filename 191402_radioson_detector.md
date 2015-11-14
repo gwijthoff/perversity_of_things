@@ -8,10 +8,6 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-
-
-* * * * * * * * * * * 
-
 **I**T is a well-known fact that the Electrolytic Detector has always been one of the most sensitive detectors invented since detectors first came into general use.[^rsn]  The reason why it has not been adopted as the universal detector is partly due to the fact that the ordinary Electrolytic Detector, as it has been known in the past, was not a really commercial article, for it cannot be denied that even the best Electrolytic Detectors, as manufactured heretofore, had some serious defects.  One of the reasons, and perhaps the main reason why it was not used universally, is that in all such detectors manufactured heretofore it was always necessary that a certain amount of acid was handled; this naturally is a serious objection, as not everybody likes to have acid around the instrument table, and for the reason, also, that the acid in the Electrolyte (or rather the water in it) evaporates quite readily, and therefore makes continuous adjustment necessary.[^fes]
 
 The Bare-point detector, while excellent in many respects, is subject to every draft of air, as the exceedingly fine platinum wire, which can hardly be seen by the naked eye, is usually subject to drafts, and, as a matter of fact, even the operator's breathing against the detector will readily throw it out of adjustment.  Of course, this is not the case if the detector should be encased by a glass bell or other cover.  However, it cannot be denied that the Electrolytic Detector as a whole is the most sensitive detector if it is put together in its correct fashion.

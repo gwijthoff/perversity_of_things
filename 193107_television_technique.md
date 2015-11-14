@@ -8,10 +8,6 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-
-
-* * * * * * * * 
-
 **A**S the television art advances and tends to become popularized, so the technique of television presentation will advance as well.  Radio people will appreciate this fact when they think back how broadcasting first started, and how crude the transmitting technique was.
 
 At the transmitter, somebody spoke into a poor-grade microphone which, like as not, often suddenly went out of commission. It took several years to discover that you should have two independent microphone transmitters, with two independent lines; so that, when one went out of commission, the station was not cut off the air. Then, at the radio transmitter itself, neither the high nor the low notes passed through; and the result at the listening end was consequently poor.

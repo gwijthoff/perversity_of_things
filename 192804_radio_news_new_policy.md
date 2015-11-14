@@ -8,10 +8,6 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-
-
-* * * * * * * * 
-
 > *THE articles in RADIO NEWS are in my opinion "inspired" by your advertisers and of little value to your subscribers. Most radio magazines are similarly unreliable. Why don't you occasionally publish something worth while? Your readers are not all morons. When and if you publish a radio magazine for the benefit of your subscribers rather than your advertisers, I will again subscribe. Who wants a catalog?*
 
 > *Yours very truly,*

@@ -8,10 +8,6 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-
-
-* * * * * * * * 
-
 **T**HIS year marks the second centenary of the creation of the piano.  There has been no radical development in the piano since except the advent of the player piano or mechanical piano.
 
 The Pianorad, which is played very much like the piano, by means of a similar keyboard, is a new invention.  In this new musical instrument, the principles of the piano as well as the principles of radio are for the first time combined in a single musical instrument.[^pnrd]

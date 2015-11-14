@@ -8,10 +8,6 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-
-
-* * * * * * * * 
-
 **R**ADIO AMATEUR NEWS with this issue makes its debut to the radio fraternity. At this occasion it may not be amiss to state the pertinent reasons for its existence and why as a matter of fact it just *had* to come.
 
 This magazine is the logical outcome of many attempts to publish a purely Radio periodical, independent thruout and devoted to American Radio Amateurism.[^wran]

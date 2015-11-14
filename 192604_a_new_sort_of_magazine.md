@@ -8,10 +8,6 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-
-
-* * * * * * * * 
-
 **A**NOTHER fiction magazine!
 
 At first thought it does seem impossible that there could be room for another fiction magazine in this country.  The reader may well wonder, "Aren't there enough already, with the several hundreds now being published?"  True.[^oan]  But this is not "another fiction magazine," AMAZING STORIES is a *new* kind of fiction magazine!  It is entirely new---entirely different---something that has never been done before in this country.  Therefore, AMAZING STORIES deserves your attention and interest.

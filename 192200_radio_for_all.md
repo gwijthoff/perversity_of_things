@@ -8,10 +8,6 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-
-
-* * * * * * * * 
-
 !["It is a mistake to think that radio is only good for the distribution of intelligence. As the illustration shows, the great uses of radio have not been touched upon as yet."](images/radio_for_all.jpg)
 
 # Preface

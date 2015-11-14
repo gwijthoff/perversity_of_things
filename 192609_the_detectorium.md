@@ -8,10 +8,6 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-
-
-* * * * * * * * 
-
 **I**N view of the growing popularity of the crystal detector, especially in our large cities, I believe that experimenters all over, particularly the new-comers, will be interested in an instrument invented by me in 1910. The Detectorium, as it was designated by me at that time, was patented June 21, 1910 (U. S. Patent No. 961,855).[^855]
 
 During all the years since broadcasting has come into vogue, I do not recall having seen the device described; but it was so good in the old days, and performed so remarkably well, that I feel it my duty to bring it again to light. It was originally described in the world's first radio magazine, which I published; namely, "MODERN ELECTRICS," in the July, 1910, issue.[^dtc]

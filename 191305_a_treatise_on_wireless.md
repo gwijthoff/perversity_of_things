@@ -8,10 +8,6 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-
-
-* * * * * * * * 
-
 # Part One
 
 **O**N December 13, 1912, the new wireless law went into effect.[^ee]  The average wireless "fiend," who has not followed the topic from the start will be interested in the following facts:

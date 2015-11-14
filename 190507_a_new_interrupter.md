@@ -8,10 +8,6 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-
-
-* * * * * * * * * * * 
-
 Experimenting with different magnetic and electric interrupters, the idea occurred to me that it might be possible to construct an interrupter whose chief functions would be based upon the expansion and contraction of mercury, when heated, by passing a current through it.[^oqb]
 
 After many fruitless experiments I succeeded in making such an interrupter, and the definite form  that proved most satisfactory is explained in the following lines:

@@ -8,10 +8,6 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-
-
-* * * * * * * * 
-
 **T**HE Radio Act of 1912, under section 2 states:
 
 *Every such license shall provide that the President of the United States in time of war on public peril may cause the closing of any station for radio communication and the removal therefrom of all radio apparatus, or may authorize the use or control of any such station or apparatus by any department of the Government, upon just compensation to the owner.*

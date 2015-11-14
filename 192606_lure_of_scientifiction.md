@@ -8,10 +8,6 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-
-
-* * * * * * * * 
-
 **S**CIENTIFICITON is not a new thing on this planet.  While Edgar Allan Poe probably was one of the first to conceive the idea of a scientific story, there are suspicions that there were other scientifiction authors before him.  Perhaps they were not such outstanding figures in literature, and perhaps they did not write what we understand today as scientifiction at all.  Leonardo da Vinci (1452-1519), a great genius, while he was not really an author of scientifiction, nevertheless had enough prophetic vision to create a number of machines in his own mind that were only to materialize centuries later.  He described a number of machines, seemingly fantastic in those days, which would have done credit to a Jules Verne.[^jvn]
 
 There may have been other scientific prophets, if not scientifiction writers, before his time, but the past centuries are so beclouded, and there are so few manuscripts of such literature in existence today, that we cannot really be sure who was the real inventor of scientifiction.

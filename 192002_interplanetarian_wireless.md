@@ -8,10 +8,6 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-
-
-* * * * * * * * 
-
 **O**NCE again interplanetarian radio has come to the foreground. For the past few weeks the press has been full with all sorts of talk about radio from Mars and radio from Venus. Even the poor old moon has not escaped.[^nkl]
 
 Signor Marconi recently announced from London:

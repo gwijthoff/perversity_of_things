@@ -9,8 +9,6 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-
-
 **O**N DECEMBER 13, 1912, the new wireless law went into effect.[^rdo1] The average wireless "fiend" who has not followed the topic from the start will be interested in the following facts: 
 
 The very first talk about Wireless Legislation in the country started in 1908. The writer in his Editorial in the November, 1908, issue of *Modern Electrics* pointed out that a wireless law was sure to be passed in a very short while.[^wa1] In order to guard against unfair legislation as far as the wireless amateur was concerned the writer, in January, 1909, organized the "Wireless Association of America."[^wa2] This was done to bring all wireless amateurs together and to protest against unfair laws. Previous to this time there was no wireless club or association in the country. In January, 1913, there were over 230 clubs in existence, all of which owe their origin to the "Wireless Association of America." 

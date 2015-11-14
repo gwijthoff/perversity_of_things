@@ -8,10 +8,6 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-
-
-* * * * * * * * 
-
 When science fiction first came into being, it was taken most seriously by all authors.  In practically all instances, authors laid the basis of their stories upon a solid scientific foundation.  If an author made a statement as to certain future instrumentalities, he usually found it advisable to adhere closely to the possibilities of science as it was then known.
 
 Many modern science fiction authors have no such scruples.  They do not hesitate to throw scientific plausibility overboard, and embark upon a policy of what I might call scientific magic, in other words, science that is neither plausible, nor possible.  Indeed, it overlaps the fairy tale, and often goes the fairy tale one better.

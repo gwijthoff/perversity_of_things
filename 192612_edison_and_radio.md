@@ -8,10 +8,6 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-
-
-* * * * * * * * 
-
 > *. . . in which the Editor takes issue with Mr. Edison's claim that radio is a failure; yet it is pointed out that the Radio Industry owes Edison a great debt; wherein facts and figures are given to show that Radio is on a steady increase; granting that neither Radio nor the phonograph is yet perfect; how the interest in Radio is steadily increasing, and radio dealers are now making good money.*
 
 **T**HOMAS A. EDISON has recently been quoted in the press as saying that Radio is a dismal failure.[^esrc] The following remarks on the subject are attributed to Mr. Edison: "The radio is a commercial failure, and its popularity with the public is waning. Radio is impractical commercially and esthetically distorted, and is losing its grip rapidly in the market and in the home. There is not ten per cent. of the interest in radio that there was last year. Radio is a highly complicated machine in the hands of people who know nothing about it. No dealers have made any money out of it. It is not a commercial machine because it is too complicated. Reports from 4,000 Edison dealers who have handled radio sets show that they are rapidly abandoning it, and as for its music---it is awful," comments the wizard of Menlo Park. "I don't see how they can listen to it.

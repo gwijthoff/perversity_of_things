@@ -8,10 +8,6 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-
-
-* * * * * * * * 
-
 **T**HIS is by no means a new subject.  Much has been said and written about the recalcitrant behavior of things in general toward us humans.  Much remains to be said and written.  Very much remains to be explained.
 
 Of all individuals, the experimenter, perhaps, suffers most under the tyranny of the inanimate things and it happens not infrequently that he succumbs to their wiles and to their devilish snares.

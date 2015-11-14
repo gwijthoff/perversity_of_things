@@ -8,10 +8,6 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-
-
-* * * * * * * * 
-
 > *. . . in which the Editor reviews three eras of economic change, which the development of radio art has brought about in this industry . . . and heralds the expected arrival of a fourth, due to the concentration, in the hands of a few large concerns, of the manufacture of receivers . . . why this must result in the division of radio set production between "the great industry" and the building at home, for personal use or on a custom basis, by constructors . . . how conditions will favor the professional set constructors in obtaining a good volume of business . . . and therefore continue to encourage the manufacture of component parts.*
 
 

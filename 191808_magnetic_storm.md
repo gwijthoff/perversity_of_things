@@ -8,10 +8,6 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-
-
-* * * * * * * * 
-
 **"W**HY" Sparks had stopped reading the New York Evening World: He contemplated his old meerschaum pipe meditatively while with his long and lanky index finger, stained by many acids, he carefully rubbed a long, thin and quivering nose. This was always a sign of deep, concentrated thought of the nose's owner. It also, as a rule, induced the birth of a great idea.
 
 Again, and very slowly he re-read the article, which millions that same day had read casually, without a quiver, let alone, a nose quiver. The newspaper item was simple enough:

@@ -8,10 +8,6 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-
-
-* * * * * * * * 
-
 **T**HE members of the human race, who think themselves preeminent on this planet, have long since come to the conclusion that the human animal is a superior living being, quite distinct and far above all other living creatures.[^1]  This conclusion, so general that it seems to be inborn, has been handed down through the ages, mainly for the reason that we imagine all of our acts and thinking are based upon intelligence.  For instance, we say that a dog or a cat cannot think and reason.  They are, therefore, not endowed with intelligence.  Or perhaps to put it in a better way, we think that an animal or insect cannot reason the way we do.  Consequently, in our arrogance, we maintain that they are inferior to us.
 
 \begin{center}

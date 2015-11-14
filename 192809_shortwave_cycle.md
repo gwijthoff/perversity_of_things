@@ -8,10 +8,6 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-
-
-* * * * * * * * 
-
 **O**NCE more a silent, but nevertheless most important revolution is making itself felt in radio.  These periodic revolutions in the art of radio are a novelty no longer, but occurrences to which the careful observer has become quite accustomed.  Only a short year ago, the radio art began to turn away from battery operation of sets and started to electrify them.  Late last year, still another revolution brought the complete A.C.-operated set.[^acel]
 
 During the past few months, a new era seems to have opened in what will be known hereafter as the "Short-Wave Cycle."

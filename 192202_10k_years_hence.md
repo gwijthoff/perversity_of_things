@@ -8,11 +8,6 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-
-
-* * * * * * * * 
-
-
 **I**F we go back but 100 years, and contemplate how the world looked as, for instance, in the days of Napoleon, we are apt to be amazed at the way in which the world has progressed in a technical sense since then. We believe we need not call attention to the fact that steam, electricity, and up-to-date technic have completely altered not only the face of the globe, but our very lives as well.[^thc] If such a tremendous change has been possible in a short century, how then will the world appear in a thousand years, or ten thousand years, hence? The imagination fairly staggers at the attempt to picture what our civilization, if it still exists, will look like in the future ages.
 
 The up-to-date scientist has little difficulty in predicting certain things that will happen in ten or fifty years, but ten centuries hence is a large order, even for the most intrepid imagination. That practically nothing of our present civilization will be left after ten thousand years may be safely predicted. We may also prophesy that the human beings, ten centuries hence, will live in entirely altered circumstances from those they now exist in. Captain Lawson, of aerial fame, for instance, not so long ago made the prediction that 10,000 years hence the human race will not live on the surface of the globe at all, but will live far above it. His reasoning is as follows:

@@ -8,10 +8,6 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-
-
-* * * * * * * * 
-
 **W**INNING one war seems like a great accomplishment, but winning two wars, one after the other, is a historic occurrence for which we have few counterparts.
 
 When on Nov. 11 the glad news came that the great war had been won, the world once more breathed freely, and so did the American Radio Amateur, who had done his "bit" in bringing the war to a successful termination.  But hardly was the armistice signed than the spectre of a new war---to the amateur---crept up over the horizon threatening to take away from him the freedom for which we had fought.

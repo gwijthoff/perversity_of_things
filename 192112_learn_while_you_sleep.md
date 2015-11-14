@@ -8,10 +8,6 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-
-
-* * * * * * * * 
-
 ![](images/si_192112_cover.jpg)
 
 **T**HE normal human life covers a period of some seventy years. During this time, the average adult sleeps eight hours a day, or roughly speaking, one-third of the time. But, the individual when he reaches seventy years of age may be said to have lived only about forty-ﬁve years. The other twenty-ﬁve years have been taken up in sleep.

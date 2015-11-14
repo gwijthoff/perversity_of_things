@@ -8,10 +8,6 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-
-
-* * * * * * * * 
-
 IN modern detection of crime, the X-ray machine, test-tubes, bunsen-burners, the microphotograph, the spectrograph, the spectrophotometer and the polarizer are preceding the baton and police whistle in usefulness.[^wfl] As the pioneer in publicizing these advances in criminal-detection, and in educating both police and public, *Scientific Detective Monthly* is performing invaluable duties.[^sdm]
 
 The primary aim of this magazine is to interest and entertain. Apart from the fact that all material must deal with scientific detection of crime, no editorial foibles and policies exist against which the writer so often battles in vain. There is only one editorial dictum---scientific accuracy. That accomplished, the author can give his imagination free reign.

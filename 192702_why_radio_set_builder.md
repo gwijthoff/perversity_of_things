@@ -8,10 +8,6 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-
-
-* * * * * * * * 
-
 > *. . . in which the Editor recalls the early days of Radio, before factory-made sets could be obtained---why the manufacturer of receivers is not unkindly disposed to the set builder---how the latter is doing some of the most important pioneering in radio design---why the enthusiastic set builder is also a purchaser of good commercial receivers---and why this great hobby is appealing year by year to greater numbers of intelligent people who find in it the highest pleasure. . . .*
 
 **W**HEN radio was young, in this country, you could not go out in the open market and buy a complete radio set. I refer to the time when radio first came into vogue; that is, after the appearance of the modern vacuum tube, in 1912. At that time such a thing as a radio cabinet was unknown. We used to mount our instruments of various descriptions on our table; and the more room they took up, and the bigger the table was, the better pleased we were.

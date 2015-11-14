@@ -8,10 +8,6 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-
-
-* * * * * * * * 
-
 **P**ERHAPS the most difficult thing that a human being is called upon to face is long, concentrated thinking.  Whether you are a lawyer, trying to formulate or memorize the pleading of a special case, whether you are an inventor with an intricate problem to be solved, whether you are a playwright trying to hatch out a knotty plot---assiduous concentration on the subject becomes necessary.
 
 Most people who desire thus to concentrate find it necessary to shut themselves up in an almost soundproof room in order to go ahead with their work, but even here there are many things that distract their attention.

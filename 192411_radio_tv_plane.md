@@ -8,10 +8,6 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-
-
-* * * * * * * * 
-
 **Tomorrow we shall find a new order of things if a war should occur.  Pilot-less Radio-controlled planes fitted with "Television" eyes will flash back what they see to headquarters.**[^pqpb]
 
 **O**N a recent trip to Washington the writer visited the laboratories of C. Francis Jenkins, the well-known experimenter of international reputation. It was Mr. Jenkins who perfected the shutter that made our present-day motion pictures possible. He was paid over $1,000,000 for this invention.[^cfjs]

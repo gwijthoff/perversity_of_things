@@ -8,10 +8,6 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-
-
-* * * * * * * * 
-
 **T**HE word *Science,* from the Latin *scientia,* meaning knowledge, is closely related to *Invention,* which, derived from the Latin *inventio,* means, finding out.  There is little in Science that did not at one time require some inventive powers, while conversely most of the world's inventions are based upon one or more of the sciences.
 
 But "invention" antedates "science" by thousands of years.  When our prehistoric man first fashioned his crude hammer by binding a stone to a stick, by means of reeds, he had made a basic invention in every sense of the word.  And when he first applied his stick to a huge boulder he wisht to move, then placing a smaller stone under the stick---he had made another notable basic invention---the lever.

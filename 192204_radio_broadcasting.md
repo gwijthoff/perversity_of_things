@@ -8,10 +8,6 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-
-
-* * * * * * * * 
-
 **A** GREAT change has come about in the last two months. Overnight, the public seems to have "gone mad" over Radio. Laymen and others who have never paid the slightest attention to Radio before, are storming the Radio supply houses in a frantic search for Radio instruments, only to be disappointed as a rule because there is not enough material to satisfy the tremendous demand. There are now close to eighty broadcasting stations in the United States, new ones being added daily. These stations supply free entertainment to the masses and it is estimated that there are already over 1,000,000 Radio outﬁts of every sort and description in the United States.[^byn]
 
 This art is so new that it would be futile to guess what it will be like in ten years to come, but we can make certain prophecies that we are sure will be veriﬁed. At present let us say Newark or Pittsburg is sending out some information or entertainment. We sit in our parlor and our friends listen to it by means of a loud speaking receiver. It may be a dry lecture or some other form of entertainment that we do not like. The best we can do at present is to turn off a switch which will silence the loud-talker. In the future we will not be dependent upon just one form of entertainment, but we will be able to choose for ourselves as to whether we should have jazz, grand opera or a sermon. The present broadcasting stations use a wave length of 360 meters. In the future, each broadcasting station will have a dozen or more laboratories from which different forms of entertainment will be sent simultaneously, each on its own wave length. 

@@ -8,10 +8,6 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-
-
-* * * * * * * * 
-
 **A**T the present state of the art, Wireless can be sub-divided into three classes:
 
 1st. Wireless Telegraphy or Radiotelegraphy. 

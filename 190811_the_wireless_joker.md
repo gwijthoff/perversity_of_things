@@ -8,10 +8,6 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-
-
-* * * * * * * 
-
 The Editor is in receipt of several communications from the government and commercial wireless stations, all of whom file complaints against wireless amateurs, who annoy the large stations throughout the country.
 
 By publishing the call letters and names of the wireless stations in the U.S., we simply wished to keep our readers informed, so that when any of them "caught" a message they would be in a position to know from whence the message was dispatched.

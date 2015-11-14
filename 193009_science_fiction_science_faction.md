@@ -8,10 +8,6 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-
-
-* * * * * * * * 
-
 . . . Prophetic Fiction is the Mother of Scientific Fact . . . 
 
 **I**N time to come, there is no question that science fiction will be looked upon with considerable respect by every thinking person. The reason is that science fiction has already contributed quite a good deal to progress and civilization and will do so increasingly as time goes on.

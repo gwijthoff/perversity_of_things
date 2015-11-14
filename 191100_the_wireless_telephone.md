@@ -11,10 +11,6 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-
-
-* * * * * * * * 
-
 ![Advertisement for *The Wireless Telephone* in the January 1911 issue of *Modern Electrics.*](images/wireless_telephone_ad.jpg)
 
 # Preface

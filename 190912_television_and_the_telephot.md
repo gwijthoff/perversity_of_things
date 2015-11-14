@@ -8,10 +8,6 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-
-
-* * * * * * * * 
-
 ![](images/television_telephot1.png)
 
 Every now and then we see newspaper reports that Mr. So and So has discovered the real secret of television, only to be told again a few weeks afterwards that it has not been realized after all.[^tvn]

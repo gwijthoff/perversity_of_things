@@ -8,10 +8,6 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-
-
-* * * * * * * * 
-
 **O**F late, we are receiving a great many inquiries from experimenters, would-be inventors, inventors, as well as others, asking us to publish a "list" of useful electrical devices which as yet require to be invented.  Most of our correspondents state that they are of an inventive turn of mind and quite a few admit very frankly that in the past they have lost a good deal of money and time in trying to develop ideas which afterwards turned out to be of no earthy practical use.  By boiling down the various inquiries, this is what our correspondents desire:  "What electrical inventions are urgently required at present, and which ones are the most desirable from a financial viewpoint?"
 
 As most everyone is familiar with the important problems as yet unsolved, such as:  Electricity direct from Coal; Harnessing of the Sun's and the Ocean's Energy; Cold Light, etc., we do not for the present wish to dwell upon these.[^ecdl]  For that reason the "list" which we suggest below will probably be more in keeping with our would-be inventors' desires.  We make no claim that the suggestions are highly original, or that they could not easily be improved upon.  We do, however, think that it would be quite profitable to invent and market any one of the ideas and devices cited.  At least that is our humble opinion.

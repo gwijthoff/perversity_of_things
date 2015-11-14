@@ -10,10 +10,6 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-
-
-* * * * * * * *
-
 *"THERE are more things in heaven and earth, Horatio, than are dreamt of in your philosophy."*
 
 *So sings Shakespeare.  One of these "things in heaven" is the Planet Mars, the most fascinating, the most astounding revelation to the feeble human intelligence.  Shakespeare, the master of the drama, never conceived anything like a drama of an entire world---millions of intelligent beings---fighting a heroic battle, a battle for existence.  Yet this drama was going on right before his very eyes, but 35 million miles away; for the Martians have been fighting for water ages ago, and the available supply becomes smaller each year.*

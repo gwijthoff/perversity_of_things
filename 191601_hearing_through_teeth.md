@@ -8,10 +8,6 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-
-
-* * * * * * * * 
-
 ![](images/teeth.png)
 
 **T**HE following interesting experiment can be performed by anyone who has an ordinary disc phonograph. It is interesting, in so far as it shows the transmission of sound through the teeth, and through the bony substance of the human skull, which in turn reacts upon the auditory nerve.[^npw] It is not well known but it is a fact nevertheless that sounds do not necessarily have to enter through the oral opening in order that we can hear sounds. Physicians in testing for hearing sometimes use a tuning fork which, after struck, is pressed with its lower part against the back of the skull, right behind the ear. The sound is then heard inside of the head the same as if it had actually entered through the opening of the ear itself. This principle is made use of in the experiment described here, and while it is not electrical by any means, it probably will interest every experimenter who owns a phonograph.[^ggs]

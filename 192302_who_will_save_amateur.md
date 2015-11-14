@@ -10,10 +10,6 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-
-
-* * * * * * * * * * * 
-
 **I**N our October issue we published a special \$500.00 prize contest, entitled: "Who Will Save the Radio Amateur?"  This was in connection with Mr. Armstrong Perry's article, "Is The Radio Amateur Doomed?"[^arm]
 
 All thinking men, and most intelligent amateurs themselves had long come to the conclusion, ever since the broadcasting popularity started, that the radio amateur was indeed doomed.  By "doomed" is meant not that the radiophone popularity was to wipe out the amateur, but, rather, that IT WAS THE AMATEUR WHO DOOMED HIMSELF, and who put himself out of business.  The reason is so simple and so obvious that it is difficult to understand why the rank and file of the amateurs have not seen it for themselves long ago.

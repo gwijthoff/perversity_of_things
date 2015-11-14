@@ -6,10 +6,6 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-
-
-* * * * * * * * 
-
 ![](images/evolution_modern_sf.JPG)
 
 The writer has frequently been called the "Father of Science Fiction" (*TIME* magazine, January 3, 1944; *New Yorker* magazine, February 13, 1943; and many others).[^pnro]  Usually authors not quite familiar with the writer's early work set the date of the start of modern science fiction in the year 1926, which date coincides with the first science fiction magazine, *Amazing Stories,* the first issue of which was launched by the writer in April, 1926.

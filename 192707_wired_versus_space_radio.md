@@ -8,10 +8,6 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-
-
-* * * * * * * * 
-
 > *. . . in which the Editor discusses the American system of free broadcasting and its alternatives---and the possibilities of the proposed "wired radio"---which is coming soon---and doubts that the latter can supersede DX radio reception in the favor of true fans---and expresses the opinion that wired radio will be an immediate challenge to the well-known ingenuity of myriad radio constructors---why there is room for both services to the great radio public.*
 
 **W**HEN broadcasting was established in this country, the universal opinion was that the service would always be free. No one in America has ever seriously considered broadcasting for pay from the listeners. This is in distinct contrast to the European system, whereby every radio set is taxed by the government anywhere from 25 cents a month upwards to pay the broadcasters. This is the custom that prevails in most countries of the world with some few exceptions. Of course, even in the United States, some one foots the bill---that some one being usually the public. But this is indirect taxation, whereas the European system is one of direct taxation on each set.

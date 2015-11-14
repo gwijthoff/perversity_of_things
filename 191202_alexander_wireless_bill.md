@@ -8,10 +8,6 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-
-
-* * * * * * * * 
-
 **E**LSEWHERE we print a copy of the new Alexander Wireless Bill.[^wpd]
 
 Before we go any further we might as well tell all those interested in wireless that it is not necessary to feel any anxiety over this or any other wireless bill. We have noted in the past that every time we have printed any of the various wireless bills there was almost a panic among the amateurs and other wireless interests.

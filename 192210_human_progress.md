@@ -8,10 +8,6 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-
-
-* * * * * * * * * * * 
-
 **W**HEN we contemplate the future progress of the human race, as viewed in the light of our present civilization, a beautiful picture is stretched before our eyes.  We see the millennium just ahead, man emancipated; in other words, paradise on earth.[^wno]
 
 If the progress of the human race should go along unabated as it has during the last one hundred years, Science, in five hundred years, would lift the race up to a point where it never stood before. The world then would be a place that even our most fervid imaginations could not conjecture today.

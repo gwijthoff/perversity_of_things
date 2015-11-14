@@ -8,10 +8,6 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-
-
-* * * * * * * * 
-
 **F**ROM time immemorial, crass ignorance and great scientific discoveries have cheerfully trotted side by side.  Whether it was Columbus discovering a new world, or whether it was Galileo who maintained that the world was turning around the sun and not *vice versa*---a stupid and narrow humanity was ever ready to step in and command a threatening *Halt!* to scientific exploits.
 
 It is no different with radio.  No sooner has the new art demonstrated its inconceivable boon to the world that some well-meaning but misguided official steps up and frantically tries to shackle it down, hands, body and feet.

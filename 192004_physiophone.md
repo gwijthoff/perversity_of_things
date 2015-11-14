@@ -8,10 +8,6 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-
-
-* * * * * * * * 
-
 **W**HEN I was sixteen I secured an old-fashioned Pathé phonograph of the cylindrical record type. You know the kind that was in vogue years ago. Being much interested in electricity in those days, the thought occurred to me, the same as it occurred to thousands of others, namely, why not transmit the music electrically by putting a sensitive microphone somewhere on the phonograph and thus get the music at a distance.
 
 No sooner said than done. An old-fashioned Hughes microphone was constructed by means of three little carbon rods, and this miniature microphone was attached to the sound box. The microphone was in series with a battery and the primary of an ordinary telephone induction coil. The music transmission was excellent and phonograph music was transmitted over a distance of three hundred yards on my father's estate. These experiments created quite a sensation in those days, and my friends, all electrical "bugs," were much elated and pleased with the stunt.

@@ -8,10 +8,6 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-
-
-* * * * * * * * 
-
 The long threatened wireless bill has made its appearance at last.
 
 The resolution, as introduced by Representative Roberts of Massachusetts, is reprinted in detail on the following page and should be carefully read by every one who has wireless progress at heart.[^rep]  Personally, the Editor believes that there is no need of a wireless telegraph board.

@@ -8,10 +8,6 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-
-
-* * * * * * * * 
-
 **E**VERY inventor must be a prophet.[^now]  If he were not, he could not think up inventions that will only exist in the future.  For this reason, every inventor must ascend from fact to non-fact.  What non-fact will turn out to be, not even the inventor knows beforehand.  He prophesies to himself that he can make such and such an invention, all the while thinking about it, and letting his imagination work overtime.  He keeps on turning the question or problem over and over in his mind until the subject finally crystallizes itself into a concrete form.  All of this takes place in the inventor's mind.  He is not working with concrete facts but he imagines and hopes that the particular device upon which he is laboring will turn out to be as he imagines it.
 
 If the inventor's imaginings were wrong, he is a poor inventor.  If they are right, he is a good one.[^ivt]

@@ -8,10 +8,6 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-
-
-* * * * * * * * 
-
 **A** FEW letters have come to the Editor's desk from some readers who wish to know what prompts us to so frequently preface our stories in our introductory remarks with the statement that this or that scientific plot is not impossible, but quite probable.
 
 These readers seem to have the idea that we try to impress our friends with the fact that whatever is printed in AMAZING STORIES is not necessarily pure fiction, but could or can be fact.

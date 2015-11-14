@@ -8,10 +8,6 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-
-
-* * * * * * * 
-
 Every time our neighbor Mars comes in opposition to the earth a host of inventors and others begin to turn their attention to the great up-to-date problem, "signaling to Mars."[^orb]
 
 It is safe to say that all the proposed, possible as well as impossible, projects would fill a good-sized volume, especially the ones invented in this country, which by far leads the world in number of projects and "inventions."

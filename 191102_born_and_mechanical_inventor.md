@@ -8,10 +8,6 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-
-
-* * * * * * * * 
-
 **W**E have spoken several times of inventions and the present editorial is one on cultivating inventions.
 
 Generally speaking, there are two kinds of inventing.  One is achieved by the man who can't help inventing new things; he is a born inventor, just like a musician to whom music comes naturally and who never needed a teacher.  The second kind of inventing is the mechanical kind.  By this is meant the kind of inventing that is done by persons to whom inventing does not come natural, but those who are suddenly confronted with a certain device that to their minds seems imperfect, whereupon they will bend their energies towards improving the existing device.

@@ -8,10 +8,6 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-
-
-* * * * * * * * 
-
 **A**S all our readers are aware the United States Government, thru the Navy Department, has issued orders thruout the land to cause the immediate dismantling of all radio stations, whether large or small, commercial or amateur, sending or receiving.  All aerials have been ordered dismantled and apparatus packed away.
 
 This action came as a great surprise to all patriotic amateurs, who for years past had been encouraged by the Government and who were certain that in time of war they would be allowed to "do their bit" with their outfits for the country.[^pne] 
