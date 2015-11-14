@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Imagination Versus Facts
-author: | 
-    *The Electrical Experimenter*, vol. 3 no. 12
+author: The Electrical Experimenter, vol. 3 no. 12
 date: April 1916
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl

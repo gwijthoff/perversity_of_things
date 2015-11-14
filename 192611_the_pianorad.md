@@ -1,8 +1,7 @@
 ---
 layout: post
 title: The "Pianorad"
-author: |
-    *Radio News*, vol. 8 no. 5
+author: Radio News, vol. 8 no. 5
 date: November 1926
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl

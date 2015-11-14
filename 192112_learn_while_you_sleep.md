@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Learn and Work While You Sleep
-author: |
-    *Science and Invention,* vol. 9 no. 8
+author: Science and Invention, vol. 9 no. 8
 date: December 1921
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl

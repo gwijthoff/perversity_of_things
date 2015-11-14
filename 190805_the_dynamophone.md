@@ -1,8 +1,7 @@
 ---
 layout: post
 title: The Dynamophone
-author: |
-    *Modern Electrics*, vol. 1 no. 2
+author: Modern Electrics, vol. 1 no. 2
 date: May 1908
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl

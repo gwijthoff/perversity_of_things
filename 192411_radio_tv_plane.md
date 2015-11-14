@@ -1,8 +1,7 @@
 ---
 layout: post
 title: A Radio-Controlled Television Plane
-author: |
- *The Experimenter*, vol. 1 no. 4
+author: The Experimenter, vol. 1 no. 4
 date: November 1924
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl

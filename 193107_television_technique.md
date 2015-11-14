@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Television Technique
-author: |
-  *Television News*, vol. 1 no. 3
+author: Television News, vol. 1 no. 3
 date: July-August 1931
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl

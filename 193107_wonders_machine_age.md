@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Wonders of the Machine Age
-author: |
- *Wonder Stories*, vol. 3 no. 2
+author: Wonder Stories, vol. 3 no. 2
 date: February 1933
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl

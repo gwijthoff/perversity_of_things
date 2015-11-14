@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Signaling to Mars
-author: |
-    *Modern Electrics*, vol. 2 no. 2
+author: Modern Electrics, vol. 2 no. 2
 date: May 1909
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl

@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Why "Radio Amateur News" is Here
-author: | 
-    *Radio Amateur News*, vol. 1 no. 1
+author: Radio Amateur News, vol. 1 no. 1
 date: July 1919
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl

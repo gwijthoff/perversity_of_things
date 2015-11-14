@@ -1,8 +1,7 @@
 ---
 layout: post
 title: What to Invent
-author: | 
-    *The Electrical Experimenter*, vol. 4 no. 1
+author: The Electrical Experimenter, vol. 4 no. 1
 date: May 1916
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl

@@ -1,8 +1,7 @@
 ---
 layout: post
 title: \[The Alexander Wireless Bill\]
-author: |
-    *Modern Electrics*, vol. 4 no. 11
+author: Modern Electrics, vol. 4 no. 11
 date: February 1912
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl

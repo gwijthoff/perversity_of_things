@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Predicting Future Inventions
-author: |
-    *Science and Invention*, vol. 11 no. 4
+author: Science and Invention, vol. 11 no. 4
 date: August 1923
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl

@@ -1,8 +1,7 @@
 ---
 layout: post
 title: The Future of Radio
-author: | 
-    *Radio Amateur News*, vol. 1 no. 4
+author: Radio Amateur News, vol. 1 no. 4
 date: October 1919
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl

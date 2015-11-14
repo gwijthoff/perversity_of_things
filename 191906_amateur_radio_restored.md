@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Amateur Radio Restored
-author: |
-    *Electrical Experimenter*, vol. 6 no. 2
+author: Electrical Experimenter, vol. 6 no. 2
 date: June 1919
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl

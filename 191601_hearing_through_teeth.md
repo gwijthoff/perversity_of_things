@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Hearing Through Your Teeth
-author: | 
-    *The Electrical Experimenter*, vol. 3 no. 9 
+author: The Electrical Experimenter, vol. 3 no. 9 
 date: January 1916
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl

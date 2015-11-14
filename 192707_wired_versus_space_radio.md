@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Wired Radio Versus Space Radio
-author: |
- *Radio News*, vol. 9 no. 1
+author: Radio News, vol. 9 no. 1
 date: July 1927
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl

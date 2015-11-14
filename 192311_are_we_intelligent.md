@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Are We Intelligent?
-author: | 
-    *Science and Invention*, vol. 11 no. 7
+author: Science and Invention, vol. 11 no. 7
 date: November 1923
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl

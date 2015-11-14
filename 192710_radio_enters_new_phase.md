@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Radio Enters Into a New Phase
-author: |
- *Radio News*, vol. 9 no. 4
+author: Radio News, vol. 9 no. 4
 date: October 1927
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl

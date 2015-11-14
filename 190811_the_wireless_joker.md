@@ -1,8 +1,7 @@
 ---
 layout: post
 title: \[The Wireless Joker\]
-author: |
-    *Modern Electrics*, vol. 1 no. 8
+author: Modern Electrics, vol. 1 no. 8
 date: November 1908
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl

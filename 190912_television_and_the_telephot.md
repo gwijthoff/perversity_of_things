@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Television and the Telephot
-author: |
- *Modern Electrics*, vol. 2 no. 9
+author: Modern Electrics, vol. 2 no. 9
 date: December 1909
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl

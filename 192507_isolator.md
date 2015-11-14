@@ -1,8 +1,7 @@
 ---
 layout: post
 title: The Isolator
-author: |
- *Science and Invention*, vol. 13 no. 3
+author: Science and Invention, vol. 13 no. 3
 date: July 1925
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl

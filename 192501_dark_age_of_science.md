@@ -1,8 +1,7 @@
 ---
 layout: post
 title: The Dark Age of Science
-author: |
-    *Science and Invention*, vol. 12 no. 9
+author: Science and Invention, vol. 12 no. 9
 date: January 1925
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl

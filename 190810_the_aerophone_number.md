@@ -1,8 +1,7 @@
 ---
 layout: post
 title: \[The Aerophone Number\]
-author: |
-    *Modern Electrics*, vol. 1 no. 7
+author: Modern Electrics, vol. 1 no. 7
 date: October 1908
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl

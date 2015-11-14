@@ -1,8 +1,7 @@
 ---
 layout: post
 title: The Killing Flash
-author: |
- *Science Wonder Stories*, vol. 1 no. 6
+author: Science Wonder Stories, vol. 1 no. 6
 date: November 1929
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl

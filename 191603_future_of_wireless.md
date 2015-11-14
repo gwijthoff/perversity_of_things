@@ -1,8 +1,7 @@
 ---
 layout: post
 title: The Future of Wireless 
-author: | 
-    *The Electrical Experimenter*, vol. 3 no. 11 
+author: The Electrical Experimenter, vol. 3 no. 11 
 date: March 1916
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl

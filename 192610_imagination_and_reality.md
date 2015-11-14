@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Imagination and Reality
-author: |
-    *Amazing Stories* vol. 1 no. 7
+author: Amazing Stories, vol. 1 no. 7
 date: October 1926
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl

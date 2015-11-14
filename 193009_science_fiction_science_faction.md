@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Science Fiction Versus Science Faction
-author: |
-    *Wonder Stories Quarterly*, vol. 2 no. 1
+author: Wonder Stories Quarterly, vol. 2 no. 1
 date: Fall 1930
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl

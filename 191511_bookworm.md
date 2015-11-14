@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Phoney Patent Offizz:\ Bookworm’s Nurse
-author: | 
-    *The Electrical Experimenter*, vol. 3 no. 7
+author: The Electrical Experimenter, vol. 3 no. 7
 date: November 1915
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl

@@ -1,8 +1,7 @@
 ---
 layout: post
 title: New Radio "Things" Wanted
-author: |
-    *Radio News*, vol. 8 no. 11
+author: Radio News, vol. 8 no. 11
 date: May 1927
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl

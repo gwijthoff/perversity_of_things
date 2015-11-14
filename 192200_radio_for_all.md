@@ -1,8 +1,6 @@
 ---
 layout: post
 title: from *Radio For All*
-author: |
-    Philadelphia (J.B Lippincott Company)
 date: 1922
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl

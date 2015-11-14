@@ -1,8 +1,7 @@
 ---
 layout: post
 title: The Radioson Detector
-author: |
-    *The Electrical Experimenter*, vol. 1 no. 10
+author: The Electrical Experimenter, vol. 1 no. 10
 date: February 1914
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl

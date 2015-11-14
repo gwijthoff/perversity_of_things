@@ -3,8 +3,7 @@ layout: post
 title: |
     Results of the \$500.00 Prize Contest:
     Who Will Save the Radio Amateur?
-author: |
-    *Radio News*, vol. 4 no. 8
+author: Radio News, vol. 4 no. 8
 date: February 1923
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl

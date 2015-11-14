@@ -1,8 +1,7 @@
 ---
 layout: post
 title: 10,000 Years Hence
-author: |
- *Science and Invention*, vol. 9 no. 10
+author: Science and Invention, vol. 9 no. 10
 date: February 1922
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl

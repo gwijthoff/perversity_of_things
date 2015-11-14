@@ -1,8 +1,7 @@
 ---
 layout: post
 title: How to Write "Science" Stories
-author: |
-    *Writer's Digest*
+author: Writer's Digest
 date: February 1930
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl

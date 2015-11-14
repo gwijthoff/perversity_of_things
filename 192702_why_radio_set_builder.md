@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Why the Radio Set Builder
-author: |
- *Radio News*, vol. 8 no. 8
+author: Radio News, vol. 8 no. 8
 date: February 1927
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl

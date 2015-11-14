@@ -1,8 +1,7 @@
 ---
 layout: post
 title: The Electric Duel
-author: |
-    *Amazing Stories*, vol. 2 no. 6
+author: Amazing Stories, vol. 2 no. 6
 date: September 1927
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl

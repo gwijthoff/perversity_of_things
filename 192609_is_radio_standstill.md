@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Is Radio at a Standstill?
-author: | 
-    *Radio News*, vol. 8 no. 3
+author: Radio News, vol. 8 no. 3
 date: September 1926
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl

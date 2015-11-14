@@ -1,8 +1,7 @@
 ---
 layout: post
 title: After Television, What?
-author: |
-    *Science and Invention*, vol. 15 no. 2
+author: Science and Invention, vol. 15 no. 2
 date: June 1927
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl

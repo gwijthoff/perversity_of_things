@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Editorially Speaking
-author: |
-  *Amazing Stories*, vol. 1 no. 6
+author: Amazing Stories, vol. 1 no. 6
 date: September 1926
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl

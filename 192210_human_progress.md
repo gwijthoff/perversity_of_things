@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Human Progress
-author: |
-    *Science and Invention*, vol. 10 no. 6
+author: Science and Invention, vol. 10 no. 6
 date: October 1922
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl

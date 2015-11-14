@@ -1,8 +1,7 @@
 ---
 layout: post
 title: A New Sort of Magazine
-author: |
-    *Amazing Stories* vol. 1 no. 1
+author: Amazing Stories vol. 1 no. 1
 date: April 1926
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl

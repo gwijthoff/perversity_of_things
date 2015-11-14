@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Radio Broadcasting
-author: |
-    *Science and Invention,* vol. 9 no. 12
+author: Science and Invention, vol. 9 no. 12
 date: April 1922
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl

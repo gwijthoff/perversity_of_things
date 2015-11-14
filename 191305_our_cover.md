@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Our Cover
-author: |
-    *The Electrical Experimenter*, vol. 1 no. 1
+author: The Electrical Experimenter, vol. 1 no. 1
 date: May 1913
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl

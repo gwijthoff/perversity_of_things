@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Silencing America's Wireless
-author: |
-    *The Electrical Experimenter*, vol. 5 no. 2
+author: The Electrical Experimenter, vol. 5 no. 2
 date: June 1917
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl

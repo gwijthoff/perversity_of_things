@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Thomas A. Edison Speaks to You
-author: |
-    *The Electrical Experimenter*, vol. 7 no. 8
+author: The Electrical Experimenter, vol. 7 no. 8
 date: December 1919
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl

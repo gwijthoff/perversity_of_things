@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Sayville
-author: |
-    *The Electrical Experimenter*, vol. 3 no. 4
+author: The Electrical Experimenter, vol. 3 no. 4
 date: August 1915
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl

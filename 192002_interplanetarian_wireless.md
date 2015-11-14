@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Interplanetarian Wireless
-author: | 
-    *Radio Amateur News*, vol. 1 no. 8
+author: Radio Amateur News, vol. 1 no. 8
 date: February 1920
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl

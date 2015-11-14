@@ -1,8 +1,7 @@
 ---
 layout: post
 title: The Magnetic Storm
-author: |
-    *Electrical Experimenter*, vol. 6 no. 4
+author: Electrical Experimenter, vol. 6 no. 4
 date: August 1918
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl

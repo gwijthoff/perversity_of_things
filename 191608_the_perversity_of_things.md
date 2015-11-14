@@ -1,8 +1,7 @@
 ---
 layout: post
 title: The Perversity of Things
-author: |
-    *Electrical Experimenter*, vol. 4 no. 4
+author: Electrical Experimenter, vol. 4 no. 4
 date: August 1916
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl

@@ -1,8 +1,7 @@
 ---
 layout: post
 title: The Short-Wave Era
-author: |
-    *Radio News*, vol. 10 no. 3
+author: Radio News, vol. 10 no. 3
 date: September 1928
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl

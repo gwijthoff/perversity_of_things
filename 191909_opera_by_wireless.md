@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Grand Opera by Wireless
-author: |
-    *Radio Amateur News,* vol. 1 no. 3
+author: Radio Amateur News, vol. 1 no. 3
 date: September 1919
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl

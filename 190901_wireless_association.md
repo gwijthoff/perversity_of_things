@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Wireless Association of America
-author: |
-    *Modern Electrics*, vol. 1 no. 10
+author: Modern Electrics, vol. 1 no. 10
 date: January 1909
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl

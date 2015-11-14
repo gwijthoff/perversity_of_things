@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Reasonableness in Science Fiction
-author: |
-    *Wonder Stories*, vol. 4 no. 7
+author: Wonder Stories, vol. 4 no. 7
 date: December 1932
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl

@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Fiction Versus Facts
-author: |
-    *Amazing Stories*, vol. 1 no. 4
+author: Amazing Stories, vol. 1 no. 4
 date: July 1926
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl

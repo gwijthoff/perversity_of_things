@@ -1,8 +1,7 @@
 ---
 layout: post
 title: The Physiophone:\ Music for the Deaf
-author: |
-    *Electrical Experimenter,* vol. 7 no. 12
+author: Electrical Experimenter, vol. 7 no. 12
 date: April 1920
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl

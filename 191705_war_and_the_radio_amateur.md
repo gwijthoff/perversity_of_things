@@ -1,8 +1,7 @@
 ---
 layout: post
 title: War and the Radio Amateur
-author: |
-    *Electrical Experimenter* vol. 5 no. 1
+author: Electrical Experimenter, vol. 5 no. 1
 date: May 1917
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl

@@ -1,8 +1,7 @@
 ---
 layout: post
 title: The Lure of Scientifiction
-author: |
-    *Amazing Stories*, vol. 1 no. 3
+author: Amazing Stories, vol. 1 no. 3
 date: June 1926
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl

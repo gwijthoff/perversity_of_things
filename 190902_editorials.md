@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Editorials
-author: |
-    *Modern Electrics*, vol. 1 no. 11
+author: Modern Electrics, vol. 1 no. 11
 date: February 1909
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl

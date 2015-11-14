@@ -1,8 +1,7 @@
 ---
 layout: post
 title: \[The Roberts Wireless Bill\]
-author: |
-    *Modern Electrics*, vol. 2 no. 10
+author: Modern Electrics, vol. 2 no. 10
 date: January 1910
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl

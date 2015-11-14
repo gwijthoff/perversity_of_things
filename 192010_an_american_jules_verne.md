@@ -1,8 +1,7 @@
 ---
 layout: post
 title: An American Jules Verne
-author: |
-    *Science and Invention* vol. 8 no. 6
+author: Science and Invention, vol. 8 no. 6
 date: October 1920
 bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
