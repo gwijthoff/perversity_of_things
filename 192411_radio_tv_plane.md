@@ -23,7 +23,7 @@ A radio-controlled airplane has already been demonstrated by the French and Amer
 
 But the great trouble with radio-controlled airplanes is that the operator must see the plane. If his machine were to make a landing at a great distance he might land the airplane on top of a building or in a river, or it might collide with a mountain.
 
-The Pilot-less radio television plane, directed by radio; the plane's "eyes" radio back what they see.](images/radio_tv_plane.png)
+](images/radio_tv_plane.png)
 
 # A Pilot-less Plane Which "Sees" 
 

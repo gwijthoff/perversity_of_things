@@ -19,7 +19,7 @@ Sparks rose excitedly and began pacing the cement floor of the vast Tesla labora
 
 "Why" Sparks had been just an ordinary "Bug," an experimenter, when he entered Tesla's great research laboratory at the beginning of the great war in 1914. Tesla liked the keen, red-haired tousled boy, who always seemed to divine your thoughts before you had uttered five words. His clear blue eyes, lying deep in their sockets, sparkled with life and intelligence and what Sparks did not know about electricity was mighty little indeed. I believe there is no electrical book in existence that Sparks had not devoured ravenously in his spare hours, while having lunch or else while in bed, in the small hours of the morning. His thirst for electrical knowledge was unbounded, and he soaked up every bit of information like a sponge. Yes, and he retained it, too. In short, the young prodigy was a living electrical cyclopedia and highly valued by his associates. No wonder Tesla in three short years had made him superintendent of the laboratory.
 
-. . . The President of the Glorious French Republic Shouts Dramatically: "Messieurs . . . le Jour de Gloire est Arrivé . . . VIVE-LA-FRANCE!!"---and Throws in the Huge Switch With Its Long Ebonite Handle. . . .](images/magnetic_storm.png)
+](images/magnetic_storm.png)
 
 # Sparks' First Name 
 
@@ -207,7 +207,7 @@ He ran to the wagon which carried the mobile radio field apparatus and peremptor
 
 As he sent out the call mechanically, he wondered vaguely what the matter could be with the government, because it did not even supply a modern, up-to-date *Löschfunkenstrecke*---quenched spark gap---for field use. Things must be pretty bad when the government must economize even a few beggarly pounds of brass, so necessary for a noiseless spark gap.
 
-Advertisement for International Correspondence Schools](images/you_get_the_job.jpg)
+](images/you_get_the_job.jpg)
 
 But he could not give that matter further attention for he had thrown the aerial switch from "sending" to "receiving."
 

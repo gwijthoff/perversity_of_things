@@ -21,11 +21,11 @@ A number of circuits showing Detectorium connections are shown on this page.
 
 At this point I wish to say that I believe that our 1910 tuning coils with sliders are still way ahead of anything that is in use now. Very fine tuning can be done with a double-slide tuning coil; much better, in fact, than in most devices used today.
 
-Various circuits for Detectorium.  Where no sharp tuning is required, circuit A is quite satisfactory.  Circuits B and D are used for sharp tuning.  Circuit D is particularly good.](images/detectorium1.png)
+](images/detectorium1.png)
 
-View of the complete detectorium, with its two sliders.  Note one slider with its crystal cup.  right, Fig. 1, shows a different means for attaching crystal to slider, and spring for regulating tension of crystal.](images/detectorium2.png)
+](images/detectorium2.png)
 
-Close-up of Detectorium, showing D, slider, B, adjusting screw to bring crystal cup with crystal into contact with wire convolutions, A, crystal, and C, tuning coil.](images/detectorium3.png)
+](images/detectorium3.png)
 
 CONSTRUCTION IS EASY
 =====================

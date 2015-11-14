@@ -11,7 +11,7 @@ csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 
 No sooner said than done. An old-fashioned Hughes microphone was constructed by means of three little carbon rods, and this miniature microphone was attached to the sound box. The microphone was in series with a battery and the primary of an ordinary telephone induction coil. The music transmission was excellent and phonograph music was transmitted over a distance of three hundred yards on my father's estate. These experiments created quite a sensation in those days, and my friends, all electrical "bugs," were much elated and pleased with the stunt.
 
-Mr. Gernsback Demonstrating the Physiophone.  The Photograph Shows How the Instruments Are Connected.  By Means of the Double Pole Switch, the Music Is Reproduced by a Loud Talker.  Then the Switch is Thrown, and Physiological Music Is Had.](images/physiophone1.png)
+](images/physiophone1.png)
 
 One evening I accidentally touched the two wires of the secondary terminals of the telephone coil and was quite surprised to get a smart and disagreeable shock. That was in 1900. The early experiments were soon forgotten, but in 1917, while editing an article in this magazine, where a young" man had re-discovered the ancient experiment, I thought of that shock, and I understood immediately what that shock really was. I accordingly set to work and immediately built a new transmitter which was attached to a Victor phonograph sound box, and which is shown in Fig. 4. The connections are shown from which it will be seen that the microphone is in series with the 6-volt storage battery and the primary of an induction coil such as is used in telephone work.
 
@@ -21,9 +21,9 @@ Different records were tried in 1917, but just then the United States entered in
 
 For this reason the handles must be located in another room so that whatever music leaves the phonograph cannot be heard. I used a double-throw switch and a loud talker of the type commercially sold, and invited visitors to first listen to the phonograph record by means of the loud talker. Then the switch was thrown, and of course no sound was heard at all. By grasping the handles, the visitors could readily follow the rhythm of the record, and right here a curious thing happens.
 
-Double Barreled Music.  Showing How an Audience Can Enjoy the Music Orally As Well As Physiologically.  In Other Words You Hear the Music and You Feel It As Well.  A Brand New Source of Enjoyment.](images/physiophone2.png)
+](images/physiophone2.png)
 
-During Tests with Totally Deaf People, They All Expressed a Great Desire to Dance by Means of Physiological Music.  Due to the Rhythm a Deaf Person Can Now Dance Without Any Trouble by Means of Physiological Music.](images/physiophone3.png)
+](images/physiophone3.png)
 
 Some people, altho musically inclined, have trouble in following the music, while others immediately recognize the different strains and have no trouble to sing or whistle with this physiological music. There seems to be a difference in the nervous system of individuals, and some people can more readily translate the rhythm than others, altho not necessarily more musically inclined. Other tests were made paralleling the idea *by using no phonograph at all,* but simply a microphone into which a person spoke. By having the experimenter count from one to a hundred, the other party at the far end could feel the voice impulses and after a while managed to "understand" the voice by physiological impulses.
 
@@ -39,17 +39,17 @@ Of course, the deaf person must learn the same as any other human being, for it 
 
 The same is the case with the deaf person and physiological music.  He must first learn the rhythm of the music, and after a while it will become easy for him to understand what the music or even the human voice is like if introduced to him by means of the Physiophone.
 
-Fig. 1. Experiment to Transmit Sound Impulses Into Electrical Impulses.  This Scheme Works Very Well to Transmit Music.](images/physiophone5.png)
+](images/physiophone5.png)
 
 I even go further and predict that sooner or later a totally deaf person will carry around with him an apparatus along the line of the "deaf-phone" type, the apparatus consisting of a sensitive microphone such as is used with the deaf-phones now.  The microphone will be in series with a portable battery and telephone coil, while the secondaries of this coil will go to metallic wrist bands of the wearer.  Then when he is spoken to he will soon be able to understand the meanings of the small electrical shocks which are the result of the human voice impinging upon the sensitive microphone.
 
-Fig. 2. Two Transmitter Buttons Connected in Parallel, Attached to Phonograph Arm.  This Scheme Works Fairly Well for Transmission of Music, But Not so Well in Connection With the "Physiophone."](images/physiophone6.png)
+](images/physiophone6.png)
 
 Coming back to our phonograph experiments, the deaf person can now enjoy dancing when he certainly could not do before, for he had no music or rhythm to dance by.  One of our illustrations shows how deaf persons will now be able to dance by means of phonograph music and the Physiophone.  The revolving wheel below the ceiling in the room or dance hall has flexible wires hanging down, which in turn connect with the secondaries of the telephone coils.  These are connected with the microphone and battery near the phonograph in the manner stated above.  Wires hanging down from this wheel connect to metal wrist pieces attached to each one of the dancers.  As soon as the music starts, the dancers become conscious of the music and begin to dance, enjoying the dancing, perhaps, even more than normal human beings, due to the electrifying effect of the current.  As the dancers progress, the overhead wheel keeps turning so that the wires do not become entangled.
 
-Fig. 4. Schematic Illustration of the Components of the Physiophone.](images/physiophone4.png)
+](images/physiophone4.png)
 
-Fig. 3. Using Two Transmitter Buttons in Parallel. Note Feathering Arrangement.](images/physiophone7.png)
+](images/physiophone7.png)
 
 As for the normal human being he can also enjoy the physiological effect of the electrical current for the principal reason that Faradization is healthy and invigorating and entirely harmless.  Another one of our illustrations shows what can be accomplisht along these lines for the normal human being.  Picture a concert hall, along the stage of which a battery of sensitive microphones is located.  The current is led to the primary of a large induction coil in series with the battery.  Secondary leads go to metallic handles hung at the back of each orchestra chair thruout the theatre.  As soon as the music starts, every one in the audience can grasp the handles, and they will now experience the novel effect of *not only hearing the music but also feeling it in a very invigorating manner.*  This thing has already been tried out by the writer in a small way.  It is perfectly possible to put your body in series with a loud-talker telephone.  Of course, the music coming out of the horn will now be weakened, but if your hands are wet or moist, the weakening of the loud-talker music is not too great.  You are now enabled to *hear* the music as well as *feel it.*  It will be noted in one of the photographs that a rheostat is used, which is quite necessary to reduce the current.  Some phonograph records as for instance band music are so loud and act so powerfully upon the microphone diafram that it is quite impossible to hold onto the handles comfortably.  It should be noted that on some phonograph records not all the sounds can be transmitted.  In other words, very high sounds do not make themselves felt at all, and some such records as the flute or other soft musical instruments do not lend themselves well for physiological effects.  Records containing xylophone, piccolo, band music and the ones with singing voices are probably the best.
 

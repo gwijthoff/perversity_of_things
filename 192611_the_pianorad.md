@@ -26,7 +26,7 @@ This is the first time that a musical instrument has been constructed from radio
 
 The Pianorad was first demonstrated on Saturday, June 12, during the celebration of Station WRNY's first anniversary, when it was used to broadcast its music.
 
-Above is shown the Pianorad as operated in WRNY studio; [below] is the loud-speaker horn with its twenty-five units separately connected for eliminating harmonics.](images/pianorad2.png)
+](images/pianorad2.png)
 
 ## Theory of the Instrument
 

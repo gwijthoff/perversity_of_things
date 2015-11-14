@@ -57,7 +57,7 @@ These high tension currents have also proved of high value in the treatment of n
 
 * * * * * * * * * * * 
 
-Ever since this magazine was started, subscribers have been clamoring for an article on Tesla coil experiments.](images/tesla_coil1.png)
+](images/tesla_coil1.png)
 
 ](images/tesla_coil2.png)
 

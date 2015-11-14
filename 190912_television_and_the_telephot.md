@@ -25,7 +25,7 @@ Unlike the mirror, however, you should not be able to see your own picture in yo
 
 From this it will be seen immediately how difficult the problem becomes, as if you could see yourself in your own Telephot, as well as the picture of your friend, it is obvious that there would be a 'mix-up' of personalities, the consequence being that you could not recognize your friend nor yourself, while your friend at the other end could of course not recognize you nor himself.
 
-May 1918 cover of *Electrical Experimenter.*](images/ee_cover_telephot.jpg)
+](images/ee_cover_telephot.jpg)
 
 In the telephone the case is not so difficult, as it is absolutely necessary that one party talks while the other listens; if both talk and listen, none can understand, as the voices mix up.
 
@@ -123,7 +123,7 @@ No patents were taken out on this invention by the writer, as he considers the d
 
 [^frt]: Though many point to this article as the first either to coin the term "television" or explain the concept to the layman (for instance @oneil_amazing_1963), the technology had been envisioned much earlier and explained in similarly generalist terms. Most historians date the earliest depiction of television *avant la lettre* to a George Du Maurier cartoon in the December 9, 1878 issue of *Punch.* The cartoon, "Edison's Telephonoscope" was a prediction for the following year, part of Punch's "Almanack for 1879." The caption reads, "Every evening, before going to bed, Pater- and Materfamilias set up an electric camera-obscura over their bedroom mantel-piece, and gladden their eyes with the sight of their children at the Antipodes, and converse gaily with them through the wire." Friedrich Kittler dates the coinage of a name for this medium to Raphael Eduard Liesegang's 1891 book *Beiträge zum Problem des elektrischen Fernsehen* \[Contributions to the Problem of Electrical Television\]. For more on the 19th century origins of electric image scanning techniques, see @kittler_optical_2010, 208-12. Further explications of the principle of television for a popular audience in the German context can be found in the writings of the technologist @nesper_elektrische_1923. Nesper was a frequent contributor to the magazine *Der Radio-Amateur* and reviewed several of Gernsback's devices in this publication.
 
-    "Edison's telephonoscope \(transmits light as well as sound\), from *Punch,* December 9, 1878](images/telephonoscope.jpg) <!-- no figure -->
+    ](images/telephonoscope.jpg) <!-- no figure -->
 
 [^cll]: The greatest benefit of Ruhmer's set up is that the entire image is transmitted across a single wire, as opposed to one wire for each individual pixel, referred to in the article as "raster." This multiplexing was a unique solution to the problem of translating a two dimensional image into a one-dimensional electrical current, which was seen as the biggest stumbling block to television at that point.
 
@@ -139,7 +139,7 @@ No patents were taken out on this invention by the writer, as he considers the d
 
     Hausmann's most famous work, the "Mechanical Head [The Spirit of Our Time]" (c. 1920), shows a subject whose perception is determined by the mechanical apparatuses affixed to it.
     
-    Raoul Hausmann's "Mechanical Head" \(1920\)](images/MechanicalHead-Hausmann.jpg) <!-- no figure -->
+    ](images/MechanicalHead-Hausmann.jpg) <!-- no figure -->
     
 [^mror]: In a 1918 article on the telephot, Gernsback describes how successful two-way moving image communication would require both speakers' faces to be intensely lit in order for "light-relays" to be able to sense variations in the depicted subject:
 

@@ -6,7 +6,7 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-"It is a mistake to think that radio is only good for the distribution of intelligence. As the illustration shows, the great uses of radio have not been touched upon as yet."](images/radio_for_all.jpg)
+](images/radio_for_all.jpg)
 
 # Preface
 
@@ -68,7 +68,7 @@ For to believe that there is intelligence only on this earth is grotesque and fo
 
 At the time this volume is written, radio is just about twenty-five years old. If we have accomplished such wonders in a quarter of a century, who dares say what will be accomplished in twenty-five or fifty years more. Our wildest and most impossible prophesies will seem feeble. When we, therefore, say that one of the coming things is transporting solids through space, that is, sending a carload of coal from Pittsburgh to Paris within a few minutes, all by radio, and all by the invisible self-same waves, we will probably be laughed at by our experts. The thing, however, is perfectly feasible today, as we shoot solid particles through glass walls every time an X-ray picture is taken. X-rays are composed of solid particles which are just as solid as bricks or lumps of coal. When, therefore, we are asked what the future of radio is, we may say in one word, ANYTHING! There seems to be nothing impossible that radio cannot accomplish in the future!
 
-The power plant at the radio broadcasting station WJZ, Newark, N. J. We see here five special vacuum tubes, each generating about 50 Watts power. This gives a total power of 250 Watts, or Kilowatt. On top of the case we see the oscillation transformer which has the function of adjusting the wave length at which the broadcasting is accomplished, in this case 360 meters. The waves emitted by this station have been heard several thousand miles away.](images/radio_for_all3.jpg)
+](images/radio_for_all3.jpg)
 
 [^rfa]: *Radio for All* was designed as a primer for the growing lay public curious about the new technology.  "The keynote of the book," wrote Gernsback in the preface, is "simplicity in language, and simplicity in radio."  With regular broadcast programming beginning to populate the airwaves in 1920 and radio sets going on display in department stores soon thereafter, it was the perfect time for this book, "which rapidly became the bible for amateur radio enthusiasts," in the words of Mike Ashley. @ashley_gernsback_2004, 64.  
 

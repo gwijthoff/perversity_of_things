@@ -73,7 +73,7 @@ But to make the point clear, if we *do* get messages, they probably will not all
     
     @nieman_what_1920
     
-    from *Scientific American,* March 20, 1920](images/mars_msg1.png) <!-- no figure -->
+    ](images/mars_msg1.png) <!-- no figure -->
     
     ](images/mars_msg2.png) <!-- no figure -->
     

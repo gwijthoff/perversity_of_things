@@ -17,7 +17,7 @@ As most everyone is familiar with the important problems as yet unsolved, such a
 
 *Heavy Current Microphone.*  Wireless telephony is retarded at present because there is no practical transmitter that can handle from 5 to 10 amperes continuously.  The microphone should be small and should not requirewater cooling, as this makes it highly undesirable.  Preferably no carbon should enter into its construction.
 
-Page from April 1916 issue of *Electrical Experimenter*](images/what_to_invent.jpg)
+](images/what_to_invent.jpg)
 
 *Marble Substitute.*  There is an immense demand for instrument bases and parts, switch and switchboard bases, etc.  At present very expensive marble, slate, wood or composition is used.  Porcelain is cheap, but never presents a good appearance, especially for instrument bases.  Marble dust is cheap and can be readily had in large quantities.  Who will be the first *to mold* a real cheap marble base, that take a good polish?  We are aware of the fact that artificial marble is in existence.  It is, however, almost as expensive as the natural.[^bkt]
 

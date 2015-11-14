@@ -41,4 +41,4 @@ Never market an invention before it is completely worked out and "fool-proof."  
 
 [^ant]:  This is perhaps a reference to Lee De Forest, who incorporated the oscillating arc transmitter first designed by Valdemar Poulsen into his early system for transmitting and receiving the voice with his Audion tube.  After a falling out with Abraham White (infamous founder of the fraudulent United Wireless Telegraph Company), De Forest formed the Radio Telephone Company in 1907 around this new system.  De Forest would later become a frequent contributor to the Gernsback publications.  @douglas_inventing_1987, p. 171-2.  @regal_radio:_2005, p. 35.
 
-    Radio Telephone Company aerial on top of the Terminal building near 42nd stret and Park Avenue, New York City. From *Modern Electrics,* October 1908](images/aerophone_tower.png)  <!-- no figure -->
+    ](images/aerophone_tower.png)  <!-- no figure -->

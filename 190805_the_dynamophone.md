@@ -73,7 +73,7 @@ We remembered this in time and the present issue of "MODERN ELECTRICS" proves th
 
     The coherer was initially discovered by the physicist and inventor Édouard Branly (1844 – 1940).  A 1904 article written by wireless pioneer Lee De Forest explains, "The form and nature of the ordinary filings-tube coherer, as applied to-day in wireless telegraphy, is fairly familiar.  Branley [sic] discovered, in 1891, that the effect of electrical oscillations upon a body of metal fillings was to produce a marked increase in the conductivity of the mass, a conductivity which persisted until the particles were broken apart again by mechanical jar."  @de_forest_electrolytic_1904, p. 424.
 
-    Branly coherer, from Archie Frederick Collins *Wireless Telegraphy*](images/branly_coherer.png) <!-- no figure -->
+    ](images/branly_coherer.png) <!-- no figure -->
 
     It was left for Marconi to, in the words of electrical engineer Thomas H. Lee, combine Hertz's spark-gap transmitter with Branly's coherer and "tinker like crazy" to produce the first wireless telegraph set.  It is worth noting that the physical principle behind the coherer's operation is still not understood today.  It remains a device with practical applications whose inner workings are nevertheless not understood.  @lee_nonlinear_2004, p. 3.
 
@@ -87,6 +87,6 @@ We remembered this in time and the present issue of "MODERN ELECTRICS" proves th
 
     Blueprints for such jury rigged apparatuses were typical of *Modern Electrics* at the time, and were presented as if they were easily replicable by readers who could stock their home workshops with parts from the *Electro Importing Catalog.*  This issue, for instance, also contains instructions by Gernsback for building an alarm clock ("An Electric Sun Alarm") connected to light-sensitive selenium cells (used in early television prototypes -- see **Television and the Telephot**) that would set the alarm ringing when hit by the morning sunlight.
     
-    Replica of the 1906 Telimco Spark Transmitter, Model 1086, courtesy Henry Ford Museum.](images/telimco_transmitter_ford.jpeg) <!-- no figure -->
+    ](images/telimco_transmitter_ford.jpeg) <!-- no figure -->
     
 [^ctst]: This issue of *Modern Electrics* contained the first winner of a regular "Laboratory Contest" section.  Reader Irving Kimball impressed with the submission of his "vitaphone," a device that combined motion picture and sound reproduction.  "The original model of his motor-pyrograph,' an automated electrically operated pyrograph or wood-burning machine, works to perfection." (63)
