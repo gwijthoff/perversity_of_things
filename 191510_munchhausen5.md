@@ -158,4 +158,4 @@ There was a snapping noise and the rhythmic, low, sizzling sound stopped abruptl
 
 [^qwe]: Gernsback: "✝The speed of a falling body at the surface of the earth after the first second is 16 1-12 feet.  In 6 seconds a stone would have traveled but 579.✝"
 
-[^vdnr]: The character of Baron Munchausen was inspired by 
+[^vdnr]: The character of Baron Munchausen was inspired by the real-life Hieronymus Karl Friedrich, Freiherr von Münchhausen (1720-1797).  Rudolf Erich Raspe created a series of fictionalized accounts of Baron Munchausen's life in the 1780s, a series of tall tales about "Singular Travels, Campaigns, Voyages, and Sporting Adventures."  After Raspe, the character was picked up by a number of other artists in various media, including Terry Gilliam's 1988 film *The Adventures of Baron Munchausen.*  Gernsback uses the original spelling of the real Baron's name.
