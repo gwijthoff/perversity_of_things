@@ -26,7 +26,7 @@ lst. Only Radio---100% of it---*nothing else.*
 
 2nd. An Organ for and by the amateur. The amateur's likes and wants will always come first in this magazine.
 
-3rd. Absolute Independence. RADIO AMATEUR NEWS has only one Boss---its readers. This magazine is not, nor will it ever be affiliated with any stifling, commercial radio interests whatsoever.
+3rd. Absolute Independence. RADIO AMATEUR NEWS has only one Boss---its readers. This magazine is not, nor will it ever be affiliated with any stifling, commercial radio interests whatsoever.[^tyui]
 
 4th. Truth---first, last and always. When you see it in RADIO AMATEUR NEWS you may be sure that it is so. Not being affiliated with commercial radio interests, this magazine will have no reason to suppress important articles discoveries, etc.
 
@@ -51,3 +51,13 @@ Three cheers for American Radio Amateurism---
     *Radio News* became an increasingly confliced magazine into the 1920s, as it extoled the virtues of the amateur experimenter while being bankrolled by advertising revenue from RCA.  An RCA advertisement appears in *Radio News* as early as January 1922.  James Harbord, Lieutennant General in the Army during the Civil War and later President of RCA, wrote an editorial in a 1923 issue of the magazine explaining his company's policy on buying and controlling radio patents.
     
     @harbord_general_1923.
+
+[^tyui]: By 1928 the number of radio parts retailers and manufacturers had declined significantly with the rise of more consumer-friendly, complete radio sets.  But when *Radio News* began to name specific radio parts and manufacturers in its articles, purportedly to make these endangered resources easier to find, readers cried foul.  Many wrote in saying that the magazine's articles seemed far too "inspired" by its advertisers.  Gernsback responded:
+
+    > Against its better judgement, RADIO NEWS, during 1927, endeavored to better trade conditions by publishing manufacturers' names and giving manufacturers' specifications in its text pages; because it seemed that it would thus be made easier for the reader to buy suitable material than if no names were given and he had to guess them.  In doing so, RADIO NEWS honestly believed that not only would it serve its readers, as it had always done, but the radio trade as well.
+
+    > It is, however, admitted now that this policy was wrong and, beginning with this issue, we revert to our former custom of not mentioning any manufacturers' names or trademarks of parts and circuits of any kind in the text pages of RADIO NEWS.  In that respect, we go back to our former practice of the years previous to 1927.
+
+    > . . . At no time, however, did RADIO NEWS reap any material benefit from specifying manufacturers' names and materials.  If any proof is wanted, the constant advertising shrinkage of RADIO NEWS during 1927 is glowing testimony of this fact.  At no time did the trade (particularly the parts manufacturers) really support RADIO NEWS, in spite of its publishing their names and specifications quite freely.
+
+    @gernsback_radio_1928.
