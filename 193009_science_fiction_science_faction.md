@@ -16,7 +16,7 @@ It all started with Jules Verne and his *Nautilus,* which was the forerunner of 
 
 In time to come, also, our authors will make a marked distinction between science fiction and science *faction,* if I may coin such a term.
 
-![](images/wsq_cover_1930f.jpg)
+](images/wsq_cover_1930f.jpg)
 
 The distinction should be fairly obvious. In science fiction the author may fairly let his imagination run wild and, as long as he doesn't turn the storey into an obvious fairy tale, he will still remain within the bounds of pure science fiction. Science fiction may be prophetic fiction, in that the things imagined by the author may come true in some time; even if this "some time" may mean a hundred thousand years hence. Then, of course, there are a number of degrees to the fantastic in science fiction itself. It may run the entire gamut between the probable, possible and near-impossible predictions.
 

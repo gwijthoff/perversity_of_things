@@ -8,7 +8,7 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-![I cut him short with: "Take that, you monster!"---and, jumping back, I press the switch. There is a blinding flash.](images/killing_flash.png)
+I cut him short with: "Take that, you monster!"---and, jumping back, I press the switch. There is a blinding flash.](images/killing_flash.png)
 
 # March 1.
 

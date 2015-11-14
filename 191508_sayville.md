@@ -8,7 +8,7 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-![](images/sayville_cover.jpg)
+](images/sayville_cover.jpg)
 
 **S**AYVILLE and Tuckerton are at present the only links connecting the American Continent directly with the German Empire.  Both stations can now receive and transmit wireless messages to and from Germany, without any relaying means, at any given hour of the day.[^lgi]
 

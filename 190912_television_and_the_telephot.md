@@ -8,7 +8,7 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-![](images/television_telephot1.png)
+](images/television_telephot1.png)
 
 Every now and then we see newspaper reports that Mr. So and So has discovered the real secret of television, only to be told again a few weeks afterwards that it has not been realized after all.[^tvn]
 
@@ -26,7 +26,7 @@ Unlike the mirror, however, you should not be able to see your own picture in yo
 
 From this it will be seen immediately how difficult the problem becomes, as if you could see yourself in your own Telephot, as well as the picture of your friend, it is obvious that there would be a 'mix-up' of personalities, the consequence being that you could not recognize your friend nor yourself, while your friend at the other end could of course not recognize you nor himself.
 
-![May 1918 cover of *Electrical Experimenter.*](images/ee_cover_telephot.jpg)
+May 1918 cover of *Electrical Experimenter.*](images/ee_cover_telephot.jpg)
 
 In the telephone the case is not so difficult, as it is absolutely necessary that one party talks while the other listens; if both talk and listen, none can understand, as the voices mix up.
 
@@ -40,7 +40,7 @@ So far most inventors seem to think that the problem can only be solved by means
 
 As a picture is made up of nothing but light and dark points it is easily to be seen that if several thousand very [Fig. 2] small selenium cells were arranged in a plane and just as many light relays at the other end, a good picture could be projected upon a screen––in theory. The trouble is that it is practically impossible to make two selenium cells with equal sensitiveness and just this is the most important part, as if one is not as sensitive as the other, it will of course not transmit the same impulse as the former. It can be imagined easily what kind of a picture a station would transmit having several thousand selenium cells, all of a different sensitiveness!
 
-![](images/tv_tele_2.png)
+](images/tv_tele_2.png)
 
 Then the next trouble is that each cell at best requires one wire (the ground might be used as return).[^cll] Think of two stations which, in order to work, require 3,000 to 5,000 separate wires! This seems to be as bad or worse than Sömmering's first telegraph (in 1809), which required 27 wires to operate. In Morse's subsequent telegraph only one wire is required, which unquestionably will be the case with the perfect Telephot.
 
@@ -83,7 +83,7 @@ A musical steel harp H is fastened to a permanent magnet NS. If any one of the s
 
 Suppose we build such a harmonica having, say, 500 prongs P, Fig. 4, each responding readily at an extremely light touch.
 
-![](images/tv_tele_3.png)
+](images/tv_tele_3.png)
 
 Exactly over each of the 500 prongs we place a minute electromagnet E, 500 in all (only 6 shown in illustration ), so when one of the small electromagnets is actioned by means of a weak alternating current flowing through same it will cause the prong underneath it to swing as long as current flows through the electromagnet.
 
@@ -93,11 +93,11 @@ It will be easily seen that if one or more of the selenium cells are acted upon 
 
 Thus if cell No. 1 is lighted with 10 C. P., assume that the small electromagnet connected to it causes its prong to swing through the distance of one millimeter. Then if cell No. 50 is only lighted with the intensity of 1 C. P., prong No. 50 will of course only swing 1-10 millimeter and so on. Thus each prong will be caused to swing in exactly the same proportion as the amount of light falling upon the selenium cell, to which it belongs.
 
-![](images/tv_tele_4.png)
+](images/tv_tele_4.png)
 
 As each prong swings it sends a current over the line L' L". If now No. 1 and No. 6 of the electromagnets are energised through the selenium cells both cause their prongs to swing and send impulses over the line. At the receiving station G, prongs 1 and 6 must swing IN THE SAME PROPORTIONATE INTENSITY as the prongs at the sender H, consequently electromagnets E'1 and E'6 are energised (the prong acting as a telephone diaphragm, the electromagnets having for core a permanent magnet). E'1 and E'6 now operate the light relays LRl and LR6.
 
-![](images/tv_tele_5.png)
+](images/tv_tele_5.png)
 
 Now, then, if the selenium cell connected to El is lighted with, say, 10 C.P., a proportionate amount of energy---call it 10 energies---are received at LR1. The light relay therefore passes 10 energies of the small tungsten lamp TL through its opening, and 10 energies are projected on the screen S. If the cell connected to E6 receives the light of 100 C. P. it is evident that LR6 receives 100 energies and the screen is lighted with 100 energies and so on.[^mror]
 
@@ -124,7 +124,7 @@ No patents were taken out on this invention by the writer, as he considers the d
 
 [^frt]: Though many point to this article as the first either to coin the term "television" or explain the concept to the layman (for instance @oneil_amazing_1963), the technology had been envisioned much earlier and explained in similarly generalist terms. Most historians date the earliest depiction of television *avant la lettre* to a George Du Maurier cartoon in the December 9, 1878 issue of *Punch.* The cartoon, "Edison's Telephonoscope" was a prediction for the following year, part of Punch's "Almanack for 1879." The caption reads, "Every evening, before going to bed, Pater- and Materfamilias set up an electric camera-obscura over their bedroom mantel-piece, and gladden their eyes with the sight of their children at the Antipodes, and converse gaily with them through the wire." Friedrich Kittler dates the coinage of a name for this medium to Raphael Eduard Liesegang's 1891 book *Beiträge zum Problem des elektrischen Fernsehen* \[Contributions to the Problem of Electrical Television\]. For more on the 19th century origins of electric image scanning techniques, see @kittler_optical_2010, 208-12. Further explications of the principle of television for a popular audience in the German context can be found in the writings of the technologist @nesper_elektrische_1923. Nesper was a frequent contributor to the magazine *Der Radio-Amateur* and reviewed several of Gernsback's devices in this publication.
 
-    !["Edison's telephonoscope \(transmits light as well as sound\), from *Punch,* December 9, 1878](images/telephonoscope.jpg) <!-- no figure -->
+    "Edison's telephonoscope \(transmits light as well as sound\), from *Punch,* December 9, 1878](images/telephonoscope.jpg) <!-- no figure -->
 
 [^cll]: The greatest benefit of Ruhmer's set up is that the entire image is transmitted across a single wire, as opposed to one wire for each individual pixel, referred to in the article as "raster." This multiplexing was a unique solution to the problem of translating a two dimensional image into a one-dimensional electrical current, which was seen as the biggest stumbling block to television at that point.
 
@@ -140,7 +140,7 @@ No patents were taken out on this invention by the writer, as he considers the d
 
     Hausmann's most famous work, the "Mechanical Head [The Spirit of Our Time]" (c. 1920), shows a subject whose perception is determined by the mechanical apparatuses affixed to it.
     
-    ![Raoul Hausmann's "Mechanical Head" \(1920\)](images/MechanicalHead-Hausmann.jpg) <!-- no figure -->
+    Raoul Hausmann's "Mechanical Head" \(1920\)](images/MechanicalHead-Hausmann.jpg) <!-- no figure -->
     
 [^mror]: In a 1918 article on the telephot, Gernsback describes how successful two-way moving image communication would require both speakers' faces to be intensely lit in order for "light-relays" to be able to sense variations in the depicted subject:
 
@@ -152,4 +152,4 @@ No patents were taken out on this invention by the writer, as he considers the d
     
     @gernsback_luminous_1913.
     
-    ![](images/gernsback_mirror_patent.png) <!-- no figure -->
+    ](images/gernsback_mirror_patent.png) <!-- no figure -->

@@ -92,7 +92,7 @@ We ask every amateur who is not a member of the League to sign the blank appende
 
 LONG LIVE THE RADIO AMATEUR!
 
-![](images/radio_league_america.png)
+](images/radio_league_america.png)
 
 [^dnls]: As Gernsback reported three months later, Secretary of the Navy, Josephus Daniels, attempted to maintain government control over radio activities after the war.  @gernsback_government_1919.  However, during the 1919 hearings on permanent naval radio control,
 

@@ -44,7 +44,7 @@ When some of our greatest scientific authorities, as late as twenty years ago, p
     
     @moskowitz_explorers_1963, p. 236.
 
-    ![Cover art by Howard Brown.](images/scientifiction_number.jpg) <!-- no figure -->
+    Cover art by Howard Brown.](images/scientifiction_number.jpg) <!-- no figure -->
     
 [^ivt]:  Invention as a form of prophecy became a favorite topic of Gernsback's *Science and Invention* editorials during this period.  Distinguishing between the discovery and the invention of a new technical object in "The Mentality of Inventors," for instance, he writes:
 

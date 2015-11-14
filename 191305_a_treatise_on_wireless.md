@@ -127,7 +127,7 @@ If you are entirely surrounded by high mountains or steel buildings, you natural
 
 This seems to be the greatest stumbling block for most beginners.  Again let us make a comparison.  Take two pianos and place them in the same room.  Or two violins will do as well.  Tune two strings, one on each instrument, so both will give exactly the same note.  Pick one of the strings in order to sound it, and the other "tuned" string, although 10 feet away will sound in unison, although you did not touch it.  *Both are now in tune.*  Both give out the same (sound) wave length.  No mystery here.  The secret lies in the fact that both strings ARE OF THE SAME LENGTH, and have the same tension, roughly speaking.  Make one string longer than the other and both are "out of tune."
 
-![A Good Aerial.](images/a_good_aerial.png)
+A Good Aerial.](images/a_good_aerial.png)
 
 The same in wireless.  Nearly all commercial stations operate on a wave length of from 300 to 600 meters.  (A meter measures 39.37 inches.)  Now in order that you can hear such a station, you must be able to tune up to 600 meters; roughly speaking your aerial should be 600 meters long electrically.  That, however, would be a pretty expensive and cumbersome aerial.  Besides it isn't required.  We simply wind, roughly speaking, 600 meters of wire on a coil or drum and our aerial can now be quite small, within certain limits of course, and we can for this reason "catch" the station having a 600 meter wave length, providing our other instruments are sensitive enough.  Thus, for instance, it will be seen that the E. I. Co. No. 8486 tuning coil, as well as their No. 12002 loose coupler have sufficient wave length capacity to catch 700 meter waves.  As they are both provided with adjusting sliders, more or less wire can be put into the circuit and therefore both these instruments can be used to catch wave lengths from 100 up to 700 meters, but not over this amount.
 
@@ -147,7 +147,7 @@ We presume you have a complete receiving set.  You proceed thus:
 
 First, you must know if your detector is adjusted to its best sensitiveness.  If no message comes in you don't know if your detector is in its best receptive condition.  For this reason, the up-to-date wireless man uses the "Buzzer test."  Aside from giving imitation wireless buzzes, the buzzer may be used *to practice telegraphy.*  It consists of three things:  1st--Any buzzers, such as the E. I. Co. No. 954, or better No. 965 or No. 950: 2nd---E. I. Co. No. 1118 key; 3rd---A dry cell.  Connections MUST be made as shown.  Now every time you press the key you will get a perfect imitation of a wireless signal and it becomes child's play to adjust the detector to its greatest efficiency.  The buzzer test can of course be used with ANY detector.  It saves lots of time and bother and is quite necessary.  Sometimes a detector may have a "dead spot" and you will be "listening in" for hours, without being able to catch as much as one dot.  The buzzer test makes such an occurrence impossible."
 
-![Only One Wire Goes to Detector](images/to_detector.png)
+Only One Wire Goes to Detector](images/to_detector.png)
 
 In order that the buzzer itself is not heard directly, it is usually wrapped in absorbant cotton or wadding which muffles its sound effectively, or it may also be placed in another room.
 
@@ -232,7 +232,7 @@ In the tuned outfits, we have in addition to the above enumerated apparatus:  5t
 
 The helix as well as the oscillations transformer, are, to the sending outfit, what the tuner and the loose copuler respectively, are to the receiving outfit.[^cdr]  The helix or the oscillation transformer is the tuning coil pure and simple for the transmitting station.  Like the tuning coil the helix and the oscillation transformer have sliders or else clips by means of which more or less wire convolutions can be put in the circuit of the aerial.  Therefore more or less wire, and consequently more or less wave length is added to your aerial.  Again there is not much of a mystery here.  Anyone understands it.  (See E. I. Co. Wireless Course Lesson No. 14.)
 
-![](images/to_instrument.png)
+](images/to_instrument.png)
 
 In the larger sets where the battery power is insufficient as well as un-economical we have two methods open to fill the gap.  One is the Gernsback electrolytic interrupter working on 110 volts Direct or Alternating current, which supplies the spark coil (transformer coil) with the power;[^plg] the other method requires the use of a CLOSED core transformer operating without any kind of interrupter direct from the alternating current supply.  This kind of transformer, however, does not work on the direct current, not even in connection with the electrolytic interrupter.  The choice, for this reason lies entirely with you.
 
@@ -266,7 +266,7 @@ We believe that we have made everything as plain as possible and that by reading
 
 [^ee]: Published in the wake of the 1912 Radio Act and the growing popularity of wireless homebrew, this two-part editorial served as a primer for newcomers to the art, covering everything from the barest necessary equipment, code, and the secrecy of messages.  It was printed the following year as a standalone pamphlet.
     
-    ![](images/treatise_pamplet_jim.png)  <!-- no figure -->
+    ](images/treatise_pamplet_jim.png)  <!-- no figure -->
 
     "A Treatise on Wireless" appeared in the first issue of *Electrical Experimenter,* Gernsback's new venture after the sale of *Modern Electrics* to Orland Ridenour, the Business Manager of Modern Publishing Company.  Ridenour merged *Modern Electrics* with another publication to become *Modern Electrics and Mechanics,* which lasted for two years until it was acquired by *Popular Science Monthly* in April 1915, a magazine that still runs today.  See @ashley_gernsback_2004, 31.
 
@@ -290,7 +290,7 @@ We believe that we have made everything as plain as possible and that by reading
 
 [^spc]:  Today, radio spectrum is an endangered resource with the rapid expansion and global adoption of mobile data.  The FCC's National Broadband Plan of 2010, for instance, in the face of a "looming spectrum crisis", proposed a massive transfer of radio spectrum to the mobile broadband industry, which, they argued, already provides all the functionality of television and radio.  The National Broadband Plan seeks to set up at least a more fluid system of spectrum management and at most a full fledged marketplace in which industries can trade their allotted airspace.  This image from the FCC shows the crowded spectrum allotment and potential "white spaces" available for reallocation.
 
-    ![](images/spectrum.png) <!-- no figure -->
+    ](images/spectrum.png) <!-- no figure -->
 
 [^cpl]:  Variable condensers were additional components that heightened the selectivity of a simple tuning coil or loose coupler.  According to a 1912 handbook, the variable condenser
 
@@ -298,7 +298,7 @@ We believe that we have made everything as plain as possible and that by reading
     
     @morgan_lessons_1912, p. 56-7.
 
-    ![Rotary variable condenser manufactured by the Electro Importing Company.  The inner spherical drum is made of ebonite.  The bottom has several stickers, reading "Property of Harold S. Greenwood, W6MEA" and "Assembler No. 14 Finished this Instrument. Any Defect should be Promptly Reported to Electro Importing Co. 233 Fulton St., N. Y." and a Foreman's Inspection Stamp.  Courtesy, Collection of Jim and Felicia Kreuzer, Grand Island, NY.](images/variable_condenser_jim.png)  <!-- no figure -->
+    Rotary variable condenser manufactured by the Electro Importing Company.  The inner spherical drum is made of ebonite.  The bottom has several stickers, reading "Property of Harold S. Greenwood, W6MEA" and "Assembler No. 14 Finished this Instrument. Any Defect should be Promptly Reported to Electro Importing Co. 233 Fulton St., N. Y." and a Foreman's Inspection Stamp.  Courtesy, Collection of Jim and Felicia Kreuzer, Grand Island, NY.](images/variable_condenser_jim.png)  <!-- no figure -->
 
 [^eph]:  Gernsback: "Wireless Telegraph or Telephone sending stations included."
 

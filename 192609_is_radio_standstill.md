@@ -52,11 +52,11 @@ During the coming season, the shielding idea seems possibly the greatest advance
 
     Vernier dials allowed for large movements on a knob to result in fine-grained input: "each complete rotation of the control knob causes only a fraction of a revolution of the main shaft, permitting fine and accurate adjustment."  @_vernier_2003.  They were named for the vernier scale, which performs a similar function for measurement: a secondary scale on a pair of calipers indicates with more granularity where a measurement lies *between* two marks on the primary scale.  It was invented by the French mathematician Pierre Vernier (1580-1637).  @_vernier_2015.
     
-    ![](images/straight_line_condenser1.png) <!-- no figure -->
+    ](images/straight_line_condenser1.png) <!-- no figure -->
     
-    ![](images/straight_line_condenser2.png) <!-- no figure -->
+    ](images/straight_line_condenser2.png) <!-- no figure -->
     
-    ![](images/straight_line_condenser3.png) <!-- no figure -->
+    ](images/straight_line_condenser3.png) <!-- no figure -->
 
 [^elm]: "Eliminator" sets, first appearing on the market in 1926, drew their power from household wall outlets rather than batteries.  No batteries meant much less wiring and a reduced appliance weight of 40 to 50 pounds. @sterling_stay_2002, 91.
 

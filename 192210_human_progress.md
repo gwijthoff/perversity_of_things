@@ -26,7 +26,7 @@ Of course, there are many other suggestions that come to mind to make such a mon
 
 It is a well-known fact that our present-day books are very short-lived; even if they are kept in an up-to-date library printed books will certainly not last more than five hundred years.  The ravages of small micro-organisms, as well as the destructive qualities of modern ink, make our books only of a passing interest.  For that reason, anything placed in our electrical monument should be, preferably, engraved upon stone in as few words as possible.  After all stone or granite is the only material that will outlast centuries.
 
-[^wno]:  ![](images/si_cover_192210.jpg) <!-- no figure -->
+[^wno]:  ](images/si_cover_192210.jpg) <!-- no figure -->
 
 [^dyn]:  Henry Adams, confronted with the "supersensual world" of new electrical apparatuses on display at the 1900 Great Exposition in Paris, saw the dynamo as a "symbol of infinity":
     
@@ -38,7 +38,7 @@ It is a well-known fact that our present-day books are very short-lived; even if
     
     > In connection with our editorial of this month, we show on this page a monument dedicated to the age in which we are living. Electricity, more than anything else, has made our present civilization what it is, and if this civilization should be wiped out by war or some other cataclysm, nothing would remain to tell what Electricity did for the race during the past century.
     
-    ![](images/dynamo_si_192210.jpg) <!-- no figure -->
+    ](images/dynamo_si_192210.jpg) <!-- no figure -->
     
     Though Gernsback hopes that such a monument would allow future civilizations to "read what has gone on before," he perhaps misses an important point raised by Adams.  These new machines amounted to a "break of continuity," an "abysmal fracture for a historian's objects."  Adams, himself a historian, foresees that the historian or archaeologist of the future would thus have to use an entirely new set of methods to understand the technological infrastructures of the twentieth century, an endeavor that no concrete replica or monument would help, no matter how massive:
     

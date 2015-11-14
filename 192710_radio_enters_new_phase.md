@@ -17,7 +17,7 @@ Let me review what happened in radio, even before broadcasting began. Originally
 
 About 1916, the manufacture of the first complete sets began. They were more or less self-contained, but necessarily rather crude, to our present way of thinking. But still separate parts, in value, formed the greatest proportion of sales by the radio industry.
 
-![](images/rn_cover_192710.jpg)
+](images/rn_cover_192710.jpg)
 
 When broadcasting started, in 1921, the sale of parts to the public immediately jumped to a tremendous figure; and it was some time before the sale of completely-manufactured sets took the lead and exceeded that of parts. Then gradually the ready-made factory-built set came into the ascendancy and greatly eclipsed the sale of separate parts. That is the situation which we have at present. Though in 1922 and 1923 every radio dealer stocked an immense number of parts and but few sets, the situation in this country has been reversed since then, and there are now comparatively few dealers who stock parts. Most of them nowadays stock a complete line of sets and accessories.
 

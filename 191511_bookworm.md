@@ -8,7 +8,7 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-![](images/bookworm.png)
+](images/bookworm.png)
 
 ## No. Umsteen hundred and forty 'leven
 

@@ -74,11 +74,11 @@ But to make the point clear, if we *do* get messages, they probably will not all
     
     @nieman_what_1920
     
-    ![from *Scientific American,* March 20, 1920](images/mars_msg1.png) <!-- no figure -->
+    from *Scientific American,* March 20, 1920](images/mars_msg1.png) <!-- no figure -->
     
-    ![](images/mars_msg2.png) <!-- no figure -->
+    ](images/mars_msg2.png) <!-- no figure -->
     
-    ![](images/mars_msg3.png) <!-- no figure -->
+    ](images/mars_msg3.png) <!-- no figure -->
     
     Recourse to Native American weaving techniques in understanding new media technologies was later made in the context of integrated circuits. Lisa Nakamura discusses how the Fairchild Semiconductor built a factory on a Navajo reservation in 1965, purportedly for the community's "manual dexterity, and affective investment in native material craft."  See @nakamura_indigenous_2014.
     

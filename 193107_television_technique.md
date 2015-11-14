@@ -18,7 +18,7 @@ When television finally gets running along the lines of broadcasting, we will ha
 
 Just as we used to have a single microphone in the old days, so we now have a single transmitting scanning mechanism which, as like as not, in the midst of the program, becomes defective; and the image vanishes from the television receiver. In the future, of course, we shall have double and even triple scanning transmitting apparatus, which will overcome possible failure of one of them; and, secondly, this will also give us more intensity, a thing which---in television particularly---is highly desirable.
 
-The other day we were listening in and viewing a television performance from one of the local television stations. After the singing team got through, we were greeted with an announcement that we should stand by for some five minutes, until the carbons were changed on the television transmitter![^C] Of course, such crudities as this will not happen in the future. The "listening" and "seeing" audience will not stand for this in the future; while today, of course, they are glad to see anything.
+The other day we were listening in and viewing a television performance from one of the local television stations. After the singing team got through, we were greeted with an announcement that we should stand by for some five minutes, until the carbons were changed on the television transmitter^C] Of course, such crudities as this will not happen in the future. The "listening" and "seeing" audience will not stand for this in the future; while today, of course, they are glad to see anything.
 
 Then, as we have in present broadcasting, the so-called fade-in and fade-out (that is, where we first hear the music or voice in the background and then hear it come up to full volume) so we will have one screen image merge into another in television. We will have the "fade-out," as we have today in motion pictures. We will have superimposed scenes, and even a multiplicity of scenes at the same time.[^edt]
 
@@ -44,7 +44,7 @@ It will be necessary, in other words, for the television broadcasting companies 
 
     > comprising the beam projector and the photo-electric cell banks.  The former is a powerful arc lamp in a large housing, provided with an enclosing scanning disc and with three lenses of different focal lengths; the assembly being mounted on a swivel pedestal resembling the usual barber's chair base.  The operator can readily aim the flying-spot beam at the subject and, by using the proper lens, cover the desired area for a close-up, half length or long shot, without changing the relative positions of either the subject or scanner.  The scanner operates on the standard system of 60 lines, 20 pictures per second.
     
-    ![](images/flying_spot.png) <!-- no figure -->
+    ](images/flying_spot.png) <!-- no figure -->
     
     @replogle_jenkins_1931.
     

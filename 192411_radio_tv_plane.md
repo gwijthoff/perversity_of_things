@@ -24,7 +24,7 @@ A radio-controlled airplane has already been demonstrated by the French and Amer
 
 But the great trouble with radio-controlled airplanes is that the operator must see the plane. If his machine were to make a landing at a great distance he might land the airplane on top of a building or in a river, or it might collide with a mountain.
 
-![The Pilot-less radio television plane, directed by radio; the plane's "eyes" radio back what they see.](images/radio_tv_plane.png)
+The Pilot-less radio television plane, directed by radio; the plane's "eyes" radio back what they see.](images/radio_tv_plane.png)
 
 # A Pilot-less Plane Which "Sees" 
 
@@ -50,7 +50,7 @@ There are, of course, hundreds of other applications of the idea which readily s
     
     For more on the history of baseball as one of many prime movers in the development of broadcast technologies, see @tygiel_new_2001.
 
-    ![](images/si_baseball_scoreboard.png) <!-- no figure -->
+    ](images/si_baseball_scoreboard.png) <!-- no figure -->
     
 [^jfk1]: By the 1940s, experiments had begun in the United States with full-size, remote controlled aircraft.  Joseph P. Kennedy, Jr., the oldest brother of President John F. Kennedy, was killed in World War II in one early "drone" program.  Operation Aphrodite called for a pilot to fly a B-17 Flying Fortress packed with explosives close to a bombing site and parachute away from the craft before it was remotely piloted into the target using radio control and two television cameras mounted on the dashboard.  In the case of Kennedy's plane, the explosives detonated prematurely.  Ed Grabianowski, "The Secret Drone Mission that Killed Joseph Kennedy Jr.," *io9*, February 21, 2013, <http://io9.com/5985733/the-secret-drone-mission-that-killed-joseph-kennedy-jr>.
 

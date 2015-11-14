@@ -12,7 +12,7 @@ csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 
 **T**HE progress of radio has been rather slow during the past two years.  From the experimenter's standpoint there have been few really new things to occupy him.  There have been no revolutionary circuits, nor, as a matter of fact, do we expect them.  Radio progress during the past two years may be said to have been refinement and improvement of what we already had.  But there are many things still to be worked out, and a great deal of progress, as a matter of fact, the greatest progress, is as yet to come.  The trouble with most of us is that we follow the well-beaten path, and as a rule we follow the leader.  Very few experimenters and designers have the courage to step out from well-worn radio paths, because, as a rule, they are afraid that the results of their labors will be called freaks or worse.
 
-![](images/whats_wrong_tv.jpg)
+](images/whats_wrong_tv.jpg)
 
 A condition of this kind, of course, does not worry the progressive man, who, many times, has seen the very thing that was condemned come into favor and acclaimed in the end. When, in 1908, for instance, I published the first book on radiotelephony, entitled "The Wireless Telephone," there was no such thing as a radiophone, because we did not then have the necessary vacuum tube. I described minutely many systems for accomplishing the thing, and I was laughed at by the press and others for my pains, but nevertheless it all came about practically along the lines I had predicted.
 

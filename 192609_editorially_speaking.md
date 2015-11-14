@@ -34,7 +34,7 @@ Make it a semi-monthly---32,644.
 
 We will probably accede to the wishes of the readers as soon as the circulation of the magazine has become stabilized, which will probably be some time before the end of this year.
 
-![](images/as_voting.png)
+](images/as_voting.png)
 
 * * * * * * * * * * * 
 

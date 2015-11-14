@@ -105,7 +105,7 @@ In order to facilitate quick classification, please be brief and keep applicatio
     
 [^pin]: By 1912, the Wireless Association of America boasted 22,300 members.
 
-    ![Wireless Association of America member pin, courtesy: Collection of Jim and Felicia Kreuzer, Grand Island, NY](images/waoa_pin_jim.png) <!-- no figure -->
+    Wireless Association of America member pin, courtesy: Collection of Jim and Felicia Kreuzer, Grand Island, NY](images/waoa_pin_jim.png) <!-- no figure -->
     
 [^dfst]: Lee de Forest, an inventor of the vacuum tube (which he called the Audion), had a troubled relationship with Gernsback.  They began as close associates, with De Forest contributing to some of the earliest issues of *Modern Electrics,* serving as President of the Wireless Association of America's Board of Directors, and presenting alongside Gernsback at industry banquets.  See @_wireless_1909.
 
