@@ -7,7 +7,7 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-](images/me_cover_aerophone.jpg)
+[INSERT FIGURE 3.2 NEAR HERE]
 
 It affords the Editor great pleasure to present to his readers herewith the first "Aerophone" number.
 
@@ -35,7 +35,7 @@ MODERN ELECTRICS claiming several records, with this issue adds a new one to its
 
 * * * * * * * * * * * 
 
-](images/electrical_baths.png)
+[INSERT FIGURE 3.1 NEAR HERE]
 
 The accompanying illustration is not a gigantic sending helix to be used in wireless telegraphy, but it actually keeps a good many people from dying annually.  At first thought this statement sounds somewhat doubtful, but it is nevertheless the truth.
 
@@ -57,15 +57,15 @@ These high tension currents have also proved of high value in the treatment of n
 
 * * * * * * * * * * * 
 
-](images/tesla_coil1.png)
+[INSERT FIGURE 3.3a NEAR HERE]
 
-](images/tesla_coil2.png)
+[INSERT FIGURE 3.3b NEAR HERE]
 
-](images/tesla_coil3.png)
+[INSERT FIGURE 3.3c NEAR HERE]
 
-](images/tesla_coil4.png)
+[INSERT FIGURE 3.3d NEAR HERE]
 
-](images/tesla_coil5.png)
+[INSERT FIGURE 3.3e NEAR HERE]
 
 [^pho]:  The medium that Gernsback attempts to name here is best understood as an early conceptualization of radio.  While the voice had been transmitted wirelessly as early as 1900, most notably by the Canadian inventor Reginald Fessenden using an electrolytic detector (see **The Radioson Detector** for more), a reliable means for accurately sending sound, voice, and music signals was still a ways off.  Because the broadcast model of radio we are familiar with today had yet to be imagined, most projections of wireless voice transmission involved a point-to-point model resembling a telephone conversation.
 

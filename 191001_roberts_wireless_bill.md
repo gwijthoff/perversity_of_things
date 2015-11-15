@@ -59,7 +59,7 @@ It is provided that within 30 days of the organization of the board it shall sub
 
 The Wireless Association of America was founded solely to advance wireless.  IT IS NOT A MONEY MAKING ORGANIZATION.  Congress threatens to pass a law to license all wireless stations.  The W. A. O. A. already has over 3,000 members---the largest wireless  organization in the world.  When the time for action arrives, the thousands of members will exert a powerful pressure to oppose the "wireless license" bill.  This is *one* of the purposes of the W. A. O. A.  There are more.
 
-](images/bicycle_wireless.png)
+[INSERT FIGURE 9.1 NEAR HERE]
 
 [^rep]: Congressman Ernest W. Roberts of Massachusetts's 7th District introduced his legislation on wireless regulation as House Joint Resolution 95.  Though Roberts's proposals did not go far, aspects of this Resolution were incorporated into the Radio Acts of 1910 and 1912.
 

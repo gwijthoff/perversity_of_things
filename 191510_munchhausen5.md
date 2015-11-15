@@ -31,7 +31,7 @@ With all due regard to the memory and genius of Byron, I, I. M. Alier, a citizen
 
 If, as often---no, always---has been proved that the most violent fiction at some time or other invariably comes true, then by all proceeds of modern logic, there cannot be such thing as fiction. It simply does not exist. This brings us face to face with the startling result that if fiction always comes true some time or other, why then, bless their dear souls, all fiction writers must be prophets!! Hurrah for the F. W.!! But hold on, boys; don't let our enthusiasm run away with us on a Ford.  The spark plug has run afoul somewhere. While it's nice to be a prophet, don't forget that a prophet is never, never recognized in his own country. Thus the New Testament teaches; so I think it will be safer for all F. W. to remain F. W., rather than to be honorless prophets.
 
-](images/ee_cover_munchhausen.jpg)
+[INSERT FIGURE 19.1 NEAR HERE]
 
 However, that is not what I had in mind when I started---it's so hard for me to say what I mean, and a good deal harder for me to keep my thoughts running on the track. They ramble from one nothingness into another. My mind in that respect is a good deal like a one-eyed, religious old cow on a pasture. She eats up whatever she sees alongside of her, but when she finally turns around she perceives with astonishment that there is still a lot to graze on the other side; so she steers around to starboard and returns to her original starting point.
 
@@ -49,7 +49,7 @@ It was Münchhausen. But his usual sonorous voice to-night had an unfamiliar met
 
 "*The crater had no bottom at all,* but went right through to the center of the moon, where it connected with another crater, *which went to the opposite side of the moon.* I knew this must be so because when I had looked down I had seen several stars shining through brilliantly from the night side of the moon. Then the awful truth flashed through me and I almost swooned. *I was falling through the whole length of the moon!* I had been in many tight quarters before during my somewhat exciting career, but this experience indeed bade well to he the inglorious end of my adventurous life. However, my far-famed presence of mind and my cool head soon asserted themselves, as was naturally to be expected of me.
 
-](images/munchhausen1.png)
+[INSERT FIGURE 19.2 NEAR HERE]
 
 "I knew the diameter of the moon to be 2,164 miles. A quick mental calculation proved that it would take my falling body about 24 minutes to reach the center of the moon. As there was nothing to stop my fall. I must naturally continue to fall, due to the tremendous momentum acquired, till my body would *almost* emerge at the opposite side of the moon at the mouth of the other crater.  At this point my speed would be zero and I would have fallen for 48 minutes. If I could not manage then to grasp a projecting rock, I would commence to fall back again toward the center of the moon. I reasoned that once more my momentum would carry me past the center and I would then be almost carried to the mouth of the opposite crater---my original starting point.
 
@@ -67,7 +67,7 @@ It was Münchhausen. But his usual sonorous voice to-night had an unfamiliar met
 
 "But in the meanwhile my troubles were far from being terminated. No sooner had I regained my breath than I became conscious of the terrible cold; for I was now but a few feet from the surface of the moon, but on that side which was turned away from the sun, where nothing but icy cold, darkness and desolation reign. Aside from this, I was some 2,160 miles away from Flitternix, my companion, and our 'Interstellar.' Walking around half of the moon was out of the question; neither could I stay where I was without freezing to death. So I climbed up to the surface of the moon with considerable effort. Then by the aid of the starlight I ran rapidly around to the western side of the crater, for I had to run in order to keep warm. After having obtained my bearings by the aid of the stellar constellations, to make sure that I was at the western side of the crater, I took a deep breath, looked down in the abyss through which the sun was shining from the other side, and dived head down into space once more.
 
-](images/munchhausen2.png)
+[INSERT FIGURE 19.3 NEAR HERE]
 
 "You see, I had reasoned that it was far better to attempt the flying journey through the moon once more than to perish with the cold on the dark side of the moon. Besides, I had experience now and having been successful once, it was natural for me to expect success again. I had nothing whatever to lose, and everything to gain.
 

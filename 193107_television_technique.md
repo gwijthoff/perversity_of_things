@@ -43,7 +43,7 @@ It will be necessary, in other words, for the television broadcasting companies 
 
     > comprising the beam projector and the photo-electric cell banks.  The former is a powerful arc lamp in a large housing, provided with an enclosing scanning disc and with three lenses of different focal lengths; the assembly being mounted on a swivel pedestal resembling the usual barber's chair base.  The operator can readily aim the flying-spot beam at the subject and, by using the proper lens, cover the desired area for a close-up, half length or long shot, without changing the relative positions of either the subject or scanner.  The scanner operates on the standard system of 60 lines, 20 pictures per second.
     
-    ](images/flying_spot.png) <!-- no figure -->
+    [INSERT FIGURE 69.1 NEAR HERE] 
     
     @replogle_jenkins_1931.
     

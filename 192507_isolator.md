@@ -21,7 +21,7 @@ The writer repeats that the greatest difficulty that the human mind has to conte
 
 If, by one stroke, we can do away with these influences, we will not only be benefitted greatly thereby, but our work would be accomplished more quickly and the results would be vastly better.
 
-](images/isolator1.png)
+[INSERT FIGURE 49.1 NEAR HERE]
 
 The writer, who has to perform, almost daily, in connection with his editorial duties, many tasks that involve considerable concentration, has found out that it is almost impossible to keep his mind on a subject for five minutes without disturbance.  For that reason, he constructed the helmet shown in the accompanying illustrations, the purpose of which is to do away with all posible interferences that prey on the mind.
 
@@ -29,13 +29,13 @@ The problem was first to do away with the outside noise.  The first helmet const
 
 In a subsequent helmet under construction, an air space is included, as per our line illustration, no wood entering into the construction at all.  This feature should give almost 90 per cent. to 95 per cent. efficiency, thereby excluding practically all sounds.
 
-](images/isolator2.png)
+[INSERT FIGURE 49.2 NEAR HERE]
 
 It will be noted that the glass windows directly in front of the eyes are black.  The construction involved the use of ordinary window glass, the outer glass being painted entirely black.  Two small white lines were scratched into the paint, as shown.  The idea of this is as follows:
 
 The writer thought that shutting out the noises was not sufficient.  The eye would still wander around, thereby distracting attention.  By having the two white lines scratched on the glass, the field through which the eye can move is comparatively small.  In illustration No. 1, it will be seen that it is almost impossible to see anything except a sheet of paper in front of the wearer.  There is, therefore, no optical distraction here.
 
-](images/isolator3.png)
+[INSERT FIGURE 49.3 NEAR HERE]
 
 It was also found that if the helmet was used alone for more than fifteen minutes at a time, the wearer would become more or less drowsy.  This is not conductive to hard thinking, and for that reason the writer introduced a small oxygen tank, attached to the helmet.  This increases the respiration and livens the subject considerably.
 

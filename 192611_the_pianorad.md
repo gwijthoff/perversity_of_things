@@ -26,7 +26,7 @@ This is the first time that a musical instrument has been constructed from radio
 
 The Pianorad was first demonstrated on Saturday, June 12, during the celebration of Station WRNY's first anniversary, when it was used to broadcast its music.
 
-](images/pianorad2.png)
+[INSERT FIGURE 57.2 NEAR HERE]
 
 ## Theory of the Instrument
 
@@ -34,7 +34,7 @@ The Pianorad has a keyboard like an ordinary piano, and there is a radio vacuum 
 
 The musical notes produced by vacuum tubes in this manner *have practically no overtones.*  For this reason the music produced by the Pianorad is of an exquisite *pureness* of tone not realized in any other musical instrument.  The quality is better than that of the flute and much purer.  The sound, however, does not resemble that of any known musical instrument, the notes are quite sharp and distinct, and the Pianorad can be readily distinguished by its music from any other musical instrument in existence.  In the Pianorad one vacuum tube for each key is connected electrically with certain coils (inductances).  Any number of notes can be played simultaneously, as on the piano or organ; unlike the piano, however, the notes can be sustained for any length of time.  On the ordinary piano you strike the key and the sound quickly dies away, in the Pianorad, the sound remains as long as the keys are depressed.
 
-](images/pianorad3.png)
+[INSERT FIGURE 57.3 NEAR HERE]
 
 ## Electric, Not Sound Waves
 
@@ -46,7 +46,7 @@ A novel idea is the connection of the Pianorad *direct* to the broadcast-station
 
 The Pianorad has as yet not entered the commercial stage.  The instrument illustrated in this article has 25 keys and therefore, 25 notes.  A full 88-note Pianorad has as yet not been constructed, but will be built in a short time.  The larger instrument could have been built at once, but it would occupy almost as much space as a piano; and as this amount of room was not then available in the studio of WRNY, for which the first Pianorad was especially constructed, the smaller instrument was built instead.
 
-](images/pianorad1.png)
+[INSERT FIGURE 57.1 NEAR HERE]
 
 The Pianorad at WRNY is usually accompanied by piano or violin or both; very pleasing combinations are produced in this manner.  At present it uses a single stage of amplification, giving volume enough, in connection with one loud-speaker, to more than fill a fair sized room.  By adding several stages of audio-frequency amplification, sufficient volume can be obtained to fill a large church or auditorium.
 
@@ -64,4 +64,4 @@ An article by Clyde J. Fitch describing the construction of the Pianorad will ap
 
     @crab_pianorad_2014.
 
-    ](images/staccatone_cover.png) <!-- no figure -->
+    [INSERT FIGURE 57.4 NEAR HERE] 

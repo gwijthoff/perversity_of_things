@@ -7,7 +7,7 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-](images/ee_191504_cover.jpg)
+[INSERT FIGURE 15.1 NEAR HERE]
 
 The idea of our cover was conceived by the writer with the intention of inspiring the electrical experimenter at large.[^col]  There is nothing fantastic about this cover, nothing impossible.  It will all be very real in a comparatively short time.  It is up to our experimenters to make it an accomplished fact.
 

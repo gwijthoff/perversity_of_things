@@ -27,4 +27,4 @@ I have gone to this length to preach the sermon in the hope that misguided autho
 
     Campbell would of course soon become famous as the editor of *Astounding Science Fiction* from 1937-1971, playing a decisive role in the development of the genre throughout the twentieth century.  Here, Gernsback takes the opportunity to remind his readers (and potential contributors) of the empirical plausibility and educational aims of scientifiction as he first formulated it.  Though Campbell himself would later demand the same sort of empirical rigor from his authors, this is evidently not what he was after in this story of space piracy and a hero from Jupiter with the strength of ten men.  Commenting on Gernsback's tone here, Gary Westfahl writes, "Clearly, Gernsback was imposing his own didactic message on a story with no satiric intent, but no doubt thought this was the gentlest way to inform Campbell and his colleagues that their colorful adventure stories were not the sort of science fiction he admired." @westfahl_mightiest_2015, 23.
 
-    ](images/campbell_space_rays.jpg) <!-- no figure -->
+    [INSERT FIGURE 71.1 NEAR HERE] 

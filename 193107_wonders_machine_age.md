@@ -129,7 +129,7 @@ I am, however, of the firm opinion that, as the past 150 years have shown, becau
 
     Meanwhile, a Russian scientist named Anton Kalmikoff creates a massive computer that can predict the future given a range of political, economic, and social variables, and runs simulations on all possible forms of government.  It's a Depression-era story in which scientists battle politicians for control of the country, but one that nevertheless weighs the comparative benefits of different political systems.
     
-    ](images/ws_193303_cover_technocrat.jpg) <!-- no figure -->
+    [INSERT FIGURE 70.1 NEAR HERE] 
 
 [^lddt]:  Years later, after the devastation of a second world war, Luddism became a much more viable position for works science fiction to take, argues Thomas Pynchon in an essay that refers to the genre not just as "a nearly ideal synthesis of the Two Cultures" but also "one of the principal refuges, in our time, for those of Luddite persuasion."
     

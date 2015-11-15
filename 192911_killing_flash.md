@@ -7,7 +7,7 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-](images/killing_flash.png)
+[INSERT FIGURE 66.1 NEAR HERE]
 
 # March 1.
 

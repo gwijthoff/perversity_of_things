@@ -73,11 +73,11 @@ But to make the point clear, if we *do* get messages, they probably will not all
     
     @nieman_what_1920
     
-    ](images/mars_msg1.png) <!-- no figure -->
+    [INSERT FIGURE 34.1 NEAR HERE] 
     
-    ](images/mars_msg2.png) <!-- no figure -->
+    [INSERT FIGURE 34.2 NEAR HERE] 
     
-    ](images/mars_msg3.png) <!-- no figure -->
+    [INSERT FIGURE 34.3 NEAR HERE] 
     
     Recourse to Native American weaving techniques in understanding new media technologies was later made in the context of integrated circuits. Lisa Nakamura discusses how the Fairchild Semiconductor built a factory on a Navajo reservation in 1965, purportedly for the community's "manual dexterity, and affective investment in native material craft."  See @nakamura_indigenous_2014.
     

@@ -35,7 +35,7 @@ The Editor, in behalf of the Wireless Association of America, wishes to thank al
 
 * * * * * * * * * * * 
 
-](images/not_a_pipe_me191005.png)
+[INSERT FIGURE 6.2 NEAR HERE]
 
 # Tuned Wireless Telegraphy
 
@@ -43,7 +43,7 @@ At the recent exhibition of the Physical Society in London, the Marconi Wireless
 
 […]
 
-](images/marconi_tuned.png)
+[INSERT FIGURE 6.1 NEAR HERE]
 
 * * * * * * * * * * * * 
 

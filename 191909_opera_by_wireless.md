@@ -7,7 +7,7 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-](images/opera_by_wireless.jpg)
+[INSERT FIGURE 31.1 NEAR HERE]
 
 A recent newspaper report from Chicago brought the not at all surprising news that grand opera music had been transmitted by wireless telephone for over one hundred miles. Sensitive microphones placed on the stage of the opera house caught the sound waves; the impulses then being stepped up in the usual manner by means of a transformer were led into an amplifying vacuum tube. Here the current was impressed upon the radio telephone transmitter in successive stages and then sent out over the aerial on top of the opera house. Wireless amateurs all about the surrounding country were thus able for the first time to hear grand opera. While this was only an experiment, grand opera by wireless will soon be an accomplished fact.
 

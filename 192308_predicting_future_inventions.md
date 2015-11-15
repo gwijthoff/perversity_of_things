@@ -43,7 +43,7 @@ When some of our greatest scientific authorities, as late as twenty years ago, p
     
     @moskowitz_explorers_1963, p. 236.
 
-    ](images/scientifiction_number.jpg) <!-- no figure -->
+    [INSERT FIGURE 44.1 NEAR HERE] 
     
 [^ivt]:  Invention as a form of prophecy became a favorite topic of Gernsback's *Science and Invention* editorials during this period.  Distinguishing between the discovery and the invention of a new technical object in "The Mentality of Inventors," for instance, he writes:
 

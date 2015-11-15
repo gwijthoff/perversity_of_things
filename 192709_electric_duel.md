@@ -7,7 +7,7 @@ bibliography: _scientifiction.bib
 csl: /Users/grantwythoff/TeX/_chicago-fullnote-nobib.csl
 ---
 
-](images/electric_duel.png)
+[INSERT FIGURE 63.1 NEAR HERE]
 
 **A** NEWS item from Milan, Italy, reports the strangest duel, probably, that ever was fought between two men.  It was supposed to be a contest to the death---the first electric duel in history.  The story has it that two young Italians employed in one of Milan's great industrial electric works, became enamored of the Superintendent's daughter and fought many fistic battles over the titian haired, comely young woman, reported to be one of the belles of Milan.  She could not make up her mind whether she would be the future Mrs. Alessandro Fabiano or Mrs. Benedetto Luigi.
 
