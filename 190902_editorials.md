@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Editorials
+title: [Editorials]
 author: Modern Electrics, vol. 1 no. 11
 date: February 1909
 bibliography: _scientifiction.bib
