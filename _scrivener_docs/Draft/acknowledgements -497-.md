@@ -1,6 +1,6 @@
 For Sara, who…
 
-For those, without whom:  [lifting from Delany thanks in Jewel-Hinged]
+For those, without whom:  
 
 Mike Ashley
 
@@ -13,6 +13,8 @@ Eduardo Cadava
 Anne Cheng
 
 Eric Drown
+
+Michael Duffy
 
 Kristin Gallerneaux
 
@@ -55,3 +57,5 @@ My colleagues in the Columbia Society of Fellows
 Susan Lehre and the Barr-Ferree
 
 Doug Armato, Erin Warholm-Wohlenhaus
+
+certain elements of your text appeared in an earlier form in the 2014: VOL. 8 NO. 2 FUTURE MEDIA edition of Wi: Journal of Mobile Media.

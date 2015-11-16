@@ -14,13 +14,13 @@ Amateur Radio Restored
 
 An American Jules Verne
 
-Appendix: The Evolution of Modern Science Fiction
-
 Are We Intelligent?
 
 Edison and Radio
 
 Editorially Speaking
+
+[Editorials]
 
 Fiction Versus Facts
 
@@ -61,8 +61,6 @@ Predicting Future Inventions [Scientifiction Number]
 Radio Broadcasting
 
 Radio Enters a New Phase
-
-Radio News’s New Policy
 
 Ralph, part 3
 
@@ -139,7 +137,5 @@ Wired Versus Space Radio
 Wireless and the Amateur: A Retrospect
 
 Wireless Association of America
-
-Wireless on Mars (with all editorials)
 
 Wonders of the Machine Age
