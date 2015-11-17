@@ -1,6 +1,6 @@
 ---
 layout: post
-title: \[The Alexander Wireless Bill\]
+title: The Alexander Wireless Bill
 author: Modern Electrics, vol. 4 no. 11
 date: February 1912
 bibliography: _scientifiction.bib

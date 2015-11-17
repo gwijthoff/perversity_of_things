@@ -265,7 +265,7 @@ We believe that we have made everything as plain as possible and that by reading
 
 [^ee]: Published in the wake of the 1912 Radio Act and the growing popularity of wireless homebrew, this two-part editorial served as a primer for newcomers to the art, covering everything from the barest necessary equipment, code, and the secrecy of messages.  It was printed the following year as a standalone pamphlet.
     
-    [INSERT FIGURE treatise_pamplet_jim.png)  
+    [INSERT FIGURE 16.7 NEAR HERE]  
 
     "A Treatise on Wireless" appeared in the first issue of *Electrical Experimenter,* Gernsback's new venture after the sale of *Modern Electrics* to Orland Ridenour, the Business Manager of Modern Publishing Company.  Ridenour merged *Modern Electrics* with another publication to become *Modern Electrics and Mechanics,* which lasted for two years until it was acquired by *Popular Science Monthly* in April 1915, a magazine that still runs today.  See @ashley_gernsback_2004, 31.
 

@@ -107,7 +107,9 @@ And still some people wish to keep the student in the dark, to refrain him from 
 
     > My plan of communication would necessitate the use of a series of mirrors so arranged as to present a single reflecting surface toward the planet.  Of course one mirror would do as well, but as the area necessary for reflecting the sunlight over 40,000,000 miles would have to be more than a quarter of a mile of glass a single mirror would not be practicable.  We would have to use a number of mirros.
     
-    > These mirrors would all have to be attached to one great axis parallel to the axis of the earth, run by motors, and so timed as to make a complete revolution every twenty-four hours, thus carrying the reflecting surface around with the axis once a day and obviating the necessity of continually readjusting it to allow for the movement of the planets.  @times_plans_1909
+    > These mirrors would all have to be attached to one great axis parallel to the axis of the earth, run by motors, and so timed as to make a complete revolution every twenty-four hours, thus carrying the reflecting surface around with the axis once a day and obviating the necessity of continually readjusting it to allow for the movement of the planets.  
+    
+    @_plans_1909.
     
     Signaling to Mars didn't mean that Pickering believed there to be life on Mars.  A few months later, *Popular Mechanics* magazine noted that Pickering
     

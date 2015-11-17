@@ -133,7 +133,9 @@ No patents were taken out on this invention by the writer, as he considers the d
 
     According to a New Zealand newspaper, the Belgian government was entirely financing Ruhmer's experiments.  The working version prepared for the Exhibition transmitted geometric patterns from Liege, 75 miles away.  It contained 25 pixels which each cost about 15 New Zealand pounds.  Ruhmer explained to the reporter that an apparatus of at least 4,000 cells would be required "to reproduce the head and shoulders of a person" and would thus cost £60,000, while "a scene or an event requiring the background of a landscape" would require 10,000 cells and £150,000.  Ruhmer, 31 at the time, describes the possibilities of this future, sufficiently powerful apparatus as a public utility placed in major cities for shared use, since its expense would be prohibitive for individual families:
     
-    > A father, remote from the scene, might be enabled to see a new-born child. A death-bed scene, a last look at some dying dear one, would even be within the range of possibilities. And I can think of no scientifically insurmountable reason why the Admiralty in Berlin, let us say, might not be able to watch the German Armada at battle in the North Sea, or be in 'eye communication' with the crews, of military airships. It would all be, as I have pointed oat, a question of money that is, a sufficiently powerful apparatus.  @_seeing_1910.
+    > A father, remote from the scene, might be enabled to see a new-born child. A death-bed scene, a last look at some dying dear one, would even be within the range of possibilities. And I can think of no scientifically insurmountable reason why the Admiralty in Berlin, let us say, might not be able to watch the German Armada at battle in the North Sea, or be in 'eye communication' with the crews, of military airships. It would all be, as I have pointed oat, a question of money that is, a sufficiently powerful apparatus.  
+    
+    @_seeing_1910.
 
 [^sur]: Dada artist Raoul Hausmann, in a letter to the art historian Yves Poupard-Lieussou, mentions that a 1901 book by Ruhmer on electro-acoustic phenomena was influential to his experiments with phonetic poetry using the magnetophone in the 1910s. @hausmann__1959
 
@@ -147,8 +149,6 @@ No patents were taken out on this invention by the writer, as he considers the d
     
     @gernsback_television_1918.
     
-    Just five years earlier, Gernsback had patented a "luminous electric mirror" whose design mimicked that of his speculative prototypes for the telephot.
-    
-    @gernsback_luminous_1913.
+    Just five years earlier, Gernsback had patented a "luminous electric mirror" whose design mimicked that of his speculative prototypes for the telephot.  @gernsback_luminous_1913.
     
     [INSERT FIGURE 8.2 NEAR HERE] 

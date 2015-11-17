@@ -1,6 +1,6 @@
 ---
 layout: post
-title: \[The Born and the Mechanical Inventor\]
+title: The Born and the Mechanical Inventor
 author: Modern Electrics, vol. 3 no. 11
 date: February 1911
 bibliography: _scientifiction.bib
