@@ -8,6 +8,8 @@ Be prepared for Gernsback to repeat himself, favorite examples he always has in 
 
 * * * * * * * * * * * * 
 
+Titles are in bold, indicating an article that is included in this collection.
+
 This book as a whole, and Gernsback's life work, is one big science fictional world. Interleaving devices and projections and stories. I need to thread them together smoothly, as a story.
 
 There's a consistency among all the devices listed in Gernsback's stories and articles, as if this entire collection of writings is part of the same worldbuilding fabric, a single narrative universe he sought to create out of his electrical parts catalogue
