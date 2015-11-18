@@ -14,7 +14,7 @@ Anne Cheng
 
 Eric Drown
 
-Michael Duffy
+Eileen Gillooly
 
 Kristin Gallerneaux
 
@@ -27,8 +27,6 @@ Eugenia Lean
 Mara Mills
 
 Paul Israel
-
-Jeffrey Kirkwood
 
 Paul Lesch
 
@@ -57,5 +55,17 @@ My colleagues in the Columbia Society of Fellows
 Susan Lehre and the Barr-Ferree
 
 Doug Armato, Erin Warholm-Wohlenhaus
+
+Sand Avidar-Walzer
+
+Ben Breen
+
+Michael Duffy
+
+Jeffrey Kirkwood
+
+Hannes Mandel
+
+Rebecca Woods
 
 certain elements of your text appeared in an earlier form in the 2014: VOL. 8 NO. 2 FUTURE MEDIA edition of Wi: Journal of Mobile Media.
