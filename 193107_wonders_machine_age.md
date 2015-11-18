@@ -135,4 +135,4 @@ I am, however, of the firm opinion that, as the past 150 years have shown, becau
     
     > Modern Luddite imaginations have yet to come up with any countercritter Bad and Big enough, even in the most irresponsible of fictions, to begin to compare with what would happen in a nuclear war. So, in the science fiction of the Atomic Age and the cold war, we see the Luddite impulse to deny the machine taking a different direction. The hardware angle got de-emphasized in favor of more humanistic concerns---exotic cultural evolutions and social scenarios, paradoxes and games with space/time, wild philosophical questions---most of it sharing, as the critical literature has amply discussed, a definition of "human" as particularly distinguished from "machine." Like their earlier counterparts, 20th-century Luddites looked back yearningly to another age---curiously, the same Age of Reason which had forced the first Luddites into nostalgia for the Age of Miracles.
     
-    @pynchon_is_1984
+    @pynchon_is_1984.

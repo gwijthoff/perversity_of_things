@@ -218,6 +218,6 @@ So fellows, let's band together and fight for our rights as one.
 
 [^inv]: Unfortunately, it seemed no such organization was ever formed.  In the first half of the twentieth century, Eric Hintz writes,
 
-    > "Independent inventors struggled to form durable professional groups.  This rendered them politically impotent and unable to push through certain legislative reforms.  Also, without a flagship organization to speak on behalf of the profession, independent inventors were at a disadvantage in their rhetorical battles with industrial researchers, who characterized them as unsophisticated and obsolete."
+    > Independent inventors struggled to form durable professional groups.  This rendered them politically impotent and unable to push through certain legislative reforms.  Also, without a flagship organization to speak on behalf of the profession, independent inventors were at a disadvantage in their rhetorical battles with industrial researchers, who characterized them as unsophisticated and obsolete.
     
     @hintz_post-heroic_2011, 745.

@@ -13,7 +13,7 @@ Generally speaking, there are two kinds of inventing.  One is achieved by the ma
 
 The born inventor differs from the mechanical one in that to him ideas come suddenly, without the slightest suggestion.  The writer, for instance, who has invented a number of devices will suddenly have a certain idea, of which he perhaps never thought before.  Within less than ten seconds after the first impression of the idea, he will see the entire device, down to the smallest detail clearly before his mental eye and from that mental picture a complicated sketch of the device can be drawn immediately without reflection or real thinking; just like copying an existing drawing.[^soc]
 
-Considered all in all, the two kinds of inventors, as far as their inventions go are nearly equally matched.  The born inventor will usually invent a great many things, three fourths of which are useless: he becomes guilty of over-production.  The mechanical inventor invents very few things as a rule and most of them are usually useful.  Thus nature tries to maintain the universal equilibrium.
+Considered all in all, the two kinds of inventors, as far as their inventions go are nearly equally matched.  The born inventor will usually invent a great many things, three fourths of which are useless: he becomes guilty of over-production.  The mechanical inventor invents very few things as a rule and most of them are usually useful.  Thus nature tries to maintain the universal equilibrium.[^tin]
 
 A few words of advice to the two kinds of inventors does not seem out of place.
 
@@ -42,3 +42,7 @@ Never market an invention before it is completely worked out and "fool-proof."  
 [^ant]:  This is perhaps a reference to Lee De Forest, who incorporated the oscillating arc transmitter first designed by Valdemar Poulsen into his early system for transmitting and receiving the voice with his Audion tube.  After a falling out with Abraham White (infamous founder of the fraudulent United Wireless Telegraph Company), De Forest formed the Radio Telephone Company in 1907 around this new system.  De Forest would later become a frequent contributor to the Gernsback publications.  @douglas_inventing_1987, p. 171-2.  @regal_radio:_2005, p. 35.
 
     [INSERT FIGURE 11.1 NEAR HERE]  
+    
+[^tin]:  In cultural studies of media and technology today, we might think of these two styles of invention as Gernsback formulates them---the whole cloth innovation of shiny new tools versus incremental acts of modification and repair---as reflections of a hemispheric divide.  Steven J. Jackson argues that "a Western and productivist imagination" biases much of media studies today, obscuring the vast majority of technological practices in the developing world:  "breakdown, maintenance, and repair constitute crucial but vastly understudied sites or moments within the worlds of new media and technology today."  
+
+    For more on "the distinctive repair ecologies of the developing world," see @jackson_rethinking_2014.
